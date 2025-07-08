@@ -1,9 +1,9 @@
-# .github/workflows/scheduler.yml
 name: Trakt Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # every day at 12AM UTC
+  workflow_dispatch:
 
 jobs:
   build:
