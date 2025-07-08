@@ -1,78 +1,18 @@
 [
   {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420"
+    "id": "tt10919420",
+    "type": "series",
+    "name": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/some_background.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games."
   },
   {
-    "title": "Ironheart",
-    "imdb_id": "tt13623126"
-  },
-  {
-    "title": "Dan Da Dan",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "title": "The Sandman",
-    "imdb_id": "tt1751634"
-  },
-  {
-    "title": "My Dress-Up Darling",
-    "imdb_id": "tt15765670"
-  },
-  {
-    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-    "imdb_id": "tt8993398"
-  },
-  {
-    "title": "The Bear",
-    "imdb_id": "tt14452776"
-  },
-  {
-    "title": "Kaiju No. 8",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "title": "Flourished Peony",
-    "imdb_id": "tt29931668"
-  },
-  {
-    "title": "Murderbot",
-    "imdb_id": "tt30444310"
-  },
-  {
-    "title": "Grand Blue Dreaming",
-    "imdb_id": "tt8086718"
-  },
-  {
-    "title": "Rick and Morty",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "title": "Bleach",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "title": "Call of the Night",
-    "imdb_id": "tt15975122"
-  },
-  {
-    "title": "One Piece",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "imdb_id": "tt36592690"
-  },
-  {
-    "title": "The Apothecary Diaries",
-    "imdb_id": "tt26743760"
-  },
-  {
-    "title": "Countdown",
-    "imdb_id": "tt32559610"
-  },
-  {
-    "title": "In the Name of Justice",
-    "imdb_id": "tt31565382"
+    "id": "tt4154796",
+    "type": "movie",
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
   }
 ]

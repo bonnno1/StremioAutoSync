@@ -1,0 +1,186 @@
+{
+  "id": "org.stremio.masteraddon",
+  "name": "Stremio Super Catalog",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "netflix",
+      "name": "Netflix Series"
+    },
+    {
+      "type": "movie",
+      "id": "netflix",
+      "name": "Netflix Movies"
+    },
+    {
+      "type": "series",
+      "id": "disney",
+      "name": "Disney Series"
+    },
+    {
+      "type": "movie",
+      "id": "disney",
+      "name": "Disney Movies"
+    },
+    {
+      "type": "series",
+      "id": "stan",
+      "name": "Stan Series"
+    },
+    {
+      "type": "movie",
+      "id": "stan",
+      "name": "Stan Movies"
+    },
+    {
+      "type": "series",
+      "id": "prime",
+      "name": "Prime Series"
+    },
+    {
+      "type": "movie",
+      "id": "prime",
+      "name": "Prime Movies"
+    },
+    {
+      "type": "series",
+      "id": "apple",
+      "name": "Apple Series"
+    },
+    {
+      "type": "movie",
+      "id": "apple",
+      "name": "Apple Movies"
+    },
+    {
+      "type": "series",
+      "id": "trending",
+      "name": "Trending Series"
+    },
+    {
+      "type": "movie",
+      "id": "trending",
+      "name": "Trending Movies"
+    },
+    {
+      "type": "series",
+      "id": "cinema",
+      "name": "Cinema Series"
+    },
+    {
+      "type": "movie",
+      "id": "cinema",
+      "name": "Cinema Movies"
+    },
+    {
+      "type": "series",
+      "id": "popular",
+      "name": "Popular Series"
+    },
+    {
+      "type": "movie",
+      "id": "popular",
+      "name": "Popular Movies"
+    },
+    {
+      "type": "series",
+      "id": "new",
+      "name": "New Series"
+    },
+    {
+      "type": "movie",
+      "id": "new",
+      "name": "New Movies"
+    },
+    {
+      "type": "series",
+      "id": "action",
+      "name": "Action Series"
+    },
+    {
+      "type": "movie",
+      "id": "action",
+      "name": "Action Movies"
+    },
+    {
+      "type": "series",
+      "id": "comedy",
+      "name": "Comedy Series"
+    },
+    {
+      "type": "movie",
+      "id": "comedy",
+      "name": "Comedy Movies"
+    },
+    {
+      "type": "series",
+      "id": "family",
+      "name": "Family Series"
+    },
+    {
+      "type": "movie",
+      "id": "family",
+      "name": "Family Movies"
+    },
+    {
+      "type": "series",
+      "id": "horror",
+      "name": "Horror Series"
+    },
+    {
+      "type": "movie",
+      "id": "horror",
+      "name": "Horror Movies"
+    },
+    {
+      "type": "series",
+      "id": "kids",
+      "name": "Kids Series"
+    },
+    {
+      "type": "movie",
+      "id": "kids",
+      "name": "Kids Movies"
+    },
+    {
+      "type": "series",
+      "id": "thriller",
+      "name": "Thriller Series"
+    },
+    {
+      "type": "movie",
+      "id": "thriller",
+      "name": "Thriller Movies"
+    },
+    {
+      "type": "series",
+      "id": "adventure",
+      "name": "Adventure Series"
+    },
+    {
+      "type": "movie",
+      "id": "adventure",
+      "name": "Adventure Movies"
+    },
+    {
+      "type": "series",
+      "id": "romance",
+      "name": "Romance Series"
+    },
+    {
+      "type": "movie",
+      "id": "romance",
+      "name": "Romance Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}

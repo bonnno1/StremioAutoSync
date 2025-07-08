@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.trending",
-  "name": "Top Trending",
-  "description": "Auto-updating Top Trending catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "trending",
-    "name": "Top Trending"
-  }],
-  "idPrefixes": ["tt"]
+  "name": "Trending",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "trending",
+      "name": "Trending Series"
+    },
+    {
+      "type": "movie",
+      "id": "trending",
+      "name": "Trending Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

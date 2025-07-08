@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.romance",
   "name": "Romance",
-  "description": "Auto-updating Romance catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "romance",
-    "name": "Romance"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "romance",
+      "name": "Romance Series"
+    },
+    {
+      "type": "movie",
+      "id": "romance",
+      "name": "Romance Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }
