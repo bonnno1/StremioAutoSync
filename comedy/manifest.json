@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.comedy",
   "name": "Comedy",
-  "description": "Auto-updating Comedy catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "comedy",
-    "name": "Comedy"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "comedy",
+      "name": "Comedy Series"
+    },
+    {
+      "type": "movie",
+      "id": "comedy",
+      "name": "Comedy Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

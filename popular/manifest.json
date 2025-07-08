@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.popular",
-  "name": "Most Popular",
-  "description": "Auto-updating Most Popular catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "popular",
-    "name": "Most Popular"
-  }],
-  "idPrefixes": ["tt"]
+  "name": "Popular",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "popular",
+      "name": "Popular Series"
+    },
+    {
+      "type": "movie",
+      "id": "popular",
+      "name": "Popular Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

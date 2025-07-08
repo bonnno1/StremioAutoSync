@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.family",
   "name": "Family",
-  "description": "Auto-updating Family catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "family",
-    "name": "Family"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "family",
+      "name": "Family Series"
+    },
+    {
+      "type": "movie",
+      "id": "family",
+      "name": "Family Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.disney",
-  "name": "Disney+ AU",
-  "description": "Auto-updating Disney+ AU catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "disney",
-    "name": "Disney+ AU"
-  }],
-  "idPrefixes": ["tt"]
+  "name": "Disney",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "disney",
+      "name": "Disney Series"
+    },
+    {
+      "type": "movie",
+      "id": "disney",
+      "name": "Disney Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

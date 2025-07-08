@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.new",
-  "name": "New Releases",
-  "description": "Auto-updating New Releases catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "new",
-    "name": "New Releases"
-  }],
-  "idPrefixes": ["tt"]
+  "name": "New",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "new",
+      "name": "New Series"
+    },
+    {
+      "type": "movie",
+      "id": "new",
+      "name": "New Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

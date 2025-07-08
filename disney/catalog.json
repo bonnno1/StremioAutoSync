@@ -1,82 +1,18 @@
 [
   {
-    "title": "Ironheart",
-    "imdb_id": "tt13623126"
+    "id": "tt10919420",
+    "type": "series",
+    "name": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/some_background.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games."
   },
   {
-    "title": "Andor",
-    "imdb_id": "tt9253284"
-  },
-  {
-    "title": "Loki",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "title": "Star Wars: The Clone Wars",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "title": "Star Wars: The Bad Batch",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "title": "Star Wars: Visions",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "title": "Dancing with the Stars",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "title": "Daredevil: Born Again",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "title": "The Mandalorian",
-    "imdb_id": "tt8111088"
-  },
-  {
-    "title": "Marvel Studios Legends",
-    "imdb_id": "tt13650480"
-  },
-  {
-    "title": "What If...?",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "title": "The Falcon and the Winter Soldier",
-    "imdb_id": "tt9208876"
-  },
-  {
-    "title": "Obi-Wan Kenobi",
-    "imdb_id": "tt8466564"
-  },
-  {
-    "title": "Moon Knight",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "title": "Secret Invasion",
-    "imdb_id": "tt13157618"
-  },
-  {
-    "title": "WandaVision",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "title": "Soy Luna",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "title": "The Mighty Ducks: Game Changers",
-    "imdb_id": "tt7939768"
-  },
-  {
-    "title": "The Book of Boba Fett",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "title": "LIGHT & MAGIC",
-    "imdb_id": "tt19896784"
+    "id": "tt4154796",
+    "type": "movie",
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
   }
 ]

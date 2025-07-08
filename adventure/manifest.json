@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.adventure",
   "name": "Adventure",
-  "description": "Auto-updating Adventure catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "adventure",
-    "name": "Adventure"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "adventure",
+      "name": "Adventure Series"
+    },
+    {
+      "type": "movie",
+      "id": "adventure",
+      "name": "Adventure Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

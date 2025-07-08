@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.stan",
-  "name": "Stan AU",
-  "description": "Auto-updating Stan AU catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "stan",
-    "name": "Stan AU"
-  }],
-  "idPrefixes": ["tt"]
+  "name": "Stan",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "stan",
+      "name": "Stan Series"
+    },
+    {
+      "type": "movie",
+      "id": "stan",
+      "name": "Stan Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

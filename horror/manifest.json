@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.horror",
   "name": "Horror",
-  "description": "Auto-updating Horror catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "horror",
-    "name": "Horror"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "horror",
+      "name": "Horror Series"
+    },
+    {
+      "type": "movie",
+      "id": "horror",
+      "name": "Horror Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

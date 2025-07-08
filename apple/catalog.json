@@ -1,82 +1,18 @@
 [
   {
-    "title": "Murderbot",
-    "imdb_id": "tt30444310"
+    "id": "tt10919420",
+    "type": "series",
+    "name": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/some_background.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games."
   },
   {
-    "title": "Smoke",
-    "imdb_id": "tt24163532"
-  },
-  {
-    "title": "Severance",
-    "imdb_id": "tt11280740"
-  },
-  {
-    "title": "Silo",
-    "imdb_id": "tt14688458"
-  },
-  {
-    "title": "See",
-    "imdb_id": "tt7949218"
-  },
-  {
-    "title": "For All Mankind",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "title": "Ted Lasso",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "title": "Snoopy in Space",
-    "imdb_id": "tt10659366"
-  },
-  {
-    "title": "Foundation",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "title": "Slow Horses",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "title": "Stick",
-    "imdb_id": "tt31710249"
-  },
-  {
-    "title": "The Buccaneers",
-    "imdb_id": "tt21108774"
-  },
-  {
-    "title": "Shrinking",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "title": "Mythic Quest",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "title": "Servant",
-    "imdb_id": "tt8068860"
-  },
-  {
-    "title": "Masters of the Air",
-    "imdb_id": "tt2640044"
-  },
-  {
-    "title": "Invasion",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "title": "The Studio",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "title": "Your Friends & Neighbors",
-    "imdb_id": "tt30459041"
-  },
-  {
-    "title": "Monarch: Legacy of Monsters",
-    "imdb_id": "tt17220216"
+    "id": "tt4154796",
+    "type": "movie",
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
   }
 ]

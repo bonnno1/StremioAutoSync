@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.apple",
-  "name": "Apple TV+ AU",
-  "description": "Auto-updating Apple TV+ AU catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "apple",
-    "name": "Apple TV+ AU"
-  }],
-  "idPrefixes": ["tt"]
+  "name": "Apple",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "apple",
+      "name": "Apple Series"
+    },
+    {
+      "type": "movie",
+      "id": "apple",
+      "name": "Apple Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

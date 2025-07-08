@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.thriller",
   "name": "Thriller",
-  "description": "Auto-updating Thriller catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "thriller",
-    "name": "Thriller"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "thriller",
+      "name": "Thriller Series"
+    },
+    {
+      "type": "movie",
+      "id": "thriller",
+      "name": "Thriller Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

@@ -1,82 +1,18 @@
 [
   {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420"
+    "id": "tt10919420",
+    "type": "series",
+    "name": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/some_background.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games."
   },
   {
-    "title": "Sesame Street",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "title": "Raw",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "title": "Arrested Development",
-    "imdb_id": "tt0367279"
-  },
-  {
-    "title": "All Hail King Julien",
-    "imdb_id": "tt3807022"
-  },
-  {
-    "title": "The Sandman",
-    "imdb_id": "tt1751634"
-  },
-  {
-    "title": "Grace and Frankie",
-    "imdb_id": "tt3609352"
-  },
-  {
-    "title": "Lucifer",
-    "imdb_id": "tt4052886"
-  },
-  {
-    "title": "The Umbrella Academy",
-    "imdb_id": "tt1312171"
-  },
-  {
-    "title": "Narcos: Mexico",
-    "imdb_id": "tt8714904"
-  },
-  {
-    "title": "Stranger Things",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "title": "Squid Game: The Challenge",
-    "imdb_id": "tt28104766"
-  },
-  {
-    "title": "Black Mirror",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "title": "Ada Twist, Scientist",
-    "imdb_id": "tt13241650"
-  },
-  {
-    "title": "Virgin River",
-    "imdb_id": "tt9077530"
-  },
-  {
-    "title": "Emily in Paris",
-    "imdb_id": "tt8962124"
-  },
-  {
-    "title": "Love, Death & Robots",
-    "imdb_id": "tt9561862"
-  },
-  {
-    "title": "Home: Adventures with Tip & Oh",
-    "imdb_id": "tt5759196"
-  },
-  {
-    "title": "Sex Education",
-    "imdb_id": "tt7767422"
-  },
-  {
-    "title": "Olympo",
-    "imdb_id": "tt33029688"
+    "id": "tt4154796",
+    "type": "movie",
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
   }
 ]

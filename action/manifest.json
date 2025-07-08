@@ -1,14 +1,26 @@
 {
   "id": "org.stremio.action",
   "name": "Action",
-  "description": "Auto-updating Action catalog from TMDb",
-  "version": "1.0.0",
-  "resources": ["catalog"],
-  "types": ["series"],
-  "catalogs": [{
-    "type": "series",
-    "id": "action",
-    "name": "Action"
-  }],
-  "idPrefixes": ["tt"]
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series",
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "action",
+      "name": "Action Series"
+    },
+    {
+      "type": "movie",
+      "id": "action",
+      "name": "Action Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
 }

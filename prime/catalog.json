@@ -1,82 +1,18 @@
 [
   {
-    "title": "Vikings",
-    "imdb_id": "tt2306299"
+    "id": "tt10919420",
+    "type": "series",
+    "name": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/some_background.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games."
   },
   {
-    "title": "Dirty Linen",
-    "imdb_id": "tt24013752"
-  },
-  {
-    "title": "The Boys",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "title": "Mozart in the Jungle",
-    "imdb_id": "tt3502172"
-  },
-  {
-    "title": "Countdown",
-    "imdb_id": "tt32559610"
-  },
-  {
-    "title": "Neighbours",
-    "imdb_id": "tt0088580"
-  },
-  {
-    "title": "Reacher",
-    "imdb_id": "tt9288030"
-  },
-  {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "title": "Bosch",
-    "imdb_id": "tt3502248"
-  },
-  {
-    "title": "The Grand Tour",
-    "imdb_id": "tt5712554"
-  },
-  {
-    "title": "INVINCIBLE",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "title": "Mentiras, The Series",
-    "imdb_id": "tt31690920"
-  },
-  {
-    "title": "The Summer I Turned Pretty",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "title": "Carnival Row",
-    "imdb_id": "tt0489974"
-  },
-  {
-    "title": "The Wheel of Time",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "title": "The Expanse",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "title": "We Were Liars",
-    "imdb_id": "tt3914054"
-  },
-  {
-    "title": "The Chosen",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "title": "Fallout",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "title": "The Legend of Vox Machina",
-    "imdb_id": "tt11247158"
+    "id": "tt4154796",
+    "type": "movie",
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
   }
 ]

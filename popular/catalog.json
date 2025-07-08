@@ -1,82 +1,18 @@
 [
   {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420"
+    "id": "tt10919420",
+    "type": "series",
+    "name": "Squid Game",
+    "poster": "https://image.tmdb.org/t/p/w500/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/some_background.jpg",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games."
   },
   {
-    "title": "Among Friends",
-    "imdb_id": "tt0175383"
-  },
-  {
-    "title": "Late Show with David Letterman",
-    "imdb_id": "tt0106053"
-  },
-  {
-    "title": "The Late Late Show with Craig Ferguson",
-    "imdb_id": "tt0437729"
-  },
-  {
-    "title": "Conan",
-    "imdb_id": "tt1637574"
-  },
-  {
-    "title": "The Daily Show",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "title": "Ici tout commence",
-    "imdb_id": "tt13392064"
-  },
-  {
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "title": "Real Time with Bill Maher",
-    "imdb_id": "tt0350448"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "title": "The Late Late Show with James Corden",
-    "imdb_id": "tt4280606"
-  },
-  {
-    "title": "Good Mythical Morning",
-    "imdb_id": "tt4087032"
-  },
-  {
-    "title": "Radio Star",
-    "imdb_id": "tt6283624"
-  },
-  {
-    "title": "Doraemon",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "title": "The Late Show with Stephen Colbert",
-    "imdb_id": "tt3697842"
-  },
-  {
-    "title": "This Old House",
-    "imdb_id": "tt0078701"
-  },
-  {
-    "title": "Egoli: Place of Gold",
-    "imdb_id": "tt0128176"
-  },
-  {
-    "title": "Teen Titans Go!",
-    "imdb_id": "tt2771780"
+    "id": "tt4154796",
+    "type": "movie",
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "background": "https://image.tmdb.org/t/p/w780/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe."
   }
 ]
