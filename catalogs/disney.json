@@ -1,82 +1,102 @@
 [
   {
-    "title": "Ironheart",
+    "name": "Ironheart",
+    "type": "series",
     "imdb_id": "tt13623126"
   },
   {
-    "title": "Andor",
+    "name": "Andor",
+    "type": "series",
     "imdb_id": "tt9253284"
   },
   {
-    "title": "Loki",
+    "name": "Loki",
+    "type": "series",
     "imdb_id": "tt9140554"
   },
   {
-    "title": "Star Wars: The Clone Wars",
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
     "imdb_id": "tt0458290"
   },
   {
-    "title": "Star Wars: The Bad Batch",
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "title": "Star Wars: Visions",
+    "name": "Star Wars: Visions",
+    "type": "series",
     "imdb_id": "tt13622982"
   },
   {
-    "title": "Dancing with the Stars",
+    "name": "Dancing with the Stars",
+    "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "title": "Daredevil: Born Again",
+    "name": "Daredevil: Born Again",
+    "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "title": "The Mandalorian",
+    "name": "The Mandalorian",
+    "type": "series",
     "imdb_id": "tt8111088"
   },
   {
-    "title": "Marvel Studios Legends",
+    "name": "Marvel Studios Legends",
+    "type": "series",
     "imdb_id": "tt13650480"
   },
   {
-    "title": "What If...?",
+    "name": "What If...?",
+    "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "title": "The Falcon and the Winter Soldier",
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
     "imdb_id": "tt9208876"
   },
   {
-    "title": "Obi-Wan Kenobi",
+    "name": "Obi-Wan Kenobi",
+    "type": "series",
     "imdb_id": "tt8466564"
   },
   {
-    "title": "Moon Knight",
+    "name": "Moon Knight",
+    "type": "series",
     "imdb_id": "tt10234724"
   },
   {
-    "title": "Secret Invasion",
+    "name": "Secret Invasion",
+    "type": "series",
     "imdb_id": "tt13157618"
   },
   {
-    "title": "WandaVision",
+    "name": "WandaVision",
+    "type": "series",
     "imdb_id": "tt9140560"
   },
   {
-    "title": "Soy Luna",
+    "name": "Soy Luna",
+    "type": "series",
     "imdb_id": "tt5189554"
   },
   {
-    "title": "The Mighty Ducks: Game Changers",
+    "name": "The Mighty Ducks: Game Changers",
+    "type": "series",
     "imdb_id": "tt7939768"
   },
   {
-    "title": "The Book of Boba Fett",
+    "name": "The Book of Boba Fett",
+    "type": "series",
     "imdb_id": "tt13668894"
   },
   {
-    "title": "LIGHT & MAGIC",
+    "name": "LIGHT & MAGIC",
+    "type": "series",
     "imdb_id": "tt19896784"
   }
 ]

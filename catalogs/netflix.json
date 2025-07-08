@@ -1,82 +1,102 @@
 [
   {
-    "title": "Squid Game",
+    "name": "Squid Game",
+    "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "title": "Sesame Street",
+    "name": "Sesame Street",
+    "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "title": "Raw",
+    "name": "Raw",
+    "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "title": "Arrested Development",
+    "name": "Arrested Development",
+    "type": "series",
     "imdb_id": "tt0367279"
   },
   {
-    "title": "All Hail King Julien",
+    "name": "All Hail King Julien",
+    "type": "series",
     "imdb_id": "tt3807022"
   },
   {
-    "title": "The Sandman",
+    "name": "The Sandman",
+    "type": "series",
     "imdb_id": "tt1751634"
   },
   {
-    "title": "Grace and Frankie",
+    "name": "Grace and Frankie",
+    "type": "series",
     "imdb_id": "tt3609352"
   },
   {
-    "title": "Lucifer",
+    "name": "Lucifer",
+    "type": "series",
     "imdb_id": "tt4052886"
   },
   {
-    "title": "The Umbrella Academy",
+    "name": "The Umbrella Academy",
+    "type": "series",
     "imdb_id": "tt1312171"
   },
   {
-    "title": "Narcos: Mexico",
+    "name": "Narcos: Mexico",
+    "type": "series",
     "imdb_id": "tt8714904"
   },
   {
-    "title": "Stranger Things",
+    "name": "Stranger Things",
+    "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "title": "Squid Game: The Challenge",
+    "name": "Squid Game: The Challenge",
+    "type": "series",
     "imdb_id": "tt28104766"
   },
   {
-    "title": "Black Mirror",
+    "name": "Black Mirror",
+    "type": "series",
     "imdb_id": "tt2085059"
   },
   {
-    "title": "Ada Twist, Scientist",
+    "name": "Ada Twist, Scientist",
+    "type": "series",
     "imdb_id": "tt13241650"
   },
   {
-    "title": "Virgin River",
+    "name": "Virgin River",
+    "type": "series",
     "imdb_id": "tt9077530"
   },
   {
-    "title": "Emily in Paris",
+    "name": "Emily in Paris",
+    "type": "series",
     "imdb_id": "tt8962124"
   },
   {
-    "title": "Love, Death & Robots",
+    "name": "Love, Death & Robots",
+    "type": "series",
     "imdb_id": "tt9561862"
   },
   {
-    "title": "Home: Adventures with Tip & Oh",
+    "name": "Home: Adventures with Tip & Oh",
+    "type": "series",
     "imdb_id": "tt5759196"
   },
   {
-    "title": "Sex Education",
+    "name": "Sex Education",
+    "type": "series",
     "imdb_id": "tt7767422"
   },
   {
-    "title": "Olympo",
+    "name": "Olympo",
+    "type": "series",
     "imdb_id": "tt33029688"
   }
 ]

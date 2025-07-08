@@ -1,82 +1,102 @@
 [
   {
-    "title": "Squid Game",
+    "name": "Squid Game",
+    "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "title": "Doraemon",
+    "name": "Doraemon",
+    "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "title": "Teen Titans Go!",
+    "name": "Teen Titans Go!",
+    "type": "series",
     "imdb_id": "tt2771780"
   },
   {
-    "title": "Ninja Boy Rantaro",
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "title": "Pok\u00e9mon",
+    "name": "Pokémon",
+    "type": "series",
     "imdb_id": "tt0168366"
   },
   {
-    "title": "Jake and the Never Land Pirates",
+    "name": "Jake and the Never Land Pirates",
+    "type": "series",
     "imdb_id": "tt1833403"
   },
   {
-    "title": "Ninja Hattori-kun",
+    "name": "Ninja Hattori-kun",
+    "type": "series",
     "imdb_id": "tt2787558"
   },
   {
-    "title": "NCIS: New Orleans",
+    "name": "NCIS: New Orleans",
+    "type": "series",
     "imdb_id": "tt3560084"
   },
   {
-    "title": "Rick and Morty",
+    "name": "Rick and Morty",
+    "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "title": "WWE NXT UK",
+    "name": "WWE NXT UK",
+    "type": "series",
     "imdb_id": "tt9425798"
   },
   {
-    "title": "Star Trek: Voyager",
+    "name": "Star Trek: Voyager",
+    "type": "series",
     "imdb_id": "tt0112178"
   },
   {
-    "title": "Brothers",
+    "name": "Brothers",
+    "type": "series",
     "imdb_id": "tt6155146"
   },
   {
-    "title": "The Curse of Oak Island",
+    "name": "The Curse of Oak Island",
+    "type": "series",
     "imdb_id": "tt3455408"
   },
   {
-    "title": "Big Hero 6 The Series",
+    "name": "Big Hero 6 The Series",
+    "type": "series",
     "imdb_id": "tt5515212"
   },
   {
-    "title": "Batman: The Brave and the Bold",
+    "name": "Batman: The Brave and the Bold",
+    "type": "series",
     "imdb_id": "tt1213218"
   },
   {
-    "title": "NCIS",
+    "name": "NCIS",
+    "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "title": "Warehouse 13",
+    "name": "Warehouse 13",
+    "type": "series",
     "imdb_id": "tt1132290"
   },
   {
-    "title": "Prison Break",
+    "name": "Prison Break",
+    "type": "series",
     "imdb_id": "tt0455275"
   },
   {
-    "title": "Transformers: Rescue Bots",
+    "name": "Transformers: Rescue Bots",
+    "type": "series",
     "imdb_id": "tt2139371"
   },
   {
-    "title": "Lassie",
+    "name": "Lassie",
+    "type": "series",
     "imdb_id": "tt0046617"
   }
 ]

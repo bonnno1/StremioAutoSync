@@ -1,70 +1,87 @@
 [
   {
-    "title": "Doraemon",
+    "name": "Doraemon",
+    "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "title": "Ninja Boy Rantaro",
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "title": "The Tom and Jerry Show",
+    "name": "The Tom and Jerry Show",
+    "type": "series",
     "imdb_id": "tt3559124"
   },
   {
-    "title": "Ninja Hattori-kun",
+    "name": "Ninja Hattori-kun",
+    "type": "series",
     "imdb_id": "tt2787558"
   },
   {
-    "title": "My Little Pony: Friendship Is Magic",
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
     "imdb_id": "tt1751105"
   },
   {
-    "title": "Transformers: Rescue Bots",
+    "name": "Transformers: Rescue Bots",
+    "type": "series",
     "imdb_id": "tt2139371"
   },
   {
-    "title": "Sesame Street",
+    "name": "Sesame Street",
+    "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "title": "Popeye the Sailor",
+    "name": "Popeye the Sailor",
+    "type": "series",
     "imdb_id": "tt0145628"
   },
   {
-    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "title": "All Hail King Julien",
+    "name": "All Hail King Julien",
+    "type": "series",
     "imdb_id": "tt3807022"
   },
   {
-    "title": "The Bullwinkle Show",
+    "name": "The Bullwinkle Show",
+    "type": "series",
     "imdb_id": "tt0052507"
   },
   {
-    "title": "Kung Fu Panda: Legends of Awesomeness",
+    "name": "Kung Fu Panda: Legends of Awesomeness",
+    "type": "series",
     "imdb_id": "tt1545214"
   },
   {
-    "title": "Tom & Jerry Kids Show",
+    "name": "Tom & Jerry Kids Show",
+    "type": "series",
     "imdb_id": "tt0198254"
   },
   {
-    "title": "PAW Patrol",
+    "name": "PAW Patrol",
+    "type": "series",
     "imdb_id": "tt3121722"
   },
   {
-    "title": "Telecat",
+    "name": "Telecat",
+    "type": "series",
     "imdb_id": "tt0294210"
   },
   {
-    "title": "Ed, Edd n Eddy",
+    "name": "Ed, Edd n Eddy",
+    "type": "series",
     "imdb_id": "tt0184111"
   },
   {
-    "title": "Chiquititas",
+    "name": "Chiquititas",
+    "type": "series",
     "imdb_id": "tt2734004"
   }
 ]

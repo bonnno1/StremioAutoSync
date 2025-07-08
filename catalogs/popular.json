@@ -1,82 +1,102 @@
 [
   {
-    "title": "Squid Game",
+    "name": "Squid Game",
+    "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "title": "Among Friends",
+    "name": "Among Friends",
+    "type": "series",
     "imdb_id": "tt0175383"
   },
   {
-    "title": "Late Show with David Letterman",
+    "name": "Late Show with David Letterman",
+    "type": "series",
     "imdb_id": "tt0106053"
   },
   {
-    "title": "The Late Late Show with Craig Ferguson",
+    "name": "The Late Late Show with Craig Ferguson",
+    "type": "series",
     "imdb_id": "tt0437729"
   },
   {
-    "title": "Conan",
+    "name": "Conan",
+    "type": "series",
     "imdb_id": "tt1637574"
   },
   {
-    "title": "The Daily Show",
+    "name": "The Daily Show",
+    "type": "series",
     "imdb_id": "tt0115147"
   },
   {
-    "title": "Ici tout commence",
+    "name": "Ici tout commence",
+    "type": "series",
     "imdb_id": "tt13392064"
   },
   {
-    "title": "The Tonight Show Starring Jimmy Fallon",
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
     "imdb_id": "tt3444938"
   },
   {
-    "title": "Real Time with Bill Maher",
+    "name": "Real Time with Bill Maher",
+    "type": "series",
     "imdb_id": "tt0350448"
   },
   {
-    "title": "The Simpsons",
+    "name": "The Simpsons",
+    "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "title": "The Late Late Show with James Corden",
+    "name": "The Late Late Show with James Corden",
+    "type": "series",
     "imdb_id": "tt4280606"
   },
   {
-    "title": "Good Mythical Morning",
+    "name": "Good Mythical Morning",
+    "type": "series",
     "imdb_id": "tt4087032"
   },
   {
-    "title": "Radio Star",
+    "name": "Radio Star",
+    "type": "series",
     "imdb_id": "tt6283624"
   },
   {
-    "title": "Doraemon",
+    "name": "Doraemon",
+    "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "title": "Criminal Minds",
+    "name": "Criminal Minds",
+    "type": "series",
     "imdb_id": "tt0452046"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
     "imdb_id": "tt0203259"
   },
   {
-    "title": "The Late Show with Stephen Colbert",
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
     "imdb_id": "tt3697842"
   },
   {
-    "title": "This Old House",
+    "name": "This Old House",
+    "type": "series",
     "imdb_id": "tt0078701"
   },
   {
-    "title": "Egoli: Place of Gold",
+    "name": "Egoli: Place of Gold",
+    "type": "series",
     "imdb_id": "tt0128176"
   },
   {
-    "title": "Teen Titans Go!",
+    "name": "Teen Titans Go!",
+    "type": "series",
     "imdb_id": "tt2771780"
   }
 ]

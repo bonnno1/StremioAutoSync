@@ -1,82 +1,102 @@
 [
   {
-    "title": "Vikings",
+    "name": "Vikings",
+    "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "title": "Dirty Linen",
+    "name": "Dirty Linen",
+    "type": "series",
     "imdb_id": "tt24013752"
   },
   {
-    "title": "The Boys",
+    "name": "The Boys",
+    "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "title": "Neighbours",
+    "name": "Neighbours",
+    "type": "series",
     "imdb_id": "tt0088580"
   },
   {
-    "title": "Mozart in the Jungle",
+    "name": "Mozart in the Jungle",
+    "type": "series",
     "imdb_id": "tt3502172"
   },
   {
-    "title": "Countdown",
+    "name": "Countdown",
+    "type": "series",
     "imdb_id": "tt32559610"
   },
   {
-    "title": "Reacher",
+    "name": "Reacher",
+    "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "title": "The Lord of the Rings: The Rings of Power",
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
     "imdb_id": "tt7631058"
   },
   {
-    "title": "Bosch",
+    "name": "Bosch",
+    "type": "series",
     "imdb_id": "tt3502248"
   },
   {
-    "title": "The Grand Tour",
+    "name": "The Grand Tour",
+    "type": "series",
     "imdb_id": "tt5712554"
   },
   {
-    "title": "INVINCIBLE",
+    "name": "INVINCIBLE",
+    "type": "series",
     "imdb_id": "tt6741278"
   },
   {
-    "title": "Mentiras, The Series",
+    "name": "Mentiras, The Series",
+    "type": "series",
     "imdb_id": "tt31690920"
   },
   {
-    "title": "The Summer I Turned Pretty",
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "title": "Carnival Row",
+    "name": "Carnival Row",
+    "type": "series",
     "imdb_id": "tt0489974"
   },
   {
-    "title": "The Wheel of Time",
+    "name": "The Wheel of Time",
+    "type": "series",
     "imdb_id": "tt7462410"
   },
   {
-    "title": "The Expanse",
+    "name": "The Expanse",
+    "type": "series",
     "imdb_id": "tt3230854"
   },
   {
-    "title": "We Were Liars",
+    "name": "We Were Liars",
+    "type": "series",
     "imdb_id": "tt3914054"
   },
   {
-    "title": "The Chosen",
+    "name": "The Chosen",
+    "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "title": "Fallout",
+    "name": "Fallout",
+    "type": "series",
     "imdb_id": "tt12637874"
   },
   {
-    "title": "The Legend of Vox Machina",
+    "name": "The Legend of Vox Machina",
+    "type": "series",
     "imdb_id": "tt11247158"
   }
 ]

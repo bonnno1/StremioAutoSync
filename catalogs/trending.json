@@ -1,78 +1,97 @@
 [
   {
-    "title": "Squid Game",
+    "name": "Squid Game",
+    "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "title": "Dan Da Dan",
+    "name": "Dan Da Dan",
+    "type": "series",
     "imdb_id": "tt30217403"
   },
   {
-    "title": "Ironheart",
+    "name": "Ironheart",
+    "type": "series",
     "imdb_id": "tt13623126"
   },
   {
-    "title": "The Sandman",
+    "name": "The Sandman",
+    "type": "series",
     "imdb_id": "tt1751634"
   },
   {
-    "title": "My Dress-Up Darling",
+    "name": "My Dress-Up Darling",
+    "type": "series",
     "imdb_id": "tt15765670"
   },
   {
-    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "series",
     "imdb_id": "tt8993398"
   },
   {
-    "title": "Grand Blue Dreaming",
+    "name": "Grand Blue Dreaming",
+    "type": "series",
     "imdb_id": "tt8086718"
   },
   {
-    "title": "The Bear",
-    "imdb_id": "tt14452776"
-  },
-  {
-    "title": "Kaiju No. 8",
+    "name": "Kaiju No. 8",
+    "type": "series",
     "imdb_id": "tt21975436"
   },
   {
-    "title": "Rick and Morty",
+    "name": "Rick and Morty",
+    "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "title": "Flourished Peony",
+    "name": "The Bear",
+    "type": "series",
+    "imdb_id": "tt14452776"
+  },
+  {
+    "name": "Flourished Peony",
+    "type": "series",
     "imdb_id": "tt29931668"
   },
   {
-    "title": "Murderbot",
+    "name": "Murderbot",
+    "type": "series",
     "imdb_id": "tt30444310"
   },
   {
-    "title": "The Apothecary Diaries",
-    "imdb_id": "tt26743760"
-  },
-  {
-    "title": "In the Name of Justice",
+    "name": "In the Name of Justice",
+    "type": "series",
     "imdb_id": "tt31565382"
   },
   {
-    "title": "Call of the Night",
+    "name": "The Apothecary Diaries",
+    "type": "series",
+    "imdb_id": "tt26743760"
+  },
+  {
+    "name": "Call of the Night",
+    "type": "series",
     "imdb_id": "tt15975122"
   },
   {
-    "title": "One Piece",
+    "name": "One Piece",
+    "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "title": "Gachiakuta",
+    "name": "Gachiakuta",
+    "type": "series",
     "imdb_id": "tt32612521"
   },
   {
-    "title": "The Fragrant Flower Blooms with Dignity",
-    "imdb_id": "tt36592690"
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   },
   {
-    "title": "Countdown",
-    "imdb_id": "tt32559610"
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]

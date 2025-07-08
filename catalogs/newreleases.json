@@ -1,78 +1,97 @@
 [
   {
-    "title": "The Daily Show",
+    "name": "The Daily Show",
+    "type": "series",
     "imdb_id": "tt0115147"
   },
   {
-    "title": "Ici tout commence",
+    "name": "Ici tout commence",
+    "type": "series",
     "imdb_id": "tt13392064"
   },
   {
-    "title": "Tomorrow Is Ours",
+    "name": "Tomorrow Is Ours",
+    "type": "series",
     "imdb_id": "tt7124904"
   },
   {
-    "title": "Jeopardy!",
+    "name": "Jeopardy!",
+    "type": "series",
     "imdb_id": "tt0159881"
   },
   {
-    "title": "LIVE with Kelly and Mark",
+    "name": "LIVE with Kelly and Mark",
+    "type": "series",
     "imdb_id": "tt0096636"
   },
   {
-    "title": "Honest Trailers",
+    "name": "Honest Trailers",
+    "type": "series",
     "imdb_id": "tt2610260"
   },
   {
-    "title": "America's Got Talent",
+    "name": "America's Got Talent",
+    "type": "series",
     "imdb_id": "tt0759364"
   },
   {
-    "title": "Home and Away",
+    "name": "Home and Away",
+    "type": "series",
     "imdb_id": "tt0094481"
   },
   {
-    "title": "Suidooster",
+    "name": "Suidooster",
+    "type": "series",
     "imdb_id": "tt5467444"
   },
   {
-    "title": "Com si fos ahir",
+    "name": "Com si fos ahir",
+    "type": "series",
     "imdb_id": "tt7331764"
   },
   {
-    "title": "Martial Master",
+    "name": "Martial Master",
+    "type": "series",
     "imdb_id": "tt20769560"
   },
   {
-    "title": "Kelders van Geheime",
+    "name": "Kelders van Geheime",
+    "type": "series",
     "imdb_id": "tt32264511"
   },
   {
-    "title": "Dreams of Liberty",
+    "name": "Dreams of Liberty",
+    "type": "series",
     "imdb_id": "tt30002038"
   },
   {
-    "title": "Neighbours",
+    "name": "Neighbours",
+    "type": "series",
     "imdb_id": "tt0088580"
   },
   {
-    "title": "The Bold and the Beautiful",
+    "name": "The Bold and the Beautiful",
+    "type": "series",
     "imdb_id": "tt0092325"
   },
   {
-    "title": "Love Island",
+    "name": "Love Island",
+    "type": "series",
     "imdb_id": "tt8819906"
   },
   {
-    "title": "Homes Under the Hammer",
+    "name": "Homes Under the Hammer",
+    "type": "series",
     "imdb_id": "tt0419336"
   },
   {
-    "title": "Binnelanders",
+    "name": "Binnelanders",
+    "type": "series",
     "imdb_id": "tt1527854"
   },
   {
-    "title": "TMZ Live",
+    "name": "TMZ Live",
+    "type": "series",
     "imdb_id": "tt2852666"
   }
 ]
