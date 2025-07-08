@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.trending",
+  "name": "Top Trending",
+  "description": "Auto-updating Top Trending catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "trending",
+    "name": "Top Trending"
+  }],
+  "idPrefixes": ["tt"]
+}

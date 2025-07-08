@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.kids",
+  "name": "Kids",
+  "description": "Auto-updating Kids catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "kids",
+    "name": "Kids"
+  }],
+  "idPrefixes": ["tt"]
+}

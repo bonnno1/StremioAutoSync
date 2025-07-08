@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.cinema",
+  "name": "Now in Cinemas",
+  "description": "Auto-updating Now in Cinemas catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "cinema",
+    "name": "Now in Cinemas"
+  }],
+  "idPrefixes": ["tt"]
+}

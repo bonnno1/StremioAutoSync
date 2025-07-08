@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.netflix",
+  "name": "Netflix AU",
+  "description": "Auto-updating Netflix AU catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "netflix",
+    "name": "Netflix AU"
+  }],
+  "idPrefixes": ["tt"]
+}

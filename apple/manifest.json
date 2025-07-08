@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.apple",
+  "name": "Apple TV+ AU",
+  "description": "Auto-updating Apple TV+ AU catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "apple",
+    "name": "Apple TV+ AU"
+  }],
+  "idPrefixes": ["tt"]
+}

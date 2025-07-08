@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.romance",
+  "name": "Romance",
+  "description": "Auto-updating Romance catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "romance",
+    "name": "Romance"
+  }],
+  "idPrefixes": ["tt"]
+}

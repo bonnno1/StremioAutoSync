@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.prime",
+  "name": "Prime Video AU",
+  "description": "Auto-updating Prime Video AU catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "prime",
+    "name": "Prime Video AU"
+  }],
+  "idPrefixes": ["tt"]
+}

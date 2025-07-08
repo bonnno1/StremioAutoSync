@@ -1,0 +1,14 @@
+{
+  "id": "org.stremio.thriller",
+  "name": "Thriller",
+  "description": "Auto-updating Thriller catalog from TMDb",
+  "version": "1.0.0",
+  "resources": ["catalog"],
+  "types": ["series"],
+  "catalogs": [{
+    "type": "series",
+    "id": "thriller",
+    "name": "Thriller"
+  }],
+  "idPrefixes": ["tt"]
+}
