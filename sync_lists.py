@@ -9,6 +9,9 @@ HEADERS = {"accept": "application/json"}
 
 def fetch_tmdb(url, params={}):
     params["api_key"] = TMDB_API_KEY
+    params.setdefault("region", "AU")       # 🇦🇺 Aussie-specific results
+    params.setdefault("language", "en-AU")  # Optional: Aussie English metadata
+
     print(f"🔍 Fetching: {url} | Params: {params}")
     
     res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
@@ -53,7 +56,7 @@ def get_category_list():
         {"slug": "disney", "tmdb_params": {"with_networks": "2739"}, "name": "Disney+ Weekly"},
         {"slug": "prime", "tmdb_params": {"with_networks": "1024"}, "name": "Prime Video Weekly"},
         {"slug": "apple", "tmdb_params": {"with_networks": "2552"}, "name": "Apple TV+ Weekly"},
-        {"slug": "stan", "tmdb_params": {"with_keywords": "186729"}, "name": "Stan Weekly"},  # Approximate
+        {"slug": "stan", "tmdb_params": {"with_keywords": "186729"}, "name": "Stan Weekly"},  # Close match
         {"slug": "trending", "tmdb_params": {}, "special": "trending", "name": "Trending Shows"},
         {"slug": "popular", "tmdb_params": {}, "special": "popular", "name": "Popular Shows"},
         {"slug": "cinema", "tmdb_params": {}, "special": "now_playing", "name": "In Cinemas"},
