@@ -1,37 +1,63 @@
 import requests
+import os
 
-def fetch_trending():
-    res = requests.get("https://api.trakt.tv/shows/trending", headers={"trakt-api-version": "2", "trakt-api-key": "9d01f9efde9e85c30ce34e7a739ad3cf"})
-    return [item["show"]["ids"]["trakt"] for item in res.json()[:25]]
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+TMDB_BASE = "https://api.themoviedb.org/3"
 
-def fetch_popular():
-    res = requests.get("https://api.trakt.tv/shows/popular", headers={"trakt-api-version": "2", "trakt-api-key": "9d01f9efde9e85c30ce34e7a739ad3cf"})
-    return [item["ids"]["trakt"] for item in res.json()[:25]]
+HEADERS = {"accept": "application/json"}
 
-def fetch_genre(genre):
-    res = requests.get(f"https://api.trakt.tv/shows/popular?genres={genre}", headers={"trakt-api-version": "2", "trakt-api-key": "9d01f9efde9e85c30ce34e7a739ad3cf"})
-    return [item["ids"]["trakt"] for item in res.json()[:25]]
+def fetch_tmdb(url, params={}):
+    params["api_key"] = TMDB_API_KEY
+    res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
+    if res.status_code == 200:
+        return res.json()["results"]
+    return []
 
-def fetch_dummy_streaming(name):
-    # Replace with real curated API later — this returns dummy list
-    return fetch_trending()[:10]
+def to_json_format(results):
+    formatted = []
+    for item in results:
+        imdb_id = fetch_imdb_id(item["id"])
+        if imdb_id:
+            formatted.append({
+                "title": item.get("name") or item.get("title"),
+                "imdb_id": imdb_id
+            })
+    return formatted
 
-LISTS_TO_SYNC = [
-    {"slug": "netflix-weekly", "name": "Netflix Weekly", "description": "Weekly Netflix shows", "fetch_function": lambda: fetch_dummy_streaming("Netflix")},
-    {"slug": "disney-weekly", "name": "Disney+ Weekly", "description": "Weekly Disney+ shows", "fetch_function": lambda: fetch_dummy_streaming("Disney+")},
-    {"slug": "stan-weekly", "name": "Stan Weekly", "description": "Weekly Stan shows", "fetch_function": lambda: fetch_dummy_streaming("Stan")},
-    {"slug": "prime-weekly", "name": "Prime Video Weekly", "description": "Weekly Prime shows", "fetch_function": lambda: fetch_dummy_streaming("Prime")},
-    {"slug": "apple-weekly", "name": "Apple TV+ Weekly", "description": "Weekly Apple shows", "fetch_function": lambda: fetch_dummy_streaming("Apple")},
+def fetch_imdb_id(tmdb_id):
+    url = f"/tv/{tmdb_id}/external_ids"
+    data = fetch_tmdb(url)
+    return data.get("imdb_id") if data else None
 
-    {"slug": "trending-now", "name": "Trending Now", "description": "Top trending shows", "fetch_function": fetch_trending},
-    {"slug": "popular-now", "name": "Most Popular", "description": "Top popular shows", "fetch_function": fetch_popular},
+def get_category_list():
+    return [
+        {"slug": "netflix", "tmdb_params": {"with_networks": "213"}, "name": "Netflix Weekly"},
+        {"slug": "disney", "tmdb_params": {"with_networks": "2739"}, "name": "Disney+ Weekly"},
+        {"slug": "prime", "tmdb_params": {"with_networks": "1024"}, "name": "Prime Video Weekly"},
+        {"slug": "apple", "tmdb_params": {"with_networks": "2552"}, "name": "Apple TV+ Weekly"},
+        {"slug": "stan", "tmdb_params": {"with_keywords": "186729"}, "name": "Stan Weekly"},  # Approximate
+        {"slug": "trending", "tmdb_params": {}, "special": "trending", "name": "Trending Shows"},
+        {"slug": "popular", "tmdb_params": {}, "special": "popular", "name": "Popular Shows"},
+        {"slug": "cinema", "tmdb_params": {}, "special": "now_playing", "name": "In Cinemas"},
+        {"slug": "newreleases", "tmdb_params": {}, "special": "airing_today", "name": "New Releases"},
+        {"slug": "action", "tmdb_params": {"with_genres": "10759"}, "name": "Action"},
+        {"slug": "comedy", "tmdb_params": {"with_genres": "35"}, "name": "Comedy"},
+        {"slug": "family", "tmdb_params": {"with_genres": "10751"}, "name": "Family"},
+        {"slug": "horror", "tmdb_params": {"with_genres": "27"}, "name": "Horror"},
+        {"slug": "kids", "tmdb_params": {"with_genres": "10762"}, "name": "Kids"},
+        {"slug": "thriller", "tmdb_params": {"with_genres": "53"}, "name": "Thriller"},
+        {"slug": "romance", "tmdb_params": {"with_genres": "10749"}, "name": "Romance"},
+        {"slug": "adventure", "tmdb_params": {"with_genres": "12"}, "name": "Adventure"},
+    ]
 
-    {"slug": "genre-action", "name": "Action", "description": "Top Action shows", "fetch_function": lambda: fetch_genre("action")},
-    {"slug": "genre-comedy", "name": "Comedy", "description": "Top Comedy shows", "fetch_function": lambda: fetch_genre("comedy")},
-    {"slug": "genre-family", "name": "Family", "description": "Top Family shows", "fetch_function": lambda: fetch_genre("family")},
-    {"slug": "genre-horror", "name": "Horror", "description": "Top Horror shows", "fetch_function": lambda: fetch_genre("horror")},
-    {"slug": "genre-kids", "name": "Kids", "description": "Top Kids shows", "fetch_function": lambda: fetch_genre("kids")},
-    {"slug": "genre-thriller", "name": "Thriller", "description": "Top Thriller shows", "fetch_function": lambda: fetch_genre("thriller")},
-    {"slug": "genre-romance", "name": "Romance", "description": "Top Romance shows", "fetch_function": lambda: fetch_genre("romance")},
-    {"slug": "genre-adventure", "name": "Adventure", "description": "Top Adventure shows", "fetch_function": lambda: fetch_genre("adventure")},
-]
+def fetch_shows_for_list(list_def):
+    if list_def.get("special") == "trending":
+        return to_json_format(fetch_tmdb("/trending/tv/week"))
+    if list_def.get("special") == "popular":
+        return to_json_format(fetch_tmdb("/tv/popular"))
+    if list_def.get("special") == "now_playing":
+        return to_json_format(fetch_tmdb("/movie/now_playing"))
+    if list_def.get("special") == "airing_today":
+        return to_json_format(fetch_tmdb("/tv/airing_today"))
+
+    return to_json_format(fetch_tmdb("/discover/tv", list_def["tmdb_params"]))
