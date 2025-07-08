@@ -1,35 +1,36 @@
-name: Update Stremio Catalogs
+name: Generate Stremio Catalogs
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at 12am UTC
-  workflow_dispatch:     # Allows manual run
+    - cron: '0 14 * * *'  # 12:00 AM Australian Central Time (UTC+9:30)
+  workflow_dispatch:     # Allow manual triggering
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
     steps:
-      - name: Checkout repo
+      - name: ⬇️ Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: Run catalog generator
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      - name: 🧠 Run catalog generator
         run: python main.py
 
-      - name: Commit and push updated JSON files
+      - name: 📂 Commit and push updated JSON files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.json
-          git commit -m "📦 Auto-update Stremio catalog JSONs [bot]" || echo "No changes"
-          git push
+          git add catalogs/*.json */catalog-*.json
+          git commit -m "📦 Auto-update Stremio catalog JSONs [bot]" || echo "No changes to commit"
+          git push --force
