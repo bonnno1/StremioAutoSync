@@ -9,9 +9,22 @@ HEADERS = {"accept": "application/json"}
 def fetch_tmdb(url, params={}):
     params["api_key"] = TMDB_API_KEY
     res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
-    if res.status_code == 200:
-        return res.json()["results"]
-    return []
+
+    try:
+        data = res.json()
+    except ValueError:
+        print(f"❌ Invalid JSON from TMDb at {url}")
+        return []
+
+    if res.status_code != 200:
+        print(f"❌ TMDb error {res.status_code} at {url}: {data.get('status_message')}")
+        return []
+
+    if "results" not in data:
+        print(f"⚠️ No 'results' in TMDb response for {url}")
+        return []
+
+    return data["results"]
 
 def to_json_format(results):
     formatted = []
