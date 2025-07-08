@@ -79,3 +79,4 @@ def fetch_shows_for_list(list_def):
         return to_json_format(fetch_tmdb("/tv/airing_today"))
 
     return to_json_format(fetch_tmdb("/discover/tv", list_def["tmdb_params"]))
+
