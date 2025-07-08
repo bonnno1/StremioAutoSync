@@ -1,5 +1,6 @@
 import requests
 import os
+import json
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 TMDB_BASE = "https://api.themoviedb.org/3"
@@ -8,6 +9,8 @@ HEADERS = {"accept": "application/json"}
 
 def fetch_tmdb(url, params={}):
     params["api_key"] = TMDB_API_KEY
+    print(f"🔍 Fetching: {url} | Params: {params}")
+    
     res = requests.get(f"{TMDB_BASE}{url}", params=params, headers=HEADERS)
 
     try:
@@ -15,6 +18,8 @@ def fetch_tmdb(url, params={}):
     except ValueError:
         print(f"❌ Invalid JSON from TMDb at {url}")
         return []
+
+    print(f"📨 Response: {json.dumps(data, indent=2)}")
 
     if res.status_code != 200:
         print(f"❌ TMDb error {res.status_code} at {url}: {data.get('status_message')}")
