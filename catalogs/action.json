@@ -5,24 +5,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
   },
   {
     "name": "Jake and the Never Land Pirates",
@@ -30,14 +15,19 @@
     "imdb_id": "tt1833403"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "Ninja Hattori-kun",
     "type": "series",
     "imdb_id": "tt2787558"
-  },
-  {
-    "name": "NCIS: New Orleans",
-    "type": "series",
-    "imdb_id": "tt3560084"
   },
   {
     "name": "Rick and Morty",
@@ -45,49 +35,19 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "WWE NXT UK",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt9425798"
+    "imdb_id": "tt2771780"
   },
   {
-    "name": "Star Trek: Voyager",
+    "name": "G.I. Joe: A Real American Hero",
     "type": "series",
-    "imdb_id": "tt0112178"
+    "imdb_id": "tt0337762"
   },
   {
-    "name": "Brothers",
+    "name": "NCIS: New Orleans",
     "type": "series",
-    "imdb_id": "tt6155146"
-  },
-  {
-    "name": "The Curse of Oak Island",
-    "type": "series",
-    "imdb_id": "tt3455408"
-  },
-  {
-    "name": "Big Hero 6 The Series",
-    "type": "series",
-    "imdb_id": "tt5515212"
-  },
-  {
-    "name": "Batman: The Brave and the Bold",
-    "type": "series",
-    "imdb_id": "tt1213218"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Warehouse 13",
-    "type": "series",
-    "imdb_id": "tt1132290"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt3560084"
   },
   {
     "name": "Transformers: Rescue Bots",
@@ -95,8 +55,43 @@
     "imdb_id": "tt2139371"
   },
   {
-    "name": "Lassie",
+    "name": "Star Trek: Voyager",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt0112178"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Brothers",
+    "type": "series",
+    "imdb_id": "tt6155146"
+  },
+  {
+    "name": "Warehouse 13",
+    "type": "series",
+    "imdb_id": "tt1132290"
+  },
+  {
+    "name": "The Curse of Oak Island",
+    "type": "series",
+    "imdb_id": "tt3455408"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Buffy the Vampire Slayer",
+    "type": "series",
+    "imdb_id": "tt0118276"
+  },
+  {
+    "name": "The 100",
+    "type": "series",
+    "imdb_id": "tt2661044"
   }
 ]
