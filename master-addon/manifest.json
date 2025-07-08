@@ -1,183 +1,458 @@
 {
-  "id": "org.stremio.masteraddon",
-  "name": "Stremio Super Catalog",
+  "id": "community.stremioautosync",
+  "version": "1.0.0",
+  "name": "Stremio AutoSync Catalogs",
+  "description": "Auto-updating Stremio catalogs generated from TMDb via GitHub Actions.",
+  "logo": "https://www.stremio.com/static/images/stremio-logo-small.png",
   "resources": [
     "catalog"
   ],
   "types": [
-    "series",
-    "movie"
+    "movie",
+    "series"
   ],
   "catalogs": [
     {
+      "type": "movie",
+      "id": "netflix",
+      "name": "Netflix - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
+    },
+    {
       "type": "series",
       "id": "netflix",
-      "name": "Netflix Series"
+      "name": "Netflix - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
-      "id": "netflix",
-      "name": "Netflix Movies"
+      "id": "disney",
+      "name": "Disney - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
       "id": "disney",
-      "name": "Disney Series"
-    },
-    {
-      "type": "movie",
-      "id": "disney",
-      "name": "Disney Movies"
-    },
-    {
-      "type": "series",
-      "id": "stan",
-      "name": "Stan Series"
-    },
-    {
-      "type": "movie",
-      "id": "stan",
-      "name": "Stan Movies"
-    },
-    {
-      "type": "series",
-      "id": "prime",
-      "name": "Prime Series"
+      "name": "Disney - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "prime",
-      "name": "Prime Movies"
+      "name": "Prime - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "apple",
-      "name": "Apple Series"
+      "id": "prime",
+      "name": "Prime - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "apple",
-      "name": "Apple Movies"
+      "name": "Apple - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "trending",
-      "name": "Trending Series"
+      "id": "apple",
+      "name": "Apple - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "stan",
+      "name": "Stan - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "stan",
+      "name": "Stan - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "trending",
-      "name": "Trending Movies"
+      "name": "Trending - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "cinema",
-      "name": "Cinema Series"
+      "id": "trending",
+      "name": "Trending - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
-      "id": "cinema",
-      "name": "Cinema Movies"
+      "id": "popular",
+      "name": "Popular - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
       "id": "popular",
-      "name": "Popular Series"
+      "name": "Popular - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
-      "id": "popular",
-      "name": "Popular Movies"
+      "id": "cinema",
+      "name": "Cinema - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "new",
-      "name": "New Series"
+      "id": "cinema",
+      "name": "Cinema - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
-      "id": "new",
-      "name": "New Movies"
+      "id": "newreleases",
+      "name": "Newreleases - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "newreleases",
+      "name": "Newreleases - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "action",
+      "name": "Action - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
       "id": "action",
-      "name": "Action Series"
-    },
-    {
-      "type": "movie",
-      "id": "action",
-      "name": "Action Movies"
-    },
-    {
-      "type": "series",
-      "id": "comedy",
-      "name": "Comedy Series"
+      "name": "Action - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "comedy",
-      "name": "Comedy Movies"
+      "name": "Comedy - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "family",
-      "name": "Family Series"
+      "id": "comedy",
+      "name": "Comedy - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "family",
-      "name": "Family Movies"
+      "name": "Family - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "horror",
-      "name": "Horror Series"
+      "id": "family",
+      "name": "Family - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "horror",
-      "name": "Horror Movies"
+      "name": "Horror - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "kids",
-      "name": "Kids Series"
+      "id": "horror",
+      "name": "Horror - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "kids",
-      "name": "Kids Movies"
+      "name": "Kids - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "thriller",
-      "name": "Thriller Series"
+      "id": "kids",
+      "name": "Kids - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
       "id": "thriller",
-      "name": "Thriller Movies"
+      "name": "Thriller - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
-      "id": "adventure",
-      "name": "Adventure Series"
+      "id": "thriller",
+      "name": "Thriller - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
-      "id": "adventure",
-      "name": "Adventure Movies"
+      "id": "romance",
+      "name": "Romance - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "series",
       "id": "romance",
-      "name": "Romance Series"
+      "name": "Romance - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     },
     {
       "type": "movie",
-      "id": "romance",
-      "name": "Romance Movies"
+      "id": "adventure",
+      "name": "Adventure - Movie",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "adventure",
+      "name": "Adventure - Series",
+      "extra": [
+        {
+          "name": "search"
+        },
+        {
+          "name": "genre"
+        }
+      ]
     }
   ],
   "idPrefixes": [
