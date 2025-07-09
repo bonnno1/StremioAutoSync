@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -10,39 +15,14 @@
     "imdb_id": "tt24013752"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Neighbours",
-    "type": "series",
-    "imdb_id": "tt0088580"
-  },
-  {
-    "name": "Mozart in the Jungle",
-    "type": "series",
-    "imdb_id": "tt3502172"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Countdown",
     "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
+    "imdb_id": "tt32559610"
   },
   {
     "name": "The Grand Tour",
@@ -55,9 +35,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Mentiras, The Series",
+    "name": "Neighbours",
     "type": "series",
-    "imdb_id": "tt31690920"
+    "imdb_id": "tt0088580"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -65,24 +45,19 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Carnival Row",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt0489974"
+    "imdb_id": "tt7631058"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt7462410"
+    "imdb_id": "tt3502248"
   },
   {
-    "name": "The Expanse",
+    "name": "Mentiras, The Series",
     "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "name": "We Were Liars",
-    "type": "series",
-    "imdb_id": "tt3914054"
+    "imdb_id": "tt31690920"
   },
   {
     "name": "The Chosen",
@@ -90,13 +65,38 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Fallout",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt7462410"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "We Were Liars",
     "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt3914054"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Last Tycoon",
+    "type": "series",
+    "imdb_id": "tt3390892"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Carnival Row",
+    "type": "series",
+    "imdb_id": "tt0489974"
+  },
+  {
+    "name": "Mozart in the Jungle",
+    "type": "series",
+    "imdb_id": "tt3502172"
   }
 ]

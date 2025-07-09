@@ -20,6 +20,16 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "The Mighty Ducks: Game Changers",
+    "type": "series",
+    "imdb_id": "tt7939768"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
@@ -30,14 +40,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "The Mandalorian",
@@ -50,9 +55,9 @@
     "imdb_id": "tt13650480"
   },
   {
-    "name": "What If...?",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt10168312"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -63,6 +68,11 @@
     "name": "Obi-Wan Kenobi",
     "type": "series",
     "imdb_id": "tt8466564"
+  },
+  {
+    "name": "Ghost Force",
+    "type": "series",
+    "imdb_id": "tt5797440"
   },
   {
     "name": "Moon Knight",
@@ -80,23 +90,13 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Soy Luna",
+    "name": "Your Friendly Neighborhood Spider-Man",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt16027074"
   },
   {
-    "name": "The Mighty Ducks: Game Changers",
+    "name": "X-Men '97",
     "type": "series",
-    "imdb_id": "tt7939768"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "name": "LIGHT & MAGIC",
-    "type": "series",
-    "imdb_id": "tt19896784"
+    "imdb_id": "tt16026746"
   }
 ]

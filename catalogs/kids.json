@@ -1,13 +1,13 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -18,6 +18,11 @@
     "name": "Ninja Hattori-kun",
     "type": "series",
     "imdb_id": "tt2787558"
+  },
+  {
+    "name": "G.I. Joe: A Real American Hero",
+    "type": "series",
+    "imdb_id": "tt0337762"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -35,9 +40,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Popeye the Sailor",
+    "name": "Kung Fu Panda: Legends of Awesomeness",
     "type": "series",
-    "imdb_id": "tt0145628"
+    "imdb_id": "tt1545214"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -45,43 +50,43 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "All Hail King Julien",
+    "name": "Garfield and Friends",
     "type": "series",
-    "imdb_id": "tt3807022"
+    "imdb_id": "tt0094469"
+  },
+  {
+    "name": "Popeye the Sailor",
+    "type": "series",
+    "imdb_id": "tt0145628"
+  },
+  {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
+  },
+  {
+    "name": "Ada Twist, Scientist",
+    "type": "series",
+    "imdb_id": "tt13241650"
+  },
+  {
+    "name": "The 7D",
+    "type": "series",
+    "imdb_id": "tt2219622"
+  },
+  {
+    "name": "Jewelpet",
+    "type": "series",
+    "imdb_id": "tt1642495"
+  },
+  {
+    "name": "Daniel Tiger's Neighborhood",
+    "type": "series",
+    "imdb_id": "tt2014553"
   },
   {
     "name": "The Bullwinkle Show",
     "type": "series",
     "imdb_id": "tt0052507"
-  },
-  {
-    "name": "Kung Fu Panda: Legends of Awesomeness",
-    "type": "series",
-    "imdb_id": "tt1545214"
-  },
-  {
-    "name": "Tom & Jerry Kids Show",
-    "type": "series",
-    "imdb_id": "tt0198254"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Telecat",
-    "type": "series",
-    "imdb_id": "tt0294210"
-  },
-  {
-    "name": "Ed, Edd n Eddy",
-    "type": "series",
-    "imdb_id": "tt0184111"
-  },
-  {
-    "name": "Chiquititas",
-    "type": "series",
-    "imdb_id": "tt2734004"
   }
 ]
