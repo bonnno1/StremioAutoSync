@@ -5,9 +5,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Jake and the Never Land Pirates",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt1833403"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Doraemon",
@@ -15,9 +15,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "NCIS",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Jake and the Never Land Pirates",
+    "type": "series",
+    "imdb_id": "tt1833403"
   },
   {
     "name": "Pokémon",
@@ -25,19 +30,14 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Warehouse 13",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt1132290"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -45,19 +45,9 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Without a Trace",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt0321021"
-  },
-  {
-    "name": "Dragon Ball Z",
-    "type": "series",
-    "imdb_id": "tt0121220"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt1871731"
   },
   {
     "name": "Teen Titans Go!",
@@ -65,14 +55,34 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Transformers: Rescue Bots",
+    "name": "Lassie",
     "type": "series",
-    "imdb_id": "tt2139371"
+    "imdb_id": "tt0046617"
+  },
+  {
+    "name": "Warehouse 13",
+    "type": "series",
+    "imdb_id": "tt1132290"
   },
   {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "The A-Team",
+    "type": "series",
+    "imdb_id": "tt0084967"
+  },
+  {
+    "name": "Hunter x Hunter",
+    "type": "series",
+    "imdb_id": "tt2098220"
+  },
+  {
+    "name": "Brothers",
+    "type": "series",
+    "imdb_id": "tt6155146"
   },
   {
     "name": "G.I. Joe: A Real American Hero",
@@ -85,18 +95,8 @@
     "imdb_id": "tt3743822"
   },
   {
-    "name": "Brothers",
+    "name": "The 100",
     "type": "series",
-    "imdb_id": "tt6155146"
-  },
-  {
-    "name": "Star Trek: Voyager",
-    "type": "series",
-    "imdb_id": "tt0112178"
-  },
-  {
-    "name": "WWE Main Event",
-    "type": "series",
-    "imdb_id": "tt2659152"
+    "imdb_id": "tt2661044"
   }
 ]

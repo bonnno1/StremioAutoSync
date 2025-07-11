@@ -20,11 +20,6 @@
     "imdb_id": "tt5950044"
   },
   {
-    "name": "The Ritual",
-    "type": "movie",
-    "imdb_id": "tt32194932"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
@@ -33,6 +28,11 @@
     "name": "F1",
     "type": "movie",
     "imdb_id": "tt16311594"
+  },
+  {
+    "name": "The Ritual",
+    "type": "movie",
+    "imdb_id": "tt32194932"
   },
   {
     "name": "28 Years Later",
@@ -90,13 +90,13 @@
     "imdb_id": "tt33022037"
   },
   {
+    "name": "Love Guru",
+    "type": "movie",
+    "imdb_id": "tt33054756"
+  },
+  {
     "name": "Grande Maison Paris",
     "type": "movie",
     "imdb_id": "tt32868318"
-  },
-  {
-    "name": "Jane Austen Wrecked My Life",
-    "type": "movie",
-    "imdb_id": "tt31112509"
   }
 ]
