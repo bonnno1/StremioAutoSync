@@ -10,6 +10,11 @@
     "imdb_id": "tt30444310"
   },
   {
+    "name": "Carpool Karaoke: The Series",
+    "type": "series",
+    "imdb_id": "tt6396082"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -45,14 +50,14 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Stick",
@@ -75,9 +80,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Servant",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt8068860"
+    "imdb_id": "tt23649128"
   },
   {
     "name": "Mythic Quest",
@@ -85,18 +90,13 @@
     "imdb_id": "tt8879940"
   },
   {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
+  },
+  {
     "name": "Masters of the Air",
     "type": "series",
     "imdb_id": "tt2640044"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "Ballerina",
-    "type": "movie",
-    "imdb_id": "tt7181546"
-  },
-  {
     "name": "Karate Kid: Legends",
     "type": "movie",
     "imdb_id": "tt1674782"
+  },
+  {
+    "name": "Ballerina",
+    "type": "movie",
+    "imdb_id": "tt7181546"
   },
   {
     "name": "Jurassic World Rebirth",
@@ -40,14 +40,14 @@
     "imdb_id": "tt10548174"
   },
   {
-    "name": "M3GAN 2.0",
-    "type": "movie",
-    "imdb_id": "tt26342662"
-  },
-  {
     "name": "The Unholy Trinity",
     "type": "movie",
     "imdb_id": "tt6300910"
+  },
+  {
+    "name": "M3GAN 2.0",
+    "type": "movie",
+    "imdb_id": "tt26342662"
   },
   {
     "name": "Elio",
@@ -65,14 +65,19 @@
     "imdb_id": "tt20212786"
   },
   {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
+  },
+  {
     "name": "Thug Life",
     "type": "movie",
     "imdb_id": "tt23398540"
   },
   {
-    "name": "Smurfs",
+    "name": "Guns Up",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt28026215"
   },
   {
     "name": "Dangerous Animals",
@@ -88,11 +93,6 @@
     "name": "Sardaarji 3",
     "type": "movie",
     "imdb_id": "tt33022037"
-  },
-  {
-    "name": "Love Guru",
-    "type": "movie",
-    "imdb_id": "tt33054756"
   },
   {
     "name": "Grande Maison Paris",
