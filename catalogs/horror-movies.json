@@ -20,9 +20,9 @@
     "imdb_id": "tt32194932"
   },
   {
-    "name": "Sinners",
+    "name": "Influencer",
     "type": "movie",
-    "imdb_id": "tt31193180"
+    "imdb_id": "tt13309170"
   },
   {
     "name": "The Hangman",
@@ -30,9 +30,9 @@
     "imdb_id": "tt31645789"
   },
   {
-    "name": "Influencer",
+    "name": "Sinners",
     "type": "movie",
-    "imdb_id": "tt13309170"
+    "imdb_id": "tt31193180"
   },
   {
     "name": "Crazy Lizard",
@@ -70,24 +70,19 @@
     "imdb_id": "tt29344903"
   },
   {
-    "name": "Open",
-    "type": "movie",
-    "imdb_id": "tt36749443"
-  },
-  {
     "name": "Until Dawn",
     "type": "movie",
     "imdb_id": "tt30955489"
   },
   {
-    "name": "28 Days Later",
-    "type": "movie",
-    "imdb_id": "tt0289043"
-  },
-  {
     "name": "The Substance",
     "type": "movie",
     "imdb_id": "tt17526714"
+  },
+  {
+    "name": "28 Days Later",
+    "type": "movie",
+    "imdb_id": "tt0289043"
   },
   {
     "name": "Fear Cabin: The Last Weekend of Summer",
@@ -98,5 +93,10 @@
     "name": "Death of a Unicorn",
     "type": "movie",
     "imdb_id": "tt28443655"
+  },
+  {
+    "name": "Open",
+    "type": "movie",
+    "imdb_id": "tt36749443"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -15,19 +10,19 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "Ballard",
-    "type": "series",
-    "imdb_id": "tt26676904"
-  },
-  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
   },
   {
-    "name": "Foundation",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
   },
   {
     "name": "My Dress-Up Darling",
@@ -40,14 +35,19 @@
     "imdb_id": "tt8993398"
   },
   {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Revenged Love",
+    "type": "series",
+    "imdb_id": "tt37370861"
+  },
+  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "In the Name of Justice",
-    "type": "series",
-    "imdb_id": "tt31565382"
   },
   {
     "name": "The Sandman",
@@ -55,19 +55,29 @@
     "imdb_id": "tt1751634"
   },
   {
-    "name": "One Piece",
+    "name": "In the Name of Justice",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Grand Blue Dreaming",
-    "type": "series",
-    "imdb_id": "tt8086718"
+    "imdb_id": "tt31565382"
   },
   {
     "name": "Kaiju No. 8",
     "type": "series",
     "imdb_id": "tt21975436"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Flourished Peony",
+    "type": "series",
+    "imdb_id": "tt29931668"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
   },
   {
     "name": "The Apothecary Diaries",
@@ -80,18 +90,8 @@
     "imdb_id": "tt34098175"
   },
   {
-    "name": "Under a Dark Sun",
+    "name": "The Gringo Hunters",
     "type": "series",
-    "imdb_id": "tt36125791"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "The Narcotic Operation",
-    "type": "series",
-    "imdb_id": "tt35045720"
+    "imdb_id": "tt31220187"
   }
 ]

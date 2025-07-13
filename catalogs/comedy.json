@@ -1,8 +1,8 @@
 [
   {
-    "name": "The Late Show with Stephen Colbert",
+    "name": "Good Mythical Morning",
     "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt4087032"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -10,19 +10,19 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt3697842"
   },
   {
-    "name": "Rooster Teeth Animated Adventures",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt21740392"
+    "imdb_id": "tt2057880"
   },
   {
-    "name": "Late Show with David Letterman",
+    "name": "The Colbert Report",
     "type": "series",
-    "imdb_id": "tt0106053"
+    "imdb_id": "tt0458254"
   },
   {
     "name": "Doraemon",
@@ -35,14 +35,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Brooklyn Nine-Nine",
+    "name": "Rooster Teeth Animated Adventures",
     "type": "series",
-    "imdb_id": "tt2467372"
-  },
-  {
-    "name": "The Colbert Report",
-    "type": "series",
-    "imdb_id": "tt0458254"
+    "imdb_id": "tt21740392"
   },
   {
     "name": "Men on a Mission",
@@ -50,39 +45,9 @@
     "imdb_id": "tt5247622"
   },
   {
-    "name": "Conan",
-    "type": "series",
-    "imdb_id": "tt1637574"
-  },
-  {
-    "name": "The Late Late Show with Craig Ferguson",
-    "type": "series",
-    "imdb_id": "tt0437729"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Chespirito: Not Really on Purpose",
     "type": "series",
     "imdb_id": "tt34755671"
-  },
-  {
-    "name": "Last Man Standing",
-    "type": "series",
-    "imdb_id": "tt1828327"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -90,13 +55,48 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0106053"
+  },
+  {
+    "name": "Last Man Standing",
+    "type": "series",
+    "imdb_id": "tt1828327"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "The Late Late Show with Craig Ferguson",
+    "type": "series",
+    "imdb_id": "tt0437729"
+  },
+  {
+    "name": "2 Days and 1 Night",
+    "type": "series",
+    "imdb_id": "tt3247300"
+  },
+  {
+    "name": "Conan",
+    "type": "series",
+    "imdb_id": "tt1637574"
+  },
+  {
+    "name": "Infinite Challenge",
+    "type": "series",
+    "imdb_id": "tt4546568"
   }
 ]

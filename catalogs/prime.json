@@ -15,14 +15,24 @@
     "imdb_id": "tt24013752"
   },
   {
-    "name": "Neighbours",
-    "type": "series",
-    "imdb_id": "tt0088580"
-  },
-  {
     "name": "Ballard",
     "type": "series",
     "imdb_id": "tt26676904"
+  },
+  {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "INVINCIBLE",
@@ -30,9 +40,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Neighbours",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt0088580"
   },
   {
     "name": "Reacher",
@@ -45,19 +55,9 @@
     "imdb_id": "tt32559610"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
   },
   {
     "name": "The Chosen",
@@ -65,9 +65,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Just Add Magic",
+    "name": "Mentiras, The Series",
     "type": "series",
-    "imdb_id": "tt3952746"
+    "imdb_id": "tt31690920"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
   },
   {
     "name": "The Wheel of Time",
@@ -75,9 +80,9 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Mentiras, The Series",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt31690920"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "We Were Liars",
@@ -85,18 +90,13 @@
     "imdb_id": "tt3914054"
   },
   {
-    "name": "The Expanse",
+    "name": "The Grand Tour",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt5712554"
   },
   {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   }
 ]
