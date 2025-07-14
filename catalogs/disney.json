@@ -5,19 +5,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Andor",
@@ -25,14 +20,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt8111088"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt13650480"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -40,9 +35,9 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "The Mandalorian",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -50,19 +45,24 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "The Voice Brasil",
-    "type": "series",
-    "imdb_id": "tt2162116"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Viña del Mar International Song Festival",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt2062574"
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Star Wars: Tales of the Jedi",
+    "type": "series",
+    "imdb_id": "tt20723374"
+  },
+  {
+    "name": "The Voice Brasil",
+    "type": "series",
+    "imdb_id": "tt2162116"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -70,19 +70,14 @@
     "imdb_id": "tt9208876"
   },
   {
-    "name": "The Wonderful World of Mickey Mouse",
+    "name": "Viña del Mar International Song Festival",
     "type": "series",
-    "imdb_id": "tt13089270"
+    "imdb_id": "tt2062574"
   },
   {
-    "name": "The Book of Boba Fett",
+    "name": "The Mysterious Benedict Society",
     "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt11875316"
   },
   {
     "name": "Moon Knight",
@@ -90,13 +85,18 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "National Treasure: Edge of History",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt12580982"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "The Wonderful World of Mickey Mouse",
+    "type": "series",
+    "imdb_id": "tt13089270"
   }
 ]

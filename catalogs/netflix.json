@@ -55,6 +55,11 @@
     "imdb_id": "tt1751634"
   },
   {
+    "name": "Love, Death & Robots",
+    "type": "series",
+    "imdb_id": "tt9561862"
+  },
+  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
@@ -80,16 +85,6 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Love, Death & Robots",
-    "type": "series",
-    "imdb_id": "tt9561862"
-  },
-  {
-    "name": "The Umbrella Academy",
-    "type": "series",
-    "imdb_id": "tt1312171"
-  },
-  {
     "name": "Unbreakable Kimmy Schmidt",
     "type": "series",
     "imdb_id": "tt3339966"
@@ -98,5 +93,10 @@
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
+  },
+  {
+    "name": "The Gringo Hunters",
+    "type": "series",
+    "imdb_id": "tt31220187"
   }
 ]

@@ -45,19 +45,29 @@
     "imdb_id": "tt9603208"
   },
   {
+    "name": "Brick",
+    "type": "movie",
+    "imdb_id": "tt31806049"
+  },
+  {
+    "name": "Seeds",
+    "type": "movie",
+    "imdb_id": "tt28133272"
+  },
+  {
     "name": "The Amateur",
     "type": "movie",
     "imdb_id": "tt0899043"
   },
   {
-    "name": "Crazy Lizard",
-    "type": "movie",
-    "imdb_id": "tt32169142"
-  },
-  {
     "name": "28 Years Later",
     "type": "movie",
     "imdb_id": "tt10548174"
+  },
+  {
+    "name": "Crazy Lizard",
+    "type": "movie",
+    "imdb_id": "tt32169142"
   },
   {
     "name": "Diablo",
@@ -70,26 +80,6 @@
     "imdb_id": "tt26434746"
   },
   {
-    "name": "Seeds",
-    "type": "movie",
-    "imdb_id": "tt28133272"
-  },
-  {
-    "name": "Brick",
-    "type": "movie",
-    "imdb_id": "tt31806049"
-  },
-  {
-    "name": "M3GAN 2.0",
-    "type": "movie",
-    "imdb_id": "tt26342662"
-  },
-  {
-    "name": "STRAW",
-    "type": "movie",
-    "imdb_id": "tt32550101"
-  },
-  {
     "name": "The Accountant²",
     "type": "movie",
     "imdb_id": "tt7068946"
@@ -98,5 +88,15 @@
     "name": "A Working Man",
     "type": "movie",
     "imdb_id": "tt9150192"
+  },
+  {
+    "name": "Predator: Killer of Killers",
+    "type": "movie",
+    "imdb_id": "tt36463894"
+  },
+  {
+    "name": "M3GAN 2.0",
+    "type": "movie",
+    "imdb_id": "tt26342662"
   }
 ]
