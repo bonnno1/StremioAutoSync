@@ -5,14 +5,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Game of Thrones",
@@ -20,14 +20,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Pokémon",
@@ -35,19 +30,9 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "CID",
@@ -55,34 +40,9 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Jake and the Never Land Pirates",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt1833403"
-  },
-  {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
-    "name": "Dragon Ball Z",
-    "type": "series",
-    "imdb_id": "tt0121220"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "G.I. Joe: A Real American Hero",
-    "type": "series",
-    "imdb_id": "tt0337762"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "SUPERKID",
@@ -90,8 +50,48 @@
     "imdb_id": "tt4567010"
   },
   {
-    "name": "The Curse of Oak Island",
+    "name": "Jake and the Never Land Pirates",
     "type": "series",
-    "imdb_id": "tt3455408"
+    "imdb_id": "tt1833403"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Star Trek: Deep Space Nine",
+    "type": "series",
+    "imdb_id": "tt0106145"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Dragon Ball Z",
+    "type": "series",
+    "imdb_id": "tt0121220"
+  },
+  {
+    "name": "V.I.P.",
+    "type": "series",
+    "imdb_id": "tt0134269"
   }
 ]

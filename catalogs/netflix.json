@@ -20,11 +20,6 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "VeggieTales in the House",
-    "type": "series",
-    "imdb_id": "tt3692064"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
@@ -35,14 +30,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Kung Fu Panda: The Dragon Knight",
+    "name": "VeggieTales in the House",
     "type": "series",
-    "imdb_id": "tt18783984"
-  },
-  {
-    "name": "Fast & Furious Spy Racers",
-    "type": "series",
-    "imdb_id": "tt8322592"
+    "imdb_id": "tt3692064"
   },
   {
     "name": "Black Mirror",
@@ -50,14 +40,24 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Fast & Furious Spy Racers",
+    "type": "series",
+    "imdb_id": "tt8322592"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Voltron: Legendary Defender",
+    "type": "series",
+    "imdb_id": "tt5580664"
+  },
+  {
     "name": "The Sandman",
     "type": "series",
     "imdb_id": "tt1751634"
-  },
-  {
-    "name": "Love, Death & Robots",
-    "type": "series",
-    "imdb_id": "tt9561862"
   },
   {
     "name": "Cobra Kai",
@@ -70,24 +70,24 @@
     "imdb_id": "tt10795658"
   },
   {
+    "name": "Marvel's Daredevil",
+    "type": "series",
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "The Gringo Hunters",
+    "type": "series",
+    "imdb_id": "tt31220187"
+  },
+  {
+    "name": "Love, Death & Robots",
+    "type": "series",
+    "imdb_id": "tt9561862"
+  },
+  {
     "name": "Grace and Frankie",
     "type": "series",
     "imdb_id": "tt3609352"
-  },
-  {
-    "name": "Manifest",
-    "type": "series",
-    "imdb_id": "tt8421350"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Unbreakable Kimmy Schmidt",
-    "type": "series",
-    "imdb_id": "tt3339966"
   },
   {
     "name": "Sex Education",
@@ -95,8 +95,8 @@
     "imdb_id": "tt7767422"
   },
   {
-    "name": "The Gringo Hunters",
+    "name": "Unbreakable Kimmy Schmidt",
     "type": "series",
-    "imdb_id": "tt31220187"
+    "imdb_id": "tt3339966"
   }
 ]
