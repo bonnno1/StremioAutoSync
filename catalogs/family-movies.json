@@ -1,5 +1,10 @@
 [
   {
+    "name": "How to Train Your Dragon",
+    "type": "movie",
+    "imdb_id": "tt26743210"
+  },
+  {
     "name": "Lilo & Stitch",
     "type": "movie",
     "imdb_id": "tt11655566"
@@ -13,11 +18,6 @@
     "name": "Dora and the Search for Sol Dorado",
     "type": "movie",
     "imdb_id": "tt32621553"
-  },
-  {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt26743210"
   },
   {
     "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
@@ -35,14 +35,14 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "Snow White",
-    "type": "movie",
-    "imdb_id": "tt6208148"
-  },
-  {
     "name": "Sonic the Hedgehog 3",
     "type": "movie",
     "imdb_id": "tt18259086"
+  },
+  {
+    "name": "Snow White",
+    "type": "movie",
+    "imdb_id": "tt6208148"
   },
   {
     "name": "Kayara",
@@ -80,6 +80,11 @@
     "imdb_id": "tt21692408"
   },
   {
+    "name": "Sneaks",
+    "type": "movie",
+    "imdb_id": "tt9254940"
+  },
+  {
     "name": "Snow White",
     "type": "movie",
     "imdb_id": "tt35983585"
@@ -88,11 +93,6 @@
     "name": "How to Train Your Dragon 2",
     "type": "movie",
     "imdb_id": "tt1646971"
-  },
-  {
-    "name": "The Wild Robot",
-    "type": "movie",
-    "imdb_id": "tt29623480"
   },
   {
     "name": "How to Train Your Dragon: The Hidden World",

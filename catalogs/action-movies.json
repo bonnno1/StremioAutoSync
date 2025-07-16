@@ -5,14 +5,19 @@
     "imdb_id": "tt1674782"
   },
   {
-    "name": "Superman",
+    "name": "How to Train Your Dragon",
     "type": "movie",
-    "imdb_id": "tt5950044"
+    "imdb_id": "tt26743210"
   },
   {
     "name": "Almost Cops",
     "type": "movie",
     "imdb_id": "tt27675583"
+  },
+  {
+    "name": "Superman",
+    "type": "movie",
+    "imdb_id": "tt5950044"
   },
   {
     "name": "Ballerina",
@@ -25,14 +30,14 @@
     "imdb_id": "tt27621210"
   },
   {
+    "name": "M3GAN 2.0",
+    "type": "movie",
+    "imdb_id": "tt26342662"
+  },
+  {
     "name": "The Old Guard 2",
     "type": "movie",
     "imdb_id": "tt14961624"
-  },
-  {
-    "name": "Thunderbolts*",
-    "type": "movie",
-    "imdb_id": "tt20969586"
   },
   {
     "name": "Ziam",
@@ -40,24 +45,24 @@
     "imdb_id": "tt35669009"
   },
   {
-    "name": "Jurassic World Rebirth",
-    "type": "movie",
-    "imdb_id": "tt31036941"
-  },
-  {
     "name": "Heads of State",
     "type": "movie",
     "imdb_id": "tt13357520"
   },
   {
+    "name": "Jurassic World Rebirth",
+    "type": "movie",
+    "imdb_id": "tt31036941"
+  },
+  {
+    "name": "Thunderbolts*",
+    "type": "movie",
+    "imdb_id": "tt20969586"
+  },
+  {
     "name": "KPop Demon Hunters",
     "type": "movie",
     "imdb_id": "tt14205554"
-  },
-  {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt26743210"
   },
   {
     "name": "F1",
@@ -93,10 +98,5 @@
     "name": "The Twisters",
     "type": "movie",
     "imdb_id": "tt31828378"
-  },
-  {
-    "name": "The Amateur",
-    "type": "movie",
-    "imdb_id": "tt0899043"
   }
 ]

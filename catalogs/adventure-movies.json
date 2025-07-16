@@ -60,11 +60,6 @@
     "imdb_id": "tt6300910"
   },
   {
-    "name": "Jurassic World Dominion",
-    "type": "movie",
-    "imdb_id": "tt8041270"
-  },
-  {
     "name": "Candle in the Tomb: The Worm Valley",
     "type": "movie",
     "imdb_id": "tt33293355"
@@ -73,6 +68,11 @@
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Jurassic World Dominion",
+    "type": "movie",
+    "imdb_id": "tt8041270"
   },
   {
     "name": "The Fantastic Four: First Steps",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0369610"
   },
   {
-    "name": "Jurassic World: Fallen Kingdom",
-    "type": "movie",
-    "imdb_id": "tt4881806"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt0892769"
+  },
+  {
+    "name": "Jurassic World: Fallen Kingdom",
+    "type": "movie",
+    "imdb_id": "tt4881806"
   }
 ]
