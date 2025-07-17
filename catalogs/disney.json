@@ -5,14 +5,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Andor",
@@ -75,6 +75,16 @@
     "imdb_id": "tt11875316"
   },
   {
+    "name": "Low Life",
+    "type": "series",
+    "imdb_id": "tt32122656"
+  },
+  {
+    "name": "LIGHT & MAGIC",
+    "type": "series",
+    "imdb_id": "tt19896784"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
@@ -88,15 +98,5 @@
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "The Wonderful World of Mickey Mouse",
-    "type": "series",
-    "imdb_id": "tt13089270"
-  },
-  {
-    "name": "Your Friendly Neighborhood Spider-Man",
-    "type": "series",
-    "imdb_id": "tt16027074"
   }
 ]

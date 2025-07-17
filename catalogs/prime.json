@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -15,9 +20,9 @@
     "imdb_id": "tt24013752"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt3502248"
   },
   {
     "name": "Ballard",
@@ -25,19 +30,9 @@
     "imdb_id": "tt26676904"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
-  },
-  {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
   },
   {
     "name": "The Chosen",
@@ -45,19 +40,19 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Crayon Shin-chan Spin-off",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt6356114"
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
   },
   {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
   },
   {
     "name": "Countdown",
@@ -70,6 +65,11 @@
     "imdb_id": "tt3230854"
   },
   {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
+  },
+  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
@@ -80,9 +80,9 @@
     "imdb_id": "tt31690920"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt4687880"
   },
   {
     "name": "We Were Liars",
@@ -90,13 +90,13 @@
     "imdb_id": "tt3914054"
   },
   {
-    "name": "Goliath",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt12637874"
   },
   {
-    "name": "The Grand Tour",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt5712554"
+    "imdb_id": "tt11247158"
   }
 ]

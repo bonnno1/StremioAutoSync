@@ -35,11 +35,6 @@
     "imdb_id": "tt31193180"
   },
   {
-    "name": "Crazy Lizard",
-    "type": "movie",
-    "imdb_id": "tt32169142"
-  },
-  {
     "name": "28 Years Later",
     "type": "movie",
     "imdb_id": "tt10548174"
@@ -50,19 +45,24 @@
     "imdb_id": "tt28133272"
   },
   {
+    "name": "Crazy Lizard",
+    "type": "movie",
+    "imdb_id": "tt32169142"
+  },
+  {
     "name": "Candle in the Tomb: The Worm Valley",
     "type": "movie",
     "imdb_id": "tt33293355"
   },
   {
-    "name": "Clown in a Cornfield",
-    "type": "movie",
-    "imdb_id": "tt23060698"
-  },
-  {
     "name": "Hell of a Summer",
     "type": "movie",
     "imdb_id": "tt21267296"
+  },
+  {
+    "name": "Clown in a Cornfield",
+    "type": "movie",
+    "imdb_id": "tt23060698"
   },
   {
     "name": "The Ugly Stepsister",
@@ -73,6 +73,11 @@
     "name": "The Substance",
     "type": "movie",
     "imdb_id": "tt17526714"
+  },
+  {
+    "name": "I Know What You Did Last Summer",
+    "type": "movie",
+    "imdb_id": "tt4045450"
   },
   {
     "name": "Until Dawn",
@@ -90,13 +95,8 @@
     "imdb_id": "tt0289043"
   },
   {
-    "name": "The Monkey",
+    "name": "M3GAN",
     "type": "movie",
-    "imdb_id": "tt27714946"
-  },
-  {
-    "name": "Frankie Freako",
-    "type": "movie",
-    "imdb_id": "tt32203531"
+    "imdb_id": "tt8760708"
   }
 ]

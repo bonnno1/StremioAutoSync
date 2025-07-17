@@ -15,11 +15,6 @@
     "imdb_id": "tt4567010"
   },
   {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -30,14 +25,14 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
   },
   {
     "name": "PAW Patrol",
@@ -45,24 +40,9 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Shimmer and Shine",
-    "type": "series",
-    "imdb_id": "tt4494948"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -70,9 +50,19 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Bunnicula",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt5444412"
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "Shimmer and Shine",
+    "type": "series",
+    "imdb_id": "tt4494948"
   },
   {
     "name": "G.I. Joe: A Real American Hero",
@@ -80,13 +70,23 @@
     "imdb_id": "tt0337762"
   },
   {
-    "name": "The 7D",
+    "name": "Shin Chan",
     "type": "series",
-    "imdb_id": "tt2219622"
+    "imdb_id": "tt12853970"
   },
   {
-    "name": "CatDog",
+    "name": "Chi's Sweet Home",
     "type": "series",
-    "imdb_id": "tt0154061"
+    "imdb_id": "tt1276525"
+  },
+  {
+    "name": "The Spooktacular New Adventures of Casper",
+    "type": "series",
+    "imdb_id": "tt0115128"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
   }
 ]

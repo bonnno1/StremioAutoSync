@@ -5,6 +5,11 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -15,24 +20,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "VeggieTales in the House",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt3692064"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Black Mirror",
@@ -45,9 +40,14 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Fast & Furious Spy Racers",
+    "name": "The Sandman",
     "type": "series",
-    "imdb_id": "tt8322592"
+    "imdb_id": "tt1751634"
+  },
+  {
+    "name": "VeggieTales in the House",
+    "type": "series",
+    "imdb_id": "tt3692064"
   },
   {
     "name": "Voltron: Legendary Defender",
@@ -55,9 +55,19 @@
     "imdb_id": "tt5580664"
   },
   {
-    "name": "The Sandman",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt1751634"
+    "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
+  },
+  {
+    "name": "Fast & Furious Spy Racers",
+    "type": "series",
+    "imdb_id": "tt8322592"
   },
   {
     "name": "Cobra Kai",
@@ -65,14 +75,19 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Unbreakable Kimmy Schmidt",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt3339966"
   },
   {
     "name": "Marvel's Daredevil",
     "type": "series",
     "imdb_id": "tt3322312"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   },
   {
     "name": "The Gringo Hunters",
@@ -83,20 +98,5 @@
     "name": "Love, Death & Robots",
     "type": "series",
     "imdb_id": "tt9561862"
-  },
-  {
-    "name": "Grace and Frankie",
-    "type": "series",
-    "imdb_id": "tt3609352"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
-    "name": "Unbreakable Kimmy Schmidt",
-    "type": "series",
-    "imdb_id": "tt3339966"
   }
 ]
