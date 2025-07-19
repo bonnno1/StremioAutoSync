@@ -5,24 +5,24 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
     "name": "KPop Demon Hunters",
     "type": "movie",
     "imdb_id": "tt14205554"
   },
   {
-    "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+    "name": "Lilo & Stitch",
     "type": "movie",
-    "imdb_id": "tt31241595"
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Dora and the Search for Sol Dorado",
     "type": "movie",
     "imdb_id": "tt32621553"
+  },
+  {
+    "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+    "type": "movie",
+    "imdb_id": "tt31241595"
   },
   {
     "name": "A Minecraft Movie",
@@ -40,6 +40,11 @@
     "imdb_id": "tt13622970"
   },
   {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
+  },
+  {
     "name": "Snow White",
     "type": "movie",
     "imdb_id": "tt6208148"
@@ -55,14 +60,14 @@
     "imdb_id": "tt0892769"
   },
   {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
     "name": "Kayara",
     "type": "movie",
     "imdb_id": "tt11846550"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
   },
   {
     "name": "Despicable Me 4",
@@ -70,19 +75,9 @@
     "imdb_id": "tt7510222"
   },
   {
-    "name": "How to Train Your Dragon 2",
-    "type": "movie",
-    "imdb_id": "tt1646971"
-  },
-  {
     "name": "Kung Fu Panda 4",
     "type": "movie",
     "imdb_id": "tt21692408"
-  },
-  {
-    "name": "Elio",
-    "type": "movie",
-    "imdb_id": "tt4900148"
   },
   {
     "name": "Mufasa: The Lion King",
@@ -90,13 +85,18 @@
     "imdb_id": "tt13186482"
   },
   {
-    "name": "Smurfs",
+    "name": "How to Train Your Dragon 2",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt1646971"
   },
   {
-    "name": "How to Train Your Dragon: The Hidden World",
+    "name": "Elio",
     "type": "movie",
-    "imdb_id": "tt2386490"
+    "imdb_id": "tt4900148"
+  },
+  {
+    "name": "Snow White",
+    "type": "movie",
+    "imdb_id": "tt35983585"
   }
 ]

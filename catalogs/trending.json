@@ -1,10 +1,5 @@
 [
   {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
     "name": "Dexter: Resurrection",
     "type": "series",
     "imdb_id": "tt33043892"
@@ -15,19 +10,19 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "UNTAMED",
     "type": "series",
     "imdb_id": "tt31710822"
   },
   {
-    "name": "S Line",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt36056620"
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Revenged Love",
+    "type": "series",
+    "imdb_id": "tt37370861"
   },
   {
     "name": "Dan Da Dan",
@@ -35,19 +30,19 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Star Trek: Strange New Worlds",
     "type": "series",
     "imdb_id": "tt12327578"
   },
   {
-    "name": "Ballard",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt26676904"
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "S Line",
+    "type": "series",
+    "imdb_id": "tt36056620"
   },
   {
     "name": "One Piece",
@@ -55,19 +50,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
-  },
-  {
     "name": "The Institute",
     "type": "series",
     "imdb_id": "tt10946316"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "The Narcotic Operation",
@@ -75,14 +60,29 @@
     "imdb_id": "tt35045720"
   },
   {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "SAKAMOTO DAYS",
     "type": "series",
     "imdb_id": "tt17069148"
-  },
-  {
-    "name": "New PANTY & STOCKING with GARTERBELT",
-    "type": "series",
-    "imdb_id": "tt34098175"
   },
   {
     "name": "My Dress-Up Darling",
@@ -90,13 +90,13 @@
     "imdb_id": "tt15765670"
   },
   {
-    "name": "Smoke",
+    "name": "The Apothecary Diaries",
     "type": "series",
-    "imdb_id": "tt24163532"
+    "imdb_id": "tt26743760"
   },
   {
-    "name": "Ling Cage",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt10827146"
+    "imdb_id": "tt13623126"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "The Mandalorian",
@@ -30,24 +30,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Bref",
-    "type": "series",
-    "imdb_id": "tt2044128"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -55,19 +40,19 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "The Big Fib",
+    "name": "Bref",
     "type": "series",
-    "imdb_id": "tt11241096"
+    "imdb_id": "tt2044128"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt20674124"
   },
   {
-    "name": "The Falcon and the Winter Soldier",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt9208876"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Moon Knight",
@@ -80,6 +65,21 @@
     "imdb_id": "tt13622982"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
+  },
+  {
+    "name": "Low Life",
+    "type": "series",
+    "imdb_id": "tt32122656"
+  },
+  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
@@ -90,13 +90,13 @@
     "imdb_id": "tt10166602"
   },
   {
-    "name": "Moving",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt8610082"
   },
   {
-    "name": "Low Life",
+    "name": "LIGHT & MAGIC",
     "type": "series",
-    "imdb_id": "tt32122656"
+    "imdb_id": "tt19896784"
   }
 ]

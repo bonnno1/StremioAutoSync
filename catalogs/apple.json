@@ -5,6 +5,11 @@
     "imdb_id": "tt0804484"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
@@ -15,14 +20,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "The Snoopy Show",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt13206602"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Silo",
@@ -30,19 +30,19 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Ted Lasso",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt7203552"
   },
   {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
+  },
+  {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
   },
   {
     "name": "The Buccaneers",
@@ -55,39 +55,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Smoke",
-    "type": "series",
-    "imdb_id": "tt24163532"
-  },
-  {
-    "name": "Carpool Karaoke: The Series",
-    "type": "series",
-    "imdb_id": "tt6396082"
-  },
-  {
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Servant",
-    "type": "series",
-    "imdb_id": "tt8068860"
   },
   {
     "name": "Mythic Quest",
@@ -95,8 +65,38 @@
     "imdb_id": "tt8879940"
   },
   {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
     "name": "Masters of the Air",
     "type": "series",
     "imdb_id": "tt2640044"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "The Snoopy Show",
+    "type": "series",
+    "imdb_id": "tt13206602"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Carpool Karaoke: The Series",
+    "type": "series",
+    "imdb_id": "tt6396082"
   }
 ]
