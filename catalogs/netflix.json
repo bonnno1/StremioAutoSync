@@ -5,14 +5,19 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Lucifer",
+    "name": "Untamed",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt31710822"
   },
   {
     "name": "Stranger Things",
@@ -20,34 +25,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt4052886"
   },
   {
-    "name": "UNTAMED",
+    "name": "Comedians in Cars Getting Coffee",
     "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
-    "name": "Unbreakable Kimmy Schmidt",
-    "type": "series",
-    "imdb_id": "tt3339966"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Home: Adventures with Tip & Oh",
-    "type": "series",
-    "imdb_id": "tt5759196"
-  },
-  {
-    "name": "Virgin River",
-    "type": "series",
-    "imdb_id": "tt9077530"
+    "imdb_id": "tt2314952"
   },
   {
     "name": "Black Mirror",
@@ -55,19 +40,19 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "The Dragon Prince",
+    "name": "Chilling Adventures of Sabrina",
     "type": "series",
-    "imdb_id": "tt8688814"
+    "imdb_id": "tt7569592"
   },
   {
-    "name": "Marvel's Daredevil",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt3322312"
+    "imdb_id": "tt0458290"
   },
   {
-    "name": "The Umbrella Academy",
+    "name": "TIGER & BUNNY",
     "type": "series",
-    "imdb_id": "tt1312171"
+    "imdb_id": "tt2061527"
   },
   {
     "name": "Sex Education",
@@ -80,9 +65,9 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "The Lincoln Lawyer",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt13833978"
   },
   {
     "name": "You",
@@ -90,13 +75,28 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "The Lincoln Lawyer",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt13833978"
+    "imdb_id": "tt10293938"
   },
   {
-    "name": "The Adventures of Puss in Boots",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt3807034"
+    "imdb_id": "tt3398228"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Marvel's Daredevil",
+    "type": "series",
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "Unbreakable Kimmy Schmidt",
+    "type": "series",
+    "imdb_id": "tt3339966"
   }
 ]

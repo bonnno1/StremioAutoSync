@@ -15,14 +15,14 @@
     "imdb_id": "tt11655566"
   },
   {
-    "name": "Dora and the Search for Sol Dorado",
-    "type": "movie",
-    "imdb_id": "tt32621553"
-  },
-  {
     "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
     "type": "movie",
     "imdb_id": "tt31241595"
+  },
+  {
+    "name": "Dora and the Search for Sol Dorado",
+    "type": "movie",
+    "imdb_id": "tt32621553"
   },
   {
     "name": "A Minecraft Movie",
@@ -60,29 +60,19 @@
     "imdb_id": "tt0892769"
   },
   {
-    "name": "Kayara",
-    "type": "movie",
-    "imdb_id": "tt11846550"
-  },
-  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
   },
   {
+    "name": "Kayara",
+    "type": "movie",
+    "imdb_id": "tt11846550"
+  },
+  {
     "name": "Despicable Me 4",
     "type": "movie",
     "imdb_id": "tt7510222"
-  },
-  {
-    "name": "Kung Fu Panda 4",
-    "type": "movie",
-    "imdb_id": "tt21692408"
-  },
-  {
-    "name": "Mufasa: The Lion King",
-    "type": "movie",
-    "imdb_id": "tt13186482"
   },
   {
     "name": "How to Train Your Dragon 2",
@@ -95,8 +85,18 @@
     "imdb_id": "tt4900148"
   },
   {
-    "name": "Snow White",
+    "name": "Kung Fu Panda 4",
     "type": "movie",
-    "imdb_id": "tt35983585"
+    "imdb_id": "tt21692408"
+  },
+  {
+    "name": "Mufasa: The Lion King",
+    "type": "movie",
+    "imdb_id": "tt13186482"
+  },
+  {
+    "name": "How to Train Your Dragon: The Hidden World",
+    "type": "movie",
+    "imdb_id": "tt2386490"
   }
 ]

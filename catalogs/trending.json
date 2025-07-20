@@ -1,63 +1,13 @@
 [
   {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "UNTAMED",
+    "name": "Untamed",
     "type": "series",
     "imdb_id": "tt31710822"
   },
   {
-    "name": "Squid Game",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "S Line",
-    "type": "series",
-    "imdb_id": "tt36056620"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Institute",
-    "type": "series",
-    "imdb_id": "tt10946316"
-  },
-  {
-    "name": "The Narcotic Operation",
-    "type": "series",
-    "imdb_id": "tt35045720"
+    "imdb_id": "tt33043892"
   },
   {
     "name": "Kaiju No. 8",
@@ -65,9 +15,49 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "Ballard",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt26676904"
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "The Institute",
+    "type": "series",
+    "imdb_id": "tt10946316"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "S Line",
+    "type": "series",
+    "imdb_id": "tt36056620"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Murderbot",
@@ -75,9 +65,14 @@
     "imdb_id": "tt30444310"
   },
   {
-    "name": "Stranger Things",
+    "name": "Revenged Love",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt37370861"
+  },
+  {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -90,13 +85,18 @@
     "imdb_id": "tt15765670"
   },
   {
-    "name": "The Apothecary Diaries",
+    "name": "The Narcotic Operation",
     "type": "series",
-    "imdb_id": "tt26743760"
+    "imdb_id": "tt35045720"
   },
   {
-    "name": "Ironheart",
+    "name": "Attack on Titan",
     "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt2560140"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   }
 ]

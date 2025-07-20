@@ -30,19 +30,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
-    "name": "Ballard",
-    "type": "series",
-    "imdb_id": "tt26676904"
-  },
-  {
-    "name": "Lost in Oz",
-    "type": "series",
-    "imdb_id": "tt4677846"
+    "imdb_id": "tt9288030"
   },
   {
     "name": "The Chosen",
@@ -50,14 +40,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   },
   {
     "name": "The Wheel of Time",
@@ -65,14 +55,9 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Carnival Row",
+    "name": "Ballard",
     "type": "series",
-    "imdb_id": "tt0489974"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
+    "imdb_id": "tt26676904"
   },
   {
     "name": "The Man in the High Castle",
@@ -85,18 +70,33 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
-  },
-  {
     "name": "Mentiras, The Series",
     "type": "series",
     "imdb_id": "tt31690920"
   },
   {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
+  },
+  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Carnival Row",
+    "type": "series",
+    "imdb_id": "tt0489974"
+  },
+  {
+    "name": "We Were Liars",
+    "type": "series",
+    "imdb_id": "tt3914054"
+  },
+  {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
   }
 ]
