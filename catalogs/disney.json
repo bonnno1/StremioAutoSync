@@ -1,8 +1,18 @@
 [
   {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Bref",
+    "type": "series",
+    "imdb_id": "tt2044128"
   },
   {
     "name": "Ironheart",
@@ -35,14 +45,29 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Bref",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt2044128"
+    "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Star Wars: Tales of the Jedi",
+    "type": "series",
+    "imdb_id": "tt20723374"
+  },
+  {
+    "name": "National Treasure: Edge of History",
+    "type": "series",
+    "imdb_id": "tt12580982"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -50,9 +75,9 @@
     "imdb_id": "tt20674124"
   },
   {
-    "name": "What If...?",
+    "name": "I Am Groot",
     "type": "series",
-    "imdb_id": "tt10168312"
+    "imdb_id": "tt13623148"
   },
   {
     "name": "Moon Knight",
@@ -65,38 +90,13 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "The Falcon and the Winter Soldier",
     "type": "series",
     "imdb_id": "tt9208876"
   },
   {
-    "name": "Low Life",
-    "type": "series",
-    "imdb_id": "tt32122656"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
-  },
-  {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
-  },
-  {
-    "name": "LIGHT & MAGIC",
-    "type": "series",
-    "imdb_id": "tt19896784"
   }
 ]

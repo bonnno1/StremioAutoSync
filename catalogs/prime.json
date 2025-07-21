@@ -5,9 +5,9 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Vikings",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt11247158"
   },
   {
     "name": "Dirty Linen",
@@ -15,14 +15,19 @@
     "imdb_id": "tt24013752"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Bosch",
+    "name": "The Terminal List",
     "type": "series",
-    "imdb_id": "tt3502248"
+    "imdb_id": "tt11743610"
   },
   {
     "name": "INVINCIBLE",
@@ -30,9 +35,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Reacher",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt3502248"
   },
   {
     "name": "The Chosen",
@@ -40,9 +45,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Countdown",
@@ -50,19 +55,9 @@
     "imdb_id": "tt32559610"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Ballard",
-    "type": "series",
-    "imdb_id": "tt26676904"
-  },
-  {
-    "name": "The Man in the High Castle",
-    "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "The Expanse",
@@ -70,33 +65,38 @@
     "imdb_id": "tt3230854"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
     "name": "Mentiras, The Series",
     "type": "series",
     "imdb_id": "tt31690920"
   },
   {
-    "name": "The Marvelous Mrs. Maisel",
+    "name": "Just Add Magic",
     "type": "series",
-    "imdb_id": "tt5788792"
+    "imdb_id": "tt3952746"
   },
   {
-    "name": "Goliath",
+    "name": "Ballard",
     "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
-    "name": "Carnival Row",
-    "type": "series",
-    "imdb_id": "tt0489974"
-  },
-  {
-    "name": "We Were Liars",
-    "type": "series",
-    "imdb_id": "tt3914054"
+    "imdb_id": "tt26676904"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
     "type": "series",
     "imdb_id": "tt5057054"
+  },
+  {
+    "name": "Z: The Beginning of Everything",
+    "type": "series",
+    "imdb_id": "tt4878612"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
   }
 ]
