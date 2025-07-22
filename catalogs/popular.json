@@ -1,13 +1,13 @@
 [
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -30,9 +30,9 @@
     "imdb_id": "tt0096597"
   },
   {
-    "name": "The Daily Show",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt2057880"
   },
   {
     "name": "Squid Game",
@@ -40,9 +40,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "2 Days and 1 Night",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt3247300"
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Doraemon",
@@ -75,11 +75,6 @@
     "imdb_id": "tt6283624"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Men on a Mission",
     "type": "series",
     "imdb_id": "tt5247622"
@@ -98,5 +93,10 @@
     "name": "Bob's Burgers",
     "type": "series",
     "imdb_id": "tt1561755"
+  },
+  {
+    "name": "2 Days and 1 Night",
+    "type": "series",
+    "imdb_id": "tt3247300"
   }
 ]

@@ -1,18 +1,13 @@
 [
   {
-    "name": "Karate Kid: Legends",
-    "type": "movie",
-    "imdb_id": "tt1674782"
-  },
-  {
     "name": "Superman",
     "type": "movie",
     "imdb_id": "tt5950044"
   },
   {
-    "name": "Jurassic World Rebirth",
+    "name": "Karate Kid: Legends",
     "type": "movie",
-    "imdb_id": "tt31036941"
+    "imdb_id": "tt1674782"
   },
   {
     "name": "Lilo & Stitch",
@@ -20,19 +15,29 @@
     "imdb_id": "tt11655566"
   },
   {
+    "name": "Jurassic World Rebirth",
+    "type": "movie",
+    "imdb_id": "tt31036941"
+  },
+  {
     "name": "Thunderbolts*",
     "type": "movie",
     "imdb_id": "tt20969586"
   },
   {
-    "name": "Dora and the Search for Sol Dorado",
-    "type": "movie",
-    "imdb_id": "tt32621553"
-  },
-  {
     "name": "xXx",
     "type": "movie",
     "imdb_id": "tt0295701"
+  },
+  {
+    "name": "The Fantastic Four: First Steps",
+    "type": "movie",
+    "imdb_id": "tt10676052"
+  },
+  {
+    "name": "Dora and the Search for Sol Dorado",
+    "type": "movie",
+    "imdb_id": "tt32621553"
   },
   {
     "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
@@ -53,11 +58,6 @@
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
-  },
-  {
-    "name": "The Fantastic Four: First Steps",
-    "type": "movie",
-    "imdb_id": "tt10676052"
   },
   {
     "name": "The Twisters",

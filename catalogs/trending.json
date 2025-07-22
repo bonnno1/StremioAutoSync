@@ -1,13 +1,13 @@
 [
   {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
     "name": "UNTAMED",
     "type": "series",
     "imdb_id": "tt31710822"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Dexter: Resurrection",
@@ -15,19 +15,14 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "The Institute",
-    "type": "series",
-    "imdb_id": "tt10946316"
-  },
-  {
     "name": "Star Trek: Strange New Worlds",
     "type": "series",
     "imdb_id": "tt12327578"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "The Institute",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt10946316"
   },
   {
     "name": "Foundation",
@@ -35,39 +30,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "One Piece",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
-    "name": "S Line",
-    "type": "series",
-    "imdb_id": "tt36056620"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Stranger Things",
@@ -75,14 +40,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "The Narcotic Operation",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt35045720"
+    "imdb_id": "tt30217403"
   },
   {
-    "name": "My Dress-Up Darling",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt15765670"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -90,13 +55,48 @@
     "imdb_id": "tt17069148"
   },
   {
+    "name": "The Narcotic Operation",
+    "type": "series",
+    "imdb_id": "tt35045720"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "S Line",
+    "type": "series",
+    "imdb_id": "tt36056620"
+  },
+  {
+    "name": "Revenged Love",
+    "type": "series",
+    "imdb_id": "tt37370861"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "name": "Monogatari",
     "type": "series",
-    "imdb_id": "tt8993398"
+    "imdb_id": "tt1480925"
   }
 ]

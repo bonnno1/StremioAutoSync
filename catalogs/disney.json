@@ -1,18 +1,8 @@
 [
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Bref",
-    "type": "series",
-    "imdb_id": "tt2044128"
   },
   {
     "name": "Ironheart",
@@ -25,9 +15,19 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Bref",
+    "type": "series",
+    "imdb_id": "tt2044128"
   },
   {
     "name": "The Mandalorian",
@@ -35,24 +35,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "What If...?",
@@ -60,24 +50,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Star Wars: Tales of the Jedi",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt20723374"
-  },
-  {
-    "name": "National Treasure: Edge of History",
-    "type": "series",
-    "imdb_id": "tt12580982"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "I Am Groot",
-    "type": "series",
-    "imdb_id": "tt13623148"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Moon Knight",
@@ -85,18 +60,43 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Marvel Studios Assembled",
+    "type": "series",
+    "imdb_id": "tt14094206"
+  },
+  {
+    "name": "I Am Groot",
+    "type": "series",
+    "imdb_id": "tt13623148"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
   },
   {
-    "name": "The Falcon and the Winter Soldier",
-    "type": "series",
-    "imdb_id": "tt9208876"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "LIGHT & MAGIC",
+    "type": "series",
+    "imdb_id": "tt19896784"
+  },
+  {
+    "name": "Star Wars: Tales of the Jedi",
+    "type": "series",
+    "imdb_id": "tt20723374"
   }
 ]
