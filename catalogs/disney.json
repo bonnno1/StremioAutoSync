@@ -35,14 +35,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "What If...?",
@@ -60,16 +60,6 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Marvel Studios Assembled",
-    "type": "series",
-    "imdb_id": "tt14094206"
-  },
-  {
-    "name": "I Am Groot",
-    "type": "series",
-    "imdb_id": "tt13623148"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -80,9 +70,19 @@
     "imdb_id": "tt20674124"
   },
   {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Star Wars: Tales of the Jedi",
+    "type": "series",
+    "imdb_id": "tt20723374"
   },
   {
     "name": "WandaVision",
@@ -90,13 +90,13 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Low Life",
+    "type": "series",
+    "imdb_id": "tt32122656"
+  },
+  {
     "name": "LIGHT & MAGIC",
     "type": "series",
     "imdb_id": "tt19896784"
-  },
-  {
-    "name": "Star Wars: Tales of the Jedi",
-    "type": "series",
-    "imdb_id": "tt20723374"
   }
 ]

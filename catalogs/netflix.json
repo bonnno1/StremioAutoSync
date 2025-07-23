@@ -5,14 +5,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "UNTAMED",
+    "type": "series",
+    "imdb_id": "tt31710822"
   },
   {
     "name": "Stranger Things",
@@ -25,24 +25,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Comedians in Cars Getting Coffee",
-    "type": "series",
-    "imdb_id": "tt2314952"
-  },
-  {
-    "name": "House of Cards",
-    "type": "series",
-    "imdb_id": "tt1856010"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "The Cuphead Show!",
-    "type": "series",
-    "imdb_id": "tt10611608"
   },
   {
     "name": "Black Mirror",
@@ -50,19 +35,14 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
   },
   {
-    "name": "You",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Sex Education",
@@ -70,14 +50,19 @@
     "imdb_id": "tt7767422"
   },
   {
-    "name": "Chilling Adventures of Sabrina",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt7569592"
+    "imdb_id": "tt7335184"
   },
   {
-    "name": "TIGER & BUNNY",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt2061527"
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "House of Cards",
+    "type": "series",
+    "imdb_id": "tt1856010"
   },
   {
     "name": "Elite",
@@ -85,13 +70,33 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "The Lincoln Lawyer",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt13833978"
+    "imdb_id": "tt3398228"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt10293938"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "The Sandman",
+    "type": "series",
+    "imdb_id": "tt1751634"
+  },
+  {
+    "name": "Marvel's Daredevil",
+    "type": "series",
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
   }
 ]
