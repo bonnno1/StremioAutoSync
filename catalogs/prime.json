@@ -25,14 +25,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
   },
   {
     "name": "Reacher",
@@ -55,19 +55,14 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
-  },
-  {
     "name": "Countdown",
     "type": "series",
     "imdb_id": "tt32559610"
   },
   {
-    "name": "Ballard",
+    "name": "The Terminal List",
     "type": "series",
-    "imdb_id": "tt26676904"
+    "imdb_id": "tt11743610"
   },
   {
     "name": "The Expanse",
@@ -85,9 +80,14 @@
     "imdb_id": "tt5011816"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "Ballard",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt26676904"
+  },
+  {
+    "name": "We Were Liars",
+    "type": "series",
+    "imdb_id": "tt3914054"
   },
   {
     "name": "Mentiras, The Series",
@@ -95,8 +95,8 @@
     "imdb_id": "tt31690920"
   },
   {
-    "name": "We Were Liars",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt3914054"
+    "imdb_id": "tt12637874"
   }
 ]

@@ -25,14 +25,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Cobra Kai",
@@ -65,19 +65,14 @@
     "imdb_id": "tt1856010"
   },
   {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
     "name": "Outer Banks",
     "type": "series",
     "imdb_id": "tt10293938"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
   },
   {
     "name": "The Last Kingdom",
@@ -98,5 +93,10 @@
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   }
 ]

@@ -20,29 +20,19 @@
     "imdb_id": "tt4567010"
   },
   {
-    "name": "CBeebies Bedtime Stories",
-    "type": "series",
-    "imdb_id": "tt1631912"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
+    "name": "CBeebies Bedtime Stories",
+    "type": "series",
+    "imdb_id": "tt1631912"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
   },
   {
     "name": "Peppa Pig",
@@ -53,6 +43,16 @@
     "name": "The Powerpuff Girls",
     "type": "series",
     "imdb_id": "tt0175058"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -75,18 +75,18 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Alice's Wonderland Bakery",
-    "type": "series",
-    "imdb_id": "tt14786700"
-  },
-  {
     "name": "Chiquititas",
     "type": "series",
     "imdb_id": "tt2734004"
   },
   {
-    "name": "Duel Masters",
+    "name": "Mickey Mouse Clubhouse",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "Alice's Wonderland Bakery",
+    "type": "series",
+    "imdb_id": "tt14786700"
   }
 ]
