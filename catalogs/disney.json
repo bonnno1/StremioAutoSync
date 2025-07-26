@@ -25,11 +25,6 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
@@ -40,19 +35,24 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Bref",
-    "type": "series",
-    "imdb_id": "tt2044128"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Bref",
+    "type": "series",
+    "imdb_id": "tt2044128"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -80,14 +80,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Star Wars: Tales of the Jedi",
-    "type": "series",
-    "imdb_id": "tt20723374"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
+  },
+  {
+    "name": "20,000 Leagues Under the Sea",
+    "type": "series",
+    "imdb_id": "tt28082463"
   },
   {
     "name": "LIGHT & MAGIC",
@@ -95,8 +95,8 @@
     "imdb_id": "tt19896784"
   },
   {
-    "name": "Low Life",
+    "name": "Star Wars: Tales of the Jedi",
     "type": "series",
-    "imdb_id": "tt32122656"
+    "imdb_id": "tt20723374"
   }
 ]

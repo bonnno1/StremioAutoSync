@@ -5,14 +5,14 @@
     "imdb_id": "tt31710822"
   },
   {
-    "name": "The Sandman",
-    "type": "series",
-    "imdb_id": "tt1751634"
-  },
-  {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
+  },
+  {
+    "name": "The Sandman",
+    "type": "series",
+    "imdb_id": "tt1751634"
   },
   {
     "name": "S Line",
@@ -20,54 +20,9 @@
     "imdb_id": "tt36056620"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Dexter: Resurrection",
     "type": "series",
     "imdb_id": "tt33043892"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Washington Black",
-    "type": "series",
-    "imdb_id": "tt10059166"
-  },
-  {
-    "name": "The Institute",
-    "type": "series",
-    "imdb_id": "tt10946316"
   },
   {
     "name": "The Narcotic Operation",
@@ -80,9 +35,39 @@
     "imdb_id": "tt37205655"
   },
   {
-    "name": "Attack on Titan",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt2560140"
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Washington Black",
+    "type": "series",
+    "imdb_id": "tt10059166"
   },
   {
     "name": "Rick and Morty",
@@ -90,13 +75,28 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Trigger",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt27898511"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Ling Cage",
     "type": "series",
     "imdb_id": "tt10827146"
+  },
+  {
+    "name": "The Institute",
+    "type": "series",
+    "imdb_id": "tt10946316"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Assassin",
+    "type": "series",
+    "imdb_id": "tt33246591"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "M3GAN 2.0",
-    "type": "movie",
-    "imdb_id": "tt26342662"
-  },
-  {
     "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "type": "movie",
     "imdb_id": "tt32820897"
+  },
+  {
+    "name": "M3GAN 2.0",
+    "type": "movie",
+    "imdb_id": "tt26342662"
   },
   {
     "name": "Ice Road: Vengeance",
@@ -25,14 +25,14 @@
     "imdb_id": "tt13357520"
   },
   {
+    "name": "Dangerous Animals",
+    "type": "movie",
+    "imdb_id": "tt32299316"
+  },
+  {
     "name": "xXx",
     "type": "movie",
     "imdb_id": "tt0295701"
-  },
-  {
-    "name": "Ziam",
-    "type": "movie",
-    "imdb_id": "tt35669009"
   },
   {
     "name": "Nudus",
@@ -40,9 +40,9 @@
     "imdb_id": "tt31727846"
   },
   {
-    "name": "Dangerous Animals",
+    "name": "Ziam",
     "type": "movie",
-    "imdb_id": "tt32299316"
+    "imdb_id": "tt35669009"
   },
   {
     "name": "Wall to Wall",
@@ -50,19 +50,14 @@
     "imdb_id": "tt32237537"
   },
   {
-    "name": "Spirit in the Blood",
-    "type": "movie",
-    "imdb_id": "tt31514476"
-  },
-  {
     "name": "Mission: Impossible - The Final Reckoning",
     "type": "movie",
     "imdb_id": "tt9603208"
   },
   {
-    "name": "Follow",
+    "name": "Spirit in the Blood",
     "type": "movie",
-    "imdb_id": "tt31030120"
+    "imdb_id": "tt31514476"
   },
   {
     "name": "The Amateur",
@@ -70,9 +65,9 @@
     "imdb_id": "tt0899043"
   },
   {
-    "name": "Sinners",
+    "name": "Follow",
     "type": "movie",
-    "imdb_id": "tt31193180"
+    "imdb_id": "tt31030120"
   },
   {
     "name": "The Ritual",
@@ -80,14 +75,14 @@
     "imdb_id": "tt32194932"
   },
   {
+    "name": "Sinners",
+    "type": "movie",
+    "imdb_id": "tt31193180"
+  },
+  {
     "name": "I Know What You Did Last Summer",
     "type": "movie",
     "imdb_id": "tt4045450"
-  },
-  {
-    "name": "The Hangman",
-    "type": "movie",
-    "imdb_id": "tt31645789"
   },
   {
     "name": "28 Years Later",
@@ -95,8 +90,13 @@
     "imdb_id": "tt10548174"
   },
   {
-    "name": "Brick",
+    "name": "The Hangman",
     "type": "movie",
-    "imdb_id": "tt31806049"
+    "imdb_id": "tt31645789"
+  },
+  {
+    "name": "Crazy Lizard",
+    "type": "movie",
+    "imdb_id": "tt32169142"
   }
 ]
