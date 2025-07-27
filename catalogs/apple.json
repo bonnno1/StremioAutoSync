@@ -10,19 +10,14 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
-    "name": "For All Mankind",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Murderbot",
@@ -35,9 +30,19 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
     "name": "The Buccaneers",
     "type": "series",
     "imdb_id": "tt21108774"
+  },
+  {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
   },
   {
     "name": "Stick",
@@ -50,19 +55,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Smoke",
-    "type": "series",
-    "imdb_id": "tt24163532"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
   },
   {
     "name": "Shrinking",
@@ -70,9 +65,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt8879940"
+    "imdb_id": "tt2640044"
   },
   {
     "name": "The Studio",
@@ -83,6 +78,11 @@
     "name": "Servant",
     "type": "series",
     "imdb_id": "tt8068860"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
   },
   {
     "name": "Invasion",

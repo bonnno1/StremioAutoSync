@@ -30,11 +30,6 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -55,14 +50,14 @@
     "imdb_id": "tt7462410"
   },
   {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
+  },
+  {
     "name": "Countdown",
     "type": "series",
     "imdb_id": "tt32559610"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
   },
   {
     "name": "The Expanse",
@@ -70,19 +65,14 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "Sneaky Pete",
     "type": "series",
     "imdb_id": "tt5011816"
   },
   {
-    "name": "Ballard",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt26676904"
+    "imdb_id": "tt4687880"
   },
   {
     "name": "We Were Liars",
@@ -90,13 +80,23 @@
     "imdb_id": "tt3914054"
   },
   {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Mentiras, The Series",
+    "name": "Marry My Husband: Japan",
     "type": "series",
-    "imdb_id": "tt31690920"
+    "imdb_id": "tt36838547"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
   }
 ]

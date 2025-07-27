@@ -10,14 +10,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Dancing with the Stars",
@@ -25,9 +25,9 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Loki",
+    "name": "20,000 Leagues Under the Sea",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt28082463"
   },
   {
     "name": "Daredevil: Born Again",
@@ -35,9 +35,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Soy Luna",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "What If...?",
@@ -50,9 +50,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Bref",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt2044128"
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -60,14 +65,19 @@
     "imdb_id": "tt9208876"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Bref",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt2044128"
   },
   {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "WandaVision",
@@ -80,23 +90,13 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "20,000 Leagues Under the Sea",
-    "type": "series",
-    "imdb_id": "tt28082463"
-  },
-  {
     "name": "LIGHT & MAGIC",
     "type": "series",
     "imdb_id": "tt19896784"
   },
   {
-    "name": "Star Wars: Tales of the Jedi",
+    "name": "Love, Victor",
     "type": "series",
-    "imdb_id": "tt20723374"
+    "imdb_id": "tt10166602"
   }
 ]
