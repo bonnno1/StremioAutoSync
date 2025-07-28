@@ -20,6 +20,11 @@
     "imdb_id": "tt31727846"
   },
   {
+    "name": "Saint Clare",
+    "type": "movie",
+    "imdb_id": "tt9024562"
+  },
+  {
     "name": "Bring Her Back",
     "type": "movie",
     "imdb_id": "tt32246771"
@@ -30,24 +35,14 @@
     "imdb_id": "tt35669009"
   },
   {
-    "name": "Saint Clare",
-    "type": "movie",
-    "imdb_id": "tt9024562"
-  },
-  {
-    "name": "The Cellar",
-    "type": "movie",
-    "imdb_id": "tt31852558"
-  },
-  {
     "name": "Control Room",
     "type": "movie",
     "imdb_id": "tt27805465"
   },
   {
-    "name": "Spirit in the Blood",
+    "name": "The Cellar",
     "type": "movie",
-    "imdb_id": "tt31514476"
+    "imdb_id": "tt31852558"
   },
   {
     "name": "A Normal Woman",
@@ -60,14 +55,14 @@
     "imdb_id": "tt32194932"
   },
   {
-    "name": "Lingering",
-    "type": "movie",
-    "imdb_id": "tt12485966"
-  },
-  {
     "name": "Sinners",
     "type": "movie",
     "imdb_id": "tt31193180"
+  },
+  {
+    "name": "Spirit in the Blood",
+    "type": "movie",
+    "imdb_id": "tt31514476"
   },
   {
     "name": "28 Years Later",
@@ -75,9 +70,9 @@
     "imdb_id": "tt10548174"
   },
   {
-    "name": "I Know What You Did Last Summer",
+    "name": "Lingering",
     "type": "movie",
-    "imdb_id": "tt4045450"
+    "imdb_id": "tt12485966"
   },
   {
     "name": "Crazy Lizard",
@@ -88,6 +83,11 @@
     "name": "The Hangman",
     "type": "movie",
     "imdb_id": "tt31645789"
+  },
+  {
+    "name": "I Know What You Did Last Summer",
+    "type": "movie",
+    "imdb_id": "tt4045450"
   },
   {
     "name": "Candle in the Tomb: The Worm Valley",

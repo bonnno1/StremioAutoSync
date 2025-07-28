@@ -10,29 +10,19 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "SUPERKID",
-    "type": "series",
-    "imdb_id": "tt4567010"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
+    "name": "SUPERKID",
+    "type": "series",
+    "imdb_id": "tt4567010"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "CBeebies Bedtime Stories",
-    "type": "series",
-    "imdb_id": "tt1631912"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   },
   {
     "name": "Peppa Pig",
@@ -55,6 +45,16 @@
     "imdb_id": "tt8677202"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "CBeebies Bedtime Stories",
+    "type": "series",
+    "imdb_id": "tt1631912"
+  },
+  {
     "name": "Chiikawa",
     "type": "series",
     "imdb_id": "tt26997679"
@@ -65,14 +65,14 @@
     "imdb_id": "tt0493334"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
     "name": "Oggy and the Cockroaches",
     "type": "series",
     "imdb_id": "tt0213363"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Chi's Sweet Home",
@@ -80,8 +80,8 @@
     "imdb_id": "tt1276525"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "We Bare Bears",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt4839610"
   }
 ]

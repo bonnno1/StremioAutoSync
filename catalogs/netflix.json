@@ -15,14 +15,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "UNTAMED",
+    "type": "series",
+    "imdb_id": "tt31710822"
   },
   {
     "name": "The Sandman",
@@ -65,14 +65,9 @@
     "imdb_id": "tt1856010"
   },
   {
-    "name": "Raw",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt4786824"
   },
   {
     "name": "Outer Banks",
@@ -80,14 +75,19 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   },
   {
     "name": "All of Us Are Dead",
@@ -95,8 +95,8 @@
     "imdb_id": "tt14169960"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "Letters from the Past",
     "type": "series",
-    "imdb_id": "tt4179452"
+    "imdb_id": "tt33269635"
   }
 ]

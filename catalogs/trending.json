@@ -10,24 +10,19 @@
     "imdb_id": "tt0121955"
   },
   {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
     "name": "The Sandman",
     "type": "series",
     "imdb_id": "tt1751634"
   },
   {
-    "name": "S Line",
+    "name": "UNTAMED",
     "type": "series",
-    "imdb_id": "tt36056620"
+    "imdb_id": "tt31710822"
   },
   {
-    "name": "The Narcotic Operation",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt35045720"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Dexter: Resurrection",
@@ -35,34 +30,9 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
   },
   {
     "name": "Washington Black",
@@ -70,19 +40,29 @@
     "imdb_id": "tt10059166"
   },
   {
-    "name": "Nukitashi the Animation",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt30217403"
   },
   {
-    "name": "My Dress-Up Darling",
+    "name": "The Narcotic Operation",
     "type": "series",
-    "imdb_id": "tt15765670"
+    "imdb_id": "tt35045720"
   },
   {
-    "name": "Peacemaker",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "S Line",
+    "type": "series",
+    "imdb_id": "tt36056620"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "The Institute",
@@ -90,13 +70,33 @@
     "imdb_id": "tt10946316"
   },
   {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "The Assassin",
+    "type": "series",
+    "imdb_id": "tt33246591"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   }
 ]
