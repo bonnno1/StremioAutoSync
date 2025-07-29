@@ -20,6 +20,11 @@
     "imdb_id": "tt27850528"
   },
   {
+    "name": "SuperKlaus",
+    "type": "movie",
+    "imdb_id": "tt24659406"
+  },
+  {
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
@@ -28,11 +33,6 @@
     "name": "Dora and the Search for Sol Dorado",
     "type": "movie",
     "imdb_id": "tt32621553"
-  },
-  {
-    "name": "SuperKlaus",
-    "type": "movie",
-    "imdb_id": "tt24659406"
   },
   {
     "name": "Moana 2",
@@ -45,9 +45,9 @@
     "imdb_id": "tt31241595"
   },
   {
-    "name": "Sneaks",
+    "name": "The Bad Guys 2",
     "type": "movie",
-    "imdb_id": "tt9254940"
+    "imdb_id": "tt30017619"
   },
   {
     "name": "Sonic the Hedgehog 3",
@@ -55,9 +55,9 @@
     "imdb_id": "tt18259086"
   },
   {
-    "name": "The Bad Guys 2",
+    "name": "Sneaks",
     "type": "movie",
-    "imdb_id": "tt30017619"
+    "imdb_id": "tt9254940"
   },
   {
     "name": "Snow White",
@@ -70,9 +70,9 @@
     "imdb_id": "tt0892769"
   },
   {
-    "name": "Smurfs",
+    "name": "Despicable Me 4",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt7510222"
   },
   {
     "name": "Inside Out 2",
@@ -80,23 +80,23 @@
     "imdb_id": "tt22022452"
   },
   {
+    "name": "How to Train Your Dragon 2",
+    "type": "movie",
+    "imdb_id": "tt1646971"
+  },
+  {
     "name": "Mufasa: The Lion King",
     "type": "movie",
     "imdb_id": "tt13186482"
   },
   {
-    "name": "Despicable Me 4",
+    "name": "Kayara",
     "type": "movie",
-    "imdb_id": "tt7510222"
+    "imdb_id": "tt11846550"
   },
   {
-    "name": "The Wild Robot",
+    "name": "Smurfs",
     "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
-    "name": "How to Train Your Dragon 2",
-    "type": "movie",
-    "imdb_id": "tt1646971"
+    "imdb_id": "tt18069420"
   }
 ]

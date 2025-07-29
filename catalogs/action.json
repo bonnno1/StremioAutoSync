@@ -25,11 +25,6 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "WWE 205 Live",
-    "type": "series",
-    "imdb_id": "tt6286394"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -38,6 +33,11 @@
     "name": "SUPERKID",
     "type": "series",
     "imdb_id": "tt4567010"
+  },
+  {
+    "name": "WWE 205 Live",
+    "type": "series",
+    "imdb_id": "tt6286394"
   },
   {
     "name": "Pokémon",
@@ -50,6 +50,11 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
     "name": "Recuerdo de Amor",
     "type": "series",
     "imdb_id": "tt0346382"
@@ -60,24 +65,9 @@
     "imdb_id": "tt0096686"
   },
   {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "Kaiju No. 8",
     "type": "series",
     "imdb_id": "tt21975436"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   },
   {
     "name": "CID",
@@ -85,13 +75,23 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   }
 ]

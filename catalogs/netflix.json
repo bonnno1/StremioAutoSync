@@ -20,14 +20,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
     "name": "The Sandman",
     "type": "series",
     "imdb_id": "tt1751634"
+  },
+  {
+    "name": "UNTAMED",
+    "type": "series",
+    "imdb_id": "tt31710822"
   },
   {
     "name": "Black Mirror",
@@ -55,14 +55,9 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Orange Is the New Black",
+    "name": "Letters from the Past",
     "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
-    "name": "House of Cards",
-    "type": "series",
-    "imdb_id": "tt1856010"
+    "imdb_id": "tt33269635"
   },
   {
     "name": "The Crown",
@@ -75,19 +70,14 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Weak Hero",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt10795658"
   },
   {
     "name": "All of Us Are Dead",
@@ -95,8 +85,18 @@
     "imdb_id": "tt14169960"
   },
   {
-    "name": "Letters from the Past",
+    "name": "When Life Gives You Tangerines",
     "type": "series",
-    "imdb_id": "tt33269635"
+    "imdb_id": "tt26471411"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
+    "name": "Narcos",
+    "type": "series",
+    "imdb_id": "tt2707408"
   }
 ]
