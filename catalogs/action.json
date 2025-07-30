@@ -50,14 +50,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Lost",
+    "name": "Revenged Love",
     "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Recuerdo de Amor",
-    "type": "series",
-    "imdb_id": "tt0346382"
+    "imdb_id": "tt37370861"
   },
   {
     "name": "Ranma ½",
@@ -65,14 +60,24 @@
     "imdb_id": "tt0096686"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "CID",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Recuerdo de Amor",
+    "type": "series",
+    "imdb_id": "tt0346382"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   },
   {
     "name": "The Walking Dead",
@@ -88,10 +93,5 @@
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   }
 ]

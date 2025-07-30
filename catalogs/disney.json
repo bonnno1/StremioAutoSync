@@ -30,14 +30,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "What If...?",
@@ -60,19 +60,14 @@
     "imdb_id": "tt9208876"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "LIGHT & MAGIC",
@@ -85,6 +80,16 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Takopi's Original Sin",
+    "type": "series",
+    "imdb_id": "tt36988358"
+  },
+  {
     "name": "The Book of Boba Fett",
     "type": "series",
     "imdb_id": "tt13668894"
@@ -93,10 +98,5 @@
     "name": "Bref",
     "type": "series",
     "imdb_id": "tt2044128"
-  },
-  {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
   }
 ]

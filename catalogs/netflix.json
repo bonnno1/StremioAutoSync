@@ -25,14 +25,14 @@
     "imdb_id": "tt1751634"
   },
   {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
+  },
+  {
+    "name": "UNTAMED",
+    "type": "series",
+    "imdb_id": "tt31710822"
   },
   {
     "name": "Cobra Kai",
@@ -55,19 +55,9 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Letters from the Past",
-    "type": "series",
-    "imdb_id": "tt33269635"
-  },
-  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Outer Banks",
-    "type": "series",
-    "imdb_id": "tt10293938"
   },
   {
     "name": "Elite",
@@ -75,9 +65,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt10293938"
   },
   {
     "name": "All of Us Are Dead",
@@ -85,18 +75,28 @@
     "imdb_id": "tt14169960"
   },
   {
-    "name": "When Life Gives You Tangerines",
-    "type": "series",
-    "imdb_id": "tt26471411"
-  },
-  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Narcos",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt2707408"
+    "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Arcane",
+    "type": "series",
+    "imdb_id": "tt11126994"
+  },
+  {
+    "name": "Santo",
+    "type": "series",
+    "imdb_id": "tt14278524"
+  },
+  {
+    "name": "Letters from the Past",
+    "type": "series",
+    "imdb_id": "tt33269635"
   }
 ]

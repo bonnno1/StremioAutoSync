@@ -1,23 +1,13 @@
 [
   {
-    "name": "The Immortal Ascension",
-    "type": "series",
-    "imdb_id": "tt28512830"
-  },
-  {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
   },
   {
-    "name": "Dexter: Resurrection",
+    "name": "The Immortal Ascension",
     "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
+    "imdb_id": "tt28512830"
   },
   {
     "name": "The Sandman",
@@ -25,29 +15,24 @@
     "imdb_id": "tt1751634"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Washington Black",
+    "name": "UNTAMED",
     "type": "series",
-    "imdb_id": "tt10059166"
+    "imdb_id": "tt31710822"
   },
   {
-    "name": "Squid Game",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "Foundation",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt33043892"
   },
   {
     "name": "The Narcotic Operation",
@@ -55,9 +40,9 @@
     "imdb_id": "tt35045720"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "S Line",
@@ -65,9 +50,9 @@
     "imdb_id": "tt36056620"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "Countdown",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt32559610"
   },
   {
     "name": "Peacemaker",
@@ -75,9 +60,29 @@
     "imdb_id": "tt13146488"
   },
   {
+    "name": "Washington Black",
+    "type": "series",
+    "imdb_id": "tt10059166"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
     "name": "The Assassin",
     "type": "series",
     "imdb_id": "tt33246591"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "My Dress-Up Darling",
@@ -85,18 +90,13 @@
     "imdb_id": "tt15765670"
   },
   {
-    "name": "The Institute",
-    "type": "series",
-    "imdb_id": "tt10946316"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
   }
 ]

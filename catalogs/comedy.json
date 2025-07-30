@@ -30,11 +30,6 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -43,6 +38,11 @@
     "name": "2 Days and 1 Night",
     "type": "series",
     "imdb_id": "tt3247300"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -70,14 +70,9 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Rooster Teeth Animated Adventures",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt21740392"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Sazae-san",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0236924"
   },
   {
+    "name": "Rooster Teeth Animated Adventures",
+    "type": "series",
+    "imdb_id": "tt21740392"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Case Closed",
     "type": "series",
     "imdb_id": "tt0131179"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt0096697"
   }
 ]

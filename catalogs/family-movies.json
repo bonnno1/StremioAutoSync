@@ -40,14 +40,14 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
-    "type": "movie",
-    "imdb_id": "tt31241595"
-  },
-  {
     "name": "The Bad Guys 2",
     "type": "movie",
     "imdb_id": "tt30017619"
+  },
+  {
+    "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+    "type": "movie",
+    "imdb_id": "tt31241595"
   },
   {
     "name": "Sonic the Hedgehog 3",
@@ -65,11 +65,6 @@
     "imdb_id": "tt6208148"
   },
   {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt0892769"
-  },
-  {
     "name": "Despicable Me 4",
     "type": "movie",
     "imdb_id": "tt7510222"
@@ -80,9 +75,14 @@
     "imdb_id": "tt22022452"
   },
   {
-    "name": "How to Train Your Dragon 2",
+    "name": "How to Train Your Dragon",
     "type": "movie",
-    "imdb_id": "tt1646971"
+    "imdb_id": "tt0892769"
+  },
+  {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
   },
   {
     "name": "Mufasa: The Lion King",
@@ -90,13 +90,13 @@
     "imdb_id": "tt13186482"
   },
   {
-    "name": "Kayara",
+    "name": "The Wild Robot",
     "type": "movie",
-    "imdb_id": "tt11846550"
+    "imdb_id": "tt29623480"
   },
   {
-    "name": "Smurfs",
+    "name": "How to Train Your Dragon 2",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt1646971"
   }
 ]

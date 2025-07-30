@@ -15,6 +15,11 @@
     "imdb_id": "tt32299316"
   },
   {
+    "name": "28 Years Later",
+    "type": "movie",
+    "imdb_id": "tt10548174"
+  },
+  {
     "name": "Control Room",
     "type": "movie",
     "imdb_id": "tt27805465"
@@ -40,24 +45,14 @@
     "imdb_id": "tt35669009"
   },
   {
-    "name": "The Ritual",
-    "type": "movie",
-    "imdb_id": "tt32194932"
-  },
-  {
     "name": "A Normal Woman",
     "type": "movie",
     "imdb_id": "tt35668683"
   },
   {
-    "name": "28 Years Later",
+    "name": "The Ritual",
     "type": "movie",
-    "imdb_id": "tt10548174"
-  },
-  {
-    "name": "Crazy Lizard",
-    "type": "movie",
-    "imdb_id": "tt32169142"
+    "imdb_id": "tt32194932"
   },
   {
     "name": "Sinners",
@@ -65,14 +60,9 @@
     "imdb_id": "tt31193180"
   },
   {
-    "name": "The Hangman",
+    "name": "Crazy Lizard",
     "type": "movie",
-    "imdb_id": "tt31645789"
-  },
-  {
-    "name": "Spirit in the Blood",
-    "type": "movie",
-    "imdb_id": "tt31514476"
+    "imdb_id": "tt32169142"
   },
   {
     "name": "The Cellar",
@@ -80,9 +70,9 @@
     "imdb_id": "tt31852558"
   },
   {
-    "name": "Clown in a Cornfield",
+    "name": "The Hangman",
     "type": "movie",
-    "imdb_id": "tt23060698"
+    "imdb_id": "tt31645789"
   },
   {
     "name": "Lingering",
@@ -95,8 +85,18 @@
     "imdb_id": "tt33293355"
   },
   {
-    "name": "I Know What You Did Last Summer",
+    "name": "Clown in a Cornfield",
     "type": "movie",
-    "imdb_id": "tt4045450"
+    "imdb_id": "tt23060698"
+  },
+  {
+    "name": "Spirit in the Blood",
+    "type": "movie",
+    "imdb_id": "tt31514476"
+  },
+  {
+    "name": "Séance Games: Metaxu",
+    "type": "movie",
+    "imdb_id": "tt22873516"
   }
 ]
