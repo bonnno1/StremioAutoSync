@@ -1,8 +1,8 @@
 [
   {
-    "name": "South Park",
+    "name": "The Sandman",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt1751634"
   },
   {
     "name": "The Immortal Ascension",
@@ -10,19 +10,9 @@
     "imdb_id": "tt28512830"
   },
   {
-    "name": "The Sandman",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt1751634"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
+    "imdb_id": "tt0121955"
   },
   {
     "name": "One Piece",
@@ -30,14 +20,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Dexter: Resurrection",
+    "name": "Leanne",
     "type": "series",
-    "imdb_id": "tt33043892"
+    "imdb_id": "tt32213668"
   },
   {
-    "name": "The Narcotic Operation",
+    "name": "UNTAMED",
     "type": "series",
-    "imdb_id": "tt35045720"
+    "imdb_id": "tt31710822"
   },
   {
     "name": "Squid Game",
@@ -45,24 +35,24 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "S Line",
+    "name": "Star Trek: Strange New Worlds",
     "type": "series",
-    "imdb_id": "tt36056620"
+    "imdb_id": "tt12327578"
   },
   {
-    "name": "Countdown",
+    "name": "Marked",
     "type": "series",
-    "imdb_id": "tt32559610"
+    "imdb_id": "tt37262365"
   },
   {
-    "name": "Peacemaker",
+    "name": "Twisted Metal",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt14261112"
   },
   {
-    "name": "Washington Black",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt10059166"
+    "imdb_id": "tt33043892"
   },
   {
     "name": "Foundation",
@@ -70,9 +60,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "The Assassin",
@@ -80,23 +70,33 @@
     "imdb_id": "tt33246591"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "The Legend of Heroes",
+    "type": "series",
+    "imdb_id": "tt28116044"
+  },
+  {
+    "name": "The Narcotic Operation",
+    "type": "series",
+    "imdb_id": "tt35045720"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "My Dress-Up Darling",
-    "type": "series",
-    "imdb_id": "tt15765670"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "War of the Worlds",
+    "type": "movie",
+    "imdb_id": "tt13186306"
+  },
+  {
     "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "type": "movie",
     "imdb_id": "tt32820897"
@@ -30,11 +35,6 @@
     "imdb_id": "tt10548174"
   },
   {
-    "name": "Heads of State",
-    "type": "movie",
-    "imdb_id": "tt13357520"
-  },
-  {
     "name": "Control Room",
     "type": "movie",
     "imdb_id": "tt27805465"
@@ -45,14 +45,24 @@
     "imdb_id": "tt0295701"
   },
   {
-    "name": "Nudus",
+    "name": "Heads of State",
     "type": "movie",
-    "imdb_id": "tt31727846"
+    "imdb_id": "tt13357520"
   },
   {
     "name": "Saint Clare",
     "type": "movie",
     "imdb_id": "tt9024562"
+  },
+  {
+    "name": "Séance Games: Metaxu",
+    "type": "movie",
+    "imdb_id": "tt22873516"
+  },
+  {
+    "name": "Nudus",
+    "type": "movie",
+    "imdb_id": "tt31727846"
   },
   {
     "name": "Sex Rider: Wet Highway",
@@ -65,14 +75,14 @@
     "imdb_id": "tt9603208"
   },
   {
-    "name": "Ziam",
-    "type": "movie",
-    "imdb_id": "tt35669009"
-  },
-  {
     "name": "The Amateur",
     "type": "movie",
     "imdb_id": "tt0899043"
+  },
+  {
+    "name": "Ziam",
+    "type": "movie",
+    "imdb_id": "tt35669009"
   },
   {
     "name": "A Normal Woman",
@@ -88,15 +98,5 @@
     "name": "The Ritual",
     "type": "movie",
     "imdb_id": "tt32194932"
-  },
-  {
-    "name": "Sinners",
-    "type": "movie",
-    "imdb_id": "tt31193180"
-  },
-  {
-    "name": "Crazy Lizard",
-    "type": "movie",
-    "imdb_id": "tt32169142"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -20,19 +20,24 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Sazae-san",
     "type": "series",
     "imdb_id": "tt0236924"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "SUPERKID",
     "type": "series",
     "imdb_id": "tt4567010"
+  },
+  {
+    "name": "TV Animal Farm",
+    "type": "series",
+    "imdb_id": "tt25605188"
   },
   {
     "name": "The Heiress",
@@ -45,11 +50,6 @@
     "imdb_id": "tt0367404"
   },
   {
-    "name": "TV Animal Farm",
-    "type": "series",
-    "imdb_id": "tt25605188"
-  },
-  {
     "name": "Diya Aur Baati Hum",
     "type": "series",
     "imdb_id": "tt2570866"
@@ -60,11 +60,6 @@
     "imdb_id": "tt0344713"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Nature",
     "type": "series",
     "imdb_id": "tt0083452"
@@ -73,6 +68,16 @@
     "name": "Ishqbaaaz",
     "type": "series",
     "imdb_id": "tt5919914"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   },
   {
     "name": "Abot-Kamay Na Pangarap",
@@ -90,13 +95,8 @@
     "imdb_id": "tt1920025"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Golden Boy",
-    "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt26997679"
   }
 ]

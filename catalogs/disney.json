@@ -5,11 +5,6 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "20,000 Leagues Under the Sea",
-    "type": "series",
-    "imdb_id": "tt28082463"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
@@ -20,9 +15,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Ironheart",
+    "name": "20,000 Leagues Under the Sea",
     "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt28082463"
   },
   {
     "name": "Dancing with the Stars",
@@ -30,14 +25,19 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "What If...?",
@@ -65,14 +65,14 @@
     "imdb_id": "tt13622982"
   },
   {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "LIGHT & MAGIC",
-    "type": "series",
-    "imdb_id": "tt19896784"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -80,14 +80,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Bref",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt2044128"
   },
   {
-    "name": "Takopi's Original Sin",
+    "name": "LIGHT & MAGIC",
     "type": "series",
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt19896784"
   },
   {
     "name": "The Book of Boba Fett",
@@ -95,8 +95,8 @@
     "imdb_id": "tt13668894"
   },
   {
-    "name": "Bref",
+    "name": "Takopi's Original Sin",
     "type": "series",
-    "imdb_id": "tt2044128"
+    "imdb_id": "tt36988358"
   }
 ]
