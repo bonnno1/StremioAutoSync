@@ -50,24 +50,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
     "name": "Ranma ½",
     "type": "series",
     "imdb_id": "tt0096686"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Recuerdo de Amor",
@@ -75,9 +60,14 @@
     "imdb_id": "tt0346382"
   },
   {
-    "name": "Bleach",
+    "name": "CID",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "The Walking Dead",
@@ -90,8 +80,18 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "The Sandman",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt1751634"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
   }
 ]

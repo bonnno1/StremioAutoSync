@@ -1,13 +1,18 @@
 [
   {
+    "name": "Eyes of Wakanda",
+    "type": "series",
+    "imdb_id": "tt13968252"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
     "name": "The Sandman",
     "type": "series",
     "imdb_id": "tt1751634"
-  },
-  {
-    "name": "The Immortal Ascension",
-    "type": "series",
-    "imdb_id": "tt28512830"
   },
   {
     "name": "South Park",
@@ -15,19 +20,49 @@
     "imdb_id": "tt0121955"
   },
   {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
+    "name": "The Immortal Ascension",
+    "type": "series",
+    "imdb_id": "tt28512830"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Twisted Metal",
+    "type": "series",
+    "imdb_id": "tt14261112"
+  },
+  {
+    "name": "Ling Cage",
+    "type": "series",
+    "imdb_id": "tt10827146"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Leanne",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt32213668"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "UNTAMED",
     "type": "series",
     "imdb_id": "tt31710822"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Squid Game",
@@ -40,36 +75,6 @@
     "imdb_id": "tt12327578"
   },
   {
-    "name": "Marked",
-    "type": "series",
-    "imdb_id": "tt37262365"
-  },
-  {
-    "name": "Twisted Metal",
-    "type": "series",
-    "imdb_id": "tt14261112"
-  },
-  {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "The Assassin",
-    "type": "series",
-    "imdb_id": "tt33246591"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
@@ -80,23 +85,13 @@
     "imdb_id": "tt28116044"
   },
   {
-    "name": "The Narcotic Operation",
-    "type": "series",
-    "imdb_id": "tt35045720"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
     "imdb_id": "tt12879782"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "The Assassin",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt33246591"
   }
 ]

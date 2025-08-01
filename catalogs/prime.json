@@ -20,14 +20,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Reacher",
@@ -35,14 +35,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "Countdown",
     "type": "series",
     "imdb_id": "tt32559610"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "The Wheel of Time",
@@ -55,19 +55,14 @@
     "imdb_id": "tt5011816"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Fallout",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -75,19 +70,19 @@
     "imdb_id": "tt11247158"
   },
   {
-    "name": "We Were Liars",
-    "type": "series",
-    "imdb_id": "tt3914054"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Gen V",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "We Were Liars",
+    "type": "series",
+    "imdb_id": "tt3914054"
   },
   {
     "name": "Ballard",
@@ -98,5 +93,10 @@
     "name": "The Grand Tour",
     "type": "series",
     "imdb_id": "tt5712554"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
   }
 ]
