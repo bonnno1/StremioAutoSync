@@ -30,9 +30,19 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
+  },
+  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -45,19 +55,14 @@
     "imdb_id": "tt14278524"
   },
   {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "UNTAMED",
     "type": "series",
     "imdb_id": "tt31710822"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "The Crown",
@@ -65,24 +70,9 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "When Life Gives You Tangerines",
-    "type": "series",
-    "imdb_id": "tt26471411"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
   },
   {
     "name": "Outer Banks",
@@ -90,13 +80,23 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Weak Hero",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt20234568"
   },
   {
-    "name": "Arcane",
+    "name": "Marvel's Daredevil",
     "type": "series",
-    "imdb_id": "tt11126994"
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "All of Us Are Dead",
+    "type": "series",
+    "imdb_id": "tt14169960"
   }
 ]

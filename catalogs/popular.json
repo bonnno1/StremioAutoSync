@@ -1,10 +1,5 @@
 [
   {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
-  },
-  {
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
@@ -13,6 +8,11 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
   },
   {
     "name": "Ici tout commence",
@@ -25,9 +25,9 @@
     "imdb_id": "tt6283624"
   },
   {
-    "name": "Squid Game",
+    "name": "The Amazing Race",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt0285335"
   },
   {
     "name": "Men on a Mission",
@@ -35,14 +35,9 @@
     "imdb_id": "tt5247622"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Horizon",
     "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
-    "name": "The Amazing Race",
-    "type": "series",
-    "imdb_id": "tt0285335"
+    "imdb_id": "tt0318224"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -50,34 +45,19 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Chespirito: Not Really on Purpose",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt34755671"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Horizon",
-    "type": "series",
-    "imdb_id": "tt0318224"
-  },
-  {
-    "name": "2 Days and 1 Night",
-    "type": "series",
-    "imdb_id": "tt3247300"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Grey's Anatomy",
@@ -85,9 +65,14 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "The Daily Show",
@@ -95,8 +80,23 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Supernatural",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Rooster Teeth Animated Adventures",
+    "type": "series",
+    "imdb_id": "tt21740392"
+  },
+  {
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
+    "imdb_id": "tt3697842"
+  },
+  {
+    "name": "Infinite Challenge",
+    "type": "series",
+    "imdb_id": "tt4546568"
   }
 ]

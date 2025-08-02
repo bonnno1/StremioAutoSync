@@ -10,14 +10,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "INVINCIBLE",
@@ -25,14 +25,19 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Reacher",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "Countdown",
@@ -45,24 +50,19 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
     "name": "Sneaky Pete",
     "type": "series",
     "imdb_id": "tt5011816"
   },
   {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -80,14 +80,14 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "We Were Liars",
     "type": "series",
     "imdb_id": "tt3914054"
-  },
-  {
-    "name": "Ballard",
-    "type": "series",
-    "imdb_id": "tt26676904"
   },
   {
     "name": "The Grand Tour",
@@ -95,8 +95,8 @@
     "imdb_id": "tt5712554"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "Ballard",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt26676904"
   }
 ]

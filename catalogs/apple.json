@@ -1,5 +1,10 @@
 [
   {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
@@ -50,14 +55,19 @@
     "imdb_id": "tt24163532"
   },
   {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
   },
   {
-    "name": "The Morning Show",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt2640044"
   },
   {
     "name": "Shrinking",
@@ -70,19 +80,14 @@
     "imdb_id": "tt8068860"
   },
   {
-    "name": "Masters of the Air",
+    "name": "Mythic Quest",
     "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt8879940"
   },
   {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
   },
   {
     "name": "Invasion",
@@ -93,10 +98,5 @@
     "name": "Acapulco",
     "type": "series",
     "imdb_id": "tt13567344"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
   }
 ]

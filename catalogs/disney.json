@@ -5,14 +5,14 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "Eyes of Wakanda",
+    "type": "series",
+    "imdb_id": "tt13968252"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "Dancing with the Stars",
@@ -20,19 +20,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "20,000 Leagues Under the Sea",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt28082463"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -45,14 +40,39 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Moving",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "20,000 Leagues Under the Sea",
+    "type": "series",
+    "imdb_id": "tt28082463"
+  },
+  {
+    "name": "Takopi's Original Sin",
+    "type": "series",
+    "imdb_id": "tt36988358"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "LIGHT & MAGIC",
+    "type": "series",
+    "imdb_id": "tt19896784"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -70,33 +90,13 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Bref",
-    "type": "series",
-    "imdb_id": "tt2044128"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "name": "LIGHT & MAGIC",
-    "type": "series",
-    "imdb_id": "tt19896784"
-  },
-  {
-    "name": "Takopi's Original Sin",
-    "type": "series",
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt24640580"
   }
 ]

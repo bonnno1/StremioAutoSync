@@ -1,13 +1,13 @@
 [
   {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
   },
   {
     "name": "Men on a Mission",
@@ -15,14 +15,14 @@
     "imdb_id": "tt5247622"
   },
   {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
   },
   {
     "name": "The Rookie",
@@ -30,29 +30,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Chespirito: Not Really on Purpose",
-    "type": "series",
-    "imdb_id": "tt34755671"
-  },
-  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
-  },
-  {
-    "name": "2 Days and 1 Night",
-    "type": "series",
-    "imdb_id": "tt3247300"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
   },
   {
     "name": "The Daily Show",
@@ -60,14 +40,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Infinite Challenge",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt4546568"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Rooster Teeth Animated Adventures",
@@ -75,9 +50,34 @@
     "imdb_id": "tt21740392"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt3697842"
+  },
+  {
+    "name": "Infinite Challenge",
+    "type": "series",
+    "imdb_id": "tt4546568"
+  },
+  {
+    "name": "2 Days and 1 Night",
+    "type": "series",
+    "imdb_id": "tt3247300"
+  },
+  {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Chespirito: Not Really on Purpose",
+    "type": "series",
+    "imdb_id": "tt34755671"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Family Guy",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0131179"
   },
   {
-    "name": "The Simpsons",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0063951"
   }
 ]
