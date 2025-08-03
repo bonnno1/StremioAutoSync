@@ -20,14 +20,14 @@
     "imdb_id": "tt30017619"
   },
   {
-    "name": "The Green Dinosaur",
-    "type": "movie",
-    "imdb_id": "tt27850528"
-  },
-  {
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
+  },
+  {
+    "name": "The Green Dinosaur",
+    "type": "movie",
+    "imdb_id": "tt27850528"
   },
   {
     "name": "SuperKlaus",
@@ -45,19 +45,14 @@
     "imdb_id": "tt32621553"
   },
   {
-    "name": "Zombies 4 - Dawn of the Vampires",
-    "type": "movie",
-    "imdb_id": "tt31241595"
-  },
-  {
     "name": "Sonic the Hedgehog 3",
     "type": "movie",
     "imdb_id": "tt18259086"
   },
   {
-    "name": "Smurfs",
+    "name": "Zombies 4 - Dawn of the Vampires",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt31241595"
   },
   {
     "name": "Despicable Me 4",
@@ -75,9 +70,9 @@
     "imdb_id": "tt6208148"
   },
   {
-    "name": "Elio",
+    "name": "Smurfs",
     "type": "movie",
-    "imdb_id": "tt4900148"
+    "imdb_id": "tt18069420"
   },
   {
     "name": "Mufasa: The Lion King",
@@ -85,18 +80,23 @@
     "imdb_id": "tt13186482"
   },
   {
+    "name": "Elio",
+    "type": "movie",
+    "imdb_id": "tt4900148"
+  },
+  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt0892769"
   },
   {
+    "name": "The Bad Guys",
+    "type": "movie",
+    "imdb_id": "tt8115900"
+  },
+  {
     "name": "The Wild Robot",
     "type": "movie",
     "imdb_id": "tt29623480"
-  },
-  {
-    "name": "Sneaks",
-    "type": "movie",
-    "imdb_id": "tt9254940"
   }
 ]
