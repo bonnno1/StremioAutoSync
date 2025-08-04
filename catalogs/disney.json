@@ -1,13 +1,13 @@
 [
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Eyes of Wakanda",
     "type": "series",
     "imdb_id": "tt13968252"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Mandalorian",
@@ -30,34 +30,9 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
-  },
-  {
-    "name": "20,000 Leagues Under the Sea",
-    "type": "series",
-    "imdb_id": "tt28082463"
   },
   {
     "name": "Takopi's Original Sin",
@@ -65,29 +40,29 @@
     "imdb_id": "tt36988358"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "LIGHT & MAGIC",
+    "name": "20,000 Leagues Under the Sea",
     "type": "series",
-    "imdb_id": "tt19896784"
-  },
-  {
-    "name": "The Falcon and the Winter Soldier",
-    "type": "series",
-    "imdb_id": "tt9208876"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt28082463"
   },
   {
     "name": "Hawkeye",
@@ -95,8 +70,33 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Moving",
+    "name": "Marvel Studios Assembled",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt14094206"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "LIGHT & MAGIC",
+    "type": "series",
+    "imdb_id": "tt19896784"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
   }
 ]

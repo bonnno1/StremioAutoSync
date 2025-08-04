@@ -1,13 +1,13 @@
 [
   {
-    "name": "Eyes of Wakanda",
-    "type": "series",
-    "imdb_id": "tt13968252"
-  },
-  {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Eyes of Wakanda",
+    "type": "series",
+    "imdb_id": "tt13968252"
   },
   {
     "name": "The Immortal Ascension",
@@ -20,14 +20,9 @@
     "imdb_id": "tt1751634"
   },
   {
-    "name": "Dexter: Resurrection",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "Ling Cage",
-    "type": "series",
-    "imdb_id": "tt10827146"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "South Park",
@@ -35,14 +30,19 @@
     "imdb_id": "tt0121955"
   },
   {
-    "name": "The Legend of Heroes",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt28116044"
+    "imdb_id": "tt33043892"
   },
   {
-    "name": "One Piece",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Ling Cage",
+    "type": "series",
+    "imdb_id": "tt10827146"
   },
   {
     "name": "Squid Game",
@@ -50,14 +50,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Twisted Metal",
     "type": "series",
     "imdb_id": "tt14261112"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Rick and Morty",
@@ -65,19 +65,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt0804484"
   },
   {
     "name": "UNTAMED",
@@ -85,13 +75,23 @@
     "imdb_id": "tt31710822"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "The Legend of Heroes",
+    "type": "series",
+    "imdb_id": "tt28116044"
+  },
+  {
     "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
     "imdb_id": "tt12879782"
-  },
-  {
-    "name": "My Dress-Up Darling",
-    "type": "series",
-    "imdb_id": "tt15765670"
   }
 ]

@@ -1,13 +1,28 @@
 [
   {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
+  },
+  {
+    "name": "Rooster Teeth Animated Adventures",
+    "type": "series",
+    "imdb_id": "tt21740392"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Nukitashi the Animation",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Men on a Mission",
+    "type": "series",
+    "imdb_id": "tt5247622"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -20,11 +35,6 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
@@ -35,44 +45,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "Rooster Teeth Animated Adventures",
-    "type": "series",
-    "imdb_id": "tt21740392"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
-  },
-  {
-    "name": "Infinite Challenge",
-    "type": "series",
-    "imdb_id": "tt4546568"
-  },
-  {
-    "name": "2 Days and 1 Night",
-    "type": "series",
-    "imdb_id": "tt3247300"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "Chespirito: Not Really on Purpose",
-    "type": "series",
-    "imdb_id": "tt34755671"
   },
   {
     "name": "The Simpsons",
@@ -80,23 +55,48 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Family Guy",
+    "name": "Oggy and the Cockroaches",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0213363"
   },
   {
-    "name": "Sazae-san",
+    "name": "Chespirito: Not Really on Purpose",
     "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt34755671"
   },
   {
-    "name": "Case Closed",
+    "name": "Infinite Challenge",
     "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt4546568"
+  },
+  {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
   },
   {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Sazae-san",
+    "type": "series",
+    "imdb_id": "tt0236924"
   }
 ]

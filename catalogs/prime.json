@@ -5,6 +5,11 @@
     "imdb_id": "tt14016500"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -15,9 +20,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Boys",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Reacher",
@@ -30,11 +40,6 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
@@ -45,14 +50,9 @@
     "imdb_id": "tt32559610"
   },
   {
-    "name": "The Expanse",
+    "name": "The Grand Tour",
     "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
+    "imdb_id": "tt5712554"
   },
   {
     "name": "Sneaky Pete",
@@ -60,9 +60,9 @@
     "imdb_id": "tt5011816"
   },
   {
-    "name": "Goliath",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -70,33 +70,33 @@
     "imdb_id": "tt11247158"
   },
   {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
   },
   {
-    "name": "Gen V",
+    "name": "The Marvelous Mrs. Maisel",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt5788792"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "LEGO DREAMZzz",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt27613744"
   },
   {
-    "name": "We Were Liars",
+    "name": "Leverage: Redemption",
     "type": "series",
-    "imdb_id": "tt3914054"
+    "imdb_id": "tt12197698"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Bosch: Legacy",
+    "type": "series",
+    "imdb_id": "tt14168162"
   }
 ]
