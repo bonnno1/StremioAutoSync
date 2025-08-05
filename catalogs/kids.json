@@ -5,14 +5,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "CBeebies Bedtime Stories",
+    "type": "series",
+    "imdb_id": "tt1631912"
+  },
+  {
     "name": "Oggy and the Cockroaches",
     "type": "series",
     "imdb_id": "tt0213363"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -20,14 +20,24 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "CBeebies Bedtime Stories",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt1631912"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "SUPERKID",
@@ -40,19 +50,9 @@
     "imdb_id": "tt7713450"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Hey Arnold!",
     "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Madeline",
-    "type": "series",
-    "imdb_id": "tt0115257"
+    "imdb_id": "tt0115200"
   },
   {
     "name": "Chiikawa",
@@ -60,28 +60,28 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0318913"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "The Mystic Knights of Tir Na Nog",
-    "type": "series",
-    "imdb_id": "tt0165588"
-  },
-  {
     "name": "We Bare Bears",
     "type": "series",
     "imdb_id": "tt4839610"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Madeline",
+    "type": "series",
+    "imdb_id": "tt0115257"
+  },
+  {
+    "name": "The Angry Beavers",
+    "type": "series",
+    "imdb_id": "tt0131664"
   }
 ]

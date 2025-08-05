@@ -1,13 +1,13 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "NCIS",
@@ -20,19 +20,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "WWE 205 Live",
-    "type": "series",
-    "imdb_id": "tt6286394"
   },
   {
     "name": "Prison Break",
@@ -40,24 +30,19 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Pokémon",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt2787558"
   },
   {
-    "name": "Homicide",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt0129685"
+    "imdb_id": "tt21975436"
   },
   {
-    "name": "The Sandman",
+    "name": "WWE 205 Live",
     "type": "series",
-    "imdb_id": "tt1751634"
-  },
-  {
-    "name": "SUPERKID",
-    "type": "series",
-    "imdb_id": "tt4567010"
+    "imdb_id": "tt6286394"
   },
   {
     "name": "Dan Da Dan",
@@ -65,9 +50,9 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "The Boys",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "The Walking Dead",
@@ -75,14 +60,19 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Eyes of Wakanda",
+    "type": "series",
+    "imdb_id": "tt13968252"
+  },
+  {
+    "name": "The Sandman",
+    "type": "series",
+    "imdb_id": "tt1751634"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Craig of the Creek",
-    "type": "series",
-    "imdb_id": "tt7713450"
   },
   {
     "name": "Lost",
@@ -90,8 +80,18 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "SUPERKID",
+    "type": "series",
+    "imdb_id": "tt4567010"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   }
 ]
