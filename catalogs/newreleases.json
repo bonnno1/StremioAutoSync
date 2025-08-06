@@ -1,8 +1,18 @@
 [
   {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
     "name": "Ici tout commence",
     "type": "series",
     "imdb_id": "tt13392064"
+  },
+  {
+    "name": "Radio Star",
+    "type": "series",
+    "imdb_id": "tt6283624"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -20,29 +30,39 @@
     "imdb_id": "tt3697842"
   },
   {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "Late Night with Seth Meyers",
     "type": "series",
     "imdb_id": "tt3513388"
   },
   {
-    "name": "The Ultimate Fighter",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt0445912"
+    "imdb_id": "tt0121955"
   },
   {
-    "name": "Revenged Love",
+    "name": "American Pickers",
     "type": "series",
-    "imdb_id": "tt37370861"
+    "imdb_id": "tt1596786"
   },
   {
-    "name": "The Immortal Ascension",
+    "name": "Coronation Street",
     "type": "series",
-    "imdb_id": "tt28512830"
+    "imdb_id": "tt0053494"
   },
   {
     "name": "Tomorrow Is Ours",
     "type": "series",
     "imdb_id": "tt7124904"
+  },
+  {
+    "name": "The Immortal Ascension",
+    "type": "series",
+    "imdb_id": "tt28512830"
   },
   {
     "name": "Pânico Jovem Pan",
@@ -55,48 +75,28 @@
     "imdb_id": "tt5467444"
   },
   {
+    "name": "It's Always Sunny in Philadelphia",
+    "type": "series",
+    "imdb_id": "tt0472954"
+  },
+  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
   },
   {
+    "name": "The Return of Superman",
+    "type": "series",
+    "imdb_id": "tt5129382"
+  },
+  {
+    "name": "The Challenge",
+    "type": "series",
+    "imdb_id": "tt0176095"
+  },
+  {
     "name": "EastEnders",
     "type": "series",
     "imdb_id": "tt0088512"
-  },
-  {
-    "name": "LIVE with Kelly and Mark",
-    "type": "series",
-    "imdb_id": "tt0096636"
-  },
-  {
-    "name": "Kelders van Geheime",
-    "type": "series",
-    "imdb_id": "tt32264511"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "Martial Master",
-    "type": "series",
-    "imdb_id": "tt20769560"
-  },
-  {
-    "name": "Dreams of Liberty",
-    "type": "series",
-    "imdb_id": "tt30002038"
-  },
-  {
-    "name": "Beneath the Undertow",
-    "type": "series",
-    "imdb_id": "tt36855997"
-  },
-  {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
   }
 ]

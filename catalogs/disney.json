@@ -35,11 +35,6 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Marvel Studios Legends",
     "type": "series",
     "imdb_id": "tt13650480"
@@ -48,6 +43,11 @@
     "name": "Takopi's Original Sin",
     "type": "series",
     "imdb_id": "tt36988358"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Loki",
@@ -60,14 +60,14 @@
     "imdb_id": "tt12708542"
   },
   {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
     "name": "20,000 Leagues Under the Sea",
     "type": "series",
     "imdb_id": "tt28082463"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "Marvel Studios Assembled",
@@ -80,9 +80,14 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Soy Luna",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Big Shot",
+    "type": "series",
+    "imdb_id": "tt11238096"
   },
   {
     "name": "Moon Knight",
@@ -93,10 +98,5 @@
     "name": "LIGHT & MAGIC",
     "type": "series",
     "imdb_id": "tt19896784"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
   }
 ]

@@ -35,24 +35,24 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Countdown",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt32559610"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Sneaky Pete",
     "type": "series",
     "imdb_id": "tt5011816"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   },
   {
     "name": "The Wheel of Time",
@@ -65,11 +65,6 @@
     "imdb_id": "tt1740299"
   },
   {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
-  },
-  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
@@ -80,9 +75,14 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "House of David",
+    "name": "The Grand Tour",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt5712554"
+  },
+  {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
   },
   {
     "name": "The Marvelous Mrs. Maisel",
@@ -90,13 +90,13 @@
     "imdb_id": "tt5788792"
   },
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Bosch: Legacy",
+    "type": "series",
+    "imdb_id": "tt14168162"
   }
 ]

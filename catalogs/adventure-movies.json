@@ -1,8 +1,18 @@
 [
   {
+    "name": "Jurassic World Rebirth",
+    "type": "movie",
+    "imdb_id": "tt31036941"
+  },
+  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
+  },
+  {
+    "name": "Ne Zha 2",
+    "type": "movie",
+    "imdb_id": "tt34956443"
   },
   {
     "name": "Lilo & Stitch",
@@ -15,24 +25,14 @@
     "imdb_id": "tt10676052"
   },
   {
-    "name": "Karate Kid: Legends",
-    "type": "movie",
-    "imdb_id": "tt1674782"
-  },
-  {
     "name": "Superman",
     "type": "movie",
     "imdb_id": "tt5950044"
   },
   {
-    "name": "Jurassic World Rebirth",
+    "name": "Karate Kid: Legends",
     "type": "movie",
-    "imdb_id": "tt31036941"
-  },
-  {
-    "name": "Ne Zha 2",
-    "type": "movie",
-    "imdb_id": "tt34956443"
+    "imdb_id": "tt1674782"
   },
   {
     "name": "Thunderbolts*",
@@ -85,14 +85,14 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "The Twisters",
-    "type": "movie",
-    "imdb_id": "tt31828378"
-  },
-  {
     "name": "Dora and the Search for Sol Dorado",
     "type": "movie",
     "imdb_id": "tt32621553"
+  },
+  {
+    "name": "The Twisters",
+    "type": "movie",
+    "imdb_id": "tt31828378"
   },
   {
     "name": "Interstellar",
