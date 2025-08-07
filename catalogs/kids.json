@@ -15,16 +15,6 @@
     "imdb_id": "tt0213363"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -35,14 +25,19 @@
     "imdb_id": "tt3121722"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "SUPERKID",
-    "type": "series",
-    "imdb_id": "tt4567010"
   },
   {
     "name": "Craig of the Creek",
@@ -50,14 +45,9 @@
     "imdb_id": "tt7713450"
   },
   {
-    "name": "Hey Arnold!",
+    "name": "SUPERKID",
     "type": "series",
-    "imdb_id": "tt0115200"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt4567010"
   },
   {
     "name": "We Bare Bears",
@@ -65,23 +55,38 @@
     "imdb_id": "tt4839610"
   },
   {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
     "name": "Sailor Moon",
     "type": "series",
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Madeline",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0115257"
-  },
-  {
-    "name": "The Angry Beavers",
-    "type": "series",
-    "imdb_id": "tt0131664"
+    "imdb_id": "tt26997679"
   },
   {
     "name": "Thomas & Friends",
     "type": "series",
     "imdb_id": "tt0086815"
+  },
+  {
+    "name": "Kung Fu Panda: The Dragon Knight",
+    "type": "series",
+    "imdb_id": "tt18783984"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Henry Danger",
+    "type": "series",
+    "imdb_id": "tt3596174"
   }
 ]

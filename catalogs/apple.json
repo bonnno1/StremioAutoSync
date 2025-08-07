@@ -45,11 +45,6 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
     "name": "The Buccaneers",
     "type": "series",
     "imdb_id": "tt21108774"
@@ -65,14 +60,19 @@
     "imdb_id": "tt4301160"
   },
   {
-    "name": "Servant",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt8068860"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
+  },
+  {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
   },
   {
     "name": "Shrinking",
@@ -95,8 +95,8 @@
     "imdb_id": "tt13567344"
   },
   {
-    "name": "Presumed Innocent",
+    "name": "Mythic Quest",
     "type": "series",
-    "imdb_id": "tt17677860"
+    "imdb_id": "tt8879940"
   }
 ]

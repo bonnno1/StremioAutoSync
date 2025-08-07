@@ -10,19 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Prison Break",
@@ -30,19 +25,19 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Eyes of Wakanda",
     "type": "series",
     "imdb_id": "tt13968252"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "NCIS: Los Angeles",
-    "type": "series",
-    "imdb_id": "tt1378167"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "The Walking Dead",
@@ -60,11 +55,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -75,9 +65,9 @@
     "imdb_id": "tt1751634"
   },
   {
-    "name": "Pokémon",
+    "name": "Revenged Love",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt37370861"
   },
   {
     "name": "Lost",
@@ -85,18 +75,28 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "WWE 205 Live",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt6286394"
+    "imdb_id": "tt0118480"
   },
   {
-    "name": "Arrow",
+    "name": "SAKAMOTO DAYS",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt17069148"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
   }
 ]

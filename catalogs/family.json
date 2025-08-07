@@ -1,8 +1,8 @@
 [
   {
-    "name": "Among Friends",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Doraemon",
@@ -10,9 +10,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "The Simpsons",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "CBeebies Bedtime Stories",
@@ -20,34 +20,9 @@
     "imdb_id": "tt1631912"
   },
   {
-    "name": "Oggy and the Cockroaches",
+    "name": "Among Friends",
     "type": "series",
-    "imdb_id": "tt0213363"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Golden Boy",
@@ -55,9 +30,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Nature",
+    "name": "Oggy and the Cockroaches",
     "type": "series",
-    "imdb_id": "tt0083452"
+    "imdb_id": "tt0213363"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   },
   {
     "name": "Young Sheldon",
@@ -65,24 +45,19 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "SUPERKID",
-    "type": "series",
-    "imdb_id": "tt4567010"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Nature",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0083452"
   },
   {
-    "name": "Horrible Histories",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt1400819"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Craig of the Creek",
@@ -90,8 +65,33 @@
     "imdb_id": "tt7713450"
   },
   {
-    "name": "TV Animal Farm",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt25605188"
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "type": "series",
+    "imdb_id": "tt0071007"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
   }
 ]
