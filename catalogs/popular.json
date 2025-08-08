@@ -5,11 +5,6 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -20,14 +15,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Supernatural",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Chief of War",
@@ -35,14 +25,29 @@
     "imdb_id": "tt19381692"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
   },
   {
     "name": "Dexter",
@@ -50,24 +55,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Amazing Race",
-    "type": "series",
-    "imdb_id": "tt0285335"
-  },
-  {
-    "name": "Rooster Teeth Animated Adventures",
-    "type": "series",
-    "imdb_id": "tt21740392"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Breaking Bad",
@@ -75,19 +65,19 @@
     "imdb_id": "tt0903747"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Last American Gay Bar",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt29258581"
   },
   {
-    "name": "Horizon",
+    "name": "Chespirito: Not Really on Purpose",
     "type": "series",
-    "imdb_id": "tt0318224"
+    "imdb_id": "tt34755671"
   },
   {
-    "name": "Doraemon",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Criminal Minds",
@@ -98,5 +88,15 @@
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   }
 ]

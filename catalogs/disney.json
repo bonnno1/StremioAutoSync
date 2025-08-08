@@ -45,11 +45,6 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
@@ -60,14 +55,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "20,000 Leagues Under the Sea",
-    "type": "series",
-    "imdb_id": "tt28082463"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
+  },
+  {
+    "name": "20,000 Leagues Under the Sea",
+    "type": "series",
+    "imdb_id": "tt28082463"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -88,6 +83,11 @@
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
   },
   {
     "name": "WandaVision",
