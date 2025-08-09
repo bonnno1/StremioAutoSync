@@ -15,19 +15,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Countdown",
@@ -35,9 +30,9 @@
     "imdb_id": "tt32559610"
   },
   {
-    "name": "INVINCIBLE",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "The Chosen",
@@ -48,6 +43,11 @@
     "name": "Sneaky Pete",
     "type": "series",
     "imdb_id": "tt5011816"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Expanse",
@@ -70,9 +70,24 @@
     "imdb_id": "tt1740299"
   },
   {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
     "name": "The Grand Tour",
     "type": "series",
     "imdb_id": "tt5712554"
+  },
+  {
+    "name": "Bosch: Legacy",
+    "type": "series",
+    "imdb_id": "tt14168162"
   },
   {
     "name": "Goliath",
@@ -83,20 +98,5 @@
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
   }
 ]

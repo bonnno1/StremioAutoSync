@@ -10,24 +10,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
   },
   {
-    "name": "The Sandman",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt1751634"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "You",
@@ -35,9 +25,14 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Black Mirror",
+    "name": "Sex Education",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt7767422"
+  },
+  {
+    "name": "The Sandman",
+    "type": "series",
+    "imdb_id": "tt1751634"
   },
   {
     "name": "UNTAMED",
@@ -45,9 +40,19 @@
     "imdb_id": "tt31710822"
   },
   {
-    "name": "Sesame Street",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Santo",
+    "type": "series",
+    "imdb_id": "tt14278524"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
   },
   {
     "name": "Cobra Kai",
@@ -60,9 +65,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Santo",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt14278524"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Unspeakable Sins",
@@ -75,28 +80,23 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt0063951"
   },
   {
-    "name": "Elite",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt10795658"
   },
   {
-    "name": "Marvel's Daredevil",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt3322312"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Ginny & Georgia",
     "type": "series",
     "imdb_id": "tt10813940"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
   }
 ]

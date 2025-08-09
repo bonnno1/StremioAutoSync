@@ -20,6 +20,11 @@
     "imdb_id": "tt34755671"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -30,14 +35,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Family Guy",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Rooster Teeth Animated Adventures",
-    "type": "series",
-    "imdb_id": "tt21740392"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "House",
@@ -55,24 +55,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
   },
   {
-    "name": "The Daily Show",
+    "name": "Rooster Teeth Animated Adventures",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt21740392"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "American Dad!",
@@ -80,14 +80,9 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Oggy and the Cockroaches",
-    "type": "series",
-    "imdb_id": "tt0213363"
+    "imdb_id": "tt1442437"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -95,8 +90,13 @@
     "imdb_id": "tt1942683"
   },
   {
-    "name": "King of the Hill",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   }
 ]

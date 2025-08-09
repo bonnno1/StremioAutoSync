@@ -5,19 +5,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "CBeebies Bedtime Stories",
-    "type": "series",
-    "imdb_id": "tt1631912"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Oggy and the Cockroaches",
-    "type": "series",
-    "imdb_id": "tt0213363"
   },
   {
     "name": "PAW Patrol",
@@ -25,9 +15,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Sesame Street",
+    "name": "CBeebies Bedtime Stories",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt1631912"
+  },
+  {
+    "name": "Oggy and the Cockroaches",
+    "type": "series",
+    "imdb_id": "tt0213363"
   },
   {
     "name": "Peppa Pig",
@@ -35,39 +30,14 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Craig of the Creek",
     "type": "series",
     "imdb_id": "tt7713450"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "Bluey",
@@ -80,14 +50,19 @@
     "imdb_id": "tt2136138"
   },
   {
-    "name": "Chiikawa",
+    "name": "We Bare Bears",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt4839610"
   },
   {
-    "name": "Thomas & Friends",
+    "name": "Henry Danger",
     "type": "series",
-    "imdb_id": "tt0086815"
+    "imdb_id": "tt3596174"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -95,8 +70,33 @@
     "imdb_id": "tt0784896"
   },
   {
-    "name": "Henry Danger",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "The Smurfs",
+    "type": "series",
+    "imdb_id": "tt0081933"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   }
 ]

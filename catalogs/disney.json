@@ -5,6 +5,11 @@
     "imdb_id": "tt13968252"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -15,19 +20,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Andor",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Takopi's Original Sin",
@@ -35,19 +35,24 @@
     "imdb_id": "tt36988358"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "20,000 Leagues Under the Sea",
+    "type": "series",
+    "imdb_id": "tt28082463"
   },
   {
     "name": "Daredevil: Born Again",
@@ -60,14 +65,14 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "20,000 Leagues Under the Sea",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt28082463"
+    "imdb_id": "tt13650480"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt24640580"
   },
   {
     "name": "X-Men '97",
@@ -80,23 +85,18 @@
     "imdb_id": "tt14094206"
   },
   {
-    "name": "Moving",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt10234724"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
   }
 ]
