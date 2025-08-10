@@ -1,10 +1,5 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -15,14 +10,9 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "CBeebies Bedtime Stories",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1631912"
-  },
-  {
-    "name": "Oggy and the Cockroaches",
-    "type": "series",
-    "imdb_id": "tt0213363"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Peppa Pig",
@@ -30,73 +20,33 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Kermit's Swamp Years",
+    "type": "series",
+    "imdb_id": "tt0304283"
+  },
+  {
+    "name": "Kolme ässää",
+    "type": "series",
+    "imdb_id": "tt4972106"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Craig of the Creek",
+    "name": "Tomes & Talismans",
     "type": "series",
-    "imdb_id": "tt7713450"
+    "imdb_id": "tt0467704"
   },
   {
-    "name": "Bluey",
+    "name": "Pob's Programme",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0443399"
   },
   {
-    "name": "Sofia the First",
+    "name": "Rotten Ralph",
     "type": "series",
-    "imdb_id": "tt2136138"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0421443"
   }
 ]

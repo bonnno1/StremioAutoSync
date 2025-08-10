@@ -5,11 +5,6 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -20,19 +15,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Rick and Morty",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Kaiju No. 8",
@@ -40,9 +25,24 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "Doraemon",
+    "name": "Revenged Love",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt37370861"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Vikings",
@@ -50,9 +50,19 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Eyes of Wakanda",
     "type": "series",
     "imdb_id": "tt13968252"
+  },
+  {
+    "name": "SAKAMOTO DAYS",
+    "type": "series",
+    "imdb_id": "tt17069148"
   },
   {
     "name": "Arrow",
@@ -60,34 +70,9 @@
     "imdb_id": "tt2193021"
   },
   {
-    "name": "The Sandman",
-    "type": "series",
-    "imdb_id": "tt1751634"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
   },
   {
     "name": "Solo Leveling",
@@ -98,5 +83,20 @@
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "The Sandman",
+    "type": "series",
+    "imdb_id": "tt1751634"
   }
 ]

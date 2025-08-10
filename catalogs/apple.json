@@ -15,14 +15,14 @@
     "imdb_id": "tt14688458"
   },
   {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Platonic",
-    "type": "series",
-    "imdb_id": "tt13366604"
   },
   {
     "name": "See",
@@ -30,9 +30,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Smoke",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt24163532"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "The Buccaneers",
@@ -40,9 +40,9 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Platonic",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt13366604"
   },
   {
     "name": "Slow Horses",
@@ -50,19 +50,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
   },
   {
-    "name": "For All Mankind",
+    "name": "Murderbot",
     "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt30444310"
   },
   {
     "name": "Black Bird",
@@ -70,24 +65,9 @@
     "imdb_id": "tt4301160"
   },
   {
-    "name": "The Studio",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Acapulco",
-    "type": "series",
-    "imdb_id": "tt13567344"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Servant",
-    "type": "series",
-    "imdb_id": "tt8068860"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Shrinking",
@@ -95,8 +75,28 @@
     "imdb_id": "tt15677150"
   },
   {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
+  },
+  {
+    "name": "Acapulco",
+    "type": "series",
+    "imdb_id": "tt13567344"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
   }
 ]
