@@ -5,6 +5,11 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Revenged Love",
+    "type": "series",
+    "imdb_id": "tt37370861"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -25,11 +30,6 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
@@ -38,6 +38,11 @@
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
   },
   {
     "name": "The Walking Dead",
@@ -50,14 +55,14 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Eyes of Wakanda",
-    "type": "series",
-    "imdb_id": "tt13968252"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -85,18 +90,8 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Gachiakuta",
+    "name": "Eyes of Wakanda",
     "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "The Sandman",
-    "type": "series",
-    "imdb_id": "tt1751634"
+    "imdb_id": "tt13968252"
   }
 ]

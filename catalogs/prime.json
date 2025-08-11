@@ -5,14 +5,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Reacher",
@@ -20,29 +20,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Countdown",
     "type": "series",
     "imdb_id": "tt32559610"
   },
   {
-    "name": "Sneaky Pete",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt5011816"
-  },
-  {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "INVINCIBLE",
@@ -50,9 +35,34 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Sneaky Pete",
+    "type": "series",
+    "imdb_id": "tt5011816"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Halcyon",
+    "type": "series",
+    "imdb_id": "tt30459699"
+  },
+  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "FIVE",
+    "type": "series",
+    "imdb_id": "tt37428209"
   },
   {
     "name": "Ballard",
@@ -60,9 +70,9 @@
     "imdb_id": "tt26676904"
   },
   {
-    "name": "The Expanse",
+    "name": "Rise of the Empress",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt35511876"
   },
   {
     "name": "Goliath",
@@ -75,28 +85,13 @@
     "imdb_id": "tt30955673"
   },
   {
+    "name": "Tell Me Your Name",
+    "type": "series",
+    "imdb_id": "tt31536241"
+  },
+  {
     "name": "We Were Liars",
     "type": "series",
     "imdb_id": "tt3914054"
-  },
-  {
-    "name": "The Man in the High Castle",
-    "type": "series",
-    "imdb_id": "tt1740299"
-  },
-  {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
-  },
-  {
-    "name": "Bosch: Legacy",
-    "type": "series",
-    "imdb_id": "tt14168162"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   }
 ]

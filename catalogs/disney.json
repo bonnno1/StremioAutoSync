@@ -5,11 +5,6 @@
     "imdb_id": "tt13968252"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
@@ -20,9 +15,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Mandalorian",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt9253284"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Takopi's Original Sin",
@@ -30,19 +30,19 @@
     "imdb_id": "tt36988358"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
   },
   {
-    "name": "What If...?",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt10168312"
+    "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Loki",
@@ -60,19 +60,29 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
-    "name": "WandaVision",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt5531466"
+  },
+  {
+    "name": "Reminder",
+    "type": "series",
+    "imdb_id": "tt34995624"
+  },
+  {
+    "name": "Milady Origins",
+    "type": "series",
+    "imdb_id": "tt21068468"
+  },
+  {
+    "name": "The Sunnyridge 3",
+    "type": "series",
+    "imdb_id": "tt28077790"
   },
   {
     "name": "Moon Knight",
@@ -80,23 +90,13 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "World War Shoe: Adidas v Puma",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt11382826"
   },
   {
-    "name": "Revenge of Others",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt23032890"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Reminder",
-    "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt9140560"
   }
 ]
