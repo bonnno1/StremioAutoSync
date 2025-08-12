@@ -5,14 +5,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Prison Break",
@@ -20,9 +20,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "NCIS",
+    "name": "Revenged Love",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt37370861"
   },
   {
     "name": "Kaiju No. 8",
@@ -40,11 +40,6 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
@@ -60,19 +55,14 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "SAKAMOTO DAYS",
     "type": "series",
     "imdb_id": "tt17069148"
   },
   {
-    "name": "Arrow",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Smallville",
@@ -80,9 +70,19 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Solo Leveling",
+    "name": "JAG",
     "type": "series",
-    "imdb_id": "tt21209876"
+    "imdb_id": "tt0112022"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Lost",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Eyes of Wakanda",
+    "name": "Solo Leveling",
     "type": "series",
-    "imdb_id": "tt13968252"
+    "imdb_id": "tt21209876"
   }
 ]

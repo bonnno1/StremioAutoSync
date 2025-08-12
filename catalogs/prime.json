@@ -5,14 +5,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "Reacher",
@@ -30,19 +30,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Sneaky Pete",
     "type": "series",
     "imdb_id": "tt5011816"
   },
   {
-    "name": "The Chosen",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -50,9 +45,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Halcyon",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt30459699"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "The Wheel of Time",
@@ -60,19 +55,9 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "FIVE",
-    "type": "series",
-    "imdb_id": "tt37428209"
-  },
-  {
     "name": "Ballard",
     "type": "series",
     "imdb_id": "tt26676904"
-  },
-  {
-    "name": "Rise of the Empress",
-    "type": "series",
-    "imdb_id": "tt35511876"
   },
   {
     "name": "Goliath",
@@ -85,13 +70,33 @@
     "imdb_id": "tt30955673"
   },
   {
-    "name": "Tell Me Your Name",
-    "type": "series",
-    "imdb_id": "tt31536241"
-  },
-  {
     "name": "We Were Liars",
     "type": "series",
     "imdb_id": "tt3914054"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
+  },
+  {
+    "name": "Bosch: Legacy",
+    "type": "series",
+    "imdb_id": "tt14168162"
   }
 ]

@@ -30,24 +30,24 @@
     "imdb_id": "tt21317634"
   },
   {
-    "name": "Together",
-    "type": "movie",
-    "imdb_id": "tt31184028"
-  },
-  {
     "name": "Freakier Friday",
     "type": "movie",
     "imdb_id": "tt31956415"
   },
   {
-    "name": "Smurfs",
+    "name": "Together",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt31184028"
   },
   {
     "name": "I Know What You Did Last Summer",
     "type": "movie",
     "imdb_id": "tt4045450"
+  },
+  {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
   },
   {
     "name": "Omniscient Reader: The Prophecy",
@@ -85,6 +85,11 @@
     "imdb_id": "tt31313835"
   },
   {
+    "name": "Four Letters of Love",
+    "type": "movie",
+    "imdb_id": "tt13020386"
+  },
+  {
     "name": "The Shrouds",
     "type": "movie",
     "imdb_id": "tt20212786"
@@ -93,10 +98,5 @@
     "name": "When Fall Is Coming",
     "type": "movie",
     "imdb_id": "tt29482291"
-  },
-  {
-    "name": "Four Letters of Love",
-    "type": "movie",
-    "imdb_id": "tt13020386"
   }
 ]

@@ -1,23 +1,23 @@
 [
   {
-    "name": "Δούρειος Ίππος",
-    "type": "series",
-    "imdb_id": "tt0341743"
-  },
-  {
     "name": "The Tudors",
     "type": "series",
     "imdb_id": "tt0758790"
   },
   {
-    "name": "You are My Destiny",
+    "name": "Δούρειος Ίππος",
     "type": "series",
-    "imdb_id": "tt2275419"
+    "imdb_id": "tt0341743"
   },
   {
     "name": "Maison Ikkoku",
     "type": "series",
     "imdb_id": "tt0090479"
+  },
+  {
+    "name": "You are My Destiny",
+    "type": "series",
+    "imdb_id": "tt2275419"
   },
   {
     "name": "Rin-ne",
@@ -35,19 +35,9 @@
     "imdb_id": "tt1204222"
   },
   {
-    "name": "Head over Heels",
-    "type": "series",
-    "imdb_id": "tt2983896"
-  },
-  {
     "name": "On the Wings of Love",
     "type": "series",
     "imdb_id": "tt5513960"
-  },
-  {
-    "name": "Only Love",
-    "type": "series",
-    "imdb_id": "tt4616256"
   },
   {
     "name": "Ef: A Tale Of Memories & Melodies",
@@ -60,34 +50,24 @@
     "imdb_id": "tt3385756"
   },
   {
+    "name": "Head over Heels",
+    "type": "series",
+    "imdb_id": "tt2983896"
+  },
+  {
+    "name": "The Snow Queen",
+    "type": "series",
+    "imdb_id": "tt2389644"
+  },
+  {
+    "name": "Dark Fate",
+    "type": "series",
+    "imdb_id": "tt0373562"
+  },
+  {
     "name": "Hwajung",
     "type": "series",
     "imdb_id": "tt4613620"
-  },
-  {
-    "name": "Witch's Castle",
-    "type": "series",
-    "imdb_id": "tt6256946"
-  },
-  {
-    "name": "Loving, Never Forgetting",
-    "type": "series",
-    "imdb_id": "tt13772534"
-  },
-  {
-    "name": "Beautiful You",
-    "type": "series",
-    "imdb_id": "tt5617936"
-  },
-  {
-    "name": "The Time We Were Not in Love",
-    "type": "series",
-    "imdb_id": "tt4817002"
-  },
-  {
-    "name": "Angel's Revenge",
-    "type": "series",
-    "imdb_id": "tt3541074"
   },
   {
     "name": "Brave Woman",
@@ -95,8 +75,28 @@
     "imdb_id": "tt2476828"
   },
   {
-    "name": "Dark Fate",
+    "name": "OniAi",
     "type": "series",
-    "imdb_id": "tt0373562"
+    "imdb_id": "tt2390038"
+  },
+  {
+    "name": "Only Love",
+    "type": "series",
+    "imdb_id": "tt4616256"
+  },
+  {
+    "name": "Crazy Love",
+    "type": "series",
+    "imdb_id": "tt3116550"
+  },
+  {
+    "name": "The Time We Were Not in Love",
+    "type": "series",
+    "imdb_id": "tt4817002"
+  },
+  {
+    "name": "Candy Boy",
+    "type": "series",
+    "imdb_id": "tt5351736"
   }
 ]

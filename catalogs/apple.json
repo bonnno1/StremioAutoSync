@@ -30,9 +30,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Platonic",
+    "name": "Murderbot",
     "type": "series",
-    "imdb_id": "tt13366604"
+    "imdb_id": "tt30444310"
   },
   {
     "name": "The Buccaneers",
@@ -40,19 +40,9 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Murderbot",
+    "name": "Platonic",
     "type": "series",
-    "imdb_id": "tt30444310"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt13366604"
   },
   {
     "name": "Slow Horses",
@@ -60,14 +50,19 @@
     "imdb_id": "tt5875444"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "Black Bird",
     "type": "series",
     "imdb_id": "tt4301160"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
   },
   {
     "name": "The Studio",
@@ -80,9 +75,14 @@
     "imdb_id": "tt31710249"
   },
   {
-    "name": "Star City",
+    "name": "Acapulco",
     "type": "series",
-    "imdb_id": "tt32140872"
+    "imdb_id": "tt13567344"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
   },
   {
     "name": "The Morning Show",
@@ -90,8 +90,13 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Acapulco",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt13567344"
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
   }
 ]
