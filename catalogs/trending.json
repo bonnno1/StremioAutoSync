@@ -1,18 +1,18 @@
 [
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Outlander: Blood of My Blood",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt18332852"
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
   },
   {
     "name": "The Immortal Ascension",
@@ -20,9 +20,14 @@
     "imdb_id": "tt28512830"
   },
   {
-    "name": "Chief of War",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Outlander: Blood of My Blood",
+    "type": "series",
+    "imdb_id": "tt18332852"
   },
   {
     "name": "One Piece",
@@ -35,14 +40,39 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "South Park",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt19381692"
   },
   {
     "name": "The Legend of Heroes",
     "type": "series",
     "imdb_id": "tt28116044"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
+  },
+  {
+    "name": "Platonic",
+    "type": "series",
+    "imdb_id": "tt13366604"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Twisted Metal",
@@ -55,43 +85,13 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Attack on Titan",
-    "type": "series",
-    "imdb_id": "tt2560140"
-  },
-  {
-    "name": "The Gilded Age",
-    "type": "series",
-    "imdb_id": "tt4406178"
-  },
-  {
-    "name": "Eyes of Wakanda",
-    "type": "series",
-    "imdb_id": "tt13968252"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Star Trek: Strange New Worlds",
     "type": "series",
     "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
   }
 ]

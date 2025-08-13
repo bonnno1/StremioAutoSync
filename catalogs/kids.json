@@ -25,19 +25,14 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
   },
   {
     "name": "The Fairly OddParents",
@@ -45,14 +40,19 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0092345"
   },
   {
     "name": "We Bare Bears",
@@ -60,19 +60,14 @@
     "imdb_id": "tt4839610"
   },
   {
-    "name": "The Smurfs",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0081933"
+    "imdb_id": "tt1751105"
   },
   {
-    "name": "Gravity Falls",
+    "name": "Kim Possible",
     "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
+    "imdb_id": "tt0278866"
   },
   {
     "name": "Digimon: Digital Monsters",
@@ -80,18 +75,28 @@
     "imdb_id": "tt0210418"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "The Flintstones",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0053502"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Cyberchase",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0309141"
   },
   {
-    "name": "Henry Danger",
+    "name": "The Transformers",
     "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt0086817"
+  },
+  {
+    "name": "The Wild Thornberrys",
+    "type": "series",
+    "imdb_id": "tt0167743"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   }
 ]

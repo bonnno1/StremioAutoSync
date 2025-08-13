@@ -30,6 +30,11 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "Platonic",
+    "type": "series",
+    "imdb_id": "tt13366604"
+  },
+  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
@@ -40,14 +45,14 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Platonic",
-    "type": "series",
-    "imdb_id": "tt13366604"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Ted Lasso",
@@ -55,9 +60,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Invasion",
+    "name": "Acapulco",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt13567344"
   },
   {
     "name": "Black Bird",
@@ -73,11 +78,6 @@
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
-  },
-  {
-    "name": "Acapulco",
-    "type": "series",
-    "imdb_id": "tt13567344"
   },
   {
     "name": "For All Mankind",

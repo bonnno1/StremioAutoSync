@@ -20,24 +20,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Chief of War",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Grey's Anatomy",
@@ -50,9 +40,14 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Last American Gay Bar",
@@ -60,9 +55,14 @@
     "imdb_id": "tt29258581"
   },
   {
-    "name": "Prison Break",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "NCIS",
@@ -70,14 +70,19 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "Revenged Love",
     "type": "series",
     "imdb_id": "tt37370861"
   },
   {
-    "name": "Nukitashi the Animation",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt0452046"
   },
   {
     "name": "Chespirito: Not Really on Purpose",
@@ -85,13 +90,13 @@
     "imdb_id": "tt34755671"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt0098844"
   },
   {
-    "name": "Family Guy",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0903747"
   }
 ]
