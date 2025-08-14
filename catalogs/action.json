@@ -10,14 +10,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Revenged Love",
@@ -30,9 +30,9 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Butterfly",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt26672404"
   },
   {
     "name": "Rick and Morty",
@@ -45,19 +45,14 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "SAKAMOTO DAYS",
-    "type": "series",
-    "imdb_id": "tt17069148"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -65,24 +60,19 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "JAG",
-    "type": "series",
-    "imdb_id": "tt0112022"
-  },
-  {
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
   },
   {
-    "name": "Doctor Who",
+    "name": "SAKAMOTO DAYS",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt17069148"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Lost",
@@ -90,8 +80,23 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Solo Leveling",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt21209876"
+    "imdb_id": "tt32612521"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
   }
 ]

@@ -45,6 +45,11 @@
     "imdb_id": "tt18069420"
   },
   {
+    "name": "Sonic the Hedgehog 3",
+    "type": "movie",
+    "imdb_id": "tt18259086"
+  },
+  {
     "name": "Dora and the Search for Sol Dorado",
     "type": "movie",
     "imdb_id": "tt32621553"
@@ -53,16 +58,6 @@
     "name": "The Green Dinosaur",
     "type": "movie",
     "imdb_id": "tt27850528"
-  },
-  {
-    "name": "SuperKlaus",
-    "type": "movie",
-    "imdb_id": "tt24659406"
-  },
-  {
-    "name": "Sonic the Hedgehog 3",
-    "type": "movie",
-    "imdb_id": "tt18259086"
   },
   {
     "name": "Inside Out 2",
@@ -75,14 +70,14 @@
     "imdb_id": "tt7510222"
   },
   {
+    "name": "SuperKlaus",
+    "type": "movie",
+    "imdb_id": "tt24659406"
+  },
+  {
     "name": "Freaky Friday",
     "type": "movie",
     "imdb_id": "tt0322330"
-  },
-  {
-    "name": "Kayara",
-    "type": "movie",
-    "imdb_id": "tt11846550"
   },
   {
     "name": "Mufasa: The Lion King",
@@ -98,5 +93,10 @@
     "name": "The Bad Guys",
     "type": "movie",
     "imdb_id": "tt8115900"
+  },
+  {
+    "name": "Kayara",
+    "type": "movie",
+    "imdb_id": "tt11846550"
   }
 ]

@@ -15,14 +15,14 @@
     "imdb_id": "tt26672404"
   },
   {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "The Immortal Ascension",
     "type": "series",
     "imdb_id": "tt28512830"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
   },
   {
     "name": "Outlander: Blood of My Blood",
@@ -30,49 +30,9 @@
     "imdb_id": "tt18332852"
   },
   {
-    "name": "One Piece",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
-    "name": "The Legend of Heroes",
-    "type": "series",
-    "imdb_id": "tt28116044"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Platonic",
-    "type": "series",
-    "imdb_id": "tt13366604"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Twisted Metal",
@@ -80,9 +40,24 @@
     "imdb_id": "tt14261112"
   },
   {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
   },
   {
     "name": "Star Trek: Strange New Worlds",
@@ -90,8 +65,33 @@
     "imdb_id": "tt12327578"
   },
   {
-    "name": "Dexter",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt12879782"
+  },
+  {
+    "name": "The Legend of Heroes",
+    "type": "series",
+    "imdb_id": "tt28116044"
+  },
+  {
+    "name": "Attack on Titan",
+    "type": "series",
+    "imdb_id": "tt2560140"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   }
 ]

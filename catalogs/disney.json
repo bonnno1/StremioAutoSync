@@ -5,19 +5,14 @@
     "imdb_id": "tt13968252"
   },
   {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Andor",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Dancing with the Stars",
@@ -25,9 +20,9 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Soy Luna",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -40,9 +35,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Takopi's Original Sin",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Loki",
@@ -50,9 +45,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "20,000 Leagues Under the Sea",
+    "name": "Takopi's Original Sin",
     "type": "series",
-    "imdb_id": "tt28082463"
+    "imdb_id": "tt36988358"
   },
   {
     "name": "Daredevil: Born Again",
@@ -60,14 +55,19 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Moving",
+    "name": "20,000 Leagues Under the Sea",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt28082463"
   },
   {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
   },
   {
     "name": "Reminder",
@@ -80,6 +80,16 @@
     "imdb_id": "tt13157618"
   },
   {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
@@ -88,15 +98,5 @@
     "name": "World War Shoe: Adidas v Puma",
     "type": "series",
     "imdb_id": "tt11382826"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Milady Origins",
-    "type": "series",
-    "imdb_id": "tt21068468"
   }
 ]

@@ -10,6 +10,11 @@
     "imdb_id": "tt4721732"
   },
   {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -25,24 +30,24 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Supernatural",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Family Guy",
@@ -55,14 +60,14 @@
     "imdb_id": "tt29258581"
   },
   {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
   },
   {
     "name": "NCIS",
@@ -75,24 +80,19 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Revenged Love",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt37370861"
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Criminal Minds",
     "type": "series",
     "imdb_id": "tt0452046"
-  },
-  {
-    "name": "Chespirito: Not Really on Purpose",
-    "type": "series",
-    "imdb_id": "tt34755671"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
   },
   {
     "name": "Breaking Bad",

@@ -40,19 +40,24 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt0092345"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "We Bare Bears",
@@ -63,6 +68,11 @@
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Reading Rainbow",
+    "type": "series",
+    "imdb_id": "tt0085075"
   },
   {
     "name": "Kim Possible",
@@ -85,18 +95,8 @@
     "imdb_id": "tt0309141"
   },
   {
-    "name": "The Transformers",
+    "name": "Good Luck Charlie",
     "type": "series",
-    "imdb_id": "tt0086817"
-  },
-  {
-    "name": "The Wild Thornberrys",
-    "type": "series",
-    "imdb_id": "tt0167743"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt1415889"
   }
 ]

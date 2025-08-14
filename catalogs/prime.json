@@ -10,14 +10,14 @@
     "imdb_id": "tt3502248"
   },
   {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
   },
   {
     "name": "Countdown",
@@ -25,19 +25,24 @@
     "imdb_id": "tt32559610"
   },
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Sneaky Pete",
     "type": "series",
     "imdb_id": "tt5011816"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Chosen",
@@ -55,14 +60,14 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Ballard",
-    "type": "series",
-    "imdb_id": "tt26676904"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
   },
   {
     "name": "House of David",
@@ -80,9 +85,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Grand Tour",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt5712554"
+    "imdb_id": "tt11247158"
   },
   {
     "name": "The Man in the High Castle",
@@ -90,13 +95,8 @@
     "imdb_id": "tt1740299"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "The Grand Tour",
     "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
-    "name": "Bosch: Legacy",
-    "type": "series",
-    "imdb_id": "tt14168162"
+    "imdb_id": "tt5712554"
   }
 ]
