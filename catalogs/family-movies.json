@@ -35,14 +35,14 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
     "name": "Smurfs",
     "type": "movie",
     "imdb_id": "tt18069420"
+  },
+  {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
   },
   {
     "name": "Sonic the Hedgehog 3",
@@ -60,11 +60,6 @@
     "imdb_id": "tt27850528"
   },
   {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
     "name": "Despicable Me 4",
     "type": "movie",
     "imdb_id": "tt7510222"
@@ -75,14 +70,14 @@
     "imdb_id": "tt24659406"
   },
   {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
+  },
+  {
     "name": "Freaky Friday",
     "type": "movie",
     "imdb_id": "tt0322330"
-  },
-  {
-    "name": "Mufasa: The Lion King",
-    "type": "movie",
-    "imdb_id": "tt13186482"
   },
   {
     "name": "Snow White",
@@ -90,13 +85,18 @@
     "imdb_id": "tt6208148"
   },
   {
-    "name": "The Bad Guys",
+    "name": "Mufasa: The Lion King",
     "type": "movie",
-    "imdb_id": "tt8115900"
+    "imdb_id": "tt13186482"
   },
   {
     "name": "Kayara",
     "type": "movie",
     "imdb_id": "tt11846550"
+  },
+  {
+    "name": "The Bad Guys",
+    "type": "movie",
+    "imdb_id": "tt8115900"
   }
 ]
