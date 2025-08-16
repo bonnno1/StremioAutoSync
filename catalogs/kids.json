@@ -30,6 +30,11 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "The Powerpuff Girls",
     "type": "series",
     "imdb_id": "tt0175058"
@@ -40,24 +45,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
-  },
-  {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -65,14 +55,19 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Digimon: Digital Monsters",
     "type": "series",
     "imdb_id": "tt0210418"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
   },
   {
     "name": "The Smurfs",
@@ -80,14 +75,14 @@
     "imdb_id": "tt0081933"
   },
   {
-    "name": "The Transformers",
-    "type": "series",
-    "imdb_id": "tt0086817"
-  },
-  {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0784896"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Kim Possible",
+    "type": "series",
+    "imdb_id": "tt0278866"
   }
 ]

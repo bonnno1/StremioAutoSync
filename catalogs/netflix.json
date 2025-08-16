@@ -10,6 +10,11 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "In the Mud",
+    "type": "series",
+    "imdb_id": "tt32874331"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -30,19 +35,14 @@
     "imdb_id": "tt7767422"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "The Sandman",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt1751634"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Black Mirror",
@@ -50,29 +50,19 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "UNTAMED",
-    "type": "series",
-    "imdb_id": "tt31710822"
-  },
-  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
   },
   {
-    "name": "In the Mud",
+    "name": "The Sandman",
     "type": "series",
-    "imdb_id": "tt32874331"
+    "imdb_id": "tt1751634"
   },
   {
-    "name": "Cobra Kai",
+    "name": "UNTAMED",
     "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt31710822"
   },
   {
     "name": "Unspeakable Sins",
@@ -80,9 +70,9 @@
     "imdb_id": "tt37504309"
   },
   {
-    "name": "Elite",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt7221388"
   },
   {
     "name": "Outer Banks",
@@ -90,13 +80,23 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt4179452"
+    "imdb_id": "tt7134908"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Marvel's Daredevil",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Love, Death & Robots",
+    "type": "series",
+    "imdb_id": "tt9561862"
   }
 ]

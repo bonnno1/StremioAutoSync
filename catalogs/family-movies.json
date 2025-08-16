@@ -10,19 +10,19 @@
     "imdb_id": "tt11655566"
   },
   {
-    "name": "KPop Demon Hunters",
+    "name": "Smurfs",
     "type": "movie",
-    "imdb_id": "tt14205554"
-  },
-  {
-    "name": "Freakier Friday",
-    "type": "movie",
-    "imdb_id": "tt31956415"
+    "imdb_id": "tt18069420"
   },
   {
     "name": "Yours, Mine & Ours",
     "type": "movie",
     "imdb_id": "tt0443295"
+  },
+  {
+    "name": "Freakier Friday",
+    "type": "movie",
+    "imdb_id": "tt31956415"
   },
   {
     "name": "The Bad Guys 2",
@@ -35,11 +35,6 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Smurfs",
-    "type": "movie",
-    "imdb_id": "tt18069420"
-  },
-  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
@@ -48,6 +43,11 @@
     "name": "Sonic the Hedgehog 3",
     "type": "movie",
     "imdb_id": "tt18259086"
+  },
+  {
+    "name": "Despicable Me 4",
+    "type": "movie",
+    "imdb_id": "tt7510222"
   },
   {
     "name": "Dora and the Search for Sol Dorado",
@@ -60,9 +60,9 @@
     "imdb_id": "tt27850528"
   },
   {
-    "name": "Despicable Me 4",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt7510222"
+    "imdb_id": "tt22022452"
   },
   {
     "name": "SuperKlaus",
@@ -70,24 +70,19 @@
     "imdb_id": "tt24659406"
   },
   {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
     "name": "Freaky Friday",
     "type": "movie",
     "imdb_id": "tt0322330"
   },
   {
-    "name": "Snow White",
-    "type": "movie",
-    "imdb_id": "tt6208148"
-  },
-  {
     "name": "Mufasa: The Lion King",
     "type": "movie",
     "imdb_id": "tt13186482"
+  },
+  {
+    "name": "Snow White",
+    "type": "movie",
+    "imdb_id": "tt6208148"
   },
   {
     "name": "Kayara",
@@ -98,5 +93,10 @@
     "name": "The Bad Guys",
     "type": "movie",
     "imdb_id": "tt8115900"
+  },
+  {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "type": "movie",
+    "imdb_id": "tt0363771"
   }
 ]

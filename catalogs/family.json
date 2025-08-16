@@ -10,9 +10,9 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Doraemon",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Young Sheldon",
@@ -20,9 +20,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Bonanza",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "King of the Hill",
@@ -30,9 +35,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt1942683"
+    "imdb_id": "tt0053479"
   },
   {
     "name": "Phineas and Ferb",
@@ -40,14 +45,14 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Bewitched",
+    "type": "series",
+    "imdb_id": "tt0057733"
   },
   {
     "name": "The Nanny",
@@ -60,24 +65,9 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
-  },
-  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "The Cosby Show",
-    "type": "series",
-    "imdb_id": "tt0086687"
   },
   {
     "name": "El Chavo del Ocho",
@@ -85,14 +75,24 @@
     "imdb_id": "tt0229889"
   },
   {
+    "name": "Family Ties",
+    "type": "series",
+    "imdb_id": "tt0083413"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "type": "series",
+    "imdb_id": "tt0071007"
+  },
+  {
     "name": "The Goldbergs",
     "type": "series",
     "imdb_id": "tt2712740"
   },
   {
-    "name": "Family Ties",
+    "name": "The Cosby Show",
     "type": "series",
-    "imdb_id": "tt0083413"
+    "imdb_id": "tt0086687"
   },
   {
     "name": "The Powerpuff Girls",

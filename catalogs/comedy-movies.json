@@ -45,11 +45,6 @@
     "imdb_id": "tt31176520"
   },
   {
-    "name": "Freakier Friday",
-    "type": "movie",
-    "imdb_id": "tt31956415"
-  },
-  {
     "name": "Guns Up",
     "type": "movie",
     "imdb_id": "tt28026215"
@@ -60,14 +55,14 @@
     "imdb_id": "tt0443295"
   },
   {
+    "name": "Freakier Friday",
+    "type": "movie",
+    "imdb_id": "tt31956415"
+  },
+  {
     "name": "Marriage Unplugged",
     "type": "movie",
     "imdb_id": "tt31656774"
-  },
-  {
-    "name": "The Bad Guys 2",
-    "type": "movie",
-    "imdb_id": "tt30017619"
   },
   {
     "name": "Almost Cops",
@@ -80,14 +75,14 @@
     "imdb_id": "tt32831759"
   },
   {
+    "name": "The Bad Guys 2",
+    "type": "movie",
+    "imdb_id": "tt30017619"
+  },
+  {
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
-  },
-  {
-    "name": "Game On",
-    "type": "movie",
-    "imdb_id": "tt11204452"
   },
   {
     "name": "Heads of State",
@@ -95,8 +90,13 @@
     "imdb_id": "tt13357520"
   },
   {
-    "name": "Moana 2",
+    "name": "Game On",
     "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt11204452"
+  },
+  {
+    "name": "The Naked Gun",
+    "type": "movie",
+    "imdb_id": "tt3402138"
   }
 ]
