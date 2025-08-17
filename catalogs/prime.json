@@ -40,14 +40,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Sneaky Pete",
-    "type": "series",
-    "imdb_id": "tt5011816"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Sneaky Pete",
+    "type": "series",
+    "imdb_id": "tt5011816"
   },
   {
     "name": "The Chosen",
@@ -60,11 +60,6 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Sausage Party: Foodtopia",
-    "type": "series",
-    "imdb_id": "tt23036426"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
@@ -75,14 +70,24 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Ballard",
+    "name": "Betty la Fea, the Story Continues",
     "type": "series",
-    "imdb_id": "tt26676904"
+    "imdb_id": "tt32321928"
+  },
+  {
+    "name": "Sausage Party: Foodtopia",
+    "type": "series",
+    "imdb_id": "tt23036426"
   },
   {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
+  },
+  {
+    "name": "Ballard",
+    "type": "series",
+    "imdb_id": "tt26676904"
   },
   {
     "name": "We Were Liars",
@@ -93,10 +98,5 @@
     "name": "Bosch: Legacy",
     "type": "series",
     "imdb_id": "tt14168162"
-  },
-  {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
   }
 ]

@@ -25,19 +25,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Loki",
@@ -45,14 +40,19 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Low Life",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt32122656"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Low Life",
+    "type": "series",
+    "imdb_id": "tt32122656"
   },
   {
     "name": "Takopi's Original Sin",
@@ -65,14 +65,9 @@
     "imdb_id": "tt28082463"
   },
   {
-    "name": "DuckTales",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
-    "name": "Reminder",
-    "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Moon Knight",
@@ -80,9 +75,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "WandaVision",
+    "name": "Reminder",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt34995624"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   },
   {
     "name": "Moving",
@@ -95,8 +95,8 @@
     "imdb_id": "tt13157618"
   },
   {
-    "name": "Breakdown",
+    "name": "Agatha All Along",
     "type": "series",
-    "imdb_id": "tt35310911"
+    "imdb_id": "tt15571732"
   }
 ]
