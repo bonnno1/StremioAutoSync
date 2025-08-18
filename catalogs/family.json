@@ -10,14 +10,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -35,14 +35,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "The Chosen",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Phineas and Ferb",
@@ -50,9 +45,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Frasier",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Bewitched",
@@ -60,19 +55,9 @@
     "imdb_id": "tt0057733"
   },
   {
-    "name": "The Nanny",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt0071007"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Lassie",
@@ -80,9 +65,14 @@
     "imdb_id": "tt0046617"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
   },
   {
     "name": "El Chavo del Ocho",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0229889"
   },
   {
-    "name": "Sazae-san",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "Everwood",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0318883"
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
+  },
+  {
+    "name": "Heartland",
+    "type": "series",
+    "imdb_id": "tt1094229"
   }
 ]

@@ -1,13 +1,23 @@
 [
   {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Wednesday",
+    "name": "The Rookie: Feds",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt18076310"
   },
   {
     "name": "Butterfly",
@@ -15,34 +25,9 @@
     "imdb_id": "tt26672404"
   },
   {
-    "name": "Dexter: Resurrection",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Immortal Ascension",
-    "type": "series",
-    "imdb_id": "tt28512830"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Outlander: Blood of My Blood",
@@ -50,39 +35,34 @@
     "imdb_id": "tt18332852"
   },
   {
-    "name": "Pokémon",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "Foundation",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt19381692"
   },
   {
-    "name": "South Park",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt12879782"
   },
   {
-    "name": "Smoke",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt24163532"
+    "imdb_id": "tt33043892"
   },
   {
-    "name": "Peacemaker",
+    "name": "The Immortal Ascension",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt28512830"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Twisted Metal",
-    "type": "series",
-    "imdb_id": "tt14261112"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Game of Thrones",
@@ -90,8 +70,28 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
   }
 ]
