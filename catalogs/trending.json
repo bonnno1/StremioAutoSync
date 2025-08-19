@@ -1,23 +1,8 @@
 [
   {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
-  },
-  {
-    "name": "The Rookie: Feds",
-    "type": "series",
-    "imdb_id": "tt18076310"
   },
   {
     "name": "Butterfly",
@@ -30,9 +15,9 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Outlander: Blood of My Blood",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt18332852"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "One Piece",
@@ -40,34 +25,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Chief of War",
+    "name": "Outlander: Blood of My Blood",
     "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "The Immortal Ascension",
-    "type": "series",
-    "imdb_id": "tt28512830"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt18332852"
   },
   {
     "name": "Peacemaker",
@@ -75,9 +35,29 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Immortal Ascension",
+    "type": "series",
+    "imdb_id": "tt28512830"
   },
   {
     "name": "Dexter",
@@ -85,13 +65,33 @@
     "imdb_id": "tt0773262"
   },
   {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
+  },
+  {
+    "name": "This Thriving Land",
+    "type": "series",
+    "imdb_id": "tt32199362"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Smoke",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt24163532"
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   }
 ]

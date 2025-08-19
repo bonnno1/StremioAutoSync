@@ -10,14 +10,19 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Peppa Pig",
@@ -30,6 +35,11 @@
     "imdb_id": "tt7678620"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
@@ -40,14 +50,19 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "The Powerpuff Girls",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0175058"
+    "imdb_id": "tt26692417"
   },
   {
-    "name": "We Bare Bears",
+    "name": "Kikoriki",
     "type": "series",
-    "imdb_id": "tt4839610"
+    "imdb_id": "tt0853174"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   },
   {
     "name": "Gravity Falls",
@@ -55,9 +70,9 @@
     "imdb_id": "tt1865718"
   },
   {
-    "name": "iCarly",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "Henry Danger",
@@ -65,28 +80,13 @@
     "imdb_id": "tt3596174"
   },
   {
-    "name": "The Smurfs",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt0081933"
+    "imdb_id": "tt0175058"
   },
   {
     "name": "Digimon: Digital Monsters",
     "type": "series",
     "imdb_id": "tt0210418"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Thomas & Friends",
-    "type": "series",
-    "imdb_id": "tt0086815"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   }
 ]

@@ -40,14 +40,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
   },
   {
     "name": "Platonic",
@@ -63,6 +63,11 @@
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
   },
   {
     "name": "Shrinking",
@@ -83,11 +88,6 @@
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Black Bird",
-    "type": "series",
-    "imdb_id": "tt4301160"
   },
   {
     "name": "The Morning Show",

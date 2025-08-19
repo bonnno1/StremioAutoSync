@@ -1,13 +1,13 @@
 [
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Butterfly",
     "type": "series",
     "imdb_id": "tt26672404"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Game of Thrones",
@@ -30,9 +30,9 @@
     "imdb_id": "tt37370861"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -40,24 +40,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "The Walking Dead",
@@ -65,24 +50,19 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Smallville",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "Fights Break Sphere",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt12879782"
   },
   {
-    "name": "Gachiakuta",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -90,13 +70,28 @@
     "imdb_id": "tt17069148"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt32612521"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Solo Leveling",
+    "type": "series",
+    "imdb_id": "tt21209876"
   }
 ]

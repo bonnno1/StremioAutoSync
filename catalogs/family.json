@@ -15,14 +15,19 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Doraemon",
@@ -30,9 +35,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "King of the Hill",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Frasier",
@@ -40,19 +45,19 @@
     "imdb_id": "tt0106004"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Chosen",
+    "name": "Abarenbo Shogun",
     "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt0220189"
   },
   {
     "name": "Teen Titans Go!",
@@ -60,9 +65,14 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Lassie",
+    "name": "El Chavo del Ocho",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt0229889"
+  },
+  {
+    "name": "Bewitched",
+    "type": "series",
+    "imdb_id": "tt0057733"
   },
   {
     "name": "The Nanny",
@@ -70,33 +80,13 @@
     "imdb_id": "tt0106080"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "The Andy Griffith Show",
     "type": "series",
     "imdb_id": "tt0053479"
-  },
-  {
-    "name": "El Chavo del Ocho",
-    "type": "series",
-    "imdb_id": "tt0229889"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
   }
 ]

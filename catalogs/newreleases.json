@@ -1,13 +1,13 @@
 [
   {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
+  },
+  {
     "name": "Divas Hit the Road",
     "type": "series",
     "imdb_id": "tt4721732"
-  },
-  {
-    "name": "SAKAMOTO DAYS",
-    "type": "series",
-    "imdb_id": "tt17069148"
   },
   {
     "name": "Legend of the Female General",
@@ -15,14 +15,14 @@
     "imdb_id": "tt30219537"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
+  },
+  {
+    "name": "Platonic",
+    "type": "series",
+    "imdb_id": "tt13366604"
   },
   {
     "name": "EastEnders",
@@ -30,19 +30,14 @@
     "imdb_id": "tt0088512"
   },
   {
-    "name": "Bargain Hunt",
+    "name": "Acapulco",
     "type": "series",
-    "imdb_id": "tt0283172"
+    "imdb_id": "tt13567344"
   },
   {
-    "name": "Mastermind",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0196269"
-  },
-  {
-    "name": "Marry Me, Let's Have a Baby!",
-    "type": "series",
-    "imdb_id": "tt37205939"
+    "imdb_id": "tt26997679"
   },
   {
     "name": "Home and Away",
@@ -50,19 +45,24 @@
     "imdb_id": "tt0094481"
   },
   {
-    "name": "Coronation Street",
+    "name": "Chopped",
     "type": "series",
-    "imdb_id": "tt0053494"
+    "imdb_id": "tt1353281"
   },
   {
-    "name": "The Block",
+    "name": "Serial Homicide",
     "type": "series",
-    "imdb_id": "tt0418372"
+    "imdb_id": "tt37895260"
   },
   {
-    "name": "Gute Zeiten, schlechte Zeiten",
+    "name": "WWE NXT",
     "type": "series",
-    "imdb_id": "tt0103434"
+    "imdb_id": "tt1601141"
+  },
+  {
+    "name": "New Saga",
+    "type": "series",
+    "imdb_id": "tt33050376"
   },
   {
     "name": "Dreams of Liberty",
@@ -70,9 +70,9 @@
     "imdb_id": "tt30002038"
   },
   {
-    "name": "CITY THE ANIMATION",
+    "name": "The Block",
     "type": "series",
-    "imdb_id": "tt33472011"
+    "imdb_id": "tt0418372"
   },
   {
     "name": "When Destiny Brings The Demon",
@@ -80,8 +80,18 @@
     "imdb_id": "tt33045752"
   },
   {
-    "name": "The Rachel Maddow Show",
+    "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
-    "imdb_id": "tt1280627"
+    "imdb_id": "tt0103434"
+  },
+  {
+    "name": "Suidooster",
+    "type": "series",
+    "imdb_id": "tt5467444"
+  },
+  {
+    "name": "The Yakuza Boss’s Beloved",
+    "type": "series",
+    "imdb_id": "tt37707464"
   }
 ]
