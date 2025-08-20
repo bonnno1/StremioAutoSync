@@ -10,14 +10,14 @@
     "imdb_id": "tt13968252"
   },
   {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Andor",
@@ -35,14 +35,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Loki",
@@ -55,14 +55,9 @@
     "imdb_id": "tt32122656"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Takopi's Original Sin",
-    "type": "series",
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt5531466"
   },
   {
     "name": "Reminder",
@@ -70,19 +65,14 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "20,000 Leagues Under the Sea",
+    "name": "Secret Invasion",
     "type": "series",
-    "imdb_id": "tt28082463"
+    "imdb_id": "tt13157618"
   },
   {
-    "name": "DuckTales",
+    "name": "Takopi's Original Sin",
     "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt36988358"
   },
   {
     "name": "Moon Knight",
@@ -90,13 +80,23 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Secret Invasion",
+    "name": "20,000 Leagues Under the Sea",
     "type": "series",
-    "imdb_id": "tt13157618"
+    "imdb_id": "tt28082463"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   }
 ]

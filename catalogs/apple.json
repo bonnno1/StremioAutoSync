@@ -25,14 +25,14 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "Slow Horses",
@@ -40,9 +40,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Invasion",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Murderbot",
@@ -60,11 +60,6 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
     "name": "Black Bird",
     "type": "series",
     "imdb_id": "tt4301160"
@@ -75,9 +70,14 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Stick",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt31710249"
+    "imdb_id": "tt7772588"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
   },
   {
     "name": "Acapulco",
@@ -85,9 +85,9 @@
     "imdb_id": "tt13567344"
   },
   {
-    "name": "For All Mankind",
+    "name": "Stick",
     "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt31710249"
   },
   {
     "name": "The Morning Show",
@@ -95,8 +95,8 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Dark Matter",
+    "name": "Servant",
     "type": "series",
-    "imdb_id": "tt19231492"
+    "imdb_id": "tt8068860"
   }
 ]

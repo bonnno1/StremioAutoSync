@@ -20,14 +20,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   },
   {
     "name": "The Boys",
@@ -35,9 +35,9 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "INVINCIBLE",
+    "name": "Betty la Fea, the Story Continues",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt32321928"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -45,9 +45,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Betty la Fea, the Story Continues",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt32321928"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Chosen",
@@ -85,6 +85,11 @@
     "imdb_id": "tt30955673"
   },
   {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
+  },
+  {
     "name": "We Were Liars",
     "type": "series",
     "imdb_id": "tt3914054"
@@ -93,10 +98,5 @@
     "name": "Ballard",
     "type": "series",
     "imdb_id": "tt26676904"
-  },
-  {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
   }
 ]

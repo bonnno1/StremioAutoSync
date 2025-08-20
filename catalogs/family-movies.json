@@ -15,6 +15,16 @@
     "imdb_id": "tt11655566"
   },
   {
+    "name": "The Bad Guys 2",
+    "type": "movie",
+    "imdb_id": "tt30017619"
+  },
+  {
+    "name": "Elio",
+    "type": "movie",
+    "imdb_id": "tt4900148"
+  },
+  {
     "name": "Yours, Mine & Ours",
     "type": "movie",
     "imdb_id": "tt0443295"
@@ -23,11 +33,6 @@
     "name": "Freakier Friday",
     "type": "movie",
     "imdb_id": "tt31956415"
-  },
-  {
-    "name": "The Bad Guys 2",
-    "type": "movie",
-    "imdb_id": "tt30017619"
   },
   {
     "name": "A Minecraft Movie",
@@ -43,11 +48,6 @@
     "name": "Sonic the Hedgehog 3",
     "type": "movie",
     "imdb_id": "tt18259086"
-  },
-  {
-    "name": "Elio",
-    "type": "movie",
-    "imdb_id": "tt4900148"
   },
   {
     "name": "Snoopy Presents: A Summer Musical",
@@ -75,14 +75,14 @@
     "imdb_id": "tt32621553"
   },
   {
-    "name": "Snow White",
-    "type": "movie",
-    "imdb_id": "tt6208148"
-  },
-  {
     "name": "Mufasa: The Lion King",
     "type": "movie",
     "imdb_id": "tt13186482"
+  },
+  {
+    "name": "Snow White",
+    "type": "movie",
+    "imdb_id": "tt6208148"
   },
   {
     "name": "Kayara",
@@ -90,13 +90,13 @@
     "imdb_id": "tt11846550"
   },
   {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
+  },
+  {
     "name": "Freaky Friday",
     "type": "movie",
     "imdb_id": "tt0322330"
-  },
-  {
-    "name": "SuperKlaus",
-    "type": "movie",
-    "imdb_id": "tt24659406"
   }
 ]

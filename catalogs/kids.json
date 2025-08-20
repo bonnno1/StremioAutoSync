@@ -10,19 +10,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Peppa Pig",
@@ -30,14 +25,14 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   },
   {
     "name": "Rugrats",
@@ -50,29 +45,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Kikoriki",
-    "type": "series",
-    "imdb_id": "tt0853174"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Henry Danger",
@@ -80,13 +55,38 @@
     "imdb_id": "tt3596174"
   },
   {
+    "name": "Thomas & Friends",
+    "type": "series",
+    "imdb_id": "tt0086815"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "The Powerpuff Girls",
     "type": "series",
     "imdb_id": "tt0175058"
   },
   {
-    "name": "Digimon: Digital Monsters",
+    "name": "The Smurfs",
     "type": "series",
-    "imdb_id": "tt0210418"
+    "imdb_id": "tt0081933"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]

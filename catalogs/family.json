@@ -15,14 +15,14 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   },
   {
     "name": "Bonanza",
@@ -30,19 +30,24 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "King of the Hill",
@@ -55,24 +60,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Abarenbo Shogun",
+    "name": "Lassie",
     "type": "series",
-    "imdb_id": "tt0220189"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "El Chavo del Ocho",
-    "type": "series",
-    "imdb_id": "tt0229889"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt0046617"
   },
   {
     "name": "The Nanny",
@@ -80,13 +70,23 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Doraemon",
+    "name": "Bewitched",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0057733"
   },
   {
-    "name": "The Andy Griffith Show",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt1094229"
+  },
+  {
+    "name": "Abarenbo Shogun",
+    "type": "series",
+    "imdb_id": "tt0220189"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
   }
 ]

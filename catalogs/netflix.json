@@ -5,14 +5,14 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "In the Mud",
     "type": "series",
     "imdb_id": "tt32874331"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Stranger Things",
@@ -25,11 +25,6 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
@@ -40,14 +35,14 @@
     "imdb_id": "tt7335184"
   },
   {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Black Mirror",
@@ -60,14 +55,14 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "Outer Banks",
+    "type": "series",
+    "imdb_id": "tt10293938"
+  },
+  {
     "name": "UNTAMED",
     "type": "series",
     "imdb_id": "tt31710822"
-  },
-  {
-    "name": "The Sandman",
-    "type": "series",
-    "imdb_id": "tt1751634"
   },
   {
     "name": "Marvel's Daredevil",
@@ -75,14 +70,9 @@
     "imdb_id": "tt3322312"
   },
   {
-    "name": "Cobra Kai",
+    "name": "The Sandman",
     "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Outer Banks",
-    "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt1751634"
   },
   {
     "name": "Elite",
@@ -90,13 +80,23 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Unspeakable Sins",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt37504309"
+    "imdb_id": "tt7221388"
   },
   {
     "name": "Love, Death & Robots",
     "type": "series",
     "imdb_id": "tt9561862"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Unspeakable Sins",
+    "type": "series",
+    "imdb_id": "tt37504309"
   }
 ]
