@@ -15,14 +15,19 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Bonanza",
@@ -35,24 +40,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Phineas and Ferb",
@@ -60,9 +55,19 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Lassie",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt1094229"
+  },
+  {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "The Nanny",
@@ -70,23 +75,23 @@
     "imdb_id": "tt0106080"
   },
   {
+    "name": "El Chavo del Ocho",
+    "type": "series",
+    "imdb_id": "tt0229889"
+  },
+  {
     "name": "Bewitched",
     "type": "series",
     "imdb_id": "tt0057733"
   },
   {
-    "name": "Heartland",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "Abarenbo Shogun",
+    "name": "Lassie",
     "type": "series",
-    "imdb_id": "tt0220189"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0046617"
   }
 ]

@@ -35,14 +35,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Betty la Fea, the Story Continues",
-    "type": "series",
-    "imdb_id": "tt32321928"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Betty la Fea, the Story Continues",
+    "type": "series",
+    "imdb_id": "tt32321928"
   },
   {
     "name": "INVINCIBLE",
@@ -55,24 +55,24 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Sneaky Pete",
-    "type": "series",
-    "imdb_id": "tt5011816"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Goliath",
+    "name": "Sneaky Pete",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt5011816"
   },
   {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   },
   {
     "name": "Sausage Party: Foodtopia",
@@ -85,11 +85,6 @@
     "imdb_id": "tt30955673"
   },
   {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
-  },
-  {
     "name": "We Were Liars",
     "type": "series",
     "imdb_id": "tt3914054"
@@ -98,5 +93,10 @@
     "name": "Ballard",
     "type": "series",
     "imdb_id": "tt26676904"
+  },
+  {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
   }
 ]

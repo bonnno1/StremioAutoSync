@@ -40,14 +40,14 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
   },
   {
     "name": "Rick and Morty",
@@ -55,14 +55,14 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "SAKAMOTO DAYS",
     "type": "series",
     "imdb_id": "tt17069148"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Chespirito: Not Really on Purpose",
@@ -80,18 +80,23 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt1442437"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
   }
 ]

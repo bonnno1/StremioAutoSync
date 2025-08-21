@@ -5,19 +5,14 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Smurfs",
-    "type": "movie",
-    "imdb_id": "tt18069420"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
     "name": "The Bad Guys 2",
     "type": "movie",
     "imdb_id": "tt30017619"
+  },
+  {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
   },
   {
     "name": "Elio",
@@ -25,14 +20,19 @@
     "imdb_id": "tt4900148"
   },
   {
-    "name": "Yours, Mine & Ours",
+    "name": "Lilo & Stitch",
     "type": "movie",
-    "imdb_id": "tt0443295"
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Freakier Friday",
     "type": "movie",
     "imdb_id": "tt31956415"
+  },
+  {
+    "name": "Yours, Mine & Ours",
+    "type": "movie",
+    "imdb_id": "tt0443295"
   },
   {
     "name": "A Minecraft Movie",
@@ -45,14 +45,14 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "Sonic the Hedgehog 3",
-    "type": "movie",
-    "imdb_id": "tt18259086"
-  },
-  {
     "name": "Snoopy Presents: A Summer Musical",
     "type": "movie",
     "imdb_id": "tt36988583"
+  },
+  {
+    "name": "Sonic the Hedgehog 3",
+    "type": "movie",
+    "imdb_id": "tt18259086"
   },
   {
     "name": "Inside Out 2",
@@ -65,6 +65,11 @@
     "imdb_id": "tt7510222"
   },
   {
+    "name": "The Bad Guys",
+    "type": "movie",
+    "imdb_id": "tt8115900"
+  },
+  {
     "name": "The Green Dinosaur",
     "type": "movie",
     "imdb_id": "tt27850528"
@@ -75,28 +80,23 @@
     "imdb_id": "tt32621553"
   },
   {
-    "name": "Mufasa: The Lion King",
-    "type": "movie",
-    "imdb_id": "tt13186482"
-  },
-  {
     "name": "Snow White",
     "type": "movie",
     "imdb_id": "tt6208148"
   },
   {
+    "name": "Mufasa: The Lion King",
+    "type": "movie",
+    "imdb_id": "tt13186482"
+  },
+  {
+    "name": "Kung Fu Panda 4",
+    "type": "movie",
+    "imdb_id": "tt21692408"
+  },
+  {
     "name": "Kayara",
     "type": "movie",
     "imdb_id": "tt11846550"
-  },
-  {
-    "name": "The Wild Robot",
-    "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
-    "name": "Freaky Friday",
-    "type": "movie",
-    "imdb_id": "tt0322330"
   }
 ]
