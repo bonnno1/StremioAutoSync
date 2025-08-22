@@ -1,13 +1,18 @@
 [
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Peacemaker",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Wednesday",
@@ -15,29 +20,14 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
-  },
-  {
     "name": "Dexter: Resurrection",
     "type": "series",
     "imdb_id": "tt33043892"
   },
   {
-    "name": "South Park",
+    "name": "Butterfly",
     "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt26672404"
   },
   {
     "name": "Chief of War",
@@ -45,9 +35,24 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "Begin Again",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt12256822"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   },
   {
     "name": "A Record of a Mortal's Journey to Immortality",
@@ -60,9 +65,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Breaking Bad",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Game of Thrones",
@@ -70,14 +75,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "Twisted Metal",
     "type": "series",
     "imdb_id": "tt14261112"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "This Thriving Land",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt32199362"
   },
   {
     "name": "The Twisted Tale of Amanda Knox",
@@ -88,15 +98,5 @@
     "name": "Outlander: Blood of My Blood",
     "type": "series",
     "imdb_id": "tt18332852"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "This Thriving Land",
-    "type": "series",
-    "imdb_id": "tt32199362"
   }
 ]

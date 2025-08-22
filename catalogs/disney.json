@@ -5,14 +5,14 @@
     "imdb_id": "tt35310911"
   },
   {
-    "name": "Eyes of Wakanda",
-    "type": "series",
-    "imdb_id": "tt13968252"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Eyes of Wakanda",
+    "type": "series",
+    "imdb_id": "tt13968252"
   },
   {
     "name": "Ironheart",
@@ -25,14 +25,14 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
   },
   {
     "name": "What If...?",
@@ -40,19 +40,14 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Low Life",
-    "type": "series",
-    "imdb_id": "tt32122656"
   },
   {
     "name": "DuckTales",
@@ -65,9 +60,14 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "Secret Invasion",
+    "name": "Agatha All Along",
     "type": "series",
-    "imdb_id": "tt13157618"
+    "imdb_id": "tt15571732"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Takopi's Original Sin",
@@ -80,23 +80,23 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Low Life",
+    "type": "series",
+    "imdb_id": "tt32122656"
+  },
+  {
     "name": "20,000 Leagues Under the Sea",
     "type": "series",
     "imdb_id": "tt28082463"
   },
   {
-    "name": "WandaVision",
+    "name": "Secret Invasion",
     "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt13157618"
   }
 ]

@@ -25,9 +25,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Doraemon",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Bonanza",
@@ -35,14 +35,14 @@
     "imdb_id": "tt0052451"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
   },
   {
     "name": "Teen Titans Go!",
@@ -50,24 +50,14 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "The Nanny",
@@ -75,14 +65,14 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "El Chavo del Ocho",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0229889"
+    "imdb_id": "tt1094229"
   },
   {
-    "name": "Bewitched",
+    "name": "Lassie",
     "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt0046617"
   },
   {
     "name": "Rugrats",
@@ -90,8 +80,18 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Lassie",
+    "name": "Gravity Falls",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt1865718"
+  },
+  {
+    "name": "El Chavo del Ocho",
+    "type": "series",
+    "imdb_id": "tt0229889"
+  },
+  {
+    "name": "The Rifleman",
+    "type": "series",
+    "imdb_id": "tt0051308"
   }
 ]
