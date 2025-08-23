@@ -20,6 +20,11 @@
     "imdb_id": "tt13623126"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -28,11 +33,6 @@
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
@@ -50,6 +50,11 @@
     "imdb_id": "tt5189554"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
@@ -65,9 +70,9 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "WandaVision",
+    "name": "Low Life",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt32122656"
   },
   {
     "name": "Takopi's Original Sin",
@@ -75,28 +80,23 @@
     "imdb_id": "tt36988358"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Low Life",
-    "type": "series",
-    "imdb_id": "tt32122656"
-  },
-  {
     "name": "20,000 Leagues Under the Sea",
     "type": "series",
     "imdb_id": "tt28082463"
   },
   {
-    "name": "Secret Invasion",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt13157618"
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Revenge of Others",
+    "type": "series",
+    "imdb_id": "tt23032890"
   }
 ]

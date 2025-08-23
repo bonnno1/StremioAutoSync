@@ -5,6 +5,11 @@
     "imdb_id": "tt19381692"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
@@ -25,16 +30,6 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -43,6 +38,11 @@
     "name": "Platonic",
     "type": "series",
     "imdb_id": "tt13366604"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Slow Horses",
@@ -60,24 +60,9 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
     "name": "Acapulco",
     "type": "series",
     "imdb_id": "tt13567344"
-  },
-  {
-    "name": "Presumed Innocent",
-    "type": "series",
-    "imdb_id": "tt17677860"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
   },
   {
     "name": "Shrinking",
@@ -85,9 +70,19 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Stick",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt31710249"
+    "imdb_id": "tt7203552"
+  },
+  {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Black Bird",
@@ -95,8 +90,13 @@
     "imdb_id": "tt4301160"
   },
   {
-    "name": "The Morning Show",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
   }
 ]

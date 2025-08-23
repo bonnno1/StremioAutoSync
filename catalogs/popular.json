@@ -1,13 +1,13 @@
 [
   {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
   },
   {
     "name": "Alien: Earth",
@@ -35,6 +35,11 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
@@ -45,19 +50,14 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Butterfly",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt26672404"
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Game of Thrones",
@@ -70,14 +70,14 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
+  },
+  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
   },
   {
     "name": "Chief of War",
@@ -85,9 +85,9 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "The Simpsons",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Law & Order",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Family Guy",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0096697"
   }
 ]
