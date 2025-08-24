@@ -15,9 +15,9 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt1942683"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "King of the Hill",
@@ -25,9 +25,14 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Frasier",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Bonanza",
@@ -45,19 +50,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "The Nanny",
@@ -70,28 +70,28 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
   },
   {
-    "name": "El Chavo del Ocho",
+    "name": "Lassie",
     "type": "series",
-    "imdb_id": "tt0229889"
+    "imdb_id": "tt0046617"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
   },
   {
     "name": "The Rifleman",
     "type": "series",
     "imdb_id": "tt0051308"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   }
 ]

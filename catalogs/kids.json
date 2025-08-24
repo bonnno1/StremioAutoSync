@@ -30,6 +30,11 @@
     "imdb_id": "tt7678620"
   },
   {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
+  },
+  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
@@ -40,9 +45,14 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Gravity Falls",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt1865718"
+    "imdb_id": "tt1877889"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
   },
   {
     "name": "Pokémon Horizons",
@@ -50,9 +60,14 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Henry Danger",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt3596174"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Doraemon",
@@ -65,14 +80,9 @@
     "imdb_id": "tt0972534"
   },
   {
-    "name": "Henry Danger",
+    "name": "Totally Spies!",
     "type": "series",
-    "imdb_id": "tt3596174"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt0283226"
   },
   {
     "name": "The Smurfs",
@@ -80,18 +90,8 @@
     "imdb_id": "tt0081933"
   },
   {
-    "name": "Thomas & Friends",
+    "name": "Mickey Mouse Clubhouse",
     "type": "series",
-    "imdb_id": "tt0086815"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0784896"
   }
 ]
