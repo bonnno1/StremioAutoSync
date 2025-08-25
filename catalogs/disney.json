@@ -20,11 +20,6 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -33,6 +28,11 @@
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
@@ -55,14 +55,24 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
     "name": "Reminder",
     "type": "series",
     "imdb_id": "tt34995624"
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "type": "series",
+    "imdb_id": "tt8466564"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   },
   {
     "name": "Agatha All Along",
@@ -75,9 +85,9 @@
     "imdb_id": "tt36988358"
   },
   {
-    "name": "Low Life",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt32122656"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "20,000 Leagues Under the Sea",
@@ -85,18 +95,8 @@
     "imdb_id": "tt28082463"
   },
   {
-    "name": "WandaVision",
+    "name": "Star Wars: Skeleton Crew",
     "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Revenge of Others",
-    "type": "series",
-    "imdb_id": "tt23032890"
+    "imdb_id": "tt20600980"
   }
 ]

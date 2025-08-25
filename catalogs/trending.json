@@ -10,14 +10,14 @@
     "imdb_id": "tt13623632"
   },
   {
+    "name": "Upload",
+    "type": "series",
+    "imdb_id": "tt7826376"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
   },
   {
     "name": "Dexter: Resurrection",
@@ -25,34 +25,19 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
     "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
-  },
-  {
-    "name": "This Thriving Land",
-    "type": "series",
-    "imdb_id": "tt32199362"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
   },
   {
     "name": "South Park",
@@ -70,9 +55,19 @@
     "imdb_id": "tt10946316"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Butterfly",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt26672404"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Dexter",
@@ -80,14 +75,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "The Twisted Tale of Amanda Knox",
+    "name": "This Thriving Land",
     "type": "series",
-    "imdb_id": "tt31613279"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt32199362"
   },
   {
     "name": "Kaiju No. 8",
@@ -95,8 +85,18 @@
     "imdb_id": "tt21975436"
   },
   {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
     "name": "Bon Appétit, Your Majesty",
     "type": "series",
     "imdb_id": "tt37600136"
+  },
+  {
+    "name": "The Twisted Tale of Amanda Knox",
+    "type": "series",
+    "imdb_id": "tt31613279"
   }
 ]

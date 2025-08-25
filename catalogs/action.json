@@ -5,14 +5,14 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "NCIS",
@@ -30,6 +30,11 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
     "name": "Butterfly",
     "type": "series",
     "imdb_id": "tt26672404"
@@ -40,24 +45,9 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Revenged Love",
-    "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "Vikings",
@@ -65,19 +55,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "SAKAMOTO DAYS",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt17069148"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Gachiakuta",
@@ -85,18 +65,38 @@
     "imdb_id": "tt32612521"
   },
   {
+    "name": "Revenged Love",
+    "type": "series",
+    "imdb_id": "tt37370861"
+  },
+  {
+    "name": "SAKAMOTO DAYS",
+    "type": "series",
+    "imdb_id": "tt17069148"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Solo Leveling",
+    "type": "series",
+    "imdb_id": "tt21209876"
+  },
+  {
     "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
     "imdb_id": "tt12879782"
   },
   {
-    "name": "Pokémon",
+    "name": "Good Boy",
     "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt32361930"
   }
 ]

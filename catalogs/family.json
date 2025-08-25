@@ -10,14 +10,9 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "King of the Hill",
@@ -30,19 +25,24 @@
     "imdb_id": "tt1942683"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt0106004"
   },
   {
-    "name": "Bonanza",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "The Chosen",
@@ -55,14 +55,19 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Heartland",
@@ -70,19 +75,9 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
     "name": "Lassie",
     "type": "series",
     "imdb_id": "tt0046617"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
   },
   {
     "name": "The Rifleman",
@@ -90,8 +85,18 @@
     "imdb_id": "tt0051308"
   },
   {
-    "name": "Rugrats",
+    "name": "The Proud Family",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0293737"
+  },
+  {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
+  },
+  {
+    "name": "Wagon Train",
+    "type": "series",
+    "imdb_id": "tt0050073"
   }
 ]
