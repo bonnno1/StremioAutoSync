@@ -10,14 +10,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Eyes of Wakanda",
-    "type": "series",
-    "imdb_id": "tt13968252"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
+  },
+  {
+    "name": "Eyes of Wakanda",
+    "type": "series",
+    "imdb_id": "tt13968252"
   },
   {
     "name": "Andor",
@@ -25,14 +25,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "What If...?",
@@ -40,14 +40,14 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Dancing with the Stars",
@@ -60,26 +60,6 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "Obi-Wan Kenobi",
-    "type": "series",
-    "imdb_id": "tt8466564"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
-  },
-  {
     "name": "Takopi's Original Sin",
     "type": "series",
     "imdb_id": "tt36988358"
@@ -90,13 +70,33 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
+  },
+  {
     "name": "20,000 Leagues Under the Sea",
     "type": "series",
     "imdb_id": "tt28082463"
   },
   {
-    "name": "Star Wars: Skeleton Crew",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt20600980"
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Revenge of Others",
+    "type": "series",
+    "imdb_id": "tt23032890"
   }
 ]

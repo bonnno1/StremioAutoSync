@@ -30,14 +30,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   },
   {
     "name": "House",
@@ -75,9 +75,19 @@
     "imdb_id": "tt7767422"
   },
   {
+    "name": "SAKAMOTO DAYS",
+    "type": "series",
+    "imdb_id": "tt17069148"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
+  },
+  {
+    "name": "Upload",
+    "type": "series",
+    "imdb_id": "tt7826376"
   },
   {
     "name": "How I Met Your Mother",
@@ -88,15 +98,5 @@
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
-  },
-  {
-    "name": "SAKAMOTO DAYS",
-    "type": "series",
-    "imdb_id": "tt17069148"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
   }
 ]

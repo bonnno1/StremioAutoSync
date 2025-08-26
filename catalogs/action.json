@@ -35,14 +35,14 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
-  },
-  {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
   },
   {
     "name": "The Walking Dead",
@@ -55,14 +55,19 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Gachiakuta",
+    "name": "SAKAMOTO DAYS",
     "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt17069148"
   },
   {
     "name": "Revenged Love",
@@ -70,9 +75,9 @@
     "imdb_id": "tt37370861"
   },
   {
-    "name": "SAKAMOTO DAYS",
+    "name": "Good Boy",
     "type": "series",
-    "imdb_id": "tt17069148"
+    "imdb_id": "tt32361930"
   },
   {
     "name": "Smallville",
@@ -93,10 +98,5 @@
     "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
     "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Good Boy",
-    "type": "series",
-    "imdb_id": "tt32361930"
   }
 ]
