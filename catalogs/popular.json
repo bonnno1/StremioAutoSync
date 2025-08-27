@@ -30,29 +30,9 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
-    "name": "In the Mud",
-    "type": "series",
-    "imdb_id": "tt32874331"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
   },
   {
     "name": "Game of Thrones",
@@ -60,14 +40,24 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "NCIS",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Prison Break",
@@ -75,14 +65,24 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "In the Mud",
+    "type": "series",
+    "imdb_id": "tt32874331"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -90,13 +90,13 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt0903747"
   },
   {
-    "name": "Law & Order",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt1586680"
   }
 ]

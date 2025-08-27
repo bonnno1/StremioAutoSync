@@ -5,14 +5,14 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "In the Mud",
-    "type": "series",
-    "imdb_id": "tt32874331"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
+  },
+  {
+    "name": "In the Mud",
+    "type": "series",
+    "imdb_id": "tt32874331"
   },
   {
     "name": "Hostage",
@@ -20,19 +20,14 @@
     "imdb_id": "tt31806048"
   },
   {
-    "name": "The Ba***ds of Bollywood",
-    "type": "series",
-    "imdb_id": "tt24251564"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lucifer",
+    "name": "The Ba***ds of Bollywood",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt24251564"
   },
   {
     "name": "Sex Education",
@@ -40,19 +35,24 @@
     "imdb_id": "tt7767422"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Cobra Kai",
@@ -65,14 +65,9 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Raw",
+    "name": "The Sandman",
     "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
+    "imdb_id": "tt1751634"
   },
   {
     "name": "Elite",
@@ -80,9 +75,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "The Sandman",
+    "name": "Sex/Life",
     "type": "series",
-    "imdb_id": "tt1751634"
+    "imdb_id": "tt10839422"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -95,8 +90,13 @@
     "imdb_id": "tt31710822"
   },
   {
-    "name": "Sex/Life",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt10839422"
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
   }
 ]

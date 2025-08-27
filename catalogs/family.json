@@ -30,9 +30,9 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1942683"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Bonanza",
@@ -40,14 +40,19 @@
     "imdb_id": "tt0052451"
   },
   {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "The Chosen",
@@ -60,29 +65,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Mister Ed",
-    "type": "series",
-    "imdb_id": "tt0054557"
-  },
-  {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
-  },
-  {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
   },
   {
     "name": "Teen Titans Go!",
@@ -95,8 +80,23 @@
     "imdb_id": "tt0051308"
   },
   {
-    "name": "Heartland",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
+  },
+  {
+    "name": "TV Animal Farm",
+    "type": "series",
+    "imdb_id": "tt25605188"
+  },
+  {
+    "name": "El Chavo del Ocho",
+    "type": "series",
+    "imdb_id": "tt0229889"
   }
 ]

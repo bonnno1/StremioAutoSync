@@ -5,14 +5,14 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Silo",
@@ -20,19 +20,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Smoke",
+    "name": "Severance",
     "type": "series",
-    "imdb_id": "tt24163532"
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Ted Lasso",
@@ -45,14 +40,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Severance",
+    "name": "Smoke",
     "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt24163532"
   },
   {
     "name": "Platonic",
@@ -60,9 +50,19 @@
     "imdb_id": "tt13366604"
   },
   {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
   },
   {
     "name": "The Buccaneers",
@@ -75,6 +75,11 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
@@ -85,18 +90,13 @@
     "imdb_id": "tt13567344"
   },
   {
-    "name": "Servant",
-    "type": "series",
-    "imdb_id": "tt8068860"
-  },
-  {
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
   },
   {
-    "name": "Shrinking",
+    "name": "Servant",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt8068860"
   }
 ]
