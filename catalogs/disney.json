@@ -10,14 +10,14 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
   },
   {
     "name": "Andor",
@@ -25,19 +25,24 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Eyes of Wakanda",
     "type": "series",
     "imdb_id": "tt13968252"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -50,9 +55,9 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Soy Luna",
+    "name": "Reminder",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt34995624"
   },
   {
     "name": "Takopi's Original Sin",
@@ -60,9 +65,14 @@
     "imdb_id": "tt36988358"
   },
   {
-    "name": "Reminder",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "WandaVision",
@@ -75,24 +85,14 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "20,000 Leagues Under the Sea",
     "type": "series",
     "imdb_id": "tt28082463"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt5531466"
   },
   {
     "name": "Revenge of Others",

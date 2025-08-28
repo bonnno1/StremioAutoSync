@@ -5,6 +5,11 @@
     "imdb_id": "tt14016500"
   },
   {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
     "name": "Butterfly",
     "type": "series",
     "imdb_id": "tt26672404"
@@ -15,24 +20,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "Upload",
     "type": "series",
     "imdb_id": "tt7826376"
   },
   {
-    "name": "Betty la Fea, the Story Continues",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt32321928"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt3502248"
   },
   {
     "name": "Countdown",
@@ -40,9 +35,24 @@
     "imdb_id": "tt32559610"
   },
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Betty la Fea, the Story Continues",
+    "type": "series",
+    "imdb_id": "tt32321928"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "INVINCIBLE",
@@ -55,9 +65,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "The Chosen",
@@ -65,9 +75,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "The Terminal List",
     "type": "series",
-    "imdb_id": "tt7462410"
+    "imdb_id": "tt11743610"
   },
   {
     "name": "Goliath",
@@ -88,15 +98,5 @@
     "name": "We Were Liars",
     "type": "series",
     "imdb_id": "tt3914054"
-  },
-  {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
-  },
-  {
-    "name": "Ballard",
-    "type": "series",
-    "imdb_id": "tt26676904"
   }
 ]

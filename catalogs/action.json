@@ -5,11 +5,6 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -20,14 +15,24 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "The Terminal List: Dark Wolf",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Kaiju No. 8",
@@ -35,14 +40,14 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
-  },
-  {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
   },
   {
     "name": "The Walking Dead",
@@ -55,29 +60,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "SAKAMOTO DAYS",
-    "type": "series",
-    "imdb_id": "tt17069148"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Revenged Love",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt37370861"
-  },
-  {
-    "name": "Good Boy",
-    "type": "series",
-    "imdb_id": "tt32361930"
+    "imdb_id": "tt32612521"
   },
   {
     "name": "Smallville",
@@ -85,18 +75,28 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "SAKAMOTO DAYS",
+    "type": "series",
+    "imdb_id": "tt17069148"
+  },
+  {
+    "name": "Revenged Love",
+    "type": "series",
+    "imdb_id": "tt37370861"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
+    "name": "Twelve",
+    "type": "series",
+    "imdb_id": "tt37492797"
+  },
+  {
     "name": "Solo Leveling",
     "type": "series",
     "imdb_id": "tt21209876"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
   }
 ]
