@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "DC Super Hero Girls",
     "type": "series",
     "imdb_id": "tt5582302"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Golden Boy",
@@ -25,6 +25,11 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -40,16 +45,6 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
@@ -60,14 +55,19 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt0106080"
   },
   {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Teen Titans Go!",
@@ -80,6 +80,11 @@
     "imdb_id": "tt0051308"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "The Andy Griffith Show",
     "type": "series",
     "imdb_id": "tt0053479"
@@ -90,13 +95,8 @@
     "imdb_id": "tt0046617"
   },
   {
-    "name": "El Chavo del Ocho",
+    "name": "Wagon Train",
     "type": "series",
-    "imdb_id": "tt0229889"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0050073"
   }
 ]
