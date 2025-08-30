@@ -20,14 +20,14 @@
     "imdb_id": "tt33043892"
   },
   {
+    "name": "Upload",
+    "type": "series",
+    "imdb_id": "tt7826376"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
   },
   {
     "name": "Wednesday",
@@ -35,9 +35,9 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Upload",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt7826376"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Foundation",
@@ -45,24 +45,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "King & Conqueror",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt30221531"
-  },
-  {
-    "name": "Hostage",
-    "type": "series",
-    "imdb_id": "tt31806048"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Twisted Metal",
-    "type": "series",
-    "imdb_id": "tt14261112"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -70,19 +55,24 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Institute",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt10946316"
+    "imdb_id": "tt30217403"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "King & Conqueror",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt30221531"
   },
   {
-    "name": "Bon Appétit, Your Majesty",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt37600136"
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Hostage",
+    "type": "series",
+    "imdb_id": "tt31806048"
   },
   {
     "name": "My Life with the Walter Boys",
@@ -90,13 +80,23 @@
     "imdb_id": "tt8323628"
   },
   {
+    "name": "Bon Appétit, Your Majesty",
+    "type": "series",
+    "imdb_id": "tt37600136"
+  },
+  {
+    "name": "The Institute",
+    "type": "series",
+    "imdb_id": "tt10946316"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
-  },
-  {
-    "name": "Two Graves",
-    "type": "series",
-    "imdb_id": "tt32146392"
   }
 ]

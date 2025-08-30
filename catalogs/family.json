@@ -15,24 +15,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Doraemon",
@@ -40,9 +30,19 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Bonanza",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   },
   {
     "name": "Diagnosis: Murder",
@@ -50,14 +50,14 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Gravity Falls",
@@ -75,14 +75,14 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "The Rifleman",
-    "type": "series",
-    "imdb_id": "tt0051308"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "El Chavo del Ocho",
+    "type": "series",
+    "imdb_id": "tt0229889"
   },
   {
     "name": "The Andy Griffith Show",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "Lassie",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt0069576"
   },
   {
-    "name": "Wagon Train",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0050073"
+    "imdb_id": "tt1094229"
   }
 ]
