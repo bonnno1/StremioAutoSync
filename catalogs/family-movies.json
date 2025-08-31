@@ -50,16 +50,6 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
-    "name": "The Bad Guys",
-    "type": "movie",
-    "imdb_id": "tt8115900"
-  },
-  {
     "name": "Despicable Me 4",
     "type": "movie",
     "imdb_id": "tt7510222"
@@ -68,6 +58,16 @@
     "name": "Sonic the Hedgehog 3",
     "type": "movie",
     "imdb_id": "tt18259086"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "The Bad Guys",
+    "type": "movie",
+    "imdb_id": "tt8115900"
   },
   {
     "name": "Shrek",
@@ -85,6 +85,11 @@
     "imdb_id": "tt21692408"
   },
   {
+    "name": "Mufasa: The Lion King",
+    "type": "movie",
+    "imdb_id": "tt13186482"
+  },
+  {
     "name": "The Wild Robot",
     "type": "movie",
     "imdb_id": "tt29623480"
@@ -93,10 +98,5 @@
     "name": "Yours, Mine & Ours",
     "type": "movie",
     "imdb_id": "tt0443295"
-  },
-  {
-    "name": "Toy Story",
-    "type": "movie",
-    "imdb_id": "tt0114709"
   }
 ]

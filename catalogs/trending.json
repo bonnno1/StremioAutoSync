@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
@@ -10,9 +15,9 @@
     "imdb_id": "tt13623632"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Dexter: Resurrection",
@@ -20,39 +25,14 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "Upload",
-    "type": "series",
-    "imdb_id": "tt7826376"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Foundation",
+    "name": "Upload",
     "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt7826376"
   },
   {
     "name": "Dan Da Dan",
@@ -60,29 +40,19 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "King & Conqueror",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt30221531"
+    "imdb_id": "tt0804484"
   },
   {
-    "name": "Dexter",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt14016500"
   },
   {
-    "name": "Hostage",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt31806048"
-  },
-  {
-    "name": "My Life with the Walter Boys",
-    "type": "series",
-    "imdb_id": "tt8323628"
-  },
-  {
-    "name": "Bon Appétit, Your Majesty",
-    "type": "series",
-    "imdb_id": "tt37600136"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "The Institute",
@@ -90,13 +60,43 @@
     "imdb_id": "tt10946316"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt12879782"
   },
   {
-    "name": "Chief of War",
+    "name": "Bon Appétit, Your Majesty",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt37600136"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "King & Conqueror",
+    "type": "series",
+    "imdb_id": "tt30221531"
+  },
+  {
+    "name": "Twisted Metal",
+    "type": "series",
+    "imdb_id": "tt14261112"
+  },
+  {
+    "name": "Attack on Titan",
+    "type": "series",
+    "imdb_id": "tt2560140"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]

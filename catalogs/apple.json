@@ -30,29 +30,14 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Platonic",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt13366604"
-  },
-  {
-    "name": "Smoke",
-    "type": "series",
-    "imdb_id": "tt24163532"
-  },
-  {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt5875444"
   },
   {
     "name": "The Studio",
@@ -60,24 +45,29 @@
     "imdb_id": "tt23649128"
   },
   {
+    "name": "Platonic",
+    "type": "series",
+    "imdb_id": "tt13366604"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
+  },
+  {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
+  },
+  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Black Bird",
     "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Acapulco",
-    "type": "series",
-    "imdb_id": "tt13567344"
+    "imdb_id": "tt4301160"
   },
   {
     "name": "The Buccaneers",
@@ -85,9 +75,9 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Stick",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt31710249"
+    "imdb_id": "tt7203552"
   },
   {
     "name": "Shrinking",
@@ -95,8 +85,18 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Black Bird",
+    "name": "Acapulco",
     "type": "series",
-    "imdb_id": "tt4301160"
+    "imdb_id": "tt13567344"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
   }
 ]

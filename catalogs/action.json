@@ -1,18 +1,8 @@
 [
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -20,14 +10,24 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "NCIS",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -65,19 +65,14 @@
     "imdb_id": "tt26672404"
   },
   {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "SAKAMOTO DAYS",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt17069148"
+    "imdb_id": "tt32612521"
   },
   {
     "name": "Twelve",
@@ -85,18 +80,23 @@
     "imdb_id": "tt37492797"
   },
   {
+    "name": "SAKAMOTO DAYS",
+    "type": "series",
+    "imdb_id": "tt17069148"
+  },
+  {
+    "name": "King & Conqueror",
+    "type": "series",
+    "imdb_id": "tt30221531"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Solo Leveling",
-    "type": "series",
-    "imdb_id": "tt21209876"
   }
 ]

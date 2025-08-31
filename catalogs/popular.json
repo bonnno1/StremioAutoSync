@@ -1,13 +1,13 @@
 [
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Alien: Earth",
@@ -15,14 +15,24 @@
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Grey's Anatomy",
@@ -30,14 +40,19 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "DC Super Hero Girls",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt5582302"
+    "imdb_id": "tt10919420"
   },
   {
-    "name": "Dexter",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -50,14 +65,14 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Squid Game",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt0098844"
   },
   {
-    "name": "Supernatural",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Prison Break",
@@ -65,19 +80,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "In the Mud",
     "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt32874331"
   },
   {
     "name": "NCIS",
@@ -85,18 +90,13 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Game of Thrones",
+    "name": "DC Super Hero Girls",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt5582302"
   }
 ]
