@@ -1,5 +1,10 @@
 [
   {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
@@ -8,11 +13,6 @@
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Alien: Earth",
-    "type": "series",
-    "imdb_id": "tt13623632"
   },
   {
     "name": "Wednesday",
@@ -45,19 +45,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
-  },
-  {
-    "name": "The Institute",
-    "type": "series",
-    "imdb_id": "tt10946316"
   },
   {
     "name": "A Record of a Mortal's Journey to Immortality",
@@ -65,19 +55,9 @@
     "imdb_id": "tt12879782"
   },
   {
-    "name": "Bon Appétit, Your Majesty",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt37600136"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "King & Conqueror",
@@ -85,18 +65,38 @@
     "imdb_id": "tt30221531"
   },
   {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "The Runarounds",
+    "type": "series",
+    "imdb_id": "tt30274061"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
     "name": "Twisted Metal",
     "type": "series",
     "imdb_id": "tt14261112"
   },
   {
-    "name": "Attack on Titan",
+    "name": "Star Trek: Strange New Worlds",
     "type": "series",
-    "imdb_id": "tt2560140"
+    "imdb_id": "tt12327578"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Bon Appétit, Your Majesty",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt37600136"
   }
 ]

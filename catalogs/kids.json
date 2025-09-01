@@ -20,11 +20,6 @@
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
@@ -38,6 +33,11 @@
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Sesame Street",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0081933"
   },
   {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
     "name": "The Adventures of Jimmy Neutron: Boy Genius",
     "type": "series",
     "imdb_id": "tt0320808"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   }
 ]

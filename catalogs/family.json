@@ -20,11 +20,6 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -35,14 +30,14 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
   },
   {
     "name": "Bonanza",
@@ -50,19 +45,14 @@
     "imdb_id": "tt0052451"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "Diagnosis: Murder",
-    "type": "series",
-    "imdb_id": "tt0105986"
   },
   {
     "name": "Teen Titans Go!",
@@ -70,14 +60,19 @@
     "imdb_id": "tt2771780"
   },
   {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
+  },
+  {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
+  },
+  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
-  },
-  {
-    "name": "El Chavo del Ocho",
-    "type": "series",
-    "imdb_id": "tt0229889"
   },
   {
     "name": "Heartland",
@@ -85,9 +80,9 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Doraemon",
+    "name": "El Chavo del Ocho",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0229889"
   },
   {
     "name": "The Andy Griffith Show",
@@ -95,8 +90,8 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "The Rifleman",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0051308"
+    "imdb_id": "tt0069576"
   }
 ]

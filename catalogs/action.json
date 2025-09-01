@@ -1,13 +1,13 @@
 [
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Peacemaker",
@@ -15,19 +15,19 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -50,19 +50,14 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
   },
   {
     "name": "Smallville",
@@ -70,9 +65,19 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Gachiakuta",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "King & Conqueror",
+    "type": "series",
+    "imdb_id": "tt30221531"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
   },
   {
     "name": "Twelve",
@@ -85,14 +90,9 @@
     "imdb_id": "tt17069148"
   },
   {
-    "name": "King & Conqueror",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt30221531"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt2193021"
   },
   {
     "name": "S.W.A.T.",
