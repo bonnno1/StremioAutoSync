@@ -30,14 +30,14 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "The Studio",
@@ -70,19 +70,9 @@
     "imdb_id": "tt4301160"
   },
   {
-    "name": "The Buccaneers",
-    "type": "series",
-    "imdb_id": "tt21108774"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
   },
   {
     "name": "Acapulco",
@@ -90,13 +80,23 @@
     "imdb_id": "tt13567344"
   },
   {
+    "name": "The Buccaneers",
+    "type": "series",
+    "imdb_id": "tt21108774"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
+  },
+  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
@@ -8,16 +13,6 @@
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "NCIS",
@@ -30,19 +25,24 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "Kaiju No. 8",
     "type": "series",
     "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   },
   {
     "name": "The Walking Dead",
@@ -60,11 +60,6 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -75,9 +70,9 @@
     "imdb_id": "tt30221531"
   },
   {
-    "name": "Butterfly",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt26672404"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Twelve",
@@ -90,9 +85,14 @@
     "imdb_id": "tt17069148"
   },
   {
-    "name": "Arrow",
+    "name": "The Shannara Chronicles",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt1051220"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
   },
   {
     "name": "S.W.A.T.",

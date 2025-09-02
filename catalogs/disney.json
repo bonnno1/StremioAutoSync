@@ -1,10 +1,5 @@
 [
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -15,19 +10,24 @@
     "imdb_id": "tt35310911"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Eyes of Wakanda",
@@ -70,19 +70,24 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Dream Productions",
+    "type": "series",
+    "imdb_id": "tt33088401"
+  },
+  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "Takopi's Original Sin",
     "type": "series",
     "imdb_id": "tt36988358"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Moon Knight",
@@ -93,10 +98,5 @@
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
-  },
-  {
-    "name": "Dream Productions",
-    "type": "series",
-    "imdb_id": "tt33088401"
   }
 ]

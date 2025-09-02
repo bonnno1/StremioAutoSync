@@ -15,19 +15,9 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
   },
   {
     "name": "Dexter",
@@ -35,9 +25,14 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Peacemaker",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Grey's Anatomy",
@@ -45,9 +40,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Breaking Bad",
@@ -65,16 +60,6 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -85,18 +70,33 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
   },
   {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
-  },
-  {
-    "name": "In the Mud",
-    "type": "series",
-    "imdb_id": "tt32874331"
   }
 ]

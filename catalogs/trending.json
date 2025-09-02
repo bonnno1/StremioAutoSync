@@ -30,6 +30,11 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
     "name": "Upload",
     "type": "series",
     "imdb_id": "tt7826376"
@@ -40,29 +45,9 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
     "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "King & Conqueror",
-    "type": "series",
-    "imdb_id": "tt30221531"
   },
   {
     "name": "Dexter",
@@ -70,19 +55,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "The Runarounds",
+    "name": "My Life with the Walter Boys",
     "type": "series",
-    "imdb_id": "tt30274061"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt8323628"
   },
   {
     "name": "Twisted Metal",
@@ -90,13 +65,38 @@
     "imdb_id": "tt14261112"
   },
   {
+    "name": "The Runarounds",
+    "type": "series",
+    "imdb_id": "tt30274061"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "Star Trek: Strange New Worlds",
     "type": "series",
     "imdb_id": "tt12327578"
   },
   {
-    "name": "Bon Appétit, Your Majesty",
+    "name": "Two Graves",
     "type": "series",
-    "imdb_id": "tt37600136"
+    "imdb_id": "tt32146392"
+  },
+  {
+    "name": "King & Conqueror",
+    "type": "series",
+    "imdb_id": "tt30221531"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]
