@@ -85,6 +85,11 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "Dora the Explorer",
+    "type": "series",
+    "imdb_id": "tt0235917"
+  },
+  {
     "name": "The Adventures of Jimmy Neutron: Boy Genius",
     "type": "series",
     "imdb_id": "tt0320808"
@@ -93,10 +98,5 @@
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
   }
 ]

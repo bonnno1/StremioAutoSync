@@ -1,5 +1,10 @@
 [
   {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
@@ -15,14 +20,9 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Wednesday",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "One Piece",
@@ -30,9 +30,34 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Twisted Metal",
+    "type": "series",
+    "imdb_id": "tt14261112"
   },
   {
     "name": "Upload",
@@ -50,9 +75,19 @@
     "imdb_id": "tt12879782"
   },
   {
-    "name": "Dexter",
+    "name": "Two Graves",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt32146392"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "My Life with the Walter Boys",
@@ -60,43 +95,8 @@
     "imdb_id": "tt8323628"
   },
   {
-    "name": "Twisted Metal",
-    "type": "series",
-    "imdb_id": "tt14261112"
-  },
-  {
-    "name": "The Runarounds",
-    "type": "series",
-    "imdb_id": "tt30274061"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
-  },
-  {
-    "name": "Two Graves",
-    "type": "series",
-    "imdb_id": "tt32146392"
-  },
-  {
     "name": "King & Conqueror",
     "type": "series",
     "imdb_id": "tt30221531"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
   }
 ]

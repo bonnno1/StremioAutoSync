@@ -45,11 +45,6 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
@@ -70,14 +65,14 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
   },
   {
     "name": "Chief of War",
@@ -90,13 +85,18 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Nukitashi the Animation",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
   }
 ]

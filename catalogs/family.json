@@ -25,19 +25,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -45,9 +35,19 @@
     "imdb_id": "tt1942683"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Diagnosis: Murder",
@@ -55,14 +55,14 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
   },
   {
     "name": "Gravity Falls",
@@ -75,28 +75,28 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
-    "name": "El Chavo del Ocho",
-    "type": "series",
-    "imdb_id": "tt0229889"
-  },
-  {
     "name": "Heartland",
     "type": "series",
     "imdb_id": "tt1094229"
   },
   {
-    "name": "The Rifleman",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt0051308"
+    "imdb_id": "tt0053479"
   },
   {
-    "name": "Bewitched",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "El Chavo del Ocho",
+    "type": "series",
+    "imdb_id": "tt0229889"
   }
 ]
