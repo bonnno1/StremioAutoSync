@@ -15,6 +15,11 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Breakdown",
     "type": "series",
     "imdb_id": "tt35310911"
@@ -25,44 +30,14 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Eyes of Wakanda",
-    "type": "series",
-    "imdb_id": "tt13968252"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "I, Addict",
-    "type": "series",
-    "imdb_id": "tt27705913"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Soy Luna",
+    "name": "Eyes of Wakanda",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt13968252"
   },
   {
     "name": "Dream Productions",
@@ -70,14 +45,29 @@
     "imdb_id": "tt33088401"
   },
   {
-    "name": "Reminder",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt10168312"
   },
   {
-    "name": "Moon Knight",
+    "name": "I, Addict",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt27705913"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Return to Las Sabinas",
+    "type": "series",
+    "imdb_id": "tt31852761"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "WandaVision",
@@ -85,18 +75,28 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "DuckTales",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt5531466"
+    "imdb_id": "tt0463398"
   },
   {
-    "name": "Hawkeye",
+    "name": "Reminder",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt34995624"
   },
   {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   }
 ]

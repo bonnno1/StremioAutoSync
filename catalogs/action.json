@@ -1,13 +1,13 @@
 [
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Squid Game",
@@ -15,9 +15,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "NCIS",
+    "name": "The Terminal List: Dark Wolf",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Game of Thrones",
@@ -25,14 +25,14 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
   },
   {
     "name": "Dan Da Dan",
@@ -50,11 +50,6 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -70,24 +65,14 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Twelve",
-    "type": "series",
-    "imdb_id": "tt37492797"
-  },
-  {
-    "name": "King & Conqueror",
-    "type": "series",
-    "imdb_id": "tt30221531"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
   },
   {
     "name": "The Shannara Chronicles",
@@ -98,5 +83,20 @@
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "King & Conqueror",
+    "type": "series",
+    "imdb_id": "tt30221531"
+  },
+  {
+    "name": "Twelve",
+    "type": "series",
+    "imdb_id": "tt37492797"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
   }
 ]
