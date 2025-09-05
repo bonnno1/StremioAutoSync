@@ -25,11 +25,6 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
@@ -38,6 +33,11 @@
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Prison Break",
@@ -55,16 +55,6 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -73,11 +63,6 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -90,13 +75,28 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
   },
   {
-    "name": "My Life with the Walter Boys",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt8323628"
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
   }
 ]

@@ -15,6 +15,11 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -30,9 +35,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Countdown",
+    "name": "Butterfly",
     "type": "series",
-    "imdb_id": "tt32559610"
+    "imdb_id": "tt26672404"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -40,14 +45,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
-  },
-  {
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   },
   {
     "name": "INVINCIBLE",
@@ -58,11 +63,6 @@
     "name": "Upload",
     "type": "series",
     "imdb_id": "tt7826376"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
   },
   {
     "name": "Fallout",
@@ -80,23 +80,23 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Runarounds",
-    "type": "series",
-    "imdb_id": "tt30274061"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
   },
   {
+    "name": "The Runarounds",
+    "type": "series",
+    "imdb_id": "tt30274061"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
+  },
+  {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   }
 ]

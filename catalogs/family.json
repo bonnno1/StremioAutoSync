@@ -1,10 +1,5 @@
 [
   {
-    "name": "DC Super Hero Girls",
-    "type": "series",
-    "imdb_id": "tt5582302"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -20,14 +15,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Doraemon",
@@ -35,24 +30,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Bewitched",
+    "type": "series",
+    "imdb_id": "tt0057733"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Diagnosis: Murder",
@@ -65,9 +60,14 @@
     "imdb_id": "tt1865718"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
   },
   {
     "name": "The Nanny",
@@ -75,9 +75,14 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Doraemon",
+    "name": "The Rifleman",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0051308"
+  },
+  {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
   },
   {
     "name": "Heartland",
@@ -85,18 +90,13 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt0071007"
-  },
-  {
     "name": "The Andy Griffith Show",
     "type": "series",
     "imdb_id": "tt0053479"
   },
   {
-    "name": "Dallas",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0852863"
   }
 ]

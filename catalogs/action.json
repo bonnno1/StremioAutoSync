@@ -1,28 +1,23 @@
 [
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
   },
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "NCIS",
@@ -35,6 +30,11 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
@@ -45,14 +45,19 @@
     "imdb_id": "tt21975436"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Vikings",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt32612521"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -65,9 +70,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Gachiakuta",
+    "name": "The Shannara Chronicles",
     "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt1051220"
   },
   {
     "name": "Smallville",
@@ -75,9 +80,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "The Shannara Chronicles",
+    "name": "King & Conqueror",
     "type": "series",
-    "imdb_id": "tt1051220"
+    "imdb_id": "tt30221531"
   },
   {
     "name": "S.W.A.T.",
@@ -85,18 +90,13 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "King & Conqueror",
-    "type": "series",
-    "imdb_id": "tt30221531"
-  },
-  {
-    "name": "Twelve",
-    "type": "series",
-    "imdb_id": "tt37492797"
-  },
-  {
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Solo Leveling",
+    "type": "series",
+    "imdb_id": "tt21209876"
   }
 ]
