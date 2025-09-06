@@ -15,6 +15,11 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Batwheels",
+    "type": "series",
+    "imdb_id": "tt13292830"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
@@ -35,44 +40,19 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Little Bear",
-    "type": "series",
-    "imdb_id": "tt0245637"
-  },
-  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Doraemon",
+    "name": "The Grim Adventures of Billy and Mandy",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0292800"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "The Ren & Stimpy Show",
     "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "The Flintstones",
-    "type": "series",
-    "imdb_id": "tt0053502"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0101178"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -80,23 +60,43 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "The Adventures of Jimmy Neutron: Boy Genius",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0320808"
+    "imdb_id": "tt0069576"
   },
   {
-    "name": "Class of the Titans",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt0758577"
+    "imdb_id": "tt0235918"
   },
   {
-    "name": "Superman: The Animated Series",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0115378"
+    "imdb_id": "tt26692417"
   },
   {
-    "name": "iCarly",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Digimon: Digital Monsters",
+    "type": "series",
+    "imdb_id": "tt0210418"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "Lizzie McGuire",
+    "type": "series",
+    "imdb_id": "tt0273366"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   }
 ]
