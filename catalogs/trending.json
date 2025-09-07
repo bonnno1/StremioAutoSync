@@ -20,14 +20,24 @@
     "imdb_id": "tt33043892"
   },
   {
+    "name": "The Paper",
+    "type": "series",
+    "imdb_id": "tt32159809"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
   },
   {
-    "name": "The Paper",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt32159809"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "NCIS: Tony & Ziva",
+    "type": "series",
+    "imdb_id": "tt31512256"
   },
   {
     "name": "Foundation",
@@ -40,14 +50,14 @@
     "imdb_id": "tt30217403"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
   },
   {
     "name": "Chief of War",
@@ -55,34 +65,24 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
   },
   {
-    "name": "NCIS: Tony & Ziva",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt31512256"
+    "imdb_id": "tt0121955"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt21975436"
   },
   {
-    "name": "Bon Appétit, Your Majesty",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt37600136"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "Countdown",
@@ -90,13 +90,13 @@
     "imdb_id": "tt32559610"
   },
   {
-    "name": "The Runarounds",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt30274061"
+    "imdb_id": "tt0903747"
   },
   {
-    "name": "Attack on Titan",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt2560140"
+    "imdb_id": "tt0773262"
   }
 ]
