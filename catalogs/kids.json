@@ -15,11 +15,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Batwheels",
-    "type": "series",
-    "imdb_id": "tt13292830"
-  },
-  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
@@ -28,11 +23,6 @@
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
   },
   {
     "name": "Peppa Pig",
@@ -50,14 +40,19 @@
     "imdb_id": "tt0292800"
   },
   {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
+  },
+  {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
   },
   {
     "name": "Doraemon",
@@ -65,9 +60,34 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Batwheels",
+    "type": "series",
+    "imdb_id": "tt13292830"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Digimon: Digital Monsters",
+    "type": "series",
+    "imdb_id": "tt0210418"
   },
   {
     "name": "Pokémon Horizons",
@@ -78,25 +98,5 @@
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Digimon: Digital Monsters",
-    "type": "series",
-    "imdb_id": "tt0210418"
-  },
-  {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
-  },
-  {
-    "name": "Lizzie McGuire",
-    "type": "series",
-    "imdb_id": "tt0273366"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   }
 ]

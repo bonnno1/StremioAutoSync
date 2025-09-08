@@ -10,24 +10,19 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
   },
   {
     "name": "Doraemon",
@@ -40,19 +35,19 @@
     "imdb_id": "tt1942683"
   },
   {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "King of the Hill",
+    "name": "Family Secrets",
     "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt12979628"
   },
   {
     "name": "Diagnosis: Murder",
@@ -60,9 +55,14 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "The Nanny",
@@ -70,28 +70,23 @@
     "imdb_id": "tt0106080"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Bewitched",
+    "type": "series",
+    "imdb_id": "tt0057733"
+  },
+  {
     "name": "Heartland",
     "type": "series",
     "imdb_id": "tt1094229"
   },
   {
-    "name": "The Rifleman",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt0051308"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "The Munsters",
-    "type": "series",
-    "imdb_id": "tt0057773"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt0053479"
   }
 ]

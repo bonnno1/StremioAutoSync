@@ -5,34 +5,14 @@
     "imdb_id": "tt31852761"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Dream Productions",
-    "type": "series",
-    "imdb_id": "tt33088401"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Reminder",
@@ -40,14 +20,34 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "Ironheart",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt10168312"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Dream Productions",
+    "type": "series",
+    "imdb_id": "tt33088401"
   },
   {
     "name": "I, Addict",
     "type": "series",
     "imdb_id": "tt27705913"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Dancing with the Stars",
@@ -60,6 +60,11 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -68,16 +73,6 @@
     "name": "Eyes of Wakanda",
     "type": "series",
     "imdb_id": "tt13968252"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Breakdown",
-    "type": "series",
-    "imdb_id": "tt35310911"
   },
   {
     "name": "Marvel Zombies",
@@ -90,13 +85,18 @@
     "imdb_id": "tt5189554"
   },
   {
+    "name": "Breakdown",
+    "type": "series",
+    "imdb_id": "tt35310911"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
+  },
+  {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   }
 ]

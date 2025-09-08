@@ -5,14 +5,14 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
   },
   {
     "name": "Dexter: Resurrection",
@@ -20,14 +20,14 @@
     "imdb_id": "tt33043892"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "The Paper",
     "type": "series",
     "imdb_id": "tt32159809"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
   },
   {
     "name": "One Piece",
@@ -35,9 +35,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "NCIS: Tony & Ziva",
+    "name": "Beyond the Bar",
     "type": "series",
-    "imdb_id": "tt31512256"
+    "imdb_id": "tt37660730"
+  },
+  {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
   },
   {
     "name": "Foundation",
@@ -45,9 +50,24 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Confidence Queen",
+    "type": "series",
+    "imdb_id": "tt37262316"
+  },
+  {
+    "name": "Bon Appétit, Your Majesty",
+    "type": "series",
+    "imdb_id": "tt37600136"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Game of Thrones",
@@ -55,48 +75,28 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "NCIS: Tony & Ziva",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt31512256"
   },
   {
-    "name": "Chief of War",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   }
 ]
