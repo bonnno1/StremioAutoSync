@@ -30,6 +30,11 @@
     "imdb_id": "tt21975436"
   },
   {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -65,14 +70,14 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "SAKAMOTO DAYS",
     "type": "series",
     "imdb_id": "tt17069148"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Smallville",
@@ -93,10 +98,5 @@
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
-  },
-  {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
   }
 ]

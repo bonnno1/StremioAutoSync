@@ -20,9 +20,19 @@
     "imdb_id": "tt27502465"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Peppa Pig",
@@ -35,39 +45,9 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "The Grim Adventures of Billy and Mandy",
-    "type": "series",
-    "imdb_id": "tt0292800"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
-  },
-  {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Batwheels",
-    "type": "series",
-    "imdb_id": "tt13292830"
-  },
-  {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
   },
   {
     "name": "The Fairly OddParents",
@@ -75,19 +55,19 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Sailor Moon",
+    "name": "The Grim Adventures of Billy and Mandy",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0292800"
   },
   {
-    "name": "iCarly",
+    "name": "The Ren & Stimpy Show",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt0101178"
   },
   {
-    "name": "Digimon: Digital Monsters",
+    "name": "Batwheels",
     "type": "series",
-    "imdb_id": "tt0210418"
+    "imdb_id": "tt13292830"
   },
   {
     "name": "Pokémon Horizons",
@@ -95,8 +75,28 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "Digimon: Digital Monsters",
+    "type": "series",
+    "imdb_id": "tt0210418"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   }
 ]

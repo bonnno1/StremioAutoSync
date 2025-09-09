@@ -20,14 +20,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Two Graves",
@@ -45,19 +45,14 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Young Millionaires",
-    "type": "series",
-    "imdb_id": "tt36955264"
-  },
-  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Unspeakable Sins",
+    "name": "Young Millionaires",
     "type": "series",
-    "imdb_id": "tt37504309"
+    "imdb_id": "tt36955264"
   },
   {
     "name": "Outer Banks",
@@ -65,9 +60,9 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "In the Mud",
+    "name": "Unspeakable Sins",
     "type": "series",
-    "imdb_id": "tt32874331"
+    "imdb_id": "tt37504309"
   },
   {
     "name": "Cobra Kai",
@@ -75,9 +70,9 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "In the Mud",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt32874331"
   },
   {
     "name": "Elite",
@@ -85,9 +80,14 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt3398228"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
   },
   {
     "name": "The Last Kingdom",
