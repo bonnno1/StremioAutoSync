@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
@@ -8,6 +13,11 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Prison Break",
@@ -20,9 +30,9 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "NCIS",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Kaiju No. 8",
@@ -30,14 +40,9 @@
     "imdb_id": "tt21975436"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Dan Da Dan",
@@ -45,24 +50,9 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "NCIS: Tony & Ziva",
-    "type": "series",
-    "imdb_id": "tt31512256"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Gachiakuta",
@@ -73,6 +63,16 @@
     "name": "SAKAMOTO DAYS",
     "type": "series",
     "imdb_id": "tt17069148"
+  },
+  {
+    "name": "NCIS: Tony & Ziva",
+    "type": "series",
+    "imdb_id": "tt31512256"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Rick and Morty",
@@ -95,8 +95,8 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt9288030"
   }
 ]

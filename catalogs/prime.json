@@ -15,6 +15,11 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "The Runarounds",
     "type": "series",
     "imdb_id": "tt30274061"
@@ -23,11 +28,6 @@
     "name": "Countdown",
     "type": "series",
     "imdb_id": "tt32559610"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
   },
   {
     "name": "Betty la Fea, the Story Continues",
@@ -65,16 +65,6 @@
     "imdb_id": "tt26672404"
   },
   {
-    "name": "Upload",
-    "type": "series",
-    "imdb_id": "tt7826376"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
@@ -85,18 +75,28 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Upload",
+    "type": "series",
+    "imdb_id": "tt7826376"
+  },
+  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
   },
   {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
-  },
-  {
-    "name": "Clarkson's Farm",
-    "type": "series",
-    "imdb_id": "tt10541088"
   }
 ]

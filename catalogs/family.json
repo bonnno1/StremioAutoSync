@@ -10,14 +10,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Bonanza",
@@ -25,24 +25,9 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Doraemon",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt0053479"
   },
   {
     "name": "Family Secrets",
@@ -50,9 +35,29 @@
     "imdb_id": "tt12979628"
   },
   {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   },
   {
     "name": "King of the Hill",
@@ -65,19 +70,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "The Nanny",
+    "name": "Full House",
     "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt0092359"
   },
   {
     "name": "Heartland",
@@ -85,8 +80,13 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "The Andy Griffith Show",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   }
 ]
