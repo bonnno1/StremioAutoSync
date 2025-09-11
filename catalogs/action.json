@@ -1,18 +1,13 @@
 [
   {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Game of Thrones",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt13062500"
   },
   {
     "name": "NCIS",
@@ -23,6 +18,11 @@
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Peacemaker",
@@ -45,19 +45,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Gachiakuta",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -65,19 +60,29 @@
     "imdb_id": "tt17069148"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "NCIS: Tony & Ziva",
     "type": "series",
     "imdb_id": "tt31512256"
   },
   {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "Smallville",
@@ -90,13 +95,8 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt0052451"
   }
 ]

@@ -15,14 +15,14 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
   },
   {
     "name": "The Andy Griffith Show",
@@ -30,19 +30,9 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "Family Secrets",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt12979628"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Diagnosis: Murder",
@@ -50,19 +40,19 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -70,23 +60,38 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
+  },
+  {
     "name": "Full House",
     "type": "series",
     "imdb_id": "tt0092359"
   },
   {
-    "name": "Heartland",
+    "name": "The Donna Reed Show",
     "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt0051267"
   },
   {
-    "name": "Doraemon",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt5622316"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "The Rifleman",
+    "type": "series",
+    "imdb_id": "tt0051308"
+  },
+  {
+    "name": "Madeline",
+    "type": "series",
+    "imdb_id": "tt0115257"
   }
 ]
