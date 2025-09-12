@@ -10,9 +10,19 @@
     "imdb_id": "tt13623632"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "Task",
     "type": "series",
     "imdb_id": "tt28013708"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Dexter: Resurrection",
@@ -20,14 +30,24 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "The Journey of Legend",
-    "type": "series",
-    "imdb_id": "tt32394685"
-  },
-  {
     "name": "The Girlfriend",
     "type": "series",
     "imdb_id": "tt32267726"
+  },
+  {
+    "name": "You and Everything Else",
+    "type": "series",
+    "imdb_id": "tt31014107"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Only Murders in the Building",
+    "type": "series",
+    "imdb_id": "tt11691774"
   },
   {
     "name": "Star Trek: Strange New Worlds",
@@ -40,24 +60,14 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "The Paper",
     "type": "series",
     "imdb_id": "tt32159809"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt11691774"
-  },
-  {
-    "name": "NCIS: Tony & Ziva",
-    "type": "series",
-    "imdb_id": "tt31512256"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "Dexter",
@@ -65,24 +75,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Confidence Queen",
-    "type": "series",
-    "imdb_id": "tt37262316"
   },
   {
     "name": "Game of Thrones",
@@ -90,13 +85,18 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "One Piece",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt13062500"
   },
   {
-    "name": "Wolf King",
+    "name": "The Dead Girls",
     "type": "series",
-    "imdb_id": "tt20917940"
+    "imdb_id": "tt31219594"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   }
 ]

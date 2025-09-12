@@ -1,13 +1,13 @@
 [
   {
-    "name": "Reminder",
-    "type": "series",
-    "imdb_id": "tt34995624"
-  },
-  {
     "name": "Tempest",
     "type": "series",
     "imdb_id": "tt27368147"
+  },
+  {
+    "name": "Reminder",
+    "type": "series",
+    "imdb_id": "tt34995624"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -15,9 +15,9 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Loki",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "What If...?",
@@ -25,19 +25,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Return to Las Sabinas",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt31852761"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Ironheart",
@@ -50,14 +40,19 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Return to Las Sabinas",
+    "type": "series",
+    "imdb_id": "tt31852761"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "Soy Luna",
@@ -65,19 +60,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
-    "name": "Breakdown",
-    "type": "series",
-    "imdb_id": "tt35310911"
-  },
-  {
-    "name": "Dream Productions",
-    "type": "series",
-    "imdb_id": "tt33088401"
+    "imdb_id": "tt5531466"
   },
   {
     "name": "WandaVision",
@@ -85,9 +70,14 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "DuckTales",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt5531466"
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Breakdown",
+    "type": "series",
+    "imdb_id": "tt35310911"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -95,8 +85,18 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "I, Addict",
+    "name": "Bref",
     "type": "series",
-    "imdb_id": "tt27705913"
+    "imdb_id": "tt2044128"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Disney Gallery / Star Wars: The Book of Boba Fett",
+    "type": "series",
+    "imdb_id": "tt19881256"
   }
 ]

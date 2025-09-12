@@ -10,6 +10,11 @@
     "imdb_id": "tt26576161"
   },
   {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -20,19 +25,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Girlfriend",
+    "name": "Countdown",
     "type": "series",
-    "imdb_id": "tt32267726"
+    "imdb_id": "tt32559610"
   },
   {
     "name": "The Runarounds",
     "type": "series",
     "imdb_id": "tt30274061"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
   },
   {
     "name": "Betty la Fea, the Story Continues",
@@ -70,19 +70,14 @@
     "imdb_id": "tt26672404"
   },
   {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Fallout",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "Upload",
@@ -90,13 +85,18 @@
     "imdb_id": "tt7826376"
   },
   {
-    "name": "The Expanse",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   }
 ]
