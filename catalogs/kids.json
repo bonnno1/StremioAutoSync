@@ -5,9 +5,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "PAW Patrol",
+    "name": "The Ren & Stimpy Show",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt0101178"
   },
   {
     "name": "Doraemon",
@@ -15,29 +15,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
-  },
-  {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
-  },
-  {
-    "name": "Madeline",
-    "type": "series",
-    "imdb_id": "tt0115257"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
   },
   {
     "name": "Doraemon",
@@ -45,9 +30,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Sesame Street",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Bluey",
@@ -55,14 +45,14 @@
     "imdb_id": "tt7678620"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Hercules",
-    "type": "series",
-    "imdb_id": "tt0138967"
   },
   {
     "name": "Rugrats",
@@ -75,19 +65,14 @@
     "imdb_id": "tt0972534"
   },
   {
-    "name": "The Adventures of Jimmy Neutron: Boy Genius",
-    "type": "series",
-    "imdb_id": "tt0320808"
-  },
-  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "The Adventures of Jimmy Neutron: Boy Genius",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0320808"
   },
   {
     "name": "Wolf King",
@@ -95,8 +80,23 @@
     "imdb_id": "tt20917940"
   },
   {
-    "name": "Sailor Moon",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
   }
 ]

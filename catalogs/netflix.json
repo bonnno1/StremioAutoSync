@@ -5,19 +5,24 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "The Dead Girls",
+    "type": "series",
+    "imdb_id": "tt31219594"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "You",
@@ -30,9 +35,9 @@
     "imdb_id": "tt8323628"
   },
   {
-    "name": "Weak Hero",
+    "name": "Beauty in Black",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt31260386"
   },
   {
     "name": "The Ba***ds of Bollywood",
@@ -40,14 +45,14 @@
     "imdb_id": "tt34683290"
   },
   {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
   },
   {
     "name": "Outer Banks",
@@ -60,9 +65,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "The Dead Girls",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt31219594"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Two Graves",
@@ -80,23 +85,18 @@
     "imdb_id": "tt37504309"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
   }
 ]

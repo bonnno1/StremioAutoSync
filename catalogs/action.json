@@ -1,5 +1,15 @@
 [
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
@@ -10,9 +20,9 @@
     "imdb_id": "tt13062500"
   },
   {
-    "name": "NCIS",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Prison Break",
@@ -20,14 +30,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "Squid Game",
@@ -35,19 +40,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
   },
   {
     "name": "The Walking Dead",
@@ -55,24 +50,9 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "NCIS: Tony & Ziva",
-    "type": "series",
-    "imdb_id": "tt31512256"
-  },
-  {
-    "name": "SAKAMOTO DAYS",
-    "type": "series",
-    "imdb_id": "tt17069148"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "S.W.A.T.",
@@ -80,9 +60,19 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt32612521"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "SAKAMOTO DAYS",
+    "type": "series",
+    "imdb_id": "tt17069148"
   },
   {
     "name": "Smallville",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Bonanza",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Person of Interest",
+    "type": "series",
+    "imdb_id": "tt1839578"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
   },
   {
     "name": "Bosch",
@@ -25,19 +25,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
-  },
-  {
-    "name": "The Runarounds",
-    "type": "series",
-    "imdb_id": "tt30274061"
-  },
-  {
     "name": "Betty la Fea, the Story Continues",
     "type": "series",
     "imdb_id": "tt32321928"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   },
   {
     "name": "Reacher",
@@ -60,19 +55,29 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "The Runarounds",
+    "type": "series",
+    "imdb_id": "tt30274061"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
   },
   {
-    "name": "Butterfly",
-    "type": "series",
-    "imdb_id": "tt26672404"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
   },
   {
     "name": "The Wheel of Time",
@@ -93,10 +98,5 @@
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
   }
 ]
