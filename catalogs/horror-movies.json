@@ -25,7 +25,7 @@
     "imdb_id": "tt33523851"
   },
   {
-    "name": "La hacienda: El regreso de los malditos",
+    "name": "The Hacienda: Return of the Damned",
     "type": "movie",
     "imdb_id": "tt32104502"
   },
@@ -45,14 +45,19 @@
     "imdb_id": "tt7069210"
   },
   {
-    "name": "The Home",
+    "name": "The Long Walk",
     "type": "movie",
-    "imdb_id": "tt17023012"
+    "imdb_id": "tt10374610"
   },
   {
     "name": "Final Destination Bloodlines",
     "type": "movie",
     "imdb_id": "tt9619824"
+  },
+  {
+    "name": "The Home",
+    "type": "movie",
+    "imdb_id": "tt17023012"
   },
   {
     "name": "Osiris",
@@ -70,14 +75,14 @@
     "imdb_id": "tt30496762"
   },
   {
-    "name": "Night Carnage",
-    "type": "movie",
-    "imdb_id": "tt12410182"
-  },
-  {
     "name": "Bring Her Back",
     "type": "movie",
     "imdb_id": "tt32246771"
+  },
+  {
+    "name": "Night Carnage",
+    "type": "movie",
+    "imdb_id": "tt12410182"
   },
   {
     "name": "Dracula: A Love Tale",
@@ -93,10 +98,5 @@
     "name": "Dead Bride",
     "type": "movie",
     "imdb_id": "tt5255594"
-  },
-  {
-    "name": "Conjuring the Cult",
-    "type": "movie",
-    "imdb_id": "tt32545223"
   }
 ]

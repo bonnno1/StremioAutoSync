@@ -1,23 +1,23 @@
 [
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
     "imdb_id": "tt13062500"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Game of Thrones",
@@ -35,6 +35,11 @@
     "imdb_id": "tt30217403"
   },
   {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -48,11 +53,6 @@
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
   },
   {
     "name": "S.W.A.T.",

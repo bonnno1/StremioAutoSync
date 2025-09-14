@@ -10,14 +10,14 @@
     "imdb_id": "tt0101178"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -25,9 +25,19 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "TaleSpin",
+    "type": "series",
+    "imdb_id": "tt0098924"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -40,24 +50,14 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Rugrats",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "iCarly",
@@ -65,29 +65,19 @@
     "imdb_id": "tt0972534"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
-  },
-  {
-    "name": "The Adventures of Jimmy Neutron: Boy Genius",
-    "type": "series",
-    "imdb_id": "tt0320808"
-  },
-  {
-    "name": "Wolf King",
-    "type": "series",
-    "imdb_id": "tt20917940"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -95,8 +85,18 @@
     "imdb_id": "tt0784896"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt3559124"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
+    "name": "Wolf King",
+    "type": "series",
+    "imdb_id": "tt20917940"
   }
 ]

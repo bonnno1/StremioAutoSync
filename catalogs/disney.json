@@ -50,11 +50,6 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Return to Las Sabinas",
-    "type": "series",
-    "imdb_id": "tt31852761"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
@@ -65,9 +60,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "DuckTales",
+    "name": "Return to Las Sabinas",
     "type": "series",
-    "imdb_id": "tt5531466"
+    "imdb_id": "tt31852761"
   },
   {
     "name": "WandaVision",
@@ -75,14 +70,9 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Hawkeye",
+    "name": "The Book of Boba Fett",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Breakdown",
-    "type": "series",
-    "imdb_id": "tt35310911"
+    "imdb_id": "tt13668894"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -90,13 +80,23 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt16027014"
+    "imdb_id": "tt10160804"
   },
   {
-    "name": "Bref",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt2044128"
+    "imdb_id": "tt5531466"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   }
 ]

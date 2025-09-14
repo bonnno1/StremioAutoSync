@@ -1,33 +1,13 @@
 [
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "The Girlfriend",
@@ -35,9 +15,19 @@
     "imdb_id": "tt32267726"
   },
   {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
+  },
+  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Only Murders in the Building",
@@ -45,9 +35,9 @@
     "imdb_id": "tt11691774"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt33043892"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -55,9 +45,24 @@
     "imdb_id": "tt13062500"
   },
   {
-    "name": "Chief of War",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
   },
   {
     "name": "Dexter",
@@ -65,9 +70,14 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Friends",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -75,9 +85,9 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Game of Thrones",
+    "name": "The Dead Girls",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt31219594"
   },
   {
     "name": "Dan Da Dan",
@@ -85,18 +95,8 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "NCIS: Tony & Ziva",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt31512256"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Confidence Queen",
-    "type": "series",
-    "imdb_id": "tt37262316"
+    "imdb_id": "tt14016500"
   }
 ]
