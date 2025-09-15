@@ -1,13 +1,13 @@
 [
   {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
   },
   {
     "name": "Invasion",
@@ -40,24 +40,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Platonic",
-    "type": "series",
-    "imdb_id": "tt13366604"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Acapulco",
+    "name": "Platonic",
     "type": "series",
-    "imdb_id": "tt13567344"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt13366604"
   },
   {
     "name": "For All Mankind",
@@ -65,14 +55,19 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Acapulco",
+    "type": "series",
+    "imdb_id": "tt13567344"
+  },
+  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
-  },
-  {
-    "name": "Smoke",
-    "type": "series",
-    "imdb_id": "tt24163532"
   },
   {
     "name": "Black Bird",
@@ -80,9 +75,19 @@
     "imdb_id": "tt4301160"
   },
   {
+    "name": "Smoke",
+    "type": "series",
+    "imdb_id": "tt24163532"
+  },
+  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Physical",
+    "type": "series",
+    "imdb_id": "tt11828492"
   },
   {
     "name": "The Buccaneers",
@@ -90,13 +95,8 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Servant",
+    "name": "Dark Matter",
     "type": "series",
-    "imdb_id": "tt8068860"
-  },
-  {
-    "name": "Physical",
-    "type": "series",
-    "imdb_id": "tt11828492"
+    "imdb_id": "tt19231492"
   }
 ]

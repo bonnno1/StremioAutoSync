@@ -15,24 +15,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Everwood",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0318883"
-  },
-  {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Doraemon",
@@ -40,9 +30,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
+  },
+  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
+  },
+  {
+    "name": "Everwood",
+    "type": "series",
+    "imdb_id": "tt0318883"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -60,6 +60,11 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Lassie",
     "type": "series",
     "imdb_id": "tt0046617"
@@ -70,23 +75,18 @@
     "imdb_id": "tt0053479"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "TaleSpin",
-    "type": "series",
-    "imdb_id": "tt0098924"
-  },
-  {
-    "name": "The Rifleman",
-    "type": "series",
-    "imdb_id": "tt0051308"
   }
 ]

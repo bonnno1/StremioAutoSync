@@ -5,11 +5,6 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
     "imdb_id": "tt13062500"
@@ -23,6 +18,16 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
   },
   {
     "name": "Prison Break",
@@ -55,11 +60,6 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
     "name": "Gachiakuta",
     "type": "series",
     "imdb_id": "tt32612521"
@@ -70,24 +70,14 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
     "name": "SAKAMOTO DAYS",
     "type": "series",
     "imdb_id": "tt17069148"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -95,8 +85,18 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Person of Interest",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt1839578"
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
   }
 ]

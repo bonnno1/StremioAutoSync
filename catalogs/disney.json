@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Breslau Murders",
+    "type": "series",
+    "imdb_id": "tt32360916"
+  },
+  {
     "name": "Tempest",
     "type": "series",
     "imdb_id": "tt27368147"
@@ -10,9 +15,9 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "The Breslau Murders",
+    "name": "Los mufas: suerte para la desgracia",
     "type": "series",
-    "imdb_id": "tt32360916"
+    "imdb_id": "tt27763549"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -30,14 +35,14 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Andor",
@@ -50,24 +55,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Return to Las Sabinas",
-    "type": "series",
-    "imdb_id": "tt31852761"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   },
   {
     "name": "The Book of Boba Fett",
@@ -75,19 +65,24 @@
     "imdb_id": "tt13668894"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
+    "name": "Return to Las Sabinas",
+    "type": "series",
+    "imdb_id": "tt31852761"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
   },
   {
     "name": "Moon Knight",
@@ -98,5 +93,10 @@
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   }
 ]

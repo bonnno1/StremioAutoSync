@@ -10,11 +10,6 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
     "name": "Task",
     "type": "series",
     "imdb_id": "tt28013708"
@@ -30,6 +25,21 @@
     "imdb_id": "tt0804484"
   },
   {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
+  },
+  {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
+  },
+  {
     "name": "Only Murders in the Building",
     "type": "series",
     "imdb_id": "tt11691774"
@@ -40,34 +50,14 @@
     "imdb_id": "tt33043892"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Star Trek: Strange New Worlds",
     "type": "series",
     "imdb_id": "tt12327578"
   },
   {
-    "name": "Dexter",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Kaiju No. 8",
@@ -80,14 +70,9 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
-    "name": "The Dead Girls",
-    "type": "series",
-    "imdb_id": "tt31219594"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Dan Da Dan",
@@ -95,8 +80,23 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Attack on Titan",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt2560140"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
   }
 ]
