@@ -1,5 +1,10 @@
 [
   {
+    "name": "Futurama",
+    "type": "series",
+    "imdb_id": "tt0149460"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
@@ -15,9 +20,9 @@
     "imdb_id": "tt28013708"
   },
   {
-    "name": "Peacemaker",
+    "name": "Only Murders in the Building",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt11691774"
   },
   {
     "name": "Foundation",
@@ -25,24 +30,24 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "The Girlfriend",
     "type": "series",
     "imdb_id": "tt32267726"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt13062500"
+    "imdb_id": "tt0903747"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt11691774"
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Dexter: Resurrection",
@@ -55,39 +60,29 @@
     "imdb_id": "tt12327578"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "You and Everything Else",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt31014107"
   },
   {
-    "name": "Attack on Titan",
+    "name": "The Dead Girls",
     "type": "series",
-    "imdb_id": "tt2560140"
+    "imdb_id": "tt31219594"
   },
   {
-    "name": "Dexter",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt13062500"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -95,8 +90,13 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "The Studio",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   }
 ]

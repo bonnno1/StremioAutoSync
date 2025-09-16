@@ -50,6 +50,11 @@
     "imdb_id": "tt13366604"
   },
   {
+    "name": "Acapulco",
+    "type": "series",
+    "imdb_id": "tt13567344"
+  },
+  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
@@ -60,19 +65,9 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Acapulco",
-    "type": "series",
-    "imdb_id": "tt13567344"
-  },
-  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
-  },
-  {
-    "name": "Black Bird",
-    "type": "series",
-    "imdb_id": "tt4301160"
   },
   {
     "name": "Smoke",
@@ -85,14 +80,19 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Physical",
-    "type": "series",
-    "imdb_id": "tt11828492"
-  },
-  {
     "name": "The Buccaneers",
     "type": "series",
     "imdb_id": "tt21108774"
+  },
+  {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
+  },
+  {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
   },
   {
     "name": "Dark Matter",

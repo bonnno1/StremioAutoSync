@@ -45,14 +45,14 @@
     "imdb_id": "tt34683290"
   },
   {
-    "name": "My Life with the Walter Boys",
-    "type": "series",
-    "imdb_id": "tt8323628"
-  },
-  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
+  },
+  {
+    "name": "My Life with the Walter Boys",
+    "type": "series",
+    "imdb_id": "tt8323628"
   },
   {
     "name": "Weak Hero",
@@ -65,29 +65,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Outer Banks",
-    "type": "series",
-    "imdb_id": "tt10293938"
-  },
-  {
     "name": "aka Charlie Sheen",
     "type": "series",
     "imdb_id": "tt37898320"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Sweet Home",
-    "type": "series",
-    "imdb_id": "tt11612120"
   },
   {
     "name": "Maledictions",
@@ -95,8 +75,28 @@
     "imdb_id": "tt33292950"
   },
   {
-    "name": "Elite",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt10293938"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Sweet Home",
+    "type": "series",
+    "imdb_id": "tt11612120"
   }
 ]

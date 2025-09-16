@@ -1,23 +1,23 @@
 [
   {
-    "name": "The Breslau Murders",
-    "type": "series",
-    "imdb_id": "tt32360916"
-  },
-  {
     "name": "Tempest",
     "type": "series",
     "imdb_id": "tt27368147"
   },
   {
-    "name": "Reminder",
+    "name": "The Breslau Murders",
     "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt32360916"
   },
   {
     "name": "Los mufas: suerte para la desgracia",
     "type": "series",
     "imdb_id": "tt27763549"
+  },
+  {
+    "name": "Reminder",
+    "type": "series",
+    "imdb_id": "tt34995624"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -30,24 +30,24 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Loki",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "The Mandalorian",
@@ -60,9 +60,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "The Book of Boba Fett",
+    "name": "Mar afuera",
     "type": "series",
-    "imdb_id": "tt13668894"
+    "imdb_id": "tt32155744"
   },
   {
     "name": "Daredevil: Born Again",
@@ -70,14 +70,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "The Santa Clauses",
     "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
-    "name": "Return to Las Sabinas",
-    "type": "series",
-    "imdb_id": "tt31852761"
+    "imdb_id": "tt17047510"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -85,18 +80,23 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Moon Knight",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt16027014"
   },
   {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "The Book of Boba Fett",
+    "type": "series",
+    "imdb_id": "tt13668894"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   }
 ]
