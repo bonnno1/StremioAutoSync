@@ -1,13 +1,18 @@
 [
   {
-    "name": "Alien: Earth",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt13623632"
+    "imdb_id": "tt14016500"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "The Terminal List: Dark Wolf",
     "type": "series",
-    "imdb_id": "tt11691774"
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Tempest",
+    "type": "series",
+    "imdb_id": "tt27368147"
   },
   {
     "name": "The Daily Show",
@@ -25,19 +30,24 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Sturm der Liebe",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt0479846"
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Eşref Rüya",
+    "type": "series",
+    "imdb_id": "tt35069642"
   },
   {
     "name": "Tagesschau",
     "type": "series",
     "imdb_id": "tt0246393"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
   },
   {
     "name": "Volle Kanne",
@@ -50,14 +60,14 @@
     "imdb_id": "tt1239083"
   },
   {
+    "name": "NOVA",
+    "type": "series",
+    "imdb_id": "tt0206501"
+  },
+  {
     "name": "Goede Tijden, Slechte Tijden",
     "type": "series",
     "imdb_id": "tt0096597"
-  },
-  {
-    "name": "Platonic",
-    "type": "series",
-    "imdb_id": "tt13366604"
   },
   {
     "name": "The Jennifer Hudson Show",
@@ -65,19 +75,9 @@
     "imdb_id": "tt15847104"
   },
   {
-    "name": "High Potential",
+    "name": "Quotidien",
     "type": "series",
-    "imdb_id": "tt22091076"
-  },
-  {
-    "name": "STAT",
-    "type": "series",
-    "imdb_id": "tt22037002"
-  },
-  {
-    "name": "Acapulco",
-    "type": "series",
-    "imdb_id": "tt13567344"
+    "imdb_id": "tt6052530"
   },
   {
     "name": "El hormiguero",
@@ -95,8 +95,8 @@
     "imdb_id": "tt32394685"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Suidooster",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt5467444"
   }
 ]

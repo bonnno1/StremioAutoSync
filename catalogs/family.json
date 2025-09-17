@@ -20,6 +20,11 @@
     "imdb_id": "tt0106004"
   },
   {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
+  },
+  {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
@@ -30,29 +35,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
     "name": "The Ren & Stimpy Show",
     "type": "series",
     "imdb_id": "tt0101178"
   },
   {
-    "name": "Diagnosis: Murder",
-    "type": "series",
-    "imdb_id": "tt0105986"
-  },
-  {
     "name": "Everwood",
     "type": "series",
     "imdb_id": "tt0318883"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
   },
   {
     "name": "The Chosen",
@@ -65,19 +60,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Lassie",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt0306365"
   },
   {
-    "name": "The Andy Griffith Show",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1094229"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -85,8 +75,23 @@
     "imdb_id": "tt1942683"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Jake and the Never Land Pirates",
+    "type": "series",
+    "imdb_id": "tt1833403"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
   }
 ]

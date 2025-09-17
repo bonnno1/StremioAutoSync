@@ -10,6 +10,11 @@
     "imdb_id": "tt32360916"
   },
   {
+    "name": "Mar afuera",
+    "type": "series",
+    "imdb_id": "tt32155744"
+  },
+  {
     "name": "Los mufas: suerte para la desgracia",
     "type": "series",
     "imdb_id": "tt27763549"
@@ -35,19 +40,14 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "The Mandalorian",
@@ -60,9 +60,14 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Mar afuera",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt32155744"
+    "imdb_id": "tt9140554"
+  },
+  {
+    "name": "PJ Masks: Power Heroes",
+    "type": "series",
+    "imdb_id": "tt24017294"
   },
   {
     "name": "Daredevil: Born Again",
@@ -70,19 +75,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "The Santa Clauses",
-    "type": "series",
-    "imdb_id": "tt17047510"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "The Santa Clauses",
     "type": "series",
-    "imdb_id": "tt16027014"
+    "imdb_id": "tt17047510"
   },
   {
     "name": "WandaVision",
@@ -90,13 +90,13 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
     "name": "The Book of Boba Fett",
     "type": "series",
     "imdb_id": "tt13668894"
-  },
-  {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
   }
 ]

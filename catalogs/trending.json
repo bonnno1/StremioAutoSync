@@ -1,8 +1,8 @@
 [
   {
-    "name": "Futurama",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt0149460"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "Alien: Earth",
@@ -15,9 +15,24 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Task",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt28013708"
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Futurama",
+    "type": "series",
+    "imdb_id": "tt0149460"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Only Murders in the Building",
@@ -25,9 +40,14 @@
     "imdb_id": "tt11691774"
   },
   {
-    "name": "Foundation",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
   },
   {
     "name": "The Girlfriend",
@@ -40,46 +60,6 @@
     "imdb_id": "tt0903747"
   },
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "You and Everything Else",
-    "type": "series",
-    "imdb_id": "tt31014107"
-  },
-  {
-    "name": "The Dead Girls",
-    "type": "series",
-    "imdb_id": "tt31219594"
-  },
-  {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
@@ -90,13 +70,33 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Invasion",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt19381692"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt13062500"
+  },
+  {
+    "name": "High Potential",
+    "type": "series",
+    "imdb_id": "tt22091076"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
   }
 ]
