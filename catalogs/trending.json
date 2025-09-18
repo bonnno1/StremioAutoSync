@@ -5,19 +5,14 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "Black Rabbit",
+    "type": "series",
+    "imdb_id": "tt23055142"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
   },
   {
     "name": "Futurama",
@@ -25,44 +20,24 @@
     "imdb_id": "tt0149460"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt11691774"
+    "imdb_id": "tt13443470"
   },
   {
-    "name": "One Piece",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt0804484"
   },
   {
-    "name": "Task",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -70,24 +45,14 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Chief of War",
+    "name": "Task",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt28013708"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "High Potential",
-    "type": "series",
-    "imdb_id": "tt22091076"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Dexter",
@@ -95,8 +60,43 @@
     "imdb_id": "tt0773262"
   },
   {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Only Murders in the Building",
+    "type": "series",
+    "imdb_id": "tt11691774"
+  },
+  {
     "name": "Dexter: Resurrection",
     "type": "series",
     "imdb_id": "tt33043892"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   }
 ]
