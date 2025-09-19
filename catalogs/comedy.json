@@ -25,24 +25,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Futurama",
-    "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
   },
   {
     "name": "Dan Da Dan",
@@ -50,9 +35,19 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "Futurama",
     "type": "series",
-    "imdb_id": "tt11691774"
+    "imdb_id": "tt0149460"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -65,6 +60,16 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Teen Wolf",
+    "type": "series",
+    "imdb_id": "tt1567432"
+  },
+  {
+    "name": "Now Apocalypse",
+    "type": "series",
+    "imdb_id": "tt8201814"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -75,28 +80,23 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Teen Wolf",
+    "name": "Sex Education",
     "type": "series",
-    "imdb_id": "tt1567432"
+    "imdb_id": "tt7767422"
   },
   {
-    "name": "Gilmore Girls",
+    "name": "Only Murders in the Building",
     "type": "series",
-    "imdb_id": "tt0238784"
-  },
-  {
-    "name": "The Fragrant Flower Blooms with Dignity",
-    "type": "series",
-    "imdb_id": "tt36592690"
-  },
-  {
-    "name": "Hung",
-    "type": "series",
-    "imdb_id": "tt1229413"
+    "imdb_id": "tt11691774"
   },
   {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
+  },
+  {
+    "name": "Gilmore Girls",
+    "type": "series",
+    "imdb_id": "tt0238784"
   }
 ]

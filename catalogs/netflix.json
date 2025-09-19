@@ -15,6 +15,11 @@
     "imdb_id": "tt31260386"
   },
   {
+    "name": "Black Rabbit",
+    "type": "series",
+    "imdb_id": "tt23055142"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -30,14 +35,19 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Sex Education",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt7767422"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "The Ba***ds of Bollywood",
@@ -50,29 +60,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
     "name": "Diary of a Ditched Girl",
     "type": "series",
     "imdb_id": "tt31828121"
-  },
-  {
-    "name": "Maledictions",
-    "type": "series",
-    "imdb_id": "tt33292950"
-  },
-  {
-    "name": "My Life with the Walter Boys",
-    "type": "series",
-    "imdb_id": "tt8323628"
-  },
-  {
-    "name": "aka Charlie Sheen",
-    "type": "series",
-    "imdb_id": "tt37898320"
   },
   {
     "name": "Outer Banks",
@@ -80,14 +70,24 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Raw",
+    "name": "Maledictions",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt33292950"
   },
   {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "My Life with the Walter Boys",
+    "type": "series",
+    "imdb_id": "tt8323628"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Cobra Kai",
