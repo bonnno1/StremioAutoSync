@@ -1,5 +1,25 @@
 [
   {
+    "name": "The Ba***ds of Bollywood",
+    "type": "series",
+    "imdb_id": "tt34683290"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -10,14 +30,14 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0455275"
   },
   {
-    "name": "Gen V",
+    "name": "Dan Da Dan",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt30217403"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -25,24 +45,14 @@
     "imdb_id": "tt13062500"
   },
   {
-    "name": "Prison Break",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
   },
   {
     "name": "Kaiju No. 8",
@@ -75,19 +85,9 @@
     "imdb_id": "tt17069148"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "The A-Team",
-    "type": "series",
-    "imdb_id": "tt0084967"
   },
   {
     "name": "Lost",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Doctor Who",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt2580046"
   }
 ]
