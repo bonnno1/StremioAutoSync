@@ -5,14 +5,14 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Black Rabbit",
-    "type": "series",
-    "imdb_id": "tt23055142"
-  },
-  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Futurama",
@@ -20,9 +20,9 @@
     "imdb_id": "tt0149460"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Black Rabbit",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt23055142"
   },
   {
     "name": "Dan Da Dan",
@@ -35,9 +35,9 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Chief of War",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Wednesday",
@@ -45,29 +45,19 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
     "name": "Billionaires' Bunker",
     "type": "series",
     "imdb_id": "tt31173096"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Mobius",
     "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt34607637"
   },
   {
     "name": "Friends",
@@ -75,14 +65,29 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "The Morning Show",
@@ -90,13 +95,8 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt11691774"
-  },
-  {
-    "name": "Mobius",
-    "type": "series",
-    "imdb_id": "tt34607637"
+    "imdb_id": "tt0944947"
   }
 ]

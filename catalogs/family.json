@@ -25,14 +25,19 @@
     "imdb_id": "tt0106004"
   },
   {
+    "name": "Heartland",
+    "type": "series",
+    "imdb_id": "tt1094229"
+  },
+  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Doraemon",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0175058"
   },
   {
     "name": "King of the Hill",
@@ -40,24 +45,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Heartland",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Teen Titans Go!",
@@ -70,9 +60,24 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Ren & Stimpy Show",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0101178"
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "I Love Lucy",
+    "type": "series",
+    "imdb_id": "tt0043208"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   },
   {
     "name": "The Nanny",
@@ -80,18 +85,13 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "The Promise",
-    "type": "series",
-    "imdb_id": "tt9826628"
-  },
-  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Bewitched",
+    "name": "The Ren & Stimpy Show",
     "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt0101178"
   }
 ]

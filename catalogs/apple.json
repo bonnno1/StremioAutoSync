@@ -65,11 +65,6 @@
     "imdb_id": "tt13567344"
   },
   {
-    "name": "Black Bird",
-    "type": "series",
-    "imdb_id": "tt4301160"
-  },
-  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
@@ -78,6 +73,11 @@
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
   },
   {
     "name": "The Buccaneers",
@@ -95,8 +95,8 @@
     "imdb_id": "tt2640044"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Servant",
     "type": "series",
-    "imdb_id": "tt8879940"
+    "imdb_id": "tt8068860"
   }
 ]
