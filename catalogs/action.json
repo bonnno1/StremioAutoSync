@@ -15,14 +15,14 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -40,19 +40,14 @@
     "imdb_id": "tt30217403"
   },
   {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
     "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
     "imdb_id": "tt13062500"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Vikings",
@@ -65,19 +60,29 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
     "name": "Gachiakuta",
     "type": "series",
     "imdb_id": "tt32612521"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "SAKAMOTO DAYS",
@@ -93,10 +98,5 @@
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   }
 ]

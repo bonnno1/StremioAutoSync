@@ -25,11 +25,6 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Betty la Fea, the Story Continues",
-    "type": "series",
-    "imdb_id": "tt32321928"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -38,6 +33,11 @@
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Betty la Fea, the Story Continues",
+    "type": "series",
+    "imdb_id": "tt32321928"
   },
   {
     "name": "INVINCIBLE",
@@ -60,19 +60,14 @@
     "imdb_id": "tt32267726"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Terminal List",
@@ -85,18 +80,23 @@
     "imdb_id": "tt4687880"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
     "name": "Butterfly",
     "type": "series",
     "imdb_id": "tt26672404"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Upload",
     "type": "series",
     "imdb_id": "tt7826376"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   }
 ]

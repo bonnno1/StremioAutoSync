@@ -5,14 +5,14 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "Black Rabbit",
+    "type": "series",
+    "imdb_id": "tt23055142"
+  },
+  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
   },
   {
     "name": "Futurama",
@@ -20,14 +20,9 @@
     "imdb_id": "tt0149460"
   },
   {
-    "name": "Black Rabbit",
+    "name": "Billionaires' Bunker",
     "type": "series",
-    "imdb_id": "tt23055142"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt31173096"
   },
   {
     "name": "Peacemaker",
@@ -35,14 +30,14 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   },
   {
     "name": "Chief of War",
@@ -50,39 +45,14 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "Billionaires' Bunker",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt31173096"
+    "imdb_id": "tt16358384"
   },
   {
-    "name": "Mobius",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt34607637"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "One Piece",
@@ -90,13 +60,43 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Morning Show",
+    "name": "Task",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt28013708"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Haunted Hotel",
+    "type": "series",
+    "imdb_id": "tt32499579"
+  },
+  {
+    "name": "Mobius",
+    "type": "series",
+    "imdb_id": "tt34607637"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "High Potential",
+    "type": "series",
+    "imdb_id": "tt22091076"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   }
 ]
