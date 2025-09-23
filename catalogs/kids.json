@@ -5,14 +5,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Doraemon",
@@ -30,29 +30,19 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "The Powerpuff Girls",
     "type": "series",
     "imdb_id": "tt0175058"
   },
   {
-    "name": "The Ren & Stimpy Show",
+    "name": "The Thundermans: Undercover",
     "type": "series",
-    "imdb_id": "tt0101178"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt32384391"
   },
   {
     "name": "Sesame Street",
@@ -60,9 +50,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Bluey",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Henry Danger",
+    "type": "series",
+    "imdb_id": "tt3596174"
   },
   {
     "name": "iCarly",
@@ -75,14 +70,19 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
   },
   {
     "name": "The Smurfs",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Shin Chan",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt12853970"
   }
 ]

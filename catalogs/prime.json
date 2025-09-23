@@ -25,14 +25,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Betty la Fea, the Story Continues",
@@ -55,29 +55,9 @@
     "imdb_id": "tt32559610"
   },
   {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
   },
   {
     "name": "The Wheel of Time",
@@ -85,18 +65,38 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Butterfly",
+    "name": "The Terminal List",
     "type": "series",
-    "imdb_id": "tt26672404"
+    "imdb_id": "tt11743610"
   },
   {
-    "name": "Upload",
+    "name": "The Girlfriend",
     "type": "series",
-    "imdb_id": "tt7826376"
+    "imdb_id": "tt32267726"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   },
   {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Butterfly",
+    "type": "series",
+    "imdb_id": "tt26672404"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   }
 ]

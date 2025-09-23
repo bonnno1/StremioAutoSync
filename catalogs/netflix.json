@@ -35,14 +35,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
   },
   {
     "name": "Sex Education",
@@ -70,14 +70,19 @@
     "imdb_id": "tt0185103"
   },
   {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
+  },
+  {
     "name": "Outer Banks",
     "type": "series",
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Cobra Kai",
+    "name": "Girls5eva",
     "type": "series",
-    "imdb_id": "tt7221388"
+    "imdb_id": "tt11650492"
   },
   {
     "name": "The Witcher",
@@ -90,13 +95,8 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Girls5eva",
+    "name": "Platonic",
     "type": "series",
-    "imdb_id": "tt11650492"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt34692112"
   }
 ]
