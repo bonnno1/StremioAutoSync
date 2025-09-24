@@ -1,8 +1,8 @@
 [
   {
-    "name": "Gen V",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Alien: Earth",
@@ -10,9 +10,29 @@
     "imdb_id": "tt13623632"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "Black Rabbit",
     "type": "series",
     "imdb_id": "tt23055142"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Billionaires' Bunker",
@@ -20,19 +40,14 @@
     "imdb_id": "tt31173096"
   },
   {
-    "name": "Friends",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
   },
   {
     "name": "Peacemaker",
@@ -45,9 +60,9 @@
     "imdb_id": "tt0149460"
   },
   {
-    "name": "Wednesday",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "One Piece",
@@ -55,19 +70,24 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt11691774"
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "The Lowdown",
+    "type": "series",
+    "imdb_id": "tt31289994"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   },
   {
     "name": "Task",
@@ -75,28 +95,8 @@
     "imdb_id": "tt28013708"
   },
   {
-    "name": "Haunted Hotel",
+    "name": "High Potential",
     "type": "series",
-    "imdb_id": "tt32499579"
-  },
-  {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Mobius",
-    "type": "series",
-    "imdb_id": "tt34607637"
+    "imdb_id": "tt22091076"
   }
 ]
