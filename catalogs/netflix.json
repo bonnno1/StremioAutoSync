@@ -40,14 +40,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
+  },
+  {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
   },
   {
     "name": "You",
@@ -55,19 +55,14 @@
     "imdb_id": "tt7335184"
   },
   {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "Girls5eva",
@@ -75,19 +70,19 @@
     "imdb_id": "tt11650492"
   },
   {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
   },
   {
     "name": "Outer Banks",
@@ -95,8 +90,13 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "Platonic",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt34692112"
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Rebelde",
+    "type": "series",
+    "imdb_id": "tt14153686"
   }
 ]

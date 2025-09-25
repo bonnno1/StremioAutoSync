@@ -40,11 +40,6 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
@@ -53,6 +48,11 @@
     "name": "Platonic",
     "type": "series",
     "imdb_id": "tt13366604"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
   },
   {
     "name": "For All Mankind",
@@ -65,19 +65,14 @@
     "imdb_id": "tt13567344"
   },
   {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
   },
   {
-    "name": "Black Bird",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt4301160"
+    "imdb_id": "tt15677150"
   },
   {
     "name": "The Buccaneers",
@@ -85,14 +80,19 @@
     "imdb_id": "tt21108774"
   },
   {
+    "name": "Ghostwriter",
+    "type": "series",
+    "imdb_id": "tt11004134"
+  },
+  {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
+  },
+  {
     "name": "Smoke",
     "type": "series",
     "imdb_id": "tt24163532"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
   },
   {
     "name": "Servant",

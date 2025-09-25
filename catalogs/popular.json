@@ -1,5 +1,10 @@
 [
   {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
@@ -15,9 +20,9 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Alien: Earth",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt13623632"
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Dexter",
@@ -35,14 +40,14 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
     "name": "Billionaires' Bunker",
     "type": "series",
     "imdb_id": "tt31173096"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Tulsa King",
@@ -50,9 +55,14 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Law & Order",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Supernatural",
@@ -60,9 +70,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Gen V",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Game of Thrones",
@@ -70,14 +80,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Peacemaker",
@@ -85,18 +95,8 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Black Rabbit",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt23055142"
-  },
-  {
-    "name": "Bon Appétit, Your Majesty",
-    "type": "series",
-    "imdb_id": "tt37600136"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt0452046"
   }
 ]

@@ -1,18 +1,28 @@
 [
   {
+    "name": "Ghostwriter",
+    "type": "series",
+    "imdb_id": "tt11004134"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Doraemon",
@@ -25,24 +35,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
     "name": "The Thundermans: Undercover",
     "type": "series",
     "imdb_id": "tt32384391"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Sesame Street",
@@ -50,14 +50,29 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Popeye the Sailor",
+    "type": "series",
+    "imdb_id": "tt0145628"
   },
   {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
+  },
+  {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "iCarly",
@@ -70,33 +85,18 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "Transformers: Energon",
+    "type": "series",
+    "imdb_id": "tt0388650"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Gravity Falls",
     "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
+    "imdb_id": "tt1865718"
   }
 ]
