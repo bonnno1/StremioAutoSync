@@ -20,6 +20,11 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
@@ -30,19 +35,19 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Dancing with the Stars",
@@ -55,9 +60,9 @@
     "imdb_id": "tt32360916"
   },
   {
-    "name": "Ironheart",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -65,19 +70,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Los mufas: suerte para la desgracia",
-    "type": "series",
-    "imdb_id": "tt27763549"
   },
   {
     "name": "WandaVision",
@@ -90,8 +85,13 @@
     "imdb_id": "tt5531466"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Los mufas: suerte para la desgracia",
+    "type": "series",
+    "imdb_id": "tt27763549"
   }
 ]

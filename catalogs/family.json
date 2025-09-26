@@ -25,14 +25,9 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Doraemon",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0175058"
   },
   {
     "name": "The Chosen",
@@ -40,14 +35,29 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
   },
   {
-    "name": "I Love Lucy",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0043208"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -58,21 +68,6 @@
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Diagnosis: Murder",
-    "type": "series",
-    "imdb_id": "tt0105986"
-  },
-  {
-    "name": "RadhaKrishn",
-    "type": "series",
-    "imdb_id": "tt9025492"
   },
   {
     "name": "Bonanza",
@@ -93,5 +88,10 @@
     "name": "The Rifleman",
     "type": "series",
     "imdb_id": "tt0051308"
+  },
+  {
+    "name": "I Love Lucy",
+    "type": "series",
+    "imdb_id": "tt0043208"
   }
 ]

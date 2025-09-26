@@ -1,5 +1,15 @@
 [
   {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
     "name": "The Ba***ds of Bollywood",
     "type": "series",
     "imdb_id": "tt34683290"
@@ -20,14 +30,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Prison Break",
@@ -50,6 +60,11 @@
     "imdb_id": "tt13062500"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -60,14 +75,19 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Gachiakuta",
+    "name": "Ghostwriter",
     "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt11004134"
   },
   {
     "name": "S.W.A.T.",
@@ -78,25 +98,5 @@
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "SAKAMOTO DAYS",
-    "type": "series",
-    "imdb_id": "tt17069148"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
   }
 ]
