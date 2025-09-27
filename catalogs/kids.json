@@ -1,23 +1,18 @@
 [
   {
-    "name": "Ghostwriter",
-    "type": "series",
-    "imdb_id": "tt11004134"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Ghostwriter",
+    "type": "series",
+    "imdb_id": "tt11004134"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
   },
   {
     "name": "Doraemon",
@@ -45,9 +40,19 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Kim Possible",
+    "type": "series",
+    "imdb_id": "tt0278866"
   },
   {
     "name": "Bluey",
@@ -55,19 +60,14 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Popeye the Sailor",
-    "type": "series",
-    "imdb_id": "tt0145628"
-  },
-  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
   },
   {
-    "name": "The Ren & Stimpy Show",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0101178"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "The Fairly OddParents",
@@ -80,23 +80,23 @@
     "imdb_id": "tt0972534"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Shin Chan",
     "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Transformers: Energon",
-    "type": "series",
-    "imdb_id": "tt0388650"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt12853970"
   },
   {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   }
 ]

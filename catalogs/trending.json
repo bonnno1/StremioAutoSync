@@ -1,13 +1,13 @@
 [
   {
-    "name": "Alien: Earth",
-    "type": "series",
-    "imdb_id": "tt13623632"
-  },
-  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
   },
   {
     "name": "Marvel Zombies",
@@ -15,19 +15,9 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
   },
   {
     "name": "Tulsa King",
@@ -35,19 +25,9 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "House of Guinness",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt13542714"
-  },
-  {
-    "name": "Black Rabbit",
-    "type": "series",
-    "imdb_id": "tt23055142"
-  },
-  {
-    "name": "Billionaires' Bunker",
-    "type": "series",
-    "imdb_id": "tt31173096"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Slow Horses",
@@ -55,9 +35,49 @@
     "imdb_id": "tt5875444"
   },
   {
+    "name": "House of Guinness",
+    "type": "series",
+    "imdb_id": "tt13542714"
+  },
+  {
+    "name": "Billionaires' Bunker",
+    "type": "series",
+    "imdb_id": "tt31173096"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Black Rabbit",
+    "type": "series",
+    "imdb_id": "tt23055142"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Futurama",
+    "type": "series",
+    "imdb_id": "tt0149460"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Dan Da Dan",
@@ -70,33 +90,13 @@
     "imdb_id": "tt31472425"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Futurama",
-    "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
-    "name": "Amazing Night",
-    "type": "series",
-    "imdb_id": "tt32862759"
-  },
-  {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
   },
   {
-    "name": "Cat's Eye",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt34710525"
+    "imdb_id": "tt0944947"
   }
 ]

@@ -20,11 +20,6 @@
     "imdb_id": "tt4900148"
   },
   {
-    "name": "Secret Headquarters",
-    "type": "movie",
-    "imdb_id": "tt14001894"
-  },
-  {
     "name": "Freakier Friday",
     "type": "movie",
     "imdb_id": "tt31956415"
@@ -33,6 +28,11 @@
     "name": "My Freaky Family",
     "type": "movie",
     "imdb_id": "tt28485522"
+  },
+  {
+    "name": "Secret Headquarters",
+    "type": "movie",
+    "imdb_id": "tt14001894"
   },
   {
     "name": "Smurfs",
@@ -55,24 +55,14 @@
     "imdb_id": "tt0317705"
   },
   {
-    "name": "Sonic the Hedgehog 3",
-    "type": "movie",
-    "imdb_id": "tt18259086"
-  },
-  {
-    "name": "The Island of Lost Girls",
-    "type": "movie",
-    "imdb_id": "tt21933142"
-  },
-  {
     "name": "The Family Plan",
     "type": "movie",
     "imdb_id": "tt16431870"
   },
   {
-    "name": "Inside Out 2",
+    "name": "Sonic the Hedgehog 3",
     "type": "movie",
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt18259086"
   },
   {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -80,9 +70,14 @@
     "imdb_id": "tt0363771"
   },
   {
-    "name": "Kung Fu Panda 4",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt21692408"
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Despicable Me 4",
+    "type": "movie",
+    "imdb_id": "tt7510222"
   },
   {
     "name": "Toy Story",
@@ -90,9 +85,14 @@
     "imdb_id": "tt0114709"
   },
   {
-    "name": "Despicable Me 4",
+    "name": "The Island of Lost Girls",
     "type": "movie",
-    "imdb_id": "tt7510222"
+    "imdb_id": "tt21933142"
+  },
+  {
+    "name": "Kung Fu Panda 4",
+    "type": "movie",
+    "imdb_id": "tt21692408"
   },
   {
     "name": "Incredibles 2",

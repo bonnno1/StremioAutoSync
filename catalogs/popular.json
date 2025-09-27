@@ -1,5 +1,10 @@
 [
   {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
     "name": "Marvel Zombies",
     "type": "series",
     "imdb_id": "tt16027014"
@@ -8,11 +13,6 @@
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
   },
   {
     "name": "Wednesday",
@@ -35,11 +35,6 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "The Ba***ds of Bollywood",
-    "type": "series",
-    "imdb_id": "tt34683290"
-  },
-  {
     "name": "Billionaires' Bunker",
     "type": "series",
     "imdb_id": "tt31173096"
@@ -55,14 +50,19 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Tulsa King",
+    "name": "The Ba***ds of Bollywood",
     "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt34683290"
   },
   {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Gen V",
