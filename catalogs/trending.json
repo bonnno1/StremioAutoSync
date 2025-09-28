@@ -1,5 +1,10 @@
 [
   {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
@@ -10,69 +15,14 @@
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Peacemaker",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "House of Guinness",
-    "type": "series",
-    "imdb_id": "tt13542714"
-  },
-  {
-    "name": "Billionaires' Bunker",
-    "type": "series",
-    "imdb_id": "tt31173096"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
-    "name": "Black Rabbit",
-    "type": "series",
-    "imdb_id": "tt23055142"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Futurama",
-    "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Breaking Bad",
@@ -80,23 +30,73 @@
     "imdb_id": "tt0903747"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "House of Guinness",
+    "type": "series",
+    "imdb_id": "tt13542714"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Black Rabbit",
+    "type": "series",
+    "imdb_id": "tt23055142"
+  },
+  {
+    "name": "Billionaires' Bunker",
+    "type": "series",
+    "imdb_id": "tt31173096"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Dan Da Dan",
     "type": "series",
     "imdb_id": "tt30217403"
   },
   {
-    "name": "The Murky Stream",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt31472425"
-  },
-  {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "type": "series",
+    "imdb_id": "tt8993398"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "The Summer Hikaru Died",
+    "type": "series",
+    "imdb_id": "tt33028568"
   }
 ]

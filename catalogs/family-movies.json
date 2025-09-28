@@ -1,5 +1,10 @@
 [
   {
+    "name": "KPop Demon Hunters",
+    "type": "movie",
+    "imdb_id": "tt14205554"
+  },
+  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
@@ -35,14 +40,14 @@
     "imdb_id": "tt14001894"
   },
   {
-    "name": "Smurfs",
-    "type": "movie",
-    "imdb_id": "tt18069420"
-  },
-  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
   },
   {
     "name": "A Minecraft Movie",
@@ -50,14 +55,14 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "The Incredibles",
-    "type": "movie",
-    "imdb_id": "tt0317705"
-  },
-  {
     "name": "The Family Plan",
     "type": "movie",
     "imdb_id": "tt16431870"
+  },
+  {
+    "name": "The Incredibles",
+    "type": "movie",
+    "imdb_id": "tt0317705"
   },
   {
     "name": "Sonic the Hedgehog 3",
@@ -65,14 +70,19 @@
     "imdb_id": "tt18259086"
   },
   {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
+  },
+  {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "type": "movie",
     "imdb_id": "tt0363771"
   },
   {
-    "name": "Inside Out 2",
+    "name": "The Island of Lost Girls",
     "type": "movie",
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt21933142"
   },
   {
     "name": "Despicable Me 4",
@@ -83,20 +93,5 @@
     "name": "Toy Story",
     "type": "movie",
     "imdb_id": "tt0114709"
-  },
-  {
-    "name": "The Island of Lost Girls",
-    "type": "movie",
-    "imdb_id": "tt21933142"
-  },
-  {
-    "name": "Kung Fu Panda 4",
-    "type": "movie",
-    "imdb_id": "tt21692408"
-  },
-  {
-    "name": "Incredibles 2",
-    "type": "movie",
-    "imdb_id": "tt3606756"
   }
 ]

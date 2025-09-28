@@ -10,6 +10,11 @@
     "imdb_id": "tt16027014"
   },
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "The Ba***ds of Bollywood",
     "type": "series",
     "imdb_id": "tt34683290"
@@ -20,19 +25,19 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Peacemaker",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
   },
   {
     "name": "NCIS",
@@ -40,9 +45,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Prison Break",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Dan Da Dan",
@@ -55,19 +60,14 @@
     "imdb_id": "tt13062500"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
   },
   {
     "name": "Squid Game",
@@ -80,11 +80,6 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -93,6 +88,11 @@
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "The Boys",
