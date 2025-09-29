@@ -15,6 +15,11 @@
     "imdb_id": "tt13146488"
   },
   {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
     "name": "The Ba***ds of Bollywood",
     "type": "series",
     "imdb_id": "tt34683290"
@@ -45,14 +50,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
+    "imdb_id": "tt32612521"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -70,19 +70,24 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "The Murky Stream",
+    "type": "series",
+    "imdb_id": "tt31472425"
   },
   {
     "name": "S.W.A.T.",
@@ -93,10 +98,5 @@
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
   }
 ]

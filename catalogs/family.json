@@ -20,14 +20,19 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "The Chosen",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Heartland",
@@ -40,6 +45,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
     "name": "Diagnosis: Murder",
     "type": "series",
     "imdb_id": "tt0105986"
@@ -50,24 +60,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "The Rifleman",
-    "type": "series",
-    "imdb_id": "tt0051308"
   },
   {
     "name": "RadhaKrishn",
@@ -75,14 +70,14 @@
     "imdb_id": "tt9025492"
   },
   {
-    "name": "Bonanza",
+    "name": "The Rifleman",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt0051308"
   },
   {
-    "name": "The Flintstone Kids",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt0240265"
+    "imdb_id": "tt0106080"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -90,8 +85,8 @@
     "imdb_id": "tt1942683"
   },
   {
-    "name": "The Nanny",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0052451"
   }
 ]
