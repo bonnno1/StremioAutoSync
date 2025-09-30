@@ -25,19 +25,14 @@
     "imdb_id": "tt27427326"
   },
   {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Black Rabbit",
+    "name": "Sex Education",
     "type": "series",
-    "imdb_id": "tt23055142"
+    "imdb_id": "tt7767422"
   },
   {
     "name": "Squid Game",
@@ -45,14 +40,14 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Black Rabbit",
+    "type": "series",
+    "imdb_id": "tt23055142"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "The Dead Girls",
-    "type": "series",
-    "imdb_id": "tt31219594"
   },
   {
     "name": "House of Guinness",
@@ -60,14 +55,19 @@
     "imdb_id": "tt13542714"
   },
   {
+    "name": "The Guest",
+    "type": "series",
+    "imdb_id": "tt37065878"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "The Guest",
+    "name": "The Dead Girls",
     "type": "series",
-    "imdb_id": "tt37065878"
+    "imdb_id": "tt31219594"
   },
   {
     "name": "Raw",
@@ -80,11 +80,6 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Girls5eva",
-    "type": "series",
-    "imdb_id": "tt11650492"
-  },
-  {
     "name": "Beauty in Black",
     "type": "series",
     "imdb_id": "tt31260386"
@@ -95,8 +90,13 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Outer Banks",
+    "name": "Girls5eva",
     "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt11650492"
+  },
+  {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
   }
 ]

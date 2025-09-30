@@ -40,6 +40,11 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
@@ -48,11 +53,6 @@
     "name": "Reminder",
     "type": "series",
     "imdb_id": "tt34995624"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
   },
   {
     "name": "Andor",
@@ -75,6 +75,16 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
     "name": "Cat's Eye",
     "type": "series",
     "imdb_id": "tt34710525"
@@ -85,18 +95,8 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "WandaVision",
+    "name": "Agatha All Along",
     "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "The Breslau Murders",
-    "type": "series",
-    "imdb_id": "tt32360916"
+    "imdb_id": "tt15571732"
   }
 ]

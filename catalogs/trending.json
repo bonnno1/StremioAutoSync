@@ -1,10 +1,5 @@
 [
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
@@ -15,19 +10,9 @@
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Tulsa King",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt16027014"
   },
   {
     "name": "House of Guinness",
@@ -35,14 +20,9 @@
     "imdb_id": "tt13542714"
   },
   {
-    "name": "Friends",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Gen V",
@@ -50,9 +30,34 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Wayward",
+    "type": "series",
+    "imdb_id": "tt27427326"
   },
   {
     "name": "One Piece",
@@ -60,9 +65,24 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Attack on Titan",
+    "type": "series",
+    "imdb_id": "tt2560140"
+  },
+  {
+    "name": "Only Murders in the Building",
+    "type": "series",
+    "imdb_id": "tt11691774"
   },
   {
     "name": "Task",
@@ -75,28 +95,8 @@
     "imdb_id": "tt31173096"
   },
   {
-    "name": "Wayward",
-    "type": "series",
-    "imdb_id": "tt27427326"
-  },
-  {
-    "name": "Black Rabbit",
-    "type": "series",
-    "imdb_id": "tt23055142"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "Bon Appétit, Your Majesty",
     "type": "series",
     "imdb_id": "tt37600136"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
   }
 ]

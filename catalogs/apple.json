@@ -10,14 +10,14 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Silo",
@@ -35,9 +35,9 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "See",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Severance",
@@ -45,14 +45,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Ted Lasso",
+    "name": "See",
     "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Platonic",
-    "type": "series",
-    "imdb_id": "tt13366604"
+    "imdb_id": "tt7949218"
   },
   {
     "name": "The Studio",
@@ -60,14 +55,24 @@
     "imdb_id": "tt23649128"
   },
   {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
+  },
+  {
+    "name": "Platonic",
+    "type": "series",
+    "imdb_id": "tt13366604"
+  },
+  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Murderbot",
+    "name": "Dark Matter",
     "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Black Bird",
@@ -90,13 +95,8 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Smoke",
     "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt24163532"
   }
 ]
