@@ -15,6 +15,11 @@
     "imdb_id": "tt13146488"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Kaiju No. 8",
     "type": "series",
     "imdb_id": "tt21975436"
@@ -23,16 +28,6 @@
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   },
   {
     "name": "NCIS",
@@ -45,6 +40,16 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Murky Stream",
+    "type": "series",
+    "imdb_id": "tt31472425"
+  },
+  {
     "name": "The Ba***ds of Bollywood",
     "type": "series",
     "imdb_id": "tt34683290"
@@ -55,9 +60,9 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "The Murky Stream",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt31472425"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -65,9 +70,9 @@
     "imdb_id": "tt13062500"
   },
   {
-    "name": "Vikings",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "The Walking Dead",
@@ -75,24 +80,19 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Dan Da Dan",
-    "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "The Boys",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   },
   {
     "name": "JUJUTSU KAISEN",

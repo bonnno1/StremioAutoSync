@@ -10,14 +10,14 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Shameless",
@@ -25,24 +25,14 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "The Ba***ds of Bollywood",
-    "type": "series",
-    "imdb_id": "tt34683290"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Ba***ds of Bollywood",
+    "type": "series",
+    "imdb_id": "tt34683290"
   },
   {
     "name": "House",
@@ -50,19 +40,24 @@
     "imdb_id": "tt0412142"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
   },
   {
-    "name": "Dan Da Dan",
+    "name": "Young Hearts",
     "type": "series",
-    "imdb_id": "tt30217403"
-  },
-  {
-    "name": "Nukitashi the Animation",
-    "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt0144724"
   },
   {
     "name": "Teen Wolf",
@@ -70,9 +65,14 @@
     "imdb_id": "tt1567432"
   },
   {
-    "name": "Young Hearts",
+    "name": "Nukitashi the Animation",
     "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt37205655"
+  },
+  {
+    "name": "Dan Da Dan",
+    "type": "series",
+    "imdb_id": "tt30217403"
   },
   {
     "name": "Friends",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
+  },
+  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   }
 ]

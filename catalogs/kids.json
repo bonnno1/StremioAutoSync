@@ -15,6 +15,11 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -22,47 +27,12 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Peppa Pig",
+    "name": "Bob the Builder",
     "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0131613"
-  },
-  {
-    "name": "The Thundermans: Undercover",
-    "type": "series",
-    "imdb_id": "tt32384391"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
+    "imdb_id": "tt0262151"
   },
   {
     "name": "Shin Chan",
@@ -70,9 +40,24 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt0131613"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   },
   {
     "name": "Henry Danger",
@@ -80,23 +65,33 @@
     "imdb_id": "tt3596174"
   },
   {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
     "name": "Gravity Falls",
     "type": "series",
     "imdb_id": "tt1865718"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Totally Spies!",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0283226"
   },
   {
-    "name": "Kim Possible",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt0278866"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt0103369"
   }
 ]
