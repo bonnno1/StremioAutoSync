@@ -10,14 +10,14 @@
     "imdb_id": "tt31472425"
   },
   {
-    "name": "Sneaker Wars: Adidas V. Puma",
-    "type": "series",
-    "imdb_id": "tt11382826"
-  },
-  {
     "name": "Tempest",
     "type": "series",
     "imdb_id": "tt27368147"
+  },
+  {
+    "name": "Sneaker Wars: Adidas V. Puma",
+    "type": "series",
+    "imdb_id": "tt11382826"
   },
   {
     "name": "What If...?",
@@ -30,9 +30,9 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Mar afuera",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt32155744"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "The Mandalorian",
@@ -40,9 +40,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Loki",
+    "name": "Mar afuera",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt32155744"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Ironheart",
@@ -75,19 +80,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Cat's Eye",
-    "type": "series",
-    "imdb_id": "tt34710525"
   },
   {
     "name": "Star Wars: Visions",
@@ -95,8 +90,13 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Agatha All Along",
+    "name": "Cat's Eye",
     "type": "series",
-    "imdb_id": "tt15571732"
+    "imdb_id": "tt34710525"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   }
 ]

@@ -5,11 +5,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Ghostwriter",
-    "type": "series",
-    "imdb_id": "tt11004134"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -30,9 +25,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Bob the Builder",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0262151"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Shin Chan",
@@ -40,29 +35,14 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
+    "name": "Ghostwriter",
     "type": "series",
-    "imdb_id": "tt0131613"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt11004134"
   },
   {
     "name": "Pokémon Horizons",
@@ -70,14 +50,9 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "The Powerpuff Girls",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Gravity Falls",
@@ -85,13 +60,38 @@
     "imdb_id": "tt1865718"
   },
   {
-    "name": "Totally Spies!",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt0283226"
+    "imdb_id": "tt0972534"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0131613"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "The Flintstones",
+    "type": "series",
+    "imdb_id": "tt0053502"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Kim Possible",
+    "type": "series",
+    "imdb_id": "tt0278866"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   }
 ]

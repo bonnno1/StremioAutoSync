@@ -1,5 +1,10 @@
 [
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
@@ -8,11 +13,6 @@
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   },
   {
     "name": "Vikings",
@@ -35,14 +35,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "The Chosen",
@@ -50,19 +50,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Hotel Costiera",
-    "type": "series",
-    "imdb_id": "tt13924416"
-  },
-  {
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
   },
   {
     "name": "The Wheel of Time",
@@ -75,9 +65,19 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
+  },
+  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Hazbin Hotel",
@@ -90,13 +90,13 @@
     "imdb_id": "tt30955673"
   },
   {
+    "name": "Hotel Costiera",
+    "type": "series",
+    "imdb_id": "tt13924416"
+  },
+  {
     "name": "The Assassin",
     "type": "series",
     "imdb_id": "tt33246591"
-  },
-  {
-    "name": "Upload",
-    "type": "series",
-    "imdb_id": "tt7826376"
   }
 ]
