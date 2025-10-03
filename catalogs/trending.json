@@ -1,18 +1,13 @@
 [
   {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
-  },
-  {
-    "name": "Alien: Earth",
-    "type": "series",
-    "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
   },
   {
     "name": "Peacemaker",
@@ -20,14 +15,24 @@
     "imdb_id": "tt13146488"
   },
   {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
   },
   {
-    "name": "House of Guinness",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt13542714"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Wayward",
@@ -35,19 +40,9 @@
     "imdb_id": "tt27427326"
   },
   {
-    "name": "Tulsa King",
+    "name": "House of Guinness",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt13542714"
   },
   {
     "name": "Chad Powers",
@@ -65,38 +60,38 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Attack on Titan",
-    "type": "series",
-    "imdb_id": "tt2560140"
-  },
-  {
-    "name": "Futurama",
-    "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
     "name": "The Murky Stream",
     "type": "series",
     "imdb_id": "tt31472425"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Love's Ambition",
+    "type": "series",
+    "imdb_id": "tt32582480"
+  },
+  {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   }
 ]

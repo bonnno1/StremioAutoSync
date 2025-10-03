@@ -60,6 +60,11 @@
     "imdb_id": "tt1865718"
   },
   {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
@@ -88,10 +93,5 @@
     "name": "Kim Possible",
     "type": "series",
     "imdb_id": "tt0278866"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
   }
 ]

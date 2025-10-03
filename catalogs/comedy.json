@@ -15,14 +15,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Shameless",
@@ -35,19 +35,24 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "The Ba***ds of Bollywood",
-    "type": "series",
-    "imdb_id": "tt34683290"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
   },
   {
+    "name": "The Ba***ds of Bollywood",
+    "type": "series",
+    "imdb_id": "tt34683290"
+  },
+  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
   },
   {
     "name": "Sex Education",
@@ -60,19 +65,14 @@
     "imdb_id": "tt0144724"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Teen Wolf",
     "type": "series",
     "imdb_id": "tt1567432"
   },
   {
-    "name": "Nukitashi the Animation",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt37205655"
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Friends",
@@ -80,23 +80,23 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Modern Family",
+    "name": "Two and a Half Men",
     "type": "series",
-    "imdb_id": "tt1442437"
+    "imdb_id": "tt0369179"
   },
   {
-    "name": "The Daily Show",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Nukitashi the Animation",
+    "type": "series",
+    "imdb_id": "tt37205655"
   }
 ]
