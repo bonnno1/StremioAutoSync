@@ -1,23 +1,13 @@
 [
   {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt16027014"
+    "imdb_id": "tt10795658"
   },
   {
     "name": "Alien: Earth",
@@ -30,59 +20,19 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
     "name": "Kaiju No. 8",
     "type": "series",
     "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Wayward",
-    "type": "series",
-    "imdb_id": "tt27427326"
-  },
-  {
-    "name": "House of Guinness",
-    "type": "series",
-    "imdb_id": "tt13542714"
-  },
-  {
-    "name": "Chad Powers",
-    "type": "series",
-    "imdb_id": "tt31449991"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Murky Stream",
-    "type": "series",
-    "imdb_id": "tt31472425"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Love's Ambition",
-    "type": "series",
-    "imdb_id": "tt32582480"
-  },
-  {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
   },
   {
     "name": "Friends",
@@ -90,8 +40,53 @@
     "imdb_id": "tt0108778"
   },
   {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Wayward",
+    "type": "series",
+    "imdb_id": "tt27427326"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "House of Guinness",
+    "type": "series",
+    "imdb_id": "tt13542714"
+  },
+  {
+    "name": "My Hero Academia",
+    "type": "series",
+    "imdb_id": "tt5626028"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Love's Ambition",
+    "type": "series",
+    "imdb_id": "tt32582480"
   }
 ]
