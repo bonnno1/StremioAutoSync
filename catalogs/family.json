@@ -45,11 +45,6 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Heartland",
     "type": "series",
     "imdb_id": "tt1094229"
@@ -60,9 +55,9 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Bewitched",
+    "name": "RadhaKrishn",
     "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt9025492"
   },
   {
     "name": "Sazae-san",
@@ -70,9 +65,14 @@
     "imdb_id": "tt0236924"
   },
   {
-    "name": "RadhaKrishn",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt9025492"
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Bewitched",
+    "type": "series",
+    "imdb_id": "tt0057733"
   },
   {
     "name": "Doraemon",
@@ -80,13 +80,13 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Wagon Train",
-    "type": "series",
-    "imdb_id": "tt0050073"
   }
 ]

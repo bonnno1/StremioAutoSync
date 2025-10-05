@@ -1,10 +1,5 @@
 [
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
@@ -13,6 +8,11 @@
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
   },
   {
     "name": "The Simpsons",
@@ -30,6 +30,11 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -40,9 +45,9 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "The Ba***ds of Bollywood",
+    "name": "Young Hearts",
     "type": "series",
-    "imdb_id": "tt34683290"
+    "imdb_id": "tt0144724"
   },
   {
     "name": "Slow Horses",
@@ -50,24 +55,19 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
   },
   {
-    "name": "American Dad!",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "The Ba***ds of Bollywood",
+    "type": "series",
+    "imdb_id": "tt34683290"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -80,23 +80,23 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Chad Powers",
-    "type": "series",
-    "imdb_id": "tt31449991"
-  },
-  {
     "name": "Teen Wolf",
     "type": "series",
     "imdb_id": "tt1567432"
   },
   {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
+  },
+  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
-  },
-  {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
   }
 ]

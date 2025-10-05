@@ -35,29 +35,19 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
   },
   {
     "name": "Andor",
@@ -70,24 +60,24 @@
     "imdb_id": "tt32155744"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Reminder",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt10160804"
   },
   {
-    "name": "WandaVision",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "DuckTales",
@@ -95,8 +85,18 @@
     "imdb_id": "tt5531466"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Reminder",
+    "type": "series",
+    "imdb_id": "tt34995624"
+  },
+  {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
   }
 ]

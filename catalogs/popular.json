@@ -15,11 +15,6 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
@@ -30,29 +25,19 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "Tulsa King",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Law & Order",
@@ -63,6 +48,21 @@
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Shameless",
@@ -85,18 +85,13 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Love Me",
+    "name": "Genie, Make a Wish",
     "type": "series",
-    "imdb_id": "tt15233564"
+    "imdb_id": "tt32409807"
   },
   {
-    "name": "Gen V",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Bon Appétit, Your Majesty",
-    "type": "series",
-    "imdb_id": "tt37600136"
+    "imdb_id": "tt0903747"
   }
 ]
