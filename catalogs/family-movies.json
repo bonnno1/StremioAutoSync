@@ -15,14 +15,14 @@
     "imdb_id": "tt30017619"
   },
   {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
     "name": "The Day the Earth Blew Up: A Looney Tunes Movie",
     "type": "movie",
     "imdb_id": "tt15352542"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Elio",
@@ -35,9 +35,9 @@
     "imdb_id": "tt31956415"
   },
   {
-    "name": "The Family Plan",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt16431870"
+    "imdb_id": "tt13622970"
   },
   {
     "name": "Smurfs",
@@ -45,19 +45,14 @@
     "imdb_id": "tt18069420"
   },
   {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Inside Out 2",
+    "name": "The Family Plan",
     "type": "movie",
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt16431870"
   },
   {
     "name": "My Freaky Family",
@@ -65,9 +60,19 @@
     "imdb_id": "tt28485522"
   },
   {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
+  },
+  {
     "name": "The Incredibles",
     "type": "movie",
     "imdb_id": "tt0317705"
+  },
+  {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
   },
   {
     "name": "Despicable Me 4",
@@ -83,11 +88,6 @@
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "type": "movie",
     "imdb_id": "tt0363771"
-  },
-  {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
   },
   {
     "name": "Coraline",
