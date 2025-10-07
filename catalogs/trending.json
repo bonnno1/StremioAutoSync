@@ -1,15 +1,5 @@
 [
   {
-    "name": "Chainsaw Man",
-    "type": "series",
-    "imdb_id": "tt13616990"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "Genie, Make a Wish",
     "type": "series",
     "imdb_id": "tt32409807"
@@ -18,6 +8,11 @@
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Alice in Borderland",
@@ -40,19 +35,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "My Hero Academia",
     "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt5626028"
   },
   {
     "name": "Chad Powers",
@@ -60,24 +45,14 @@
     "imdb_id": "tt31449991"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Love's Ambition",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt32582480"
   },
   {
-    "name": "Tulsa King",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "My Hero Academia",
-    "type": "series",
-    "imdb_id": "tt5626028"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Game of Thrones",
@@ -85,8 +60,33 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Wayward",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt27427326"
+    "imdb_id": "tt16027014"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   }
 ]

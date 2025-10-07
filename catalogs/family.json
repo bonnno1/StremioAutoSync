@@ -25,9 +25,19 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "RadhaKrishn",
+    "type": "series",
+    "imdb_id": "tt9025492"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
   },
   {
     "name": "Frasier",
@@ -35,9 +45,9 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "RadhaKrishn",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt9025492"
+    "imdb_id": "tt1094229"
   },
   {
     "name": "The Nanny",
@@ -50,29 +60,14 @@
     "imdb_id": "tt0236924"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Bonanza",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
-    "name": "Diagnosis: Murder",
-    "type": "series",
-    "imdb_id": "tt0105986"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Bewitched",
@@ -80,9 +75,14 @@
     "imdb_id": "tt0057733"
   },
   {
-    "name": "King of the Hill",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
   },
   {
     "name": "Dallas",

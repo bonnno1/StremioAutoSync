@@ -20,14 +20,14 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Sneaker Wars: Adidas V. Puma",
-    "type": "series",
-    "imdb_id": "tt11382826"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Sneaker Wars: Adidas V. Puma",
+    "type": "series",
+    "imdb_id": "tt11382826"
   },
   {
     "name": "The Mandalorian",
@@ -65,19 +65,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Hawkeye",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
   },
   {
     "name": "Reminder",
@@ -90,13 +85,18 @@
     "imdb_id": "tt5531466"
   },
   {
-    "name": "WandaVision",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   }
 ]
