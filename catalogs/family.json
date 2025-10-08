@@ -15,14 +15,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "RadhaKrishn",
@@ -30,19 +30,39 @@
     "imdb_id": "tt9025492"
   },
   {
-    "name": "The Chosen",
+    "name": "Sazae-san",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt0236924"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt3559124"
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "The Wonderfully Weird World of Gumball",
+    "type": "series",
+    "imdb_id": "tt36985473"
   },
   {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
   },
   {
     "name": "Heartland",
@@ -55,14 +75,9 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Sazae-san",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0236924"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Teen Titans Go!",
@@ -73,20 +88,5 @@
     "name": "Bewitched",
     "type": "series",
     "imdb_id": "tt0057733"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Diagnosis: Murder",
-    "type": "series",
-    "imdb_id": "tt0105986"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
   }
 ]

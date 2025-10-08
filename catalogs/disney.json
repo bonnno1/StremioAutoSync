@@ -15,24 +15,14 @@
     "imdb_id": "tt27368147"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Sneaker Wars: Adidas V. Puma",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt11382826"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Dancing with the Stars",
@@ -40,19 +30,19 @@
     "imdb_id": "tt0463398"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
+    "name": "Sneaker Wars: Adidas V. Puma",
     "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt11382826"
   },
   {
     "name": "Mar afuera",
@@ -60,9 +50,14 @@
     "imdb_id": "tt32155744"
   },
   {
-    "name": "Moon Knight",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -75,14 +70,19 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Reminder",
-    "type": "series",
-    "imdb_id": "tt34995624"
-  },
-  {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Reminder",
+    "type": "series",
+    "imdb_id": "tt34995624"
   },
   {
     "name": "Hawkeye",

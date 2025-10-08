@@ -15,24 +15,24 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Doraemon",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Peppa Pig",
@@ -65,19 +65,14 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Gravity Falls",
@@ -85,13 +80,18 @@
     "imdb_id": "tt1865718"
   },
   {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
-  },
-  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   }
 ]

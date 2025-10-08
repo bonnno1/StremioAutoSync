@@ -5,14 +5,14 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "Genie, Make a Wish",
     "type": "series",
     "imdb_id": "tt32409807"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Stranger Things",
@@ -30,14 +30,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Billionaires' Bunker",
+    "name": "Old Dog, New Tricks",
     "type": "series",
-    "imdb_id": "tt31173096"
-  },
-  {
-    "name": "The Ba***ds of Bollywood",
-    "type": "series",
-    "imdb_id": "tt34683290"
+    "imdb_id": "tt30817086"
   },
   {
     "name": "Squid Game",
@@ -45,9 +40,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "You",
+    "name": "The Ba***ds of Bollywood",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt34683290"
   },
   {
     "name": "Raw",
@@ -55,9 +50,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Burn the House Down",
+    "name": "Billionaires' Bunker",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt31173096"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Wayward",
@@ -65,24 +65,9 @@
     "imdb_id": "tt27427326"
   },
   {
-    "name": "Old Dog, New Tricks",
-    "type": "series",
-    "imdb_id": "tt30817086"
-  },
-  {
     "name": "The Guest",
     "type": "series",
     "imdb_id": "tt37065878"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Sex/Life",
-    "type": "series",
-    "imdb_id": "tt10839422"
   },
   {
     "name": "Explained",
@@ -90,8 +75,18 @@
     "imdb_id": "tt8005374"
   },
   {
-    "name": "Cobra Kai",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt7221388"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "Outer Banks",
+    "type": "series",
+    "imdb_id": "tt10293938"
   }
 ]
