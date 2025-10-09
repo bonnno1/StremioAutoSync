@@ -1,5 +1,10 @@
 [
   {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
     "name": "Genie, Make a Wish",
     "type": "series",
     "imdb_id": "tt32409807"
@@ -10,9 +15,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Peacemaker",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt13706018"
   },
   {
     "name": "Alice in Borderland",
@@ -20,9 +25,9 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Néro the Assassin",
@@ -30,29 +35,9 @@
     "imdb_id": "tt32400599"
   },
   {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Alien: Earth",
     "type": "series",
     "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
   },
   {
     "name": "Love's Ambition",
@@ -60,19 +45,14 @@
     "imdb_id": "tt32582480"
   },
   {
-    "name": "Kaiju No. 8",
+    "name": "Let This Grieving Soul Retire",
     "type": "series",
-    "imdb_id": "tt21975436"
+    "imdb_id": "tt32508529"
   },
   {
-    "name": "One Piece",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Marvel Zombies",
@@ -80,13 +60,33 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "Chad Powers",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt31449991"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "My Hero Academia",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt5626028"
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]
