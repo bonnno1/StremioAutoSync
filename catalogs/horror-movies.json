@@ -55,6 +55,11 @@
     "imdb_id": "tt31184028"
   },
   {
+    "name": "Stay",
+    "type": "movie",
+    "imdb_id": "tt38039379"
+  },
+  {
     "name": "Possession Street",
     "type": "movie",
     "imdb_id": "tt31647756"
@@ -85,18 +90,13 @@
     "imdb_id": "tt10340360"
   },
   {
-    "name": "Sinners",
-    "type": "movie",
-    "imdb_id": "tt31193180"
-  },
-  {
-    "name": "The Long Walk",
-    "type": "movie",
-    "imdb_id": "tt10374610"
-  },
-  {
     "name": "The Conjuring",
     "type": "movie",
     "imdb_id": "tt1457767"
+  },
+  {
+    "name": "Sinners",
+    "type": "movie",
+    "imdb_id": "tt31193180"
   }
 ]

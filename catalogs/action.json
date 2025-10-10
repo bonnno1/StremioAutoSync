@@ -20,14 +20,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Néro the Assassin",
+    "type": "series",
+    "imdb_id": "tt32400599"
+  },
+  {
     "name": "Marvel Zombies",
     "type": "series",
     "imdb_id": "tt16027014"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Prison Break",
@@ -35,24 +40,19 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt13062500"
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Gachiakuta",
@@ -60,9 +60,9 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "Vikings",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt13062500"
   },
   {
     "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
@@ -70,19 +70,14 @@
     "imdb_id": "tt36593026"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
   },
   {
     "name": "SPY x FAMILY",
@@ -93,5 +88,10 @@
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]
