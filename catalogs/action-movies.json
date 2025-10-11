@@ -1,18 +1,13 @@
 [
   {
-    "name": "The Toxic Avenger Unrated",
-    "type": "movie",
-    "imdb_id": "tt1633359"
-  },
-  {
     "name": "The Lost Princess",
     "type": "movie",
     "imdb_id": "tt14830912"
   },
   {
-    "name": "Marco",
+    "name": "The Toxic Avenger Unrated",
     "type": "movie",
-    "imdb_id": "tt29383379"
+    "imdb_id": "tt1633359"
   },
   {
     "name": "Holy Night: Demon Hunters",
@@ -23,6 +18,11 @@
     "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "type": "movie",
     "imdb_id": "tt32820897"
+  },
+  {
+    "name": "Marco",
+    "type": "movie",
+    "imdb_id": "tt29383379"
   },
   {
     "name": "Primitive War",
@@ -45,6 +45,11 @@
     "imdb_id": "tt33057137"
   },
   {
+    "name": "TRON: Ares",
+    "type": "movie",
+    "imdb_id": "tt6604188"
+  },
+  {
     "name": "One Battle After Another",
     "type": "movie",
     "imdb_id": "tt30144839"
@@ -55,14 +60,14 @@
     "imdb_id": "tt5950044"
   },
   {
+    "name": "xXx",
+    "type": "movie",
+    "imdb_id": "tt0295701"
+  },
+  {
     "name": "Assassin",
     "type": "movie",
     "imdb_id": "tt36350780"
-  },
-  {
-    "name": "Jurassic Triangle",
-    "type": "movie",
-    "imdb_id": "tt21844572"
   },
   {
     "name": "Valiant One",
@@ -70,9 +75,9 @@
     "imdb_id": "tt21442114"
   },
   {
-    "name": "xXx",
+    "name": "Jurassic Triangle",
     "type": "movie",
-    "imdb_id": "tt0295701"
+    "imdb_id": "tt21844572"
   },
   {
     "name": "How to Train Your Dragon",
@@ -83,11 +88,6 @@
     "name": "Mission: Impossible - The Final Reckoning",
     "type": "movie",
     "imdb_id": "tt9603208"
-  },
-  {
-    "name": "Chainsaw Man - The Movie: Reze Arc",
-    "type": "movie",
-    "imdb_id": "tt30472557"
   },
   {
     "name": "Jurassic World Rebirth",

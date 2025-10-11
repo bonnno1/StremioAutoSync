@@ -1,23 +1,23 @@
 [
   {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
   },
   {
-    "name": "NCIS",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt10795658"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Gen V",
@@ -30,9 +30,9 @@
     "imdb_id": "tt32400599"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt16027014"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Prison Break",
@@ -40,19 +40,14 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Kaiju No. 8",
     "type": "series",
     "imdb_id": "tt21975436"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Gachiakuta",
@@ -60,9 +55,9 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt13062500"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
@@ -70,14 +65,19 @@
     "imdb_id": "tt36593026"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Smallville",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt13062500"
   },
   {
     "name": "SPY x FAMILY",
@@ -85,9 +85,9 @@
     "imdb_id": "tt13706018"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "The Walking Dead",

@@ -15,24 +15,19 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -45,14 +40,19 @@
     "imdb_id": "tt0404597"
   },
   {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Peppa Pig",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Bluey",
@@ -60,9 +60,14 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Rugrats",
@@ -75,23 +80,18 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "iCarly",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Sailor Moon",
     "type": "series",
     "imdb_id": "tt0103369"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]

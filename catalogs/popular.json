@@ -1,18 +1,13 @@
 [
   {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Dexter",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt10795658"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -25,9 +20,9 @@
     "imdb_id": "tt32409807"
   },
   {
-    "name": "Alya Sometimes Hides Her Feelings in Russian",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt31131295"
+    "imdb_id": "tt0773262"
   },
   {
     "name": "Grey's Anatomy",
@@ -50,19 +45,9 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "NCIS",
+    "name": "Alya Sometimes Hides Her Feelings in Russian",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt31131295"
   },
   {
     "name": "Law & Order",
@@ -70,9 +55,24 @@
     "imdb_id": "tt0098844"
   },
   {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Gen V",
@@ -83,11 +83,6 @@
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Alien: Earth",
-    "type": "series",
-    "imdb_id": "tt13623632"
   },
   {
     "name": "Criminal Minds",

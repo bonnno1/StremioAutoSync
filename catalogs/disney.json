@@ -5,6 +5,11 @@
     "imdb_id": "tt16027014"
   },
   {
+    "name": "The Lost Station Girls",
+    "type": "series",
+    "imdb_id": "tt31844356"
+  },
+  {
     "name": "The Murky Stream",
     "type": "series",
     "imdb_id": "tt31472425"
@@ -13,11 +18,6 @@
     "name": "Tempest",
     "type": "series",
     "imdb_id": "tt27368147"
-  },
-  {
-    "name": "The Lost Station Girls",
-    "type": "series",
-    "imdb_id": "tt31844356"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -80,11 +80,6 @@
     "imdb_id": "tt34995624"
   },
   {
-    "name": "Fate",
-    "type": "series",
-    "imdb_id": "tt31522591"
-  },
-  {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
@@ -98,5 +93,10 @@
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
+  },
+  {
+    "name": "Fate",
+    "type": "series",
+    "imdb_id": "tt31522591"
   }
 ]

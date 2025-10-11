@@ -5,11 +5,6 @@
     "imdb_id": "tt32409807"
   },
   {
-    "name": "Alya Sometimes Hides Her Feelings in Russian",
-    "type": "series",
-    "imdb_id": "tt31131295"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -23,6 +18,11 @@
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Alya Sometimes Hides Her Feelings in Russian",
+    "type": "series",
+    "imdb_id": "tt31131295"
   },
   {
     "name": "Shameless",
@@ -40,11 +40,6 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
@@ -55,34 +50,14 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
     "name": "Young Hearts",
     "type": "series",
     "imdb_id": "tt0144724"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
-    "name": "Mahsun J",
-    "type": "series",
-    "imdb_id": "tt31027788"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -90,13 +65,33 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Friends",
+    "name": "Mahsun J",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt31027788"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Sex Education",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt7767422"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   }
 ]
