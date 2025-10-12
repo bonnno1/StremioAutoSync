@@ -1,13 +1,13 @@
 [
   {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
   },
   {
     "name": "Tulsa King",
@@ -20,14 +20,24 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Alya Sometimes Hides Her Feelings in Russian",
     "type": "series",
     "imdb_id": "tt31131295"
   },
   {
-    "name": "Shameless",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Simpsons",
@@ -40,14 +50,9 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Marvel Zombies",
@@ -55,29 +60,9 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Mahsun J",
     "type": "series",
     "imdb_id": "tt31027788"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
   },
   {
     "name": "The Office",
@@ -85,9 +70,19 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Young Hearts",
+    "type": "series",
+    "imdb_id": "tt0144724"
   },
   {
     "name": "The Daily Show",

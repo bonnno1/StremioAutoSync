@@ -5,26 +5,6 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "Néro the Assassin",
-    "type": "series",
-    "imdb_id": "tt32400599"
-  },
-  {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
@@ -35,14 +15,24 @@
     "imdb_id": "tt13706018"
   },
   {
-    "name": "Game of Thrones",
+    "name": "The Last Frontier",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt26862142"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Néro the Assassin",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt32400599"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
   },
   {
     "name": "Love's Ambition",
@@ -50,9 +40,19 @@
     "imdb_id": "tt32582480"
   },
   {
-    "name": "My Hero Academia",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt5626028"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
   },
   {
     "name": "Breaking Bad",
@@ -65,14 +65,9 @@
     "imdb_id": "tt13623632"
   },
   {
-    "name": "Tulsa King",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Boots",
@@ -80,13 +75,18 @@
     "imdb_id": "tt27987047"
   },
   {
-    "name": "Outlander: Blood of My Blood",
+    "name": "Task",
     "type": "series",
-    "imdb_id": "tt18332852"
+    "imdb_id": "tt28013708"
   },
   {
     "name": "Attack on Titan",
     "type": "series",
     "imdb_id": "tt2560140"
+  },
+  {
+    "name": "My Hero Academia",
+    "type": "series",
+    "imdb_id": "tt5626028"
   }
 ]

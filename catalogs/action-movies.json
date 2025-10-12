@@ -10,14 +10,14 @@
     "imdb_id": "tt1633359"
   },
   {
-    "name": "Holy Night: Demon Hunters",
-    "type": "movie",
-    "imdb_id": "tt15766876"
-  },
-  {
     "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "type": "movie",
     "imdb_id": "tt32820897"
+  },
+  {
+    "name": "Holy Night: Demon Hunters",
+    "type": "movie",
+    "imdb_id": "tt15766876"
   },
   {
     "name": "Marco",
@@ -65,24 +65,19 @@
     "imdb_id": "tt0295701"
   },
   {
-    "name": "Assassin",
-    "type": "movie",
-    "imdb_id": "tt36350780"
-  },
-  {
     "name": "Valiant One",
     "type": "movie",
     "imdb_id": "tt21442114"
   },
   {
-    "name": "Jurassic Triangle",
-    "type": "movie",
-    "imdb_id": "tt21844572"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
+  },
+  {
+    "name": "Assassin",
+    "type": "movie",
+    "imdb_id": "tt36350780"
   },
   {
     "name": "Mission: Impossible - The Final Reckoning",
@@ -98,5 +93,10 @@
     "name": "F1",
     "type": "movie",
     "imdb_id": "tt16311594"
+  },
+  {
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "type": "movie",
+    "imdb_id": "tt30472557"
   }
 ]

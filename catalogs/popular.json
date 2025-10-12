@@ -10,6 +10,21 @@
     "imdb_id": "tt10795658"
   },
   {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -18,21 +33,6 @@
     "name": "Genie, Make a Wish",
     "type": "series",
     "imdb_id": "tt32409807"
-  },
-  {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
   },
   {
     "name": "Tulsa King",
@@ -45,14 +45,9 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Alya Sometimes Hides Her Feelings in Russian",
+    "name": "Néro the Assassin",
     "type": "series",
-    "imdb_id": "tt31131295"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt32400599"
   },
   {
     "name": "Supernatural",
@@ -60,9 +55,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt1586680"
   },
   {
     "name": "NCIS",
@@ -70,23 +65,28 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Shameless",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt0944947"
   },
   {
-    "name": "Gen V",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt4508902"
   },
   {
-    "name": "The Simpsons",
+    "name": "Alya Sometimes Hides Her Feelings in Russian",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt31131295"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   }
 ]

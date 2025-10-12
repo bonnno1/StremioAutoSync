@@ -1,13 +1,13 @@
 [
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Doraemon",
@@ -40,11 +40,6 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -75,6 +70,21 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
@@ -83,15 +93,5 @@
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
   }
 ]
