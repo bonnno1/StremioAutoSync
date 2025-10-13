@@ -15,14 +15,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Bosch",
@@ -35,9 +35,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "House of David",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -45,9 +45,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "INVINCIBLE",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt30955673"
   },
   {
     "name": "The Chosen",
@@ -65,19 +65,14 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
   },
   {
-    "name": "Maxton Hall - The World Between Us",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Countdown",
@@ -85,18 +80,23 @@
     "imdb_id": "tt32559610"
   },
   {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
+  },
+  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "The Marvelous Mrs. Maisel",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt5788792"
   },
   {
-    "name": "The Expanse",
+    "name": "The Grand Tour",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt5712554"
   }
 ]

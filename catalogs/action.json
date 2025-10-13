@@ -5,6 +5,11 @@
     "imdb_id": "tt13146488"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
@@ -25,11 +30,6 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
@@ -40,9 +40,24 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
     "name": "Gachiakuta",
     "type": "series",
     "imdb_id": "tt32612521"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Kaiju No. 8",
@@ -55,14 +70,14 @@
     "imdb_id": "tt36593026"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Dinastia Casillas",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt38629881"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -75,23 +90,8 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   }
 ]

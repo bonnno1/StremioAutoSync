@@ -1,18 +1,13 @@
 [
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "The Last Frontier",
@@ -20,54 +15,9 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Néro the Assassin",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt32400599"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Love's Ambition",
-    "type": "series",
-    "imdb_id": "tt32582480"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Alien: Earth",
-    "type": "series",
-    "imdb_id": "tt13623632"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt13706018"
   },
   {
     "name": "Boots",
@@ -75,9 +25,54 @@
     "imdb_id": "tt27987047"
   },
   {
+    "name": "Néro the Assassin",
+    "type": "series",
+    "imdb_id": "tt32400599"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Task",
     "type": "series",
     "imdb_id": "tt28013708"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Chair Company",
+    "type": "series",
+    "imdb_id": "tt31987295"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Attack on Titan",
@@ -85,8 +80,13 @@
     "imdb_id": "tt2560140"
   },
   {
-    "name": "My Hero Academia",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt5626028"
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
   }
 ]
