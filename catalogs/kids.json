@@ -45,11 +45,6 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -60,19 +55,19 @@
     "imdb_id": "tt8677202"
   },
   {
+    "name": "Motu Patlu",
+    "type": "series",
+    "imdb_id": "tt2649730"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "iCarly",
@@ -85,8 +80,13 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Motu Patlu",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt2649730"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Shaka Laka Boom Boom",
+    "type": "series",
+    "imdb_id": "tt3676882"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt15766876"
   },
   {
-    "name": "Primitive War",
-    "type": "movie",
-    "imdb_id": "tt18312380"
-  },
-  {
     "name": "HIM",
     "type": "movie",
     "imdb_id": "tt20990442"
+  },
+  {
+    "name": "Primitive War",
+    "type": "movie",
+    "imdb_id": "tt18312380"
   },
   {
     "name": "Vicious",
@@ -33,6 +33,11 @@
     "name": "Weapons",
     "type": "movie",
     "imdb_id": "tt26581740"
+  },
+  {
+    "name": "No Tears in Hell",
+    "type": "movie",
+    "imdb_id": "tt28321883"
   },
   {
     "name": "Rumpelstiltskin",
@@ -53,11 +58,6 @@
     "name": "The Ugly Stepsister",
     "type": "movie",
     "imdb_id": "tt29344903"
-  },
-  {
-    "name": "No Tears in Hell",
-    "type": "movie",
-    "imdb_id": "tt28321883"
   },
   {
     "name": "Compulsion",
@@ -85,6 +85,11 @@
     "imdb_id": "tt12619462"
   },
   {
+    "name": "The Substance",
+    "type": "movie",
+    "imdb_id": "tt17526714"
+  },
+  {
     "name": "28 Years Later",
     "type": "movie",
     "imdb_id": "tt10548174"
@@ -93,10 +98,5 @@
     "name": "Humane",
     "type": "movie",
     "imdb_id": "tt16280912"
-  },
-  {
-    "name": "The Conjuring",
-    "type": "movie",
-    "imdb_id": "tt1457767"
   }
 ]

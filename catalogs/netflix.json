@@ -1,5 +1,10 @@
 [
   {
+    "name": "Néro the Assassin",
+    "type": "series",
+    "imdb_id": "tt32400599"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
@@ -8,11 +13,6 @@
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Néro the Assassin",
-    "type": "series",
-    "imdb_id": "tt32400599"
   },
   {
     "name": "Genie, Make a Wish",
@@ -25,14 +25,14 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Old Money",
+    "type": "series",
+    "imdb_id": "tt34692051"
+  },
+  {
     "name": "Boots",
     "type": "series",
     "imdb_id": "tt27987047"
-  },
-  {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
   },
   {
     "name": "Raw",
@@ -40,19 +40,19 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
   },
   {
-    "name": "Old Money",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt34692051"
+    "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "You",
@@ -60,9 +60,9 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Old Dog, New Tricks",
+    "name": "True Haunting",
     "type": "series",
-    "imdb_id": "tt30817086"
+    "imdb_id": "tt38362312"
   },
   {
     "name": "Billionaires' Bunker",
@@ -70,14 +70,14 @@
     "imdb_id": "tt31173096"
   },
   {
-    "name": "True Haunting",
-    "type": "series",
-    "imdb_id": "tt38362312"
-  },
-  {
     "name": "The Guest",
     "type": "series",
     "imdb_id": "tt37065878"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Black Mirror",
@@ -85,13 +85,13 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Wayward",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt27427326"
+    "imdb_id": "tt10293938"
   },
   {
-    "name": "The Witcher",
+    "name": "Old Dog, New Tricks",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt30817086"
   }
 ]

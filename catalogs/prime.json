@@ -5,19 +5,14 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Boys",
@@ -25,14 +20,19 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "INVINCIBLE",
@@ -48,6 +48,11 @@
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Chosen",
@@ -70,9 +75,9 @@
     "imdb_id": "tt11743610"
   },
   {
-    "name": "Fallout",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt4687880"
   },
   {
     "name": "Countdown",
@@ -85,18 +90,8 @@
     "imdb_id": "tt27792190"
   },
   {
-    "name": "Goliath",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
-    "name": "The Marvelous Mrs. Maisel",
-    "type": "series",
-    "imdb_id": "tt5788792"
-  },
-  {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
+    "imdb_id": "tt11247158"
   }
 ]
