@@ -20,19 +20,9 @@
     "imdb_id": "tt32400599"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   },
   {
     "name": "Dinastia Casillas",
@@ -40,9 +30,9 @@
     "imdb_id": "tt38629881"
   },
   {
-    "name": "Prison Break",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -50,14 +40,19 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "Gachiakuta",
     "type": "series",
     "imdb_id": "tt32612521"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -75,23 +70,28 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "type": "series",
-    "imdb_id": "tt36593026"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt16027014"
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "RadhaKrishn",
+    "type": "series",
+    "imdb_id": "tt9025492"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   }
 ]

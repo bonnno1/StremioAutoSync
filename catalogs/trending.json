@@ -1,13 +1,13 @@
 [
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "The Last Frontier",
@@ -15,14 +15,9 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Splinter Cell: Deathwatch",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt12809802"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "Néro the Assassin",
@@ -30,24 +25,9 @@
     "imdb_id": "tt32400599"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt13706018"
-  },
-  {
-    "name": "The Chair Company",
-    "type": "series",
-    "imdb_id": "tt31987295"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Boots",
@@ -55,14 +35,34 @@
     "imdb_id": "tt27987047"
   },
   {
-    "name": "Genie, Make a Wish",
+    "name": "Murdaugh: Death in the Family",
     "type": "series",
-    "imdb_id": "tt32409807"
+    "imdb_id": "tt19853270"
   },
   {
-    "name": "Love's Ambition",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt32582480"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Alien: Earth",
+    "type": "series",
+    "imdb_id": "tt13623632"
+  },
+  {
+    "name": "Splinter Cell: Deathwatch",
+    "type": "series",
+    "imdb_id": "tt12809802"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
   },
   {
     "name": "Game of Thrones",
@@ -70,28 +70,28 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Tulsa King",
+    "name": "The Chair Company",
     "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt31987295"
+  },
+  {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
+  },
+  {
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
+    "type": "series",
+    "imdb_id": "tt24229160"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
   },
   {
     "name": "Only Murders in the Building",
     "type": "series",
     "imdb_id": "tt11691774"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   }
 ]

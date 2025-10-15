@@ -10,11 +10,6 @@
     "imdb_id": "tt15766876"
   },
   {
-    "name": "HIM",
-    "type": "movie",
-    "imdb_id": "tt20990442"
-  },
-  {
     "name": "Primitive War",
     "type": "movie",
     "imdb_id": "tt18312380"
@@ -25,14 +20,14 @@
     "imdb_id": "tt31511689"
   },
   {
+    "name": "HIM",
+    "type": "movie",
+    "imdb_id": "tt20990442"
+  },
+  {
     "name": "Stay",
     "type": "movie",
     "imdb_id": "tt38039379"
-  },
-  {
-    "name": "Weapons",
-    "type": "movie",
-    "imdb_id": "tt26581740"
   },
   {
     "name": "No Tears in Hell",
@@ -40,14 +35,24 @@
     "imdb_id": "tt28321883"
   },
   {
+    "name": "Weapons",
+    "type": "movie",
+    "imdb_id": "tt26581740"
+  },
+  {
     "name": "Rumpelstiltskin",
     "type": "movie",
     "imdb_id": "tt34171000"
   },
   {
-    "name": "Jurassic Triangle",
+    "name": "The Ugly Stepsister",
     "type": "movie",
-    "imdb_id": "tt21844572"
+    "imdb_id": "tt29344903"
+  },
+  {
+    "name": "The Strangers: Chapter 2",
+    "type": "movie",
+    "imdb_id": "tt28671344"
   },
   {
     "name": "Together",
@@ -55,9 +60,14 @@
     "imdb_id": "tt31184028"
   },
   {
-    "name": "The Ugly Stepsister",
+    "name": "Jurassic Triangle",
     "type": "movie",
-    "imdb_id": "tt29344903"
+    "imdb_id": "tt21844572"
+  },
+  {
+    "name": "Final Destination Bloodlines",
+    "type": "movie",
+    "imdb_id": "tt9619824"
   },
   {
     "name": "Compulsion",
@@ -70,19 +80,9 @@
     "imdb_id": "tt32246771"
   },
   {
-    "name": "Final Destination Bloodlines",
+    "name": "Black Phone 2",
     "type": "movie",
-    "imdb_id": "tt9619824"
-  },
-  {
-    "name": "Bloody Axe Wound",
-    "type": "movie",
-    "imdb_id": "tt6975842"
-  },
-  {
-    "name": "The Man in My Basement",
-    "type": "movie",
-    "imdb_id": "tt12619462"
+    "imdb_id": "tt29644189"
   },
   {
     "name": "The Substance",
@@ -90,13 +90,13 @@
     "imdb_id": "tt17526714"
   },
   {
-    "name": "28 Years Later",
+    "name": "Bloody Axe Wound",
     "type": "movie",
-    "imdb_id": "tt10548174"
+    "imdb_id": "tt6975842"
   },
   {
-    "name": "Humane",
+    "name": "The Conjuring",
     "type": "movie",
-    "imdb_id": "tt16280912"
+    "imdb_id": "tt1457767"
   }
 ]

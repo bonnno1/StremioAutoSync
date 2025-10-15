@@ -30,24 +30,24 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "See",
-    "type": "series",
-    "imdb_id": "tt7949218"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Severance",
+    "name": "See",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt7949218"
   },
   {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "The Studio",
@@ -70,11 +70,6 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Black Bird",
-    "type": "series",
-    "imdb_id": "tt4301160"
-  },
-  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
@@ -85,18 +80,23 @@
     "imdb_id": "tt21108774"
   },
   {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
     "name": "Servant",
     "type": "series",
     "imdb_id": "tt8068860"
   },
   {
-    "name": "Masters of the Air",
+    "name": "Black Bird",
     "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt4301160"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   }
 ]
