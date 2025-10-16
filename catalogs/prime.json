@@ -5,19 +5,14 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Boys",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Reacher",
@@ -25,9 +20,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Bosch",
@@ -35,9 +30,9 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Terminal List: Dark Wolf",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt26576161"
   },
   {
     "name": "INVINCIBLE",
@@ -45,14 +40,14 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   },
   {
     "name": "The Chosen",
@@ -70,14 +65,9 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "The Terminal List",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt11743610"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Countdown",
@@ -85,13 +75,23 @@
     "imdb_id": "tt32559610"
   },
   {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
+  },
+  {
     "name": "Maxton Hall - The World Between Us",
     "type": "series",
     "imdb_id": "tt27792190"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt11247158"
   }
 ]
