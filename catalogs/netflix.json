@@ -25,19 +25,14 @@
     "imdb_id": "tt34692051"
   },
   {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
-  },
-  {
     "name": "Boots",
     "type": "series",
     "imdb_id": "tt27987047"
   },
   {
-    "name": "Sex Education",
+    "name": "Genie, Make a Wish",
     "type": "series",
-    "imdb_id": "tt7767422"
+    "imdb_id": "tt32409807"
   },
   {
     "name": "Raw",
@@ -45,14 +40,14 @@
     "imdb_id": "tt0185103"
   },
   {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "Squid Game",
@@ -60,14 +55,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "True Haunting",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt38362312"
-  },
-  {
-    "name": "The Resurrected",
-    "type": "series",
-    "imdb_id": "tt32150413"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Splinter Cell: Deathwatch",
@@ -75,14 +65,24 @@
     "imdb_id": "tt12809802"
   },
   {
-    "name": "The Guest",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt37065878"
+    "imdb_id": "tt10293938"
   },
   {
-    "name": "Billionaires' Bunker",
+    "name": "True Haunting",
     "type": "series",
-    "imdb_id": "tt31173096"
+    "imdb_id": "tt38362312"
+  },
+  {
+    "name": "The Diplomat",
+    "type": "series",
+    "imdb_id": "tt17491088"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Weak Hero",
@@ -90,8 +90,8 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Outer Banks",
+    "name": "The Guest",
     "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt37065878"
   }
 ]
