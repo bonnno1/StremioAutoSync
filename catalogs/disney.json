@@ -40,14 +40,19 @@
     "imdb_id": "tt23772966"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Andor",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Loki",
@@ -65,14 +70,24 @@
     "imdb_id": "tt13623126"
   },
   {
-    "name": "Soy Luna",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Mar afuera",
+    "type": "series",
+    "imdb_id": "tt32155744"
   },
   {
     "name": "Reminder",
@@ -83,20 +98,5 @@
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Mar afuera",
-    "type": "series",
-    "imdb_id": "tt32155744"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
   }
 ]

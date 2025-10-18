@@ -1,10 +1,5 @@
 [
   {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
@@ -15,14 +10,14 @@
     "imdb_id": "tt13146488"
   },
   {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   },
   {
     "name": "The Diplomat",
@@ -35,24 +30,14 @@
     "imdb_id": "tt12809802"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Boots",
-    "type": "series",
-    "imdb_id": "tt27987047"
-  },
-  {
-    "name": "Murdaugh: Death in the Family",
-    "type": "series",
-    "imdb_id": "tt19853270"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
   },
   {
     "name": "Breaking Bad",
@@ -60,19 +45,19 @@
     "imdb_id": "tt0903747"
   },
   {
-    "name": "Stranger Things",
+    "name": "Murdaugh: Death in the Family",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt19853270"
   },
   {
-    "name": "The Chair Company",
+    "name": "Devil in Disguise: John Wayne Gacy",
     "type": "series",
-    "imdb_id": "tt31987295"
+    "imdb_id": "tt31314754"
   },
   {
-    "name": "9-1-1",
+    "name": "Boots",
     "type": "series",
-    "imdb_id": "tt7235466"
+    "imdb_id": "tt27987047"
   },
   {
     "name": "SPY x FAMILY",
@@ -80,13 +65,33 @@
     "imdb_id": "tt13706018"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Task",
+    "name": "The Hunt",
     "type": "series",
-    "imdb_id": "tt28013708"
+    "imdb_id": "tt31887685"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "The Chair Company",
+    "type": "series",
+    "imdb_id": "tt31987295"
   }
 ]
