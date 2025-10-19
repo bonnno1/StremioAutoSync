@@ -5,14 +5,14 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "The Lost Station Girls",
-    "type": "series",
-    "imdb_id": "tt31844356"
-  },
-  {
     "name": "The Murky Stream",
     "type": "series",
     "imdb_id": "tt31472425"
+  },
+  {
+    "name": "The Lost Station Girls",
+    "type": "series",
+    "imdb_id": "tt31844356"
   },
   {
     "name": "Dancing with the Stars",
@@ -30,19 +30,14 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Tempest",
-    "type": "series",
-    "imdb_id": "tt27368147"
-  },
-  {
-    "name": "To Cook a Bear",
-    "type": "series",
-    "imdb_id": "tt23772966"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Tempest",
+    "type": "series",
+    "imdb_id": "tt27368147"
   },
   {
     "name": "The Mandalorian",
@@ -50,9 +45,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Loki",
@@ -60,24 +55,19 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "DuckTales",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt5531466"
+  },
+  {
+    "name": "To Cook a Bear",
+    "type": "series",
+    "imdb_id": "tt23772966"
   },
   {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
   },
   {
     "name": "Soy Luna",
@@ -90,13 +80,23 @@
     "imdb_id": "tt32155744"
   },
   {
-    "name": "Reminder",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt34995624"
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   }
 ]

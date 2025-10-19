@@ -20,6 +20,16 @@
     "imdb_id": "tt0121955"
   },
   {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "The Diplomat",
     "type": "series",
     "imdb_id": "tt17491088"
@@ -30,34 +40,9 @@
     "imdb_id": "tt12809802"
   },
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Murdaugh: Death in the Family",
-    "type": "series",
-    "imdb_id": "tt19853270"
-  },
-  {
-    "name": "Devil in Disguise: John Wayne Gacy",
-    "type": "series",
-    "imdb_id": "tt31314754"
-  },
-  {
-    "name": "Boots",
-    "type": "series",
-    "imdb_id": "tt27987047"
   },
   {
     "name": "SPY x FAMILY",
@@ -70,28 +55,43 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Murdaugh: Death in the Family",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt19853270"
   },
   {
-    "name": "The Hunt",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt31887685"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt13062500"
   },
   {
     "name": "The Chair Company",
     "type": "series",
     "imdb_id": "tt31987295"
+  },
+  {
+    "name": "Boots",
+    "type": "series",
+    "imdb_id": "tt27987047"
+  },
+  {
+    "name": "Devil in Disguise: John Wayne Gacy",
+    "type": "series",
+    "imdb_id": "tt31314754"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]

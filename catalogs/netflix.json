@@ -1,5 +1,10 @@
 [
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
@@ -10,14 +15,9 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "Néro the Assassin",
+    "name": "Burn the House Down",
     "type": "series",
-    "imdb_id": "tt32400599"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt21327000"
   },
   {
     "name": "Old Money",
@@ -25,9 +25,9 @@
     "imdb_id": "tt34692051"
   },
   {
-    "name": "Boots",
+    "name": "Néro the Assassin",
     "type": "series",
-    "imdb_id": "tt27987047"
+    "imdb_id": "tt32400599"
   },
   {
     "name": "Raw",
@@ -35,19 +35,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Genie, Make a Wish",
+    "name": "No One Saw Us Leave",
     "type": "series",
-    "imdb_id": "tt32409807"
+    "imdb_id": "tt31221478"
   },
   {
-    "name": "Burn the House Down",
+    "name": "Boots",
     "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
+    "imdb_id": "tt27987047"
   },
   {
     "name": "Lucifer",
@@ -55,9 +50,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "No One Saw Us Leave",
+    "name": "Splinter Cell: Deathwatch",
     "type": "series",
-    "imdb_id": "tt31221478"
+    "imdb_id": "tt12809802"
   },
   {
     "name": "Squid Game",
@@ -65,24 +60,19 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Splinter Cell: Deathwatch",
-    "type": "series",
-    "imdb_id": "tt12809802"
-  },
-  {
-    "name": "Outer Banks",
-    "type": "series",
-    "imdb_id": "tt10293938"
-  },
-  {
-    "name": "True Haunting",
-    "type": "series",
-    "imdb_id": "tt38362312"
   },
   {
     "name": "The Diplomat",
@@ -93,5 +83,15 @@
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Outer Banks",
+    "type": "series",
+    "imdb_id": "tt10293938"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   }
 ]

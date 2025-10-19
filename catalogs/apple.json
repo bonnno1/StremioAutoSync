@@ -35,6 +35,11 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
@@ -45,19 +50,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Loot",
     "type": "series",
     "imdb_id": "tt14271498"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
   },
   {
     "name": "For All Mankind",
@@ -65,14 +60,14 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
     "name": "Platonic",
     "type": "series",
     "imdb_id": "tt13366604"
-  },
-  {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
   },
   {
     "name": "Shrinking",
@@ -83,6 +78,11 @@
     "name": "The Buccaneers",
     "type": "series",
     "imdb_id": "tt21108774"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
   },
   {
     "name": "Black Bird",

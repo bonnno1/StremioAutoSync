@@ -5,14 +5,14 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Reacher",
@@ -45,14 +45,14 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Zoomers",
+    "type": "series",
+    "imdb_id": "tt33246282"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "Hazbin Hotel",
@@ -60,29 +60,14 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Goliath",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Maxton Hall - The World Between Us",
@@ -90,8 +75,23 @@
     "imdb_id": "tt27792190"
   },
   {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
+  },
+  {
+    "name": "Countdown",
+    "type": "series",
+    "imdb_id": "tt32559610"
   }
 ]

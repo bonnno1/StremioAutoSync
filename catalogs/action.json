@@ -1,13 +1,13 @@
 [
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Dinastía Casillas",
@@ -25,6 +25,11 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
@@ -33,11 +38,6 @@
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   },
   {
     "name": "Néro the Assassin",
@@ -50,16 +50,6 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
@@ -70,9 +60,14 @@
     "imdb_id": "tt9025492"
   },
   {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt36593026"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
   },
   {
     "name": "Doraemon",
@@ -80,9 +75,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Bonanza",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt13062500"
   },
   {
     "name": "Vikings",
@@ -90,8 +85,13 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Campfire Cooking in Another World with My Absurd Skill",
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
     "type": "series",
-    "imdb_id": "tt24229160"
+    "imdb_id": "tt36593026"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
   }
 ]
