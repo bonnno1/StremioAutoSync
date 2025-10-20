@@ -10,6 +10,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
@@ -18,11 +23,6 @@
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Doraemon",
@@ -35,19 +35,14 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Sesame Street",
@@ -55,9 +50,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Motu Patlu",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt2649730"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Sailor Moon",
@@ -65,18 +60,23 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Shaka Laka Boom Boom",
+    "name": "Motu Patlu",
     "type": "series",
-    "imdb_id": "tt3676882"
+    "imdb_id": "tt2649730"
   },
   {
-    "name": "Kikoriki",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt0853174"
+    "imdb_id": "tt7678620"
   },
   {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   }
 ]

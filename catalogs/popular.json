@@ -5,11 +5,6 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -20,9 +15,19 @@
     "imdb_id": "tt0773262"
   },
   {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
   },
   {
     "name": "The Rookie",
@@ -30,29 +35,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Secret Lives",
-    "type": "series",
-    "imdb_id": "tt0185819"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
   },
   {
     "name": "NCIS",
@@ -60,19 +45,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Secret Lives",
     "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt0185819"
   },
   {
     "name": "Family Guy",
@@ -80,8 +55,33 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   }
 ]

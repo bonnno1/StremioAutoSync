@@ -1,5 +1,10 @@
 [
   {
+    "name": "Captain Hook - The Cursed Tides",
+    "type": "movie",
+    "imdb_id": "tt33458086"
+  },
+  {
     "name": "The Conjuring: Last Rites",
     "type": "movie",
     "imdb_id": "tt22898462"
@@ -18,11 +23,6 @@
     "name": "Primitive War",
     "type": "movie",
     "imdb_id": "tt18312380"
-  },
-  {
-    "name": "Captain Hook - The Cursed Tides",
-    "type": "movie",
-    "imdb_id": "tt33458086"
   },
   {
     "name": "Vicious",
@@ -50,9 +50,29 @@
     "imdb_id": "tt23621682"
   },
   {
+    "name": "Goldilocks and the Three Bears: Death & Porridge",
+    "type": "movie",
+    "imdb_id": "tt27747488"
+  },
+  {
     "name": "Weapons",
     "type": "movie",
     "imdb_id": "tt26581740"
+  },
+  {
+    "name": "Forgive Me Father",
+    "type": "movie",
+    "imdb_id": "tt18255952"
+  },
+  {
+    "name": "Brute 1976",
+    "type": "movie",
+    "imdb_id": "tt30561103"
+  },
+  {
+    "name": "HIM",
+    "type": "movie",
+    "imdb_id": "tt20990442"
   },
   {
     "name": "No Tears in Hell",
@@ -60,9 +80,9 @@
     "imdb_id": "tt28321883"
   },
   {
-    "name": "HIM",
+    "name": "The Black Phone",
     "type": "movie",
-    "imdb_id": "tt20990442"
+    "imdb_id": "tt7144666"
   },
   {
     "name": "Grafted",
@@ -75,28 +95,8 @@
     "imdb_id": "tt29344903"
   },
   {
-    "name": "Stay",
+    "name": "Bitter Souls",
     "type": "movie",
-    "imdb_id": "tt38039379"
-  },
-  {
-    "name": "The Black Phone",
-    "type": "movie",
-    "imdb_id": "tt7144666"
-  },
-  {
-    "name": "Final Destination Bloodlines",
-    "type": "movie",
-    "imdb_id": "tt9619824"
-  },
-  {
-    "name": "Goldilocks and the Three Bears: Death & Porridge",
-    "type": "movie",
-    "imdb_id": "tt27747488"
-  },
-  {
-    "name": "The Substance",
-    "type": "movie",
-    "imdb_id": "tt17526714"
+    "imdb_id": "tt18279174"
   }
 ]
