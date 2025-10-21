@@ -1,5 +1,10 @@
 [
   {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -15,21 +20,6 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
-    "name": "Old Money",
-    "type": "series",
-    "imdb_id": "tt34692051"
-  },
-  {
-    "name": "Néro the Assassin",
-    "type": "series",
-    "imdb_id": "tt32400599"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
@@ -40,14 +30,19 @@
     "imdb_id": "tt31221478"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "Boots",
     "type": "series",
     "imdb_id": "tt27987047"
   },
   {
-    "name": "Lucifer",
+    "name": "Néro the Assassin",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt32400599"
   },
   {
     "name": "Splinter Cell: Deathwatch",
@@ -55,19 +50,14 @@
     "imdb_id": "tt12809802"
   },
   {
+    "name": "Old Money",
+    "type": "series",
+    "imdb_id": "tt34692051"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Genie, Make a Wish",
-    "type": "series",
-    "imdb_id": "tt32409807"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
   },
   {
     "name": "You",
@@ -80,9 +70,9 @@
     "imdb_id": "tt17491088"
   },
   {
-    "name": "The Witcher",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Sesame Street",
@@ -90,8 +80,18 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Black Mirror",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Genie, Make a Wish",
+    "type": "series",
+    "imdb_id": "tt32409807"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
   }
 ]

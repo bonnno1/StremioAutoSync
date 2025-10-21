@@ -35,14 +35,14 @@
     "imdb_id": "tt13085534"
   },
   {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Abarenbo Shogun",
@@ -55,9 +55,19 @@
     "imdb_id": "tt1985299"
   },
   {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
     "name": "Love Stories in the Countryside",
     "type": "series",
     "imdb_id": "tt1395015"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Ishqbaaaz",
@@ -65,9 +75,9 @@
     "imdb_id": "tt5919914"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Imlie",
@@ -78,15 +88,5 @@
     "name": "Ninja Hattori-kun",
     "type": "series",
     "imdb_id": "tt2787558"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
   }
 ]

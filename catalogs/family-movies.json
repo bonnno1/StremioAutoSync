@@ -5,14 +5,14 @@
     "imdb_id": "tt0498396"
   },
   {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt26743210"
-  },
-  {
     "name": "Gabby's Dollhouse: The Movie",
     "type": "movie",
     "imdb_id": "tt32214143"
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "type": "movie",
+    "imdb_id": "tt26743210"
   },
   {
     "name": "The Bad Guys 2",
@@ -40,9 +40,19 @@
     "imdb_id": "tt13622970"
   },
   {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
+  },
+  {
     "name": "The Day the Earth Blew Up: A Looney Tunes Movie",
     "type": "movie",
     "imdb_id": "tt15352542"
+  },
+  {
+    "name": "Freakier Friday",
+    "type": "movie",
+    "imdb_id": "tt31956415"
   },
   {
     "name": "Inside Out 2",
@@ -50,14 +60,9 @@
     "imdb_id": "tt22022452"
   },
   {
-    "name": "Coco",
+    "name": "A Minecraft Movie",
     "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
-    "name": "Freakier Friday",
-    "type": "movie",
-    "imdb_id": "tt31956415"
+    "imdb_id": "tt3566834"
   },
   {
     "name": "Coraline",
@@ -68,11 +73,6 @@
     "name": "Smurfs",
     "type": "movie",
     "imdb_id": "tt18069420"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
   },
   {
     "name": "The Nightmare Before Christmas",

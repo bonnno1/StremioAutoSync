@@ -1,48 +1,8 @@
 [
   {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "The Diplomat",
-    "type": "series",
-    "imdb_id": "tt17491088"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
   },
   {
     "name": "Gen V",
@@ -50,14 +10,54 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Diplomat",
+    "type": "series",
+    "imdb_id": "tt17491088"
+  },
+  {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
     "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
     "imdb_id": "tt13062500"
   },
   {
-    "name": "The Chair Company",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt31987295"
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Splinter Cell: Deathwatch",
@@ -65,33 +65,33 @@
     "imdb_id": "tt12809802"
   },
   {
-    "name": "Murdaugh: Death in the Family",
+    "name": "Only Murders in the Building",
     "type": "series",
-    "imdb_id": "tt19853270"
+    "imdb_id": "tt11691774"
   },
   {
-    "name": "Devil in Disguise: John Wayne Gacy",
+    "name": "Boots",
     "type": "series",
-    "imdb_id": "tt31314754"
+    "imdb_id": "tt27987047"
   },
   {
-    "name": "Silent Honor",
+    "name": "The Chair Company",
     "type": "series",
-    "imdb_id": "tt31033820"
+    "imdb_id": "tt31987295"
   },
   {
-    "name": "Tracker",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt13875494"
+    "imdb_id": "tt13706018"
   },
   {
-    "name": "The Hunt",
+    "name": "My Hero Academia",
     "type": "series",
-    "imdb_id": "tt31887685"
+    "imdb_id": "tt5626028"
   },
   {
-    "name": "Blood River",
+    "name": "Grey's Anatomy",
     "type": "series",
-    "imdb_id": "tt32613876"
+    "imdb_id": "tt0413573"
   }
 ]

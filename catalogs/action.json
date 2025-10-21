@@ -20,14 +20,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
+  },
+  {
+    "name": "Dinastía Casillas",
+    "type": "series",
+    "imdb_id": "tt38629881"
   },
   {
     "name": "Gen V",
@@ -38,6 +38,11 @@
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
+  },
+  {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
   },
   {
     "name": "Smallville",
@@ -65,11 +70,6 @@
     "imdb_id": "tt9025492"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
     "name": "Gachiakuta",
     "type": "series",
     "imdb_id": "tt32612521"
@@ -85,13 +85,13 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
   }
 ]

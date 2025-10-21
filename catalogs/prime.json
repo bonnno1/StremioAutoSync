@@ -35,14 +35,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Zoomers",
@@ -50,14 +50,9 @@
     "imdb_id": "tt33246282"
   },
   {
-    "name": "Fallout",
+    "name": "Maxton Hall - The World Between Us",
     "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt27792190"
   },
   {
     "name": "The Wheel of Time",
@@ -70,9 +65,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Maxton Hall - The World Between Us",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "House of David",
@@ -80,18 +75,23 @@
     "imdb_id": "tt30955673"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
-  },
-  {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
-    "name": "Countdown",
-    "type": "series",
-    "imdb_id": "tt32559610"
   }
 ]
