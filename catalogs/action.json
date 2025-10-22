@@ -20,11 +20,6 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
     "name": "Dinastía Casillas",
     "type": "series",
     "imdb_id": "tt38629881"
@@ -35,9 +30,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "The Walking Dead: Daryl Dixon",
@@ -50,14 +45,14 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
-  },
-  {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "type": "series",
-    "imdb_id": "tt36593026"
   },
   {
     "name": "Kamen Rider",
@@ -65,19 +60,14 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "type": "series",
+    "imdb_id": "tt36593026"
+  },
+  {
     "name": "RadhaKrishn",
     "type": "series",
     "imdb_id": "tt9025492"
-  },
-  {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   },
   {
     "name": "The Walking Dead",
@@ -85,13 +75,23 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "9-1-1",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt7235466"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
   },
   {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
   }
 ]

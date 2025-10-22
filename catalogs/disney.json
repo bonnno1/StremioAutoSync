@@ -1,13 +1,13 @@
 [
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -20,11 +20,6 @@
     "imdb_id": "tt31472425"
   },
   {
-    "name": "The Lost Station Girls",
-    "type": "series",
-    "imdb_id": "tt31844356"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
@@ -33,6 +28,16 @@
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "The Lost Station Girls",
+    "type": "series",
+    "imdb_id": "tt31844356"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   },
   {
     "name": "Andor",
@@ -45,14 +50,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
     "name": "Mar afuera",
     "type": "series",
     "imdb_id": "tt32155744"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Ironheart",
@@ -65,19 +70,19 @@
     "imdb_id": "tt27368147"
   },
   {
-    "name": "To Cook a Bear",
-    "type": "series",
-    "imdb_id": "tt23772966"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Soy Luna",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "To Cook a Bear",
+    "type": "series",
+    "imdb_id": "tt23772966"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -90,13 +95,8 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "WandaVision",
+    "name": "Agatha All Along",
     "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt15571732"
   }
 ]

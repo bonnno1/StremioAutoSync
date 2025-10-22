@@ -40,14 +40,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -55,19 +55,9 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Motu Patlu",
-    "type": "series",
-    "imdb_id": "tt2649730"
   },
   {
     "name": "Bluey",
@@ -78,5 +68,25 @@
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Motu Patlu",
+    "type": "series",
+    "imdb_id": "tt2649730"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]
