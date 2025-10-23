@@ -30,6 +30,11 @@
     "imdb_id": "tt3502248"
   },
   {
+    "name": "Harlan Coben's Lazarus",
+    "type": "series",
+    "imdb_id": "tt31186865"
+  },
+  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
@@ -60,24 +65,19 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
   },
   {
     "name": "The Man in the High Castle",
@@ -90,8 +90,8 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Goliath",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt30955673"
   }
 ]
