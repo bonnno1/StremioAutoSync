@@ -15,19 +15,9 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "The Murky Stream",
-    "type": "series",
-    "imdb_id": "tt31472425"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
   },
   {
     "name": "DuckTales",
@@ -35,9 +25,9 @@
     "imdb_id": "tt5531466"
   },
   {
-    "name": "Mar afuera",
+    "name": "The Murky Stream",
     "type": "series",
-    "imdb_id": "tt32155744"
+    "imdb_id": "tt31472425"
   },
   {
     "name": "Andor",
@@ -45,9 +35,19 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Mar afuera",
+    "type": "series",
+    "imdb_id": "tt32155744"
   },
   {
     "name": "The Lost Station Girls",
@@ -55,14 +55,14 @@
     "imdb_id": "tt31844356"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "WandaVision",
@@ -80,23 +80,23 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Tempest",
-    "type": "series",
-    "imdb_id": "tt27368147"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
+    "name": "Tempest",
+    "type": "series",
+    "imdb_id": "tt27368147"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
-  },
-  {
-    "name": "To Cook a Bear",
-    "type": "series",
-    "imdb_id": "tt23772966"
   }
 ]

@@ -30,24 +30,24 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "See",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt19381692"
   },
   {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
+  },
+  {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
   },
   {
     "name": "For All Mankind",
@@ -65,9 +65,9 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Platonic",
+    "name": "Mythic Quest",
     "type": "series",
-    "imdb_id": "tt13366604"
+    "imdb_id": "tt8879940"
   },
   {
     "name": "Shrinking",
@@ -75,14 +75,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Platonic",
     "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "The Buccaneers",
-    "type": "series",
-    "imdb_id": "tt21108774"
+    "imdb_id": "tt13366604"
   },
   {
     "name": "Murderbot",
@@ -90,9 +85,14 @@
     "imdb_id": "tt30444310"
   },
   {
-    "name": "Dark Matter",
+    "name": "The Buccaneers",
     "type": "series",
-    "imdb_id": "tt19231492"
+    "imdb_id": "tt21108774"
+  },
+  {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
   },
   {
     "name": "Servant",

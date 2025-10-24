@@ -10,9 +10,14 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Burn the House Down",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Dexter",
@@ -20,9 +25,14 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Law & Order",
+    "name": "Burn the House Down",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Tulsa King",
@@ -33,11 +43,6 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
   },
   {
     "name": "Supernatural",
@@ -55,11 +60,6 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
@@ -70,6 +70,11 @@
     "imdb_id": "tt1196946"
   },
   {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -78,15 +83,5 @@
     "name": "The Tonight Show Starring Johnny Carson",
     "type": "series",
     "imdb_id": "tt0055708"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
   }
 ]

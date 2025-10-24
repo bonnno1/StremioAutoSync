@@ -5,9 +5,19 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "Harlan Coben's Lazarus",
+    "type": "series",
+    "imdb_id": "tt31186865"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -20,19 +30,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Harlan Coben's Lazarus",
-    "type": "series",
-    "imdb_id": "tt31186865"
   },
   {
     "name": "INVINCIBLE",
@@ -50,9 +50,19 @@
     "imdb_id": "tt26576161"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
     "name": "Zoomers",
     "type": "series",
     "imdb_id": "tt33246282"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Maxton Hall - The World Between Us",
@@ -60,14 +70,9 @@
     "imdb_id": "tt27792190"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "The Chosen",
@@ -80,18 +85,13 @@
     "imdb_id": "tt7216636"
   },
   {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
   }
 ]
