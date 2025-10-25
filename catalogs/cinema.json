@@ -10,6 +10,11 @@
     "imdb_id": "tt28671344"
   },
   {
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "type": "movie",
+    "imdb_id": "tt30472557"
+  },
+  {
     "name": "TRON: Ares",
     "type": "movie",
     "imdb_id": "tt6604188"
@@ -18,11 +23,6 @@
     "name": "One Battle After Another",
     "type": "movie",
     "imdb_id": "tt30144839"
-  },
-  {
-    "name": "Chainsaw Man - The Movie: Reze Arc",
-    "type": "movie",
-    "imdb_id": "tt30472557"
   },
   {
     "name": "Gabby's Dollhouse: The Movie",
@@ -40,9 +40,9 @@
     "imdb_id": "tt33088452"
   },
   {
-    "name": "A Big Bold Beautiful Journey",
+    "name": "Good Boy",
     "type": "movie",
-    "imdb_id": "tt13650700"
+    "imdb_id": "tt35521922"
   },
   {
     "name": "HIM",
@@ -50,9 +50,14 @@
     "imdb_id": "tt20990442"
   },
   {
-    "name": "Good Boy",
+    "name": "A Big Bold Beautiful Journey",
     "type": "movie",
-    "imdb_id": "tt35521922"
+    "imdb_id": "tt13650700"
+  },
+  {
+    "name": "Springsteen: Deliver Me from Nowhere",
+    "type": "movie",
+    "imdb_id": "tt31923069"
   },
   {
     "name": "After the Hunt",
@@ -65,24 +70,24 @@
     "imdb_id": "tt4627382"
   },
   {
-    "name": "Springsteen: Deliver Me from Nowhere",
-    "type": "movie",
-    "imdb_id": "tt31923069"
-  },
-  {
     "name": "The Smashing Machine",
     "type": "movie",
     "imdb_id": "tt11214558"
   },
   {
-    "name": "Shelby Oaks",
-    "type": "movie",
-    "imdb_id": "tt14999684"
-  },
-  {
     "name": "The Mastermind",
     "type": "movie",
     "imdb_id": "tt33455099"
+  },
+  {
+    "name": "ParaNorman",
+    "type": "movie",
+    "imdb_id": "tt1623288"
+  },
+  {
+    "name": "Shelby Oaks",
+    "type": "movie",
+    "imdb_id": "tt14999684"
   },
   {
     "name": "Beast of War",
@@ -93,10 +98,5 @@
     "name": "Twinless",
     "type": "movie",
     "imdb_id": "tt31322753"
-  },
-  {
-    "name": "Rule Breakers",
-    "type": "movie",
-    "imdb_id": "tt23398348"
   }
 ]

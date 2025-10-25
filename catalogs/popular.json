@@ -1,5 +1,10 @@
 [
   {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
@@ -20,24 +25,14 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Tulsa King",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt0773262"
   },
   {
     "name": "NCIS",
@@ -45,14 +40,14 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   },
   {
     "name": "The Simpsons",
@@ -60,24 +55,29 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
   },
   {
-    "name": "The Mentalist",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
   },
   {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "The Tonight Show Starring Johnny Carson",

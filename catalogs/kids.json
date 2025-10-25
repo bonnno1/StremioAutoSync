@@ -5,6 +5,11 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -15,9 +20,9 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt0404597"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -25,24 +30,14 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -50,14 +45,19 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Bluey",
@@ -70,14 +70,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Motu Patlu",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt2649730"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Sailor Moon",
@@ -85,8 +80,18 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Aikatsu!",
+    "type": "series",
+    "imdb_id": "tt2398674"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]

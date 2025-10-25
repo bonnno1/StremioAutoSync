@@ -10,19 +10,14 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "The Monster of Florence",
     "type": "series",
     "imdb_id": "tt29457135"
+  },
+  {
+    "name": "Task",
+    "type": "series",
+    "imdb_id": "tt28013708"
   },
   {
     "name": "One-Punch Man",
@@ -30,9 +25,9 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "South Park",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt13062500"
   },
   {
     "name": "One Piece",
@@ -40,49 +35,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Nobody Wants This",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt26933824"
+    "imdb_id": "tt0121955"
   },
   {
-    "name": "Slow Horses",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "The Diplomat",
-    "type": "series",
-    "imdb_id": "tt17491088"
-  },
-  {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "IT: Welcome to Derry",
-    "type": "series",
-    "imdb_id": "tt19244304"
-  },
-  {
-    "name": "Harlan Coben's Lazarus",
-    "type": "series",
-    "imdb_id": "tt31186865"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Peacemaker",
@@ -90,8 +50,48 @@
     "imdb_id": "tt13146488"
   },
   {
-    "name": "Whispers of Fate",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt31173732"
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Nobody Wants This",
+    "type": "series",
+    "imdb_id": "tt26933824"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "My Hero Academia",
+    "type": "series",
+    "imdb_id": "tt5626028"
+  },
+  {
+    "name": "Harlan Coben's Lazarus",
+    "type": "series",
+    "imdb_id": "tt31186865"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "The Diplomat",
+    "type": "series",
+    "imdb_id": "tt17491088"
   }
 ]

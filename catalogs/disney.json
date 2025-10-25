@@ -20,19 +20,14 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "DuckTales",
-    "type": "series",
-    "imdb_id": "tt5531466"
-  },
-  {
-    "name": "The Murky Stream",
-    "type": "series",
-    "imdb_id": "tt31472425"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "DuckTales",
+    "type": "series",
+    "imdb_id": "tt5531466"
   },
   {
     "name": "The Mandalorian",
@@ -45,9 +40,19 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "The Murky Stream",
+    "type": "series",
+    "imdb_id": "tt31472425"
+  },
+  {
     "name": "Mar afuera",
     "type": "series",
     "imdb_id": "tt32155744"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "The Lost Station Girls",
@@ -65,9 +70,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "WandaVision",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Soy Luna",
@@ -75,19 +80,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Moon Knight",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Tempest",
-    "type": "series",
-    "imdb_id": "tt27368147"
+    "imdb_id": "tt13650480"
   },
   {
     "name": "Star Wars: Visions",
@@ -95,8 +90,13 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Agatha All Along",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt15571732"
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   }
 ]

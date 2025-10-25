@@ -5,19 +5,9 @@
     "imdb_id": "tt33458086"
   },
   {
-    "name": "The Conjuring: Last Rites",
-    "type": "movie",
-    "imdb_id": "tt22898462"
-  },
-  {
     "name": "The Long Walk",
     "type": "movie",
     "imdb_id": "tt10374610"
-  },
-  {
-    "name": "Black Phone 2",
-    "type": "movie",
-    "imdb_id": "tt29644189"
   },
   {
     "name": "The Elixir",
@@ -25,9 +15,14 @@
     "imdb_id": "tt32643830"
   },
   {
-    "name": "The Strangers: Chapter 2",
+    "name": "The Conjuring: Last Rites",
     "type": "movie",
-    "imdb_id": "tt28671344"
+    "imdb_id": "tt22898462"
+  },
+  {
+    "name": "Black Phone 2",
+    "type": "movie",
+    "imdb_id": "tt29644189"
   },
   {
     "name": "Holy Night: Demon Hunters",
@@ -40,29 +35,9 @@
     "imdb_id": "tt13964560"
   },
   {
-    "name": "Goldilocks and the Three Bears: Death & Porridge",
+    "name": "The Strangers: Chapter 2",
     "type": "movie",
-    "imdb_id": "tt27747488"
-  },
-  {
-    "name": "Primitive War",
-    "type": "movie",
-    "imdb_id": "tt18312380"
-  },
-  {
-    "name": "Forgive Me Father",
-    "type": "movie",
-    "imdb_id": "tt18255952"
-  },
-  {
-    "name": "V/H/S/HALLOWEEN",
-    "type": "movie",
-    "imdb_id": "tt37676033"
-  },
-  {
-    "name": "Night of the Reaper",
-    "type": "movie",
-    "imdb_id": "tt34379050"
+    "imdb_id": "tt28671344"
   },
   {
     "name": "The Hand That Rocks the Cradle",
@@ -70,19 +45,24 @@
     "imdb_id": "tt33502160"
   },
   {
-    "name": "Brute 1976",
+    "name": "Goldilocks and the Three Bears: Death & Porridge",
     "type": "movie",
-    "imdb_id": "tt30561103"
+    "imdb_id": "tt27747488"
   },
   {
-    "name": "Vicious",
+    "name": "Forgive Me Father",
     "type": "movie",
-    "imdb_id": "tt31511689"
+    "imdb_id": "tt18255952"
   },
   {
-    "name": "Bambi: The Reckoning",
+    "name": "Primitive War",
     "type": "movie",
-    "imdb_id": "tt23621682"
+    "imdb_id": "tt18312380"
+  },
+  {
+    "name": "Attack 13",
+    "type": "movie",
+    "imdb_id": "tt37332874"
   },
   {
     "name": "Weapons",
@@ -90,13 +70,33 @@
     "imdb_id": "tt26581740"
   },
   {
+    "name": "Night of the Reaper",
+    "type": "movie",
+    "imdb_id": "tt34379050"
+  },
+  {
+    "name": "V/H/S/HALLOWEEN",
+    "type": "movie",
+    "imdb_id": "tt37676033"
+  },
+  {
+    "name": "Bambi: The Reckoning",
+    "type": "movie",
+    "imdb_id": "tt23621682"
+  },
+  {
+    "name": "Brute 1976",
+    "type": "movie",
+    "imdb_id": "tt30561103"
+  },
+  {
     "name": "The Black Phone",
     "type": "movie",
     "imdb_id": "tt7144666"
   },
   {
-    "name": "Bitter Souls",
+    "name": "Vicious",
     "type": "movie",
-    "imdb_id": "tt18279174"
+    "imdb_id": "tt31511689"
   }
 ]

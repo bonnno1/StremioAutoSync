@@ -1,18 +1,13 @@
 [
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "Game of Thrones",
@@ -20,19 +15,14 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
   },
   {
     "name": "Kamen Rider",
@@ -40,34 +30,14 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
-  },
-  {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
-  },
-  {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   },
   {
     "name": "24",
@@ -75,14 +45,44 @@
     "imdb_id": "tt0285331"
   },
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Dinastía Casillas",
+    "type": "series",
+    "imdb_id": "tt38629881"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "RadhaKrishn",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt9025492"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
@@ -90,8 +90,8 @@
     "imdb_id": "tt36593026"
   },
   {
-    "name": "Campfire Cooking in Another World with My Absurd Skill",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt24229160"
+    "imdb_id": "tt2193021"
   }
 ]
