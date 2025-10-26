@@ -10,6 +10,11 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "Marvel Zombies",
     "type": "series",
     "imdb_id": "tt16027014"
@@ -20,19 +25,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
   },
   {
     "name": "Loki",
@@ -40,29 +35,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "The Murky Stream",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt31472425"
+    "imdb_id": "tt8111088"
   },
   {
-    "name": "Mar afuera",
+    "name": "Entrepreneurs",
     "type": "series",
-    "imdb_id": "tt32155744"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "The Lost Station Girls",
-    "type": "series",
-    "imdb_id": "tt31844356"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt34779099"
   },
   {
     "name": "Daredevil: Born Again",
@@ -70,14 +50,34 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Moon Knight",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt13623126"
   },
   {
-    "name": "Soy Luna",
+    "name": "Agatha All Along",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt15571732"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "The Murky Stream",
+    "type": "series",
+    "imdb_id": "tt31472425"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Mar afuera",
+    "type": "series",
+    "imdb_id": "tt32155744"
   },
   {
     "name": "Marvel Studios Legends",
@@ -85,18 +85,18 @@
     "imdb_id": "tt13650480"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Hawkeye",
+    "name": "The Lost Station Girls",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt31844356"
   }
 ]

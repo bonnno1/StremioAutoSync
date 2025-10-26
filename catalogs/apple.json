@@ -30,6 +30,11 @@
     "imdb_id": "tt0804484"
   },
   {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
+  },
+  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
@@ -38,11 +43,6 @@
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
-  },
-  {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
   },
   {
     "name": "Chief of War",
@@ -65,11 +65,6 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
@@ -80,9 +75,9 @@
     "imdb_id": "tt13366604"
   },
   {
-    "name": "Servant",
+    "name": "Mythic Quest",
     "type": "series",
-    "imdb_id": "tt8068860"
+    "imdb_id": "tt8879940"
   },
   {
     "name": "Murderbot",
@@ -90,9 +85,14 @@
     "imdb_id": "tt30444310"
   },
   {
-    "name": "The Buccaneers",
+    "name": "Servant",
     "type": "series",
-    "imdb_id": "tt21108774"
+    "imdb_id": "tt8068860"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Masters of the Air",

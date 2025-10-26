@@ -35,6 +35,11 @@
     "imdb_id": "tt0295701"
   },
   {
+    "name": "Afterburn",
+    "type": "movie",
+    "imdb_id": "tt1210027"
+  },
+  {
     "name": "The Toxic Avenger Unrated",
     "type": "movie",
     "imdb_id": "tt1633359"
@@ -45,14 +50,14 @@
     "imdb_id": "tt15766876"
   },
   {
-    "name": "War 2",
-    "type": "movie",
-    "imdb_id": "tt27425164"
-  },
-  {
     "name": "The Lost Princess",
     "type": "movie",
     "imdb_id": "tt14830912"
+  },
+  {
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "type": "movie",
+    "imdb_id": "tt30472557"
   },
   {
     "name": "Marco",
@@ -65,6 +70,11 @@
     "imdb_id": "tt9603208"
   },
   {
+    "name": "War 2",
+    "type": "movie",
+    "imdb_id": "tt27425164"
+  },
+  {
     "name": "Superman",
     "type": "movie",
     "imdb_id": "tt5950044"
@@ -75,19 +85,9 @@
     "imdb_id": "tt18312380"
   },
   {
-    "name": "Chainsaw Man - The Movie: Reze Arc",
-    "type": "movie",
-    "imdb_id": "tt30472557"
-  },
-  {
     "name": "Prisoner of War",
     "type": "movie",
     "imdb_id": "tt33057137"
-  },
-  {
-    "name": "TRON: Ares",
-    "type": "movie",
-    "imdb_id": "tt6604188"
   },
   {
     "name": "Jurassic World Rebirth",
@@ -95,8 +95,8 @@
     "imdb_id": "tt31036941"
   },
   {
-    "name": "Mantis",
+    "name": "TRON: Ares",
     "type": "movie",
-    "imdb_id": "tt33312131"
+    "imdb_id": "tt6604188"
   }
 ]
