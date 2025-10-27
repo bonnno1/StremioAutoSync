@@ -1,18 +1,23 @@
 [
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
+  },
+  {
+    "name": "The Monster of Florence",
+    "type": "series",
+    "imdb_id": "tt29457135"
   },
   {
     "name": "Tulsa King",
@@ -25,9 +30,9 @@
     "imdb_id": "tt28013708"
   },
   {
-    "name": "The Monster of Florence",
+    "name": "The Last Frontier",
     "type": "series",
-    "imdb_id": "tt29457135"
+    "imdb_id": "tt26862142"
   },
   {
     "name": "Stranger Things",
@@ -35,9 +40,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Mayor of Kingstown",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt11712058"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Nobody Wants This",
@@ -50,34 +55,9 @@
     "imdb_id": "tt31186865"
   },
   {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "My Hero Academia",
-    "type": "series",
-    "imdb_id": "tt5626028"
   },
   {
     "name": "Invasion",
@@ -90,8 +70,28 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "The Diplomat",
+    "name": "The Walking Dead: Daryl Dixon",
     "type": "series",
-    "imdb_id": "tt17491088"
+    "imdb_id": "tt13062500"
+  },
+  {
+    "name": "Mayor of Kingstown",
+    "type": "series",
+    "imdb_id": "tt11712058"
+  },
+  {
+    "name": "Ranma1/2",
+    "type": "series",
+    "imdb_id": "tt32766897"
+  },
+  {
+    "name": "Blood River",
+    "type": "series",
+    "imdb_id": "tt32613876"
+  },
+  {
+    "name": "Talamasca: The Secret Order",
+    "type": "series",
+    "imdb_id": "tt32596156"
   }
 ]

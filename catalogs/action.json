@@ -20,14 +20,14 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Smallville",
@@ -35,14 +35,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Peacemaker",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt13706018"
   },
   {
     "name": "Prison Break",
@@ -50,19 +45,14 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt0285331"
   },
   {
     "name": "9-1-1",
     "type": "series",
     "imdb_id": "tt7235466"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
   },
   {
     "name": "The Walking Dead",
@@ -75,9 +65,9 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Lost",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt13146488"
   },
   {
     "name": "Vikings",
@@ -85,13 +75,23 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "name": "Dinastía Casillas",
     "type": "series",
-    "imdb_id": "tt36593026"
+    "imdb_id": "tt38629881"
   },
   {
-    "name": "Arrow",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "The Walking Dead: Daryl Dixon",
+    "type": "series",
+    "imdb_id": "tt13062500"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
   }
 ]
