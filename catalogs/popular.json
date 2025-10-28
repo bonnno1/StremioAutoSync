@@ -10,16 +10,6 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -30,14 +20,9 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Dexter",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "The Rookie",
@@ -45,9 +30,24 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Supernatural",
@@ -55,9 +55,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Family Guy",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Stranger Things",
@@ -75,13 +75,13 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   }
 ]

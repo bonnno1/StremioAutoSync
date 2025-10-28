@@ -10,14 +10,14 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Kamen Rider",
@@ -35,6 +35,11 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
@@ -45,19 +50,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
     "name": "9-1-1",
     "type": "series",
     "imdb_id": "tt7235466"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   },
   {
     "name": "S.W.A.T.",
@@ -65,9 +60,9 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Peacemaker",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Vikings",
@@ -75,23 +70,28 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Dinastía Casillas",
+    "name": "Peacemaker",
     "type": "series",
-    "imdb_id": "tt38629881"
+    "imdb_id": "tt13146488"
   },
   {
-    "name": "Lost",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt1520211"
   },
   {
-    "name": "The Walking Dead: Daryl Dixon",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt13062500"
+    "imdb_id": "tt0404597"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
   }
 ]

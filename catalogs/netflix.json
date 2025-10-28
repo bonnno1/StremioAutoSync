@@ -15,24 +15,24 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "The Monster of Florence",
     "type": "series",
     "imdb_id": "tt29457135"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
   },
   {
     "name": "Squid Game",
@@ -45,19 +45,24 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
   },
   {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Nobody Wants This",
+    "type": "series",
+    "imdb_id": "tt26933824"
   },
   {
     "name": "Boots",
@@ -70,14 +75,9 @@
     "imdb_id": "tt31221478"
   },
   {
-    "name": "Nobody Wants This",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt26933824"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt7221388"
   },
   {
     "name": "The Diplomat",
@@ -85,13 +85,8 @@
     "imdb_id": "tt17491088"
   },
   {
-    "name": "Cobra Kai",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt0458290"
   }
 ]
