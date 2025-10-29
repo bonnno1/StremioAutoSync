@@ -10,24 +10,19 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -40,9 +35,9 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "X-Men",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0103584"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Pokémon Horizons",
@@ -50,9 +45,19 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Rugrats",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "X-Men",
+    "type": "series",
+    "imdb_id": "tt0103584"
   },
   {
     "name": "Bluey",
@@ -65,19 +70,9 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
     "name": "Aikatsu!",
     "type": "series",
     "imdb_id": "tt2398674"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "iCarly",
@@ -85,8 +80,13 @@
     "imdb_id": "tt0972534"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   }
 ]

@@ -45,11 +45,6 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "The Murky Stream",
-    "type": "series",
-    "imdb_id": "tt31472425"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
@@ -58,6 +53,11 @@
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "The Murky Stream",
+    "type": "series",
+    "imdb_id": "tt31472425"
   },
   {
     "name": "WandaVision",
@@ -80,6 +80,11 @@
     "imdb_id": "tt27368147"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
@@ -93,10 +98,5 @@
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
   }
 ]

@@ -5,9 +5,29 @@
     "imdb_id": "tt19244304"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Down Cemetery Road",
+    "type": "series",
+    "imdb_id": "tt32132630"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "One Piece",
@@ -20,9 +40,14 @@
     "imdb_id": "tt29457135"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Task",
@@ -30,24 +55,14 @@
     "imdb_id": "tt28013708"
   },
   {
-    "name": "Only Murders in the Building",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt11691774"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Nobody Wants This",
-    "type": "series",
-    "imdb_id": "tt26933824"
   },
   {
     "name": "Harlan Coben's Lazarus",
@@ -60,38 +75,28 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Mayor of Kingstown",
+    "name": "Nobody Wants This",
     "type": "series",
-    "imdb_id": "tt11712058"
+    "imdb_id": "tt26933824"
   },
   {
-    "name": "The Last Frontier",
+    "name": "Rulers of Fortune",
     "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt38091266"
   },
   {
-    "name": "South Park",
+    "name": "Only Murders in the Building",
     "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "The Walking Dead: Daryl Dixon",
-    "type": "series",
-    "imdb_id": "tt13062500"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt11691774"
   },
   {
     "name": "Peacemaker",
     "type": "series",
     "imdb_id": "tt13146488"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "Captain Hook - The Cursed Tides",
-    "type": "movie",
-    "imdb_id": "tt33458086"
-  },
-  {
     "name": "The Elixir",
     "type": "movie",
     "imdb_id": "tt32643830"
+  },
+  {
+    "name": "Captain Hook - The Cursed Tides",
+    "type": "movie",
+    "imdb_id": "tt33458086"
   },
   {
     "name": "The Long Walk",
@@ -20,14 +20,14 @@
     "imdb_id": "tt22898462"
   },
   {
-    "name": "Black Phone 2",
-    "type": "movie",
-    "imdb_id": "tt29644189"
-  },
-  {
     "name": "The Jester 2",
     "type": "movie",
     "imdb_id": "tt37334010"
+  },
+  {
+    "name": "Black Phone 2",
+    "type": "movie",
+    "imdb_id": "tt29644189"
   },
   {
     "name": "Holy Night: Demon Hunters",
@@ -40,29 +40,14 @@
     "imdb_id": "tt33502160"
   },
   {
-    "name": "The Astronaut",
-    "type": "movie",
-    "imdb_id": "tt13964560"
-  },
-  {
-    "name": "Tide",
-    "type": "movie",
-    "imdb_id": "tt26915157"
-  },
-  {
-    "name": "From Darkness",
-    "type": "movie",
-    "imdb_id": "tt29416620"
-  },
-  {
     "name": "Butchers Book Two: Raghorn",
     "type": "movie",
     "imdb_id": "tt27911892"
   },
   {
-    "name": "Black Mold",
+    "name": "The Astronaut",
     "type": "movie",
-    "imdb_id": "tt18482800"
+    "imdb_id": "tt13964560"
   },
   {
     "name": "The Strangers: Chapter 2",
@@ -70,19 +55,29 @@
     "imdb_id": "tt28671344"
   },
   {
-    "name": "Weapons",
-    "type": "movie",
-    "imdb_id": "tt26581740"
-  },
-  {
     "name": "Primitive War",
     "type": "movie",
     "imdb_id": "tt18312380"
   },
   {
-    "name": "Host",
+    "name": "From Darkness",
     "type": "movie",
-    "imdb_id": "tt38624355"
+    "imdb_id": "tt29416620"
+  },
+  {
+    "name": "Weapons",
+    "type": "movie",
+    "imdb_id": "tt26581740"
+  },
+  {
+    "name": "Black Mold",
+    "type": "movie",
+    "imdb_id": "tt18482800"
+  },
+  {
+    "name": "Tide",
+    "type": "movie",
+    "imdb_id": "tt26915157"
   },
   {
     "name": "Attack 13",
@@ -95,8 +90,13 @@
     "imdb_id": "tt26783625"
   },
   {
-    "name": "The Black Phone",
+    "name": "Host",
     "type": "movie",
-    "imdb_id": "tt7144666"
+    "imdb_id": "tt38624355"
+  },
+  {
+    "name": "Revival",
+    "type": "movie",
+    "imdb_id": "tt27330370"
   }
 ]

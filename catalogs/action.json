@@ -10,11 +10,6 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -30,9 +25,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Smallville",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "24",
@@ -40,14 +35,14 @@
     "imdb_id": "tt0285331"
   },
   {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
   },
   {
     "name": "9-1-1",
@@ -55,9 +50,9 @@
     "imdb_id": "tt7235466"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt0455275"
   },
   {
     "name": "Lost",
@@ -65,19 +60,9 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Vikings",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt7491982"
   },
   {
     "name": "Duel Masters",
@@ -85,13 +70,28 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt2306299"
   },
   {
-    "name": "Arrow",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Dinastía Casillas",
+    "type": "series",
+    "imdb_id": "tt38629881"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Peacemaker",
+    "type": "series",
+    "imdb_id": "tt13146488"
   }
 ]

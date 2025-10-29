@@ -1,10 +1,5 @@
 [
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
@@ -20,9 +15,9 @@
     "imdb_id": "tt0388626"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Chicago P.D.",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt2805096"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -35,29 +30,49 @@
     "imdb_id": "tt38629881"
   },
   {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Esref Ruya",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt35069642"
   },
   {
-    "name": "High Potential",
+    "name": "NOVA",
     "type": "series",
-    "imdb_id": "tt22091076"
+    "imdb_id": "tt0206501"
   },
   {
-    "name": "The Morning Show",
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt24229160"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "Chicago Med",
     "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt4655480"
+  },
+  {
+    "name": "Survivor",
+    "type": "series",
+    "imdb_id": "tt0239195"
+  },
+  {
+    "name": "AIBOU: Tokyo Detective Duo",
+    "type": "series",
+    "imdb_id": "tt1441480"
   },
   {
     "name": "El hormiguero",
@@ -65,9 +80,14 @@
     "imdb_id": "tt0870872"
   },
   {
-    "name": "WWE NXT",
+    "name": "Nature",
     "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt0083452"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -75,23 +95,8 @@
     "imdb_id": "tt1942683"
   },
   {
-    "name": "Goede Tijden, Slechte Tijden",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt0096597"
-  },
-  {
-    "name": "Only Murders in the Building",
-    "type": "series",
-    "imdb_id": "tt11691774"
-  },
-  {
-    "name": "Blood River",
-    "type": "series",
-    "imdb_id": "tt32613876"
-  },
-  {
-    "name": "The Jennifer Hudson Show",
-    "type": "series",
-    "imdb_id": "tt15847104"
+    "imdb_id": "tt3697842"
   }
 ]

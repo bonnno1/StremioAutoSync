@@ -1,5 +1,10 @@
 [
   {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
+  },
+  {
     "name": "Burn the House Down",
     "type": "series",
     "imdb_id": "tt21327000"
@@ -20,11 +25,6 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -35,24 +35,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "The Simpsons",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -60,9 +45,29 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Shameless",
@@ -70,18 +75,18 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]
