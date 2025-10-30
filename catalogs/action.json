@@ -10,14 +10,14 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -35,19 +35,24 @@
     "imdb_id": "tt0285331"
   },
   {
-    "name": "Smallville",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt0404597"
   },
   {
     "name": "9-1-1",
     "type": "series",
     "imdb_id": "tt7235466"
+  },
+  {
+    "name": "Dinastía Casillas",
+    "type": "series",
+    "imdb_id": "tt38629881"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Prison Break",
@@ -60,19 +65,24 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
   },
   {
-    "name": "Duel Masters",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "S.W.A.T.",
@@ -80,18 +90,8 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Dinastía Casillas",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Peacemaker",
-    "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt13706018"
   }
 ]

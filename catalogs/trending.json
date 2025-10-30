@@ -1,63 +1,13 @@
 [
   {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Monster of Florence",
-    "type": "series",
-    "imdb_id": "tt29457135"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Task",
-    "type": "series",
-    "imdb_id": "tt28013708"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "Stranger Things",
@@ -65,24 +15,59 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Down Cemetery Road",
+    "type": "series",
+    "imdb_id": "tt32132630"
+  },
+  {
+    "name": "Amsterdam Empire",
+    "type": "series",
+    "imdb_id": "tt31835154"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "The Monster of Florence",
+    "type": "series",
+    "imdb_id": "tt29457135"
+  },
+  {
     "name": "Harlan Coben's Lazarus",
     "type": "series",
     "imdb_id": "tt31186865"
   },
   {
-    "name": "Invasion",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt13622982"
   },
   {
-    "name": "Nobody Wants This",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt26933824"
-  },
-  {
-    "name": "Rulers of Fortune",
-    "type": "series",
-    "imdb_id": "tt38091266"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Only Murders in the Building",
@@ -90,13 +75,28 @@
     "imdb_id": "tt11691774"
   },
   {
-    "name": "Peacemaker",
+    "name": "Nobody Wants This",
     "type": "series",
-    "imdb_id": "tt13146488"
+    "imdb_id": "tt26933824"
+  },
+  {
+    "name": "Mayor of Kingstown",
+    "type": "series",
+    "imdb_id": "tt11712058"
   },
   {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   }
 ]

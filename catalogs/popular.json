@@ -20,24 +20,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Law & Order",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -45,14 +35,14 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Gen V",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "The Simpsons",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Stranger Things",
@@ -60,19 +50,24 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "House",
@@ -85,8 +80,13 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   }
 ]
