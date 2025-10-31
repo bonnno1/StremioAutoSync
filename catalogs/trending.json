@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Stranger Things",
@@ -20,44 +20,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
-  },
-  {
-    "name": "Amsterdam Empire",
-    "type": "series",
-    "imdb_id": "tt31835154"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "The Monster of Florence",
-    "type": "series",
-    "imdb_id": "tt29457135"
-  },
-  {
-    "name": "Harlan Coben's Lazarus",
-    "type": "series",
-    "imdb_id": "tt31186865"
   },
   {
     "name": "Star Wars: Visions",
@@ -65,9 +30,54 @@
     "imdb_id": "tt13622982"
   },
   {
+    "name": "Down Cemetery Road",
+    "type": "series",
+    "imdb_id": "tt32132630"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Amsterdam Empire",
+    "type": "series",
+    "imdb_id": "tt31835154"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
+    "name": "Mayor of Kingstown",
+    "type": "series",
+    "imdb_id": "tt11712058"
+  },
+  {
+    "name": "Rulers of Fortune",
+    "type": "series",
+    "imdb_id": "tt38091266"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Harlan Coben's Lazarus",
+    "type": "series",
+    "imdb_id": "tt31186865"
   },
   {
     "name": "Only Murders in the Building",
@@ -80,19 +90,9 @@
     "imdb_id": "tt26933824"
   },
   {
-    "name": "Mayor of Kingstown",
+    "name": "The Asset",
     "type": "series",
-    "imdb_id": "tt11712058"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt33293130"
   },
   {
     "name": "One-Punch Man",

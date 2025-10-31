@@ -35,6 +35,11 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "DuckTales",
     "type": "series",
     "imdb_id": "tt5531466"
@@ -45,19 +50,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Disney Twisted-Wonderland: The Animation",
     "type": "series",
     "imdb_id": "tt28306749"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
   },
   {
     "name": "The Murky Stream",
@@ -65,14 +60,9 @@
     "imdb_id": "tt31472425"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Tempest",
@@ -85,6 +75,21 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Mar afuera",
     "type": "series",
     "imdb_id": "tt32155744"
@@ -93,10 +98,5 @@
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   }
 ]

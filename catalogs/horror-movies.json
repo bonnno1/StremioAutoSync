@@ -1,23 +1,28 @@
 [
   {
-    "name": "The Elixir",
-    "type": "movie",
-    "imdb_id": "tt32643830"
-  },
-  {
     "name": "Captain Hook - The Cursed Tides",
     "type": "movie",
     "imdb_id": "tt33458086"
   },
   {
-    "name": "The Conjuring: Last Rites",
+    "name": "The Elixir",
     "type": "movie",
-    "imdb_id": "tt22898462"
+    "imdb_id": "tt32643830"
   },
   {
     "name": "The Jester 2",
     "type": "movie",
     "imdb_id": "tt37334010"
+  },
+  {
+    "name": "The Long Walk",
+    "type": "movie",
+    "imdb_id": "tt10374610"
+  },
+  {
+    "name": "The Conjuring: Last Rites",
+    "type": "movie",
+    "imdb_id": "tt22898462"
   },
   {
     "name": "The Ugly Stepsister",
@@ -35,19 +40,19 @@
     "imdb_id": "tt15766876"
   },
   {
-    "name": "The Hand That Rocks the Cradle",
-    "type": "movie",
-    "imdb_id": "tt33502160"
-  },
-  {
     "name": "Butchers Book Two: Raghorn",
     "type": "movie",
     "imdb_id": "tt27911892"
   },
   {
-    "name": "The Strangers: Chapter 2",
+    "name": "Primitive War",
     "type": "movie",
-    "imdb_id": "tt28671344"
+    "imdb_id": "tt18312380"
+  },
+  {
+    "name": "The Mannequin",
+    "type": "movie",
+    "imdb_id": "tt11261532"
   },
   {
     "name": "From Darkness",
@@ -65,6 +70,11 @@
     "imdb_id": "tt28752971"
   },
   {
+    "name": "The Strangers: Chapter 2",
+    "type": "movie",
+    "imdb_id": "tt28671344"
+  },
+  {
     "name": "Black Mold",
     "type": "movie",
     "imdb_id": "tt18482800"
@@ -80,23 +90,13 @@
     "imdb_id": "tt13964560"
   },
   {
-    "name": "Primitive War",
+    "name": "The Hand That Rocks the Cradle",
     "type": "movie",
-    "imdb_id": "tt18312380"
+    "imdb_id": "tt33502160"
   },
   {
     "name": "Host",
     "type": "movie",
     "imdb_id": "tt38624355"
-  },
-  {
-    "name": "Fantasmagoría",
-    "type": "movie",
-    "imdb_id": "tt34492720"
-  },
-  {
-    "name": "Bone Lake",
-    "type": "movie",
-    "imdb_id": "tt26783625"
   }
 ]

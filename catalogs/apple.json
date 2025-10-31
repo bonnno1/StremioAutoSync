@@ -5,6 +5,11 @@
     "imdb_id": "tt26862142"
   },
   {
+    "name": "Down Cemetery Road",
+    "type": "series",
+    "imdb_id": "tt32132630"
+  },
+  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
@@ -13,11 +18,6 @@
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
   },
   {
     "name": "Silo",
@@ -40,14 +40,14 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Chief of War",
@@ -55,14 +55,14 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
     "name": "Loot",
     "type": "series",
     "imdb_id": "tt14271498"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
   },
   {
     "name": "For All Mankind",
@@ -75,14 +75,14 @@
     "imdb_id": "tt15677150"
   },
   {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
+  },
+  {
     "name": "Platonic",
     "type": "series",
     "imdb_id": "tt13366604"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
   },
   {
     "name": "Murderbot",
@@ -90,13 +90,13 @@
     "imdb_id": "tt30444310"
   },
   {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
+  },
+  {
     "name": "Servant",
     "type": "series",
     "imdb_id": "tt8068860"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
   }
 ]

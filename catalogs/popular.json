@@ -5,11 +5,6 @@
     "imdb_id": "tt19244304"
   },
   {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
@@ -20,14 +15,14 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -35,24 +30,19 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Law & Order",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Supernatural",
@@ -60,9 +50,19 @@
     "imdb_id": "tt0460681"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Family Guy",
@@ -70,19 +70,19 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "House",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
   },
   {
     "name": "Kamen Rider",

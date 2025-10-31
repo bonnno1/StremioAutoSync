@@ -1,5 +1,10 @@
 [
   {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
+  },
+  {
     "name": "The Twits",
     "type": "movie",
     "imdb_id": "tt0498396"
@@ -10,14 +15,14 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
     "name": "The Bad Guys 2",
     "type": "movie",
     "imdb_id": "tt30017619"
+  },
+  {
+    "name": "Zootopia 2",
+    "type": "movie",
+    "imdb_id": "tt26443597"
   },
   {
     "name": "Lilo & Stitch",
@@ -30,6 +35,11 @@
     "imdb_id": "tt32214143"
   },
   {
+    "name": "Dumbo",
+    "type": "movie",
+    "imdb_id": "tt0033563"
+  },
+  {
     "name": "LEGO Frozen: Operation Puffins",
     "type": "movie",
     "imdb_id": "tt38607240"
@@ -40,24 +50,9 @@
     "imdb_id": "tt0327597"
   },
   {
-    "name": "Zootopia 2",
-    "type": "movie",
-    "imdb_id": "tt26443597"
-  },
-  {
     "name": "Elio",
     "type": "movie",
     "imdb_id": "tt4900148"
-  },
-  {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
-    "name": "The Nightmare Before Christmas",
-    "type": "movie",
-    "imdb_id": "tt0107688"
   },
   {
     "name": "Little Nina & The Piano Thieves",
@@ -65,14 +60,24 @@
     "imdb_id": "tt27644208"
   },
   {
+    "name": "The Nightmare Before Christmas",
+    "type": "movie",
+    "imdb_id": "tt0107688"
+  },
+  {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
+  },
+  {
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Smurfs",
+    "name": "Monsters, Inc.",
     "type": "movie",
-    "imdb_id": "tt18069420"
+    "imdb_id": "tt0198781"
   },
   {
     "name": "Inside Out 2",
@@ -80,23 +85,18 @@
     "imdb_id": "tt22022452"
   },
   {
-    "name": "The Incredibles",
-    "type": "movie",
-    "imdb_id": "tt0317705"
-  },
-  {
-    "name": "Zootopia",
-    "type": "movie",
-    "imdb_id": "tt2948356"
-  },
-  {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "type": "movie",
     "imdb_id": "tt0363771"
   },
   {
-    "name": "Sonic the Hedgehog 3",
+    "name": "The Incredibles",
     "type": "movie",
-    "imdb_id": "tt18259086"
+    "imdb_id": "tt0317705"
+  },
+  {
+    "name": "Smurfs",
+    "type": "movie",
+    "imdb_id": "tt18069420"
   }
 ]
