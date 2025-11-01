@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -20,6 +25,11 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Zomvivor",
+    "type": "series",
+    "imdb_id": "tt26006612"
+  },
+  {
     "name": "The Monster of Florence",
     "type": "series",
     "imdb_id": "tt29457135"
@@ -30,9 +40,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "The Witcher",
+    "name": "The Asset",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt33293130"
   },
   {
     "name": "Alice in Borderland",
@@ -40,19 +50,9 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "The Asset",
-    "type": "series",
-    "imdb_id": "tt33293130"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "Sesame Street",
@@ -60,14 +60,19 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Physical: Asia",
+    "type": "series",
+    "imdb_id": "tt35664835"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "Boots",
     "type": "series",
     "imdb_id": "tt27987047"
-  },
-  {
-    "name": "Nobody Wants This",
-    "type": "series",
-    "imdb_id": "tt26933824"
   },
   {
     "name": "Black Mirror",
@@ -75,18 +80,13 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Elite",
+    "name": "Nobody Wants This",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt26933824"
   },
   {
-    "name": "Physical: Asia",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt35664835"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt7221388"
   }
 ]

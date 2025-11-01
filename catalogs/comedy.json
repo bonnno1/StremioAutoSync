@@ -1,28 +1,13 @@
 [
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Hazbin Hotel",
@@ -30,9 +15,29 @@
     "imdb_id": "tt7216636"
   },
   {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Mahsun J",
+    "type": "series",
+    "imdb_id": "tt31027788"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -40,24 +45,24 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Wednesday",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Sazae-san",
     "type": "series",
     "imdb_id": "tt0236924"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Slow Horses",
@@ -75,18 +80,13 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Chibi Maruko-chan",
+    "type": "series",
+    "imdb_id": "tt0220204"
+  },
+  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Conan",
-    "type": "series",
-    "imdb_id": "tt1637574"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
   }
 ]

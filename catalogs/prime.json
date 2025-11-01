@@ -5,24 +5,24 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Harlan Coben's Lazarus",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt31186865"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Harlan Coben's Lazarus",
+    "type": "series",
+    "imdb_id": "tt31186865"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -50,6 +50,11 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
@@ -60,9 +65,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt30955673"
   },
   {
     "name": "The Wheel of Time",
@@ -70,9 +75,9 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "House of David",
+    "name": "Maxton Hall - The World Between Us",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt27792190"
   },
   {
     "name": "Goliath",
@@ -83,10 +88,5 @@
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
-  },
-  {
-    "name": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
   }
 ]
