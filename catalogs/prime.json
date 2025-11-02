@@ -5,24 +5,19 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Harlan Coben's Lazarus",
-    "type": "series",
-    "imdb_id": "tt31186865"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -35,14 +30,14 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Harlan Coben's Lazarus",
+    "type": "series",
+    "imdb_id": "tt31186865"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -50,9 +45,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Chosen",
@@ -60,19 +55,24 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   },
   {
     "name": "Maxton Hall - The World Between Us",
@@ -88,5 +88,10 @@
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Upload",
+    "type": "series",
+    "imdb_id": "tt7826376"
   }
 ]

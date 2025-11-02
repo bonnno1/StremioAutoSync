@@ -10,19 +10,9 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
   },
   {
     "name": "One Piece",
@@ -30,9 +20,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt5875444"
   },
   {
     "name": "Down Cemetery Road",
@@ -45,9 +35,14 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Mayor of Kingstown",
@@ -55,19 +50,9 @@
     "imdb_id": "tt11712058"
   },
   {
-    "name": "Amsterdam Empire",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt31835154"
-  },
-  {
-    "name": "Only Murders in the Building",
-    "type": "series",
-    "imdb_id": "tt11691774"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Rulers of Fortune",
@@ -75,9 +60,14 @@
     "imdb_id": "tt38091266"
   },
   {
-    "name": "My Hero Academia",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt5626028"
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Only Murders in the Building",
+    "type": "series",
+    "imdb_id": "tt11691774"
   },
   {
     "name": "The Last Frontier",
@@ -85,18 +75,28 @@
     "imdb_id": "tt26862142"
   },
   {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
+  },
+  {
     "name": "Task",
     "type": "series",
     "imdb_id": "tt28013708"
   },
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
   }
 ]

@@ -10,14 +10,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Vikings",
+    "name": "Zomvivor",
     "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt26006612"
   },
   {
     "name": "Game of Thrones",
@@ -30,9 +25,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Gen V",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "One-Punch Man",
@@ -40,9 +40,9 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "Zomvivor",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt26006612"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "24",
@@ -50,29 +50,9 @@
     "imdb_id": "tt0285331"
   },
   {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
     "name": "Dinastía Casillas",
     "type": "series",
     "imdb_id": "tt38629881"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
   },
   {
     "name": "Doraemon",
@@ -80,18 +60,38 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "type": "series",
+    "imdb_id": "tt36593026"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
     "name": "Pokémon",
     "type": "series",
     "imdb_id": "tt0168366"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt24229160"
   },
   {
-    "name": "Smallville",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   }
 ]
