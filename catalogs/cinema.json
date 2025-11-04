@@ -1,13 +1,13 @@
 [
   {
-    "name": "Black Phone 2",
-    "type": "movie",
-    "imdb_id": "tt29644189"
-  },
-  {
     "name": "Chainsaw Man - The Movie: Reze Arc",
     "type": "movie",
     "imdb_id": "tt30472557"
+  },
+  {
+    "name": "Black Phone 2",
+    "type": "movie",
+    "imdb_id": "tt29644189"
   },
   {
     "name": "Ballad of a Small Player",
@@ -15,19 +15,14 @@
     "imdb_id": "tt32063098"
   },
   {
-    "name": "Regretting You",
-    "type": "movie",
-    "imdb_id": "tt33088452"
-  },
-  {
     "name": "TRON: Ares",
     "type": "movie",
     "imdb_id": "tt6604188"
   },
   {
-    "name": "Frankenstein",
+    "name": "Regretting You",
     "type": "movie",
-    "imdb_id": "tt1312221"
+    "imdb_id": "tt33088452"
   },
   {
     "name": "The Strangers: Chapter 2",
@@ -35,9 +30,14 @@
     "imdb_id": "tt28671344"
   },
   {
-    "name": "Good Boy",
+    "name": "Frankenstein",
     "type": "movie",
-    "imdb_id": "tt35521922"
+    "imdb_id": "tt1312221"
+  },
+  {
+    "name": "Bugonia",
+    "type": "movie",
+    "imdb_id": "tt12300742"
   },
   {
     "name": "One Battle After Another",
@@ -45,9 +45,9 @@
     "imdb_id": "tt30144839"
   },
   {
-    "name": "Bugonia",
+    "name": "Good Boy",
     "type": "movie",
-    "imdb_id": "tt12300742"
+    "imdb_id": "tt35521922"
   },
   {
     "name": "HIM",
@@ -75,14 +75,14 @@
     "imdb_id": "tt11214558"
   },
   {
-    "name": "ParaNorman",
-    "type": "movie",
-    "imdb_id": "tt1623288"
-  },
-  {
     "name": "Roofman",
     "type": "movie",
     "imdb_id": "tt4627382"
+  },
+  {
+    "name": "ParaNorman",
+    "type": "movie",
+    "imdb_id": "tt1623288"
   },
   {
     "name": "After the Hunt",
