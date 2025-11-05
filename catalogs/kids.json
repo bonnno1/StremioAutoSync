@@ -10,19 +10,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Duel Masters",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -30,9 +25,19 @@
     "imdb_id": "tt8483276"
   },
   {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Doraemon",
@@ -45,9 +50,9 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Sailor Moon",
@@ -55,14 +60,9 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Bluey",
@@ -70,13 +70,18 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Peppa Pig",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Motu Patlu",
+    "type": "series",
+    "imdb_id": "tt2649730"
   }
 ]

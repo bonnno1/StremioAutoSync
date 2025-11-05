@@ -1,13 +1,18 @@
 [
   {
+    "name": "Black Phone 2",
+    "type": "movie",
+    "imdb_id": "tt29644189"
+  },
+  {
     "name": "Chainsaw Man - The Movie: Reze Arc",
     "type": "movie",
     "imdb_id": "tt30472557"
   },
   {
-    "name": "Black Phone 2",
+    "name": "Predator: Badlands",
     "type": "movie",
-    "imdb_id": "tt29644189"
+    "imdb_id": "tt31227572"
   },
   {
     "name": "Ballad of a Small Player",
@@ -25,11 +30,6 @@
     "imdb_id": "tt33088452"
   },
   {
-    "name": "The Strangers: Chapter 2",
-    "type": "movie",
-    "imdb_id": "tt28671344"
-  },
-  {
     "name": "Frankenstein",
     "type": "movie",
     "imdb_id": "tt1312221"
@@ -40,9 +40,9 @@
     "imdb_id": "tt12300742"
   },
   {
-    "name": "One Battle After Another",
+    "name": "The Smashing Machine",
     "type": "movie",
-    "imdb_id": "tt30144839"
+    "imdb_id": "tt11214558"
   },
   {
     "name": "Good Boy",
@@ -70,14 +70,19 @@
     "imdb_id": "tt27543578"
   },
   {
-    "name": "The Smashing Machine",
+    "name": "Nuremberg",
     "type": "movie",
-    "imdb_id": "tt11214558"
+    "imdb_id": "tt29567915"
   },
   {
     "name": "Roofman",
     "type": "movie",
     "imdb_id": "tt4627382"
+  },
+  {
+    "name": "Die My Love",
+    "type": "movie",
+    "imdb_id": "tt9362736"
   },
   {
     "name": "ParaNorman",
@@ -90,13 +95,8 @@
     "imdb_id": "tt32159989"
   },
   {
-    "name": "The Mastermind",
+    "name": "Hell House LLC: Lineage",
     "type": "movie",
-    "imdb_id": "tt33455099"
-  },
-  {
-    "name": "Shell",
-    "type": "movie",
-    "imdb_id": "tt12706836"
+    "imdb_id": "tt32916228"
   }
 ]
