@@ -1,8 +1,18 @@
 [
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "As You Stood By",
+    "type": "series",
+    "imdb_id": "tt33550045"
   },
   {
     "name": "IT: Welcome to Derry",
@@ -10,29 +20,24 @@
     "imdb_id": "tt19244304"
   },
   {
-    "name": "Death by Lightning",
-    "type": "series",
-    "imdb_id": "tt31121364"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
+  },
+  {
+    "name": "Death by Lightning",
+    "type": "series",
+    "imdb_id": "tt31121364"
+  },
+  {
     "name": "The Manipulated",
     "type": "series",
     "imdb_id": "tt36188448"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Bad Guys: Breaking In",
-    "type": "series",
-    "imdb_id": "tt31392119"
   },
   {
     "name": "Robin Hood",
@@ -50,14 +55,24 @@
     "imdb_id": "tt37890201"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
   },
   {
     "name": "All's Fair",
     "type": "series",
     "imdb_id": "tt30291387"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Tulsa King",
@@ -70,33 +85,18 @@
     "imdb_id": "tt32253092"
   },
   {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
-  },
-  {
-    "name": "Nice to Not Meet You",
-    "type": "series",
-    "imdb_id": "tt37506062"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Breaking Bad",
+    "name": "The Bad Guys: Breaking In",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt31392119"
   },
   {
-    "name": "South Park",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Rulers of Fortune",
-    "type": "series",
-    "imdb_id": "tt38091266"
+    "imdb_id": "tt7216636"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "name": "Tulsa King",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Rookie",
@@ -10,9 +10,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt16358384"
   },
   {
     "name": "The Simpsons",
@@ -35,34 +35,9 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Mahsun J",
-    "type": "series",
-    "imdb_id": "tt31027788"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
-  },
-  {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "The Daily Show",
@@ -70,14 +45,29 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Državni posao",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt2910420"
+    "imdb_id": "tt4508902"
   },
   {
-    "name": "Slow Horses",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Mahsun J",
+    "type": "series",
+    "imdb_id": "tt31027788"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Conan",
+    "type": "series",
+    "imdb_id": "tt1637574"
   },
   {
     "name": "The Office",
@@ -85,8 +75,23 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Friends",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
   }
 ]

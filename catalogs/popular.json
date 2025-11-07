@@ -25,9 +25,19 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "The Rookie",
@@ -40,21 +50,6 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -65,14 +60,24 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
     "name": "Zomvivor",
     "type": "series",
     "imdb_id": "tt26006612"
   },
   {
-    "name": "Law & Order",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Physical: Asia",
@@ -85,8 +90,8 @@
     "imdb_id": "tt33484460"
   },
   {
-    "name": "Family Guy",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0412142"
   }
 ]
