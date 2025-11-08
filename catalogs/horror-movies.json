@@ -1,11 +1,16 @@
 [
   {
+    "name": "Frankenstein",
+    "type": "movie",
+    "imdb_id": "tt1312221"
+  },
+  {
     "name": "Black Phone 2",
     "type": "movie",
     "imdb_id": "tt29644189"
   },
   {
-    "name": "Captain Hook - The Cursed Tides",
+    "name": "Captain Hook: The Cursed Tides",
     "type": "movie",
     "imdb_id": "tt33458086"
   },
@@ -15,9 +20,9 @@
     "imdb_id": "tt29344903"
   },
   {
-    "name": "The Conjuring: Last Rites",
+    "name": "They Were Witches",
     "type": "movie",
-    "imdb_id": "tt22898462"
+    "imdb_id": "tt33621293"
   },
   {
     "name": "The Book",
@@ -25,14 +30,14 @@
     "imdb_id": "tt13161694"
   },
   {
+    "name": "The Conjuring: Last Rites",
+    "type": "movie",
+    "imdb_id": "tt22898462"
+  },
+  {
     "name": "The Jester 2",
     "type": "movie",
     "imdb_id": "tt37334010"
-  },
-  {
-    "name": "They Were Witches",
-    "type": "movie",
-    "imdb_id": "tt33621293"
   },
   {
     "name": "Holy Night: Demon Hunters",
@@ -60,9 +65,9 @@
     "imdb_id": "tt32643830"
   },
   {
-    "name": "The Mannequin",
+    "name": "Baramulla",
     "type": "movie",
-    "imdb_id": "tt11261532"
+    "imdb_id": "tt29247040"
   },
   {
     "name": "Weapons",
@@ -70,14 +75,14 @@
     "imdb_id": "tt26581740"
   },
   {
+    "name": "The Mannequin",
+    "type": "movie",
+    "imdb_id": "tt11261532"
+  },
+  {
     "name": "The People In The Walls",
     "type": "movie",
     "imdb_id": "tt28752971"
-  },
-  {
-    "name": "Frankenstein",
-    "type": "movie",
-    "imdb_id": "tt1312221"
   },
   {
     "name": "The Strangers: Chapter 2",
@@ -90,13 +95,8 @@
     "imdb_id": "tt7144666"
   },
   {
-    "name": "Real Cases of Shadow People: The Sarah McCormick Story",
+    "name": "Dracula: A Love Tale",
     "type": "movie",
-    "imdb_id": "tt7200076"
-  },
-  {
-    "name": "Wrong Turn",
-    "type": "movie",
-    "imdb_id": "tt0295700"
+    "imdb_id": "tt31434030"
   }
 ]

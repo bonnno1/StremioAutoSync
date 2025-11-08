@@ -20,19 +20,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Andor",
@@ -40,9 +35,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "What If...?",
@@ -50,9 +45,19 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "The Murky Stream",
     "type": "series",
     "imdb_id": "tt31472425"
+  },
+  {
+    "name": "Tempest",
+    "type": "series",
+    "imdb_id": "tt27368147"
   },
   {
     "name": "Soy Luna",
@@ -65,29 +70,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Tempest",
-    "type": "series",
-    "imdb_id": "tt27368147"
-  },
-  {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Entrepreneurs",
-    "type": "series",
-    "imdb_id": "tt34779099"
-  },
-  {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
   },
   {
     "name": "Hawkeye",
@@ -95,8 +80,23 @@
     "imdb_id": "tt10160804"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Mar afuera",
     "type": "series",
     "imdb_id": "tt32155744"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   }
 ]
