@@ -20,21 +20,6 @@
     "imdb_id": "tt34467643"
   },
   {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
-    "name": "Unburied",
-    "type": "series",
-    "imdb_id": "tt33038523"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
@@ -45,9 +30,29 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Unburied",
+    "type": "series",
+    "imdb_id": "tt33038523"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
+  },
+  {
     "name": "La coleccionista",
     "type": "series",
     "imdb_id": "tt38350763"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -55,19 +60,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Chosen",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "INVINCIBLE",
@@ -88,10 +88,5 @@
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
   }
 ]

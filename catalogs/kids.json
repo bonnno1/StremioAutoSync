@@ -1,13 +1,13 @@
 [
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "PAW Patrol",
@@ -20,6 +20,31 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
@@ -28,31 +53,6 @@
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Bluey",
@@ -70,11 +70,6 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
     "name": "The Smurfs",
     "type": "series",
     "imdb_id": "tt0081933"
@@ -85,8 +80,13 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]

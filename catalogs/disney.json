@@ -35,14 +35,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Loki",
@@ -50,9 +50,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "The Murky Stream",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt31472425"
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Tempest",
@@ -60,14 +60,19 @@
     "imdb_id": "tt27368147"
   },
   {
-    "name": "Soy Luna",
+    "name": "The Murky Stream",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt31472425"
   },
   {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Ironheart",
@@ -80,9 +85,9 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "WandaVision",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Moving",
@@ -90,13 +95,8 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Mar afuera",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt32155744"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt12324366"
   }
 ]
