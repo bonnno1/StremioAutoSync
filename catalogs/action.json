@@ -1,5 +1,10 @@
 [
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
@@ -20,19 +25,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Zomvivor",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt26006612"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "24",
@@ -50,24 +50,24 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
   },
   {
     "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
@@ -80,9 +80,9 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Lost",
+    "name": "Zomvivor",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt26006612"
   },
   {
     "name": "FBI",
@@ -90,8 +90,13 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
   }
 ]

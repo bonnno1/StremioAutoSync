@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Physical: Asia",
@@ -15,14 +15,24 @@
     "imdb_id": "tt35664835"
   },
   {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "Zomvivor",
     "type": "series",
     "imdb_id": "tt26006612"
   },
   {
-    "name": "Wednesday",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Heweliusz",
+    "type": "series",
+    "imdb_id": "tt32253092"
   },
   {
     "name": "Death by Lightning",
@@ -40,14 +50,9 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Lucifer",
+    "name": "As You Stood By",
     "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
-    "name": "Heweliusz",
-    "type": "series",
-    "imdb_id": "tt32253092"
+    "imdb_id": "tt33550045"
   },
   {
     "name": "Squid Game",
@@ -65,14 +70,14 @@
     "imdb_id": "tt38091266"
   },
   {
-    "name": "Amsterdam Empire",
-    "type": "series",
-    "imdb_id": "tt31835154"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Amsterdam Empire",
+    "type": "series",
+    "imdb_id": "tt31835154"
   },
   {
     "name": "Black Mirror",
@@ -88,10 +93,5 @@
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
   }
 ]
