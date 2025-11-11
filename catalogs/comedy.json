@@ -1,13 +1,18 @@
 [
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Mahsun J",
+    "type": "series",
+    "imdb_id": "tt31027788"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Tulsa King",
@@ -23,11 +28,6 @@
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Mahsun J",
-    "type": "series",
-    "imdb_id": "tt31027788"
   },
   {
     "name": "Family Guy",
@@ -50,14 +50,19 @@
     "imdb_id": "tt3444938"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt3513388"
   },
   {
     "name": "Friends",
@@ -75,28 +80,23 @@
     "imdb_id": "tt0397306"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt1442437"
   },
   {
     "name": "Conan",
     "type": "series",
     "imdb_id": "tt1637574"
-  },
-  {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
   }
 ]

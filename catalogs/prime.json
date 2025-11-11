@@ -1,23 +1,18 @@
 [
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Maxton Hall - The World Between Us",
     "type": "series",
     "imdb_id": "tt27792190"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "TREMEMBÉ",
-    "type": "series",
-    "imdb_id": "tt34467643"
   },
   {
     "name": "Reacher",
@@ -30,9 +25,19 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "TREMEMBÉ",
+    "type": "series",
+    "imdb_id": "tt34467643"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Unburied",
@@ -45,19 +50,14 @@
     "imdb_id": "tt26453092"
   },
   {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
   },
   {
     "name": "Bosch",
@@ -65,9 +65,9 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "La coleccionista",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt38350763"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "INVINCIBLE",
@@ -75,9 +75,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "House of David",
+    "name": "La coleccionista",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt38350763"
   },
   {
     "name": "The Expanse",
