@@ -30,6 +30,11 @@
     "imdb_id": "tt0053479"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
@@ -93,10 +98,5 @@
     "name": "That '70s Show",
     "type": "series",
     "imdb_id": "tt0165598"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
   }
 ]

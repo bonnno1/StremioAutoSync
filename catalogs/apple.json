@@ -20,16 +20,6 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
@@ -45,19 +35,24 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Chief of War",
+    "name": "Down Cemetery Road",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt32132630"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   },
   {
     "name": "For All Mankind",
@@ -65,29 +60,9 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "The Studio",
+    "name": "Chief of War",
     "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Loot",
-    "type": "series",
-    "imdb_id": "tt14271498"
-  },
-  {
-    "name": "Black Bird",
-    "type": "series",
-    "imdb_id": "tt4301160"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt19381692"
   },
   {
     "name": "Servant",
@@ -95,8 +70,33 @@
     "imdb_id": "tt8068860"
   },
   {
-    "name": "Platonic",
+    "name": "Pachinko",
     "type": "series",
-    "imdb_id": "tt13366604"
+    "imdb_id": "tt8888462"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
+  },
+  {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
+  },
+  {
+    "name": "Loot",
+    "type": "series",
+    "imdb_id": "tt14271498"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
   }
 ]

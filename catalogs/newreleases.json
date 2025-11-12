@@ -1,13 +1,8 @@
 [
   {
-    "name": "NCIS",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Physical: Asia",
-    "type": "series",
-    "imdb_id": "tt35664835"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Daily Show",
@@ -20,9 +15,9 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Binnelanders",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt1527854"
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Sturm der Liebe",
@@ -30,59 +25,9 @@
     "imdb_id": "tt0479846"
   },
   {
-    "name": "Strange Tales of Tang Dynasty",
+    "name": "Binnelanders",
     "type": "series",
-    "imdb_id": "tt22797712"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
-    "name": "All's Fair",
-    "type": "series",
-    "imdb_id": "tt30291387"
-  },
-  {
-    "name": "Markus Lanz",
-    "type": "series",
-    "imdb_id": "tt1239083"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "type": "series",
-    "imdb_id": "tt0103434"
-  },
-  {
-    "name": "My Status as an Assassin Obviously Exceeds the Hero's",
-    "type": "series",
-    "imdb_id": "tt36230718"
-  },
-  {
-    "name": "Suidooster",
-    "type": "series",
-    "imdb_id": "tt5467444"
-  },
-  {
-    "name": "Die Rosenheim-Cops",
-    "type": "series",
-    "imdb_id": "tt0305095"
-  },
-  {
-    "name": "QI",
-    "type": "series",
-    "imdb_id": "tt0380136"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt1527854"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -90,13 +35,68 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Chronicles of the Sun",
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
     "type": "series",
-    "imdb_id": "tt8883922"
+    "imdb_id": "tt24229160"
   },
   {
-    "name": "EastEnders",
+    "name": "Chicago P.D.",
     "type": "series",
-    "imdb_id": "tt0088512"
+    "imdb_id": "tt2805096"
+  },
+  {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Strange Tales of Tang Dynasty",
+    "type": "series",
+    "imdb_id": "tt22797712"
+  },
+  {
+    "name": "Esref Ruya",
+    "type": "series",
+    "imdb_id": "tt35069642"
+  },
+  {
+    "name": "Dinastía Casillas",
+    "type": "series",
+    "imdb_id": "tt38629881"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
+  },
+  {
+    "name": "Chicago Med",
+    "type": "series",
+    "imdb_id": "tt4655480"
+  },
+  {
+    "name": "Suidooster",
+    "type": "series",
+    "imdb_id": "tt5467444"
+  },
+  {
+    "name": "Markus Lanz",
+    "type": "series",
+    "imdb_id": "tt1239083"
+  },
+  {
+    "name": "Coronation Street",
+    "type": "series",
+    "imdb_id": "tt0053494"
+  },
+  {
+    "name": "Survivor",
+    "type": "series",
+    "imdb_id": "tt0239195"
+  },
+  {
+    "name": "Gute Zeiten, schlechte Zeiten",
+    "type": "series",
+    "imdb_id": "tt0103434"
   }
 ]

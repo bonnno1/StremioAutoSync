@@ -5,14 +5,14 @@
     "imdb_id": "tt1312221"
   },
   {
-    "name": "Black Phone 2",
-    "type": "movie",
-    "imdb_id": "tt29644189"
-  },
-  {
     "name": "Predator: Badlands",
     "type": "movie",
     "imdb_id": "tt31227572"
+  },
+  {
+    "name": "Black Phone 2",
+    "type": "movie",
+    "imdb_id": "tt29644189"
   },
   {
     "name": "Chainsaw Man - The Movie: Reze Arc",
@@ -25,14 +25,19 @@
     "imdb_id": "tt27543578"
   },
   {
+    "name": "Roofman",
+    "type": "movie",
+    "imdb_id": "tt4627382"
+  },
+  {
+    "name": "Now You See Me: Now You Don't",
+    "type": "movie",
+    "imdb_id": "tt4712810"
+  },
+  {
     "name": "TRON: Ares",
     "type": "movie",
     "imdb_id": "tt6604188"
-  },
-  {
-    "name": "The Smashing Machine",
-    "type": "movie",
-    "imdb_id": "tt11214558"
   },
   {
     "name": "Bugonia",
@@ -45,6 +50,11 @@
     "imdb_id": "tt33088452"
   },
   {
+    "name": "The Running Man",
+    "type": "movie",
+    "imdb_id": "tt14107334"
+  },
+  {
     "name": "Ballad of a Small Player",
     "type": "movie",
     "imdb_id": "tt32063098"
@@ -55,24 +65,14 @@
     "imdb_id": "tt9362736"
   },
   {
-    "name": "HIM",
-    "type": "movie",
-    "imdb_id": "tt20990442"
-  },
-  {
-    "name": "Good Boy",
-    "type": "movie",
-    "imdb_id": "tt35521922"
-  },
-  {
     "name": "Nuremberg",
     "type": "movie",
     "imdb_id": "tt29567915"
   },
   {
-    "name": "Roofman",
+    "name": "Kiss of the Spider Woman",
     "type": "movie",
-    "imdb_id": "tt4627382"
+    "imdb_id": "tt30400277"
   },
   {
     "name": "Springsteen: Deliver Me from Nowhere",
@@ -80,14 +80,9 @@
     "imdb_id": "tt31923069"
   },
   {
-    "name": "Sons of the Neon Night",
+    "name": "Keeper",
     "type": "movie",
-    "imdb_id": "tt4968738"
-  },
-  {
-    "name": "Shelby Oaks",
-    "type": "movie",
-    "imdb_id": "tt14999684"
+    "imdb_id": "tt32332404"
   },
   {
     "name": "ParaNorman",
@@ -95,8 +90,13 @@
     "imdb_id": "tt1623288"
   },
   {
-    "name": "After the Hunt",
+    "name": "Shelby Oaks",
     "type": "movie",
-    "imdb_id": "tt32159989"
+    "imdb_id": "tt14999684"
+  },
+  {
+    "name": "Hamilton",
+    "type": "movie",
+    "imdb_id": "tt8503618"
   }
 ]
