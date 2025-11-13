@@ -1,10 +1,5 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -20,6 +15,16 @@
     "imdb_id": "tt31027788"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
@@ -30,64 +35,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Monk",
-    "type": "series",
-    "imdb_id": "tt0312172"
   },
   {
     "name": "The Office",
@@ -95,8 +45,58 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Last Week Tonight with John Oliver",
+    "type": "series",
+    "imdb_id": "tt3530232"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "The Graham Norton Show",
+    "type": "series",
+    "imdb_id": "tt0924651"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "It's Always Sunny in Philadelphia",
+    "type": "series",
+    "imdb_id": "tt0472954"
+  },
+  {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
   }
 ]

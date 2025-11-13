@@ -5,14 +5,19 @@
     "imdb_id": "tt22202452"
   },
   {
+    "name": "Last Samurai Standing",
+    "type": "series",
+    "imdb_id": "tt32237534"
+  },
+  {
     "name": "Strange Tales of Tang Dynasty",
     "type": "series",
     "imdb_id": "tt22797712"
   },
   {
-    "name": "IT: Welcome to Derry",
+    "name": "The Beast in Me",
     "type": "series",
-    "imdb_id": "tt19244304"
+    "imdb_id": "tt31974367"
   },
   {
     "name": "Stranger Things",
@@ -20,14 +25,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "The Witcher",
+    "name": "IT: Welcome to Derry",
     "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
+    "imdb_id": "tt19244304"
   },
   {
     "name": "Robin Hood",
@@ -40,24 +40,14 @@
     "imdb_id": "tt33550045"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Death by Lightning",
-    "type": "series",
-    "imdb_id": "tt31121364"
-  },
-  {
-    "name": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
-  },
-  {
     "name": "Dear X",
     "type": "series",
     "imdb_id": "tt37890201"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "Tulsa King",
@@ -65,9 +55,19 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
   },
   {
     "name": "All Her Fault",
@@ -75,23 +75,23 @@
     "imdb_id": "tt31314751"
   },
   {
+    "name": "Death by Lightning",
+    "type": "series",
+    "imdb_id": "tt31121364"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Mrs Playmen",
     "type": "series",
     "imdb_id": "tt31078757"
-  },
-  {
-    "name": "Heweliusz",
-    "type": "series",
-    "imdb_id": "tt32253092"
-  },
-  {
-    "name": "Nice to Not Meet You",
-    "type": "series",
-    "imdb_id": "tt37506062"
-  },
-  {
-    "name": "The QUEEN of News",
-    "type": "series",
-    "imdb_id": "tt29198100"
   }
 ]

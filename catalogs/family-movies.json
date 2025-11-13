@@ -10,11 +10,6 @@
     "imdb_id": "tt26443597"
   },
   {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
     "name": "Dr. Seuss's The Sneetches",
     "type": "movie",
     "imdb_id": "tt37677952"
@@ -23,6 +18,11 @@
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Coco",
@@ -40,9 +40,9 @@
     "imdb_id": "tt17423376"
   },
   {
-    "name": "Gabby's Dollhouse: The Movie",
+    "name": "A Minecraft Movie",
     "type": "movie",
-    "imdb_id": "tt32214143"
+    "imdb_id": "tt3566834"
   },
   {
     "name": "Moana 2",
@@ -50,19 +50,14 @@
     "imdb_id": "tt13622970"
   },
   {
+    "name": "Gabby's Dollhouse: The Movie",
+    "type": "movie",
+    "imdb_id": "tt32214143"
+  },
+  {
     "name": "Elio",
     "type": "movie",
     "imdb_id": "tt4900148"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
-  },
-  {
-    "name": "Frozen",
-    "type": "movie",
-    "imdb_id": "tt2294629"
   },
   {
     "name": "The Twits",
@@ -70,9 +65,19 @@
     "imdb_id": "tt0498396"
   },
   {
+    "name": "Zootopia",
+    "type": "movie",
+    "imdb_id": "tt2948356"
+  },
+  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Frozen",
+    "type": "movie",
+    "imdb_id": "tt2294629"
   },
   {
     "name": "Incredibles 2",
@@ -80,23 +85,18 @@
     "imdb_id": "tt3606756"
   },
   {
-    "name": "Zootopia",
+    "name": "Sonic the Hedgehog 3",
     "type": "movie",
-    "imdb_id": "tt2948356"
+    "imdb_id": "tt18259086"
   },
   {
-    "name": "It Burns!",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt0836069"
+    "imdb_id": "tt0327597"
   },
   {
-    "name": "Vishwas",
+    "name": "The Incredibles",
     "type": "movie",
-    "imdb_id": "tt0362283"
-  },
-  {
-    "name": "Snow White",
-    "type": "movie",
-    "imdb_id": "tt1050263"
+    "imdb_id": "tt0317705"
   }
 ]
