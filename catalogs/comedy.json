@@ -1,5 +1,10 @@
 [
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -25,11 +30,6 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -40,14 +40,14 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "American Dad!",
@@ -55,9 +55,9 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "Last Week Tonight with John Oliver",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt3530232"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -65,29 +65,14 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "The Graham Norton Show",
-    "type": "series",
-    "imdb_id": "tt0924651"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Two and a Half Men",
     "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "It's Always Sunny in Philadelphia",
-    "type": "series",
-    "imdb_id": "tt0472954"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt0369179"
   },
   {
     "name": "Modern Family",
@@ -95,8 +80,23 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Two and a Half Men",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt0369179"
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   }
 ]

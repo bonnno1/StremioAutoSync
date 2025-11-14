@@ -1,13 +1,13 @@
 [
   {
-    "name": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
   },
   {
     "name": "Vikings",
@@ -15,19 +15,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Expanse",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "The Chosen",
@@ -35,9 +30,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "Bosch",
@@ -45,9 +40,24 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Gen V",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt30955673"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "INVINCIBLE",
@@ -55,19 +65,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "TREMEMBÉ",
     "type": "series",
     "imdb_id": "tt34467643"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
   },
   {
     "name": "Unburied",
@@ -85,8 +85,8 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "The Mighty Nein",
+    "name": "Harlan Coben's Lazarus",
     "type": "series",
-    "imdb_id": "tt26453092"
+    "imdb_id": "tt31186865"
   }
 ]

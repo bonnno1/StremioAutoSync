@@ -1,13 +1,13 @@
 [
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Sesame Street",
@@ -50,34 +50,9 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
     "name": "Super Wings",
     "type": "series",
     "imdb_id": "tt3600266"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
   },
   {
     "name": "Chiikawa",
@@ -85,13 +60,38 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt1751105"
   },
   {
-    "name": "The Bullwinkle Show",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt0052507"
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Masha and the Bear",
+    "type": "series",
+    "imdb_id": "tt1884856"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
   }
 ]
