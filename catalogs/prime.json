@@ -1,5 +1,10 @@
 [
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
@@ -8,11 +13,6 @@
     "name": "Maxton Hall - The World Between Us",
     "type": "series",
     "imdb_id": "tt27792190"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
   },
   {
     "name": "Reacher",
@@ -30,6 +30,11 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
@@ -40,9 +45,9 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "House of David",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "The Expanse",
@@ -50,29 +55,24 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "INVINCIBLE",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt30955673"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "TREMEMBÉ",
     "type": "series",
     "imdb_id": "tt34467643"
-  },
-  {
-    "name": "Unburied",
-    "type": "series",
-    "imdb_id": "tt33038523"
   },
   {
     "name": "The Wheel of Time",
@@ -85,8 +85,8 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Harlan Coben's Lazarus",
+    "name": "Malice",
     "type": "series",
-    "imdb_id": "tt31186865"
+    "imdb_id": "tt31036715"
   }
 ]

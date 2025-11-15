@@ -5,19 +5,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Golden Boy",
-    "type": "series",
-    "imdb_id": "tt21105088"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Frasier",
+    "name": "Golden Boy",
     "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt21105088"
   },
   {
     "name": "Young Sheldon",
@@ -25,14 +20,19 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "Dallas",
@@ -40,9 +40,9 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "The Andy Griffith Show",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "The Chosen",
@@ -50,9 +50,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "King of the Hill",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0053479"
   },
   {
     "name": "Bonanza",
@@ -60,24 +60,29 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
-  },
-  {
     "name": "Heartland",
     "type": "series",
     "imdb_id": "tt1094229"
   },
   {
-    "name": "The Bad Guys: Breaking In",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt31392119"
+    "imdb_id": "tt0118375"
   },
   {
-    "name": "Jeopardy!",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0159881"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Rugrats",
@@ -85,18 +90,13 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
-  },
-  {
-    "name": "That '70s Show",
-    "type": "series",
-    "imdb_id": "tt0165598"
   }
 ]

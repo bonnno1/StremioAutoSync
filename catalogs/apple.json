@@ -35,11 +35,6 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
@@ -50,14 +45,14 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Palm Royale",
-    "type": "series",
-    "imdb_id": "tt8888540"
   },
   {
     "name": "For All Mankind",
@@ -68,6 +63,11 @@
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Palm Royale",
+    "type": "series",
+    "imdb_id": "tt8888540"
   },
   {
     "name": "Loot",
@@ -90,9 +90,9 @@
     "imdb_id": "tt8068860"
   },
   {
-    "name": "Shrinking",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Mythic Quest",
