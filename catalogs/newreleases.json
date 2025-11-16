@@ -1,33 +1,83 @@
 [
   {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Talamasca: The Secret Order",
+    "type": "series",
+    "imdb_id": "tt32596156"
+  },
+  {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Strange Tales of Tang Dynasty",
     "type": "series",
     "imdb_id": "tt22797712"
   },
   {
-    "name": "Would You Marry Me?",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt38220632"
+    "imdb_id": "tt2580046"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Scene of the Crime",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt0806910"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0156214"
   },
   {
-    "name": "Saturday Night Live",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt0072562"
+    "imdb_id": "tt32612521"
   },
   {
-    "name": "Hello Saturday",
+    "name": "Last Week Tonight with John Oliver",
     "type": "series",
-    "imdb_id": "tt30985733"
+    "imdb_id": "tt3530232"
+  },
+  {
+    "name": "Mayor of Kingstown",
+    "type": "series",
+    "imdb_id": "tt11712058"
+  },
+  {
+    "name": "Tougen Anki",
+    "type": "series",
+    "imdb_id": "tt32344704"
+  },
+  {
+    "name": "Smiling Friends",
+    "type": "series",
+    "imdb_id": "tt12074628"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Amazing Night",
@@ -35,63 +85,18 @@
     "imdb_id": "tt32862759"
   },
   {
-    "name": "Fights Break Sphere",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt1094229"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Tracker",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt13875494"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Love & Crown",
-    "type": "series",
-    "imdb_id": "tt32679087"
-  },
-  {
-    "name": "The Banished Court Magician Aims to Become the Strongest",
-    "type": "series",
-    "imdb_id": "tt36631539"
-  },
-  {
-    "name": "My Hero Academia",
-    "type": "series",
-    "imdb_id": "tt5626028"
-  },
-  {
-    "name": "Detective Conan",
-    "type": "series",
-    "imdb_id": "tt0131179"
-  },
-  {
-    "name": "To Your Eternity",
-    "type": "series",
-    "imdb_id": "tt12063450"
-  },
-  {
-    "name": "ClaireBell",
-    "type": "series",
-    "imdb_id": "tt35996416"
-  },
-  {
-    "name": "Divas Hit the Road",
-    "type": "series",
-    "imdb_id": "tt4721732"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "Strictly Come Dancing",
-    "type": "series",
-    "imdb_id": "tt0411027"
+    "imdb_id": "tt30955673"
   }
 ]

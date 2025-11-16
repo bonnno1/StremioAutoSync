@@ -1,13 +1,13 @@
 [
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Mahsun J",
     "type": "series",
     "imdb_id": "tt31027788"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Rookie",
@@ -30,14 +30,14 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Daily Show",
@@ -45,14 +45,14 @@
     "imdb_id": "tt0115147"
   },
   {
+    "name": "Charmed",
+    "type": "series",
+    "imdb_id": "tt0158552"
+  },
+  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
   },
   {
     "name": "The Office",
@@ -60,19 +60,14 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt0108778"
   },
   {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Charmed",
-    "type": "series",
-    "imdb_id": "tt0158552"
   },
   {
     "name": "Two and a Half Men",
@@ -85,14 +80,19 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "Late Night with Seth Meyers",
     "type": "series",
     "imdb_id": "tt3513388"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Rick and Morty",

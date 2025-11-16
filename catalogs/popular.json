@@ -10,14 +10,29 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Pluribus",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Mahsun J",
+    "type": "series",
+    "imdb_id": "tt31027788"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -30,19 +45,9 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Grey's Anatomy",
+    "name": "Maxton Hall - The World Between Us",
     "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
-    "name": "Mahsun J",
-    "type": "series",
-    "imdb_id": "tt31027788"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt27792190"
   },
   {
     "name": "The Rookie",
@@ -50,19 +55,14 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "Dexter",
@@ -70,9 +70,24 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Maxton Hall - The World Between Us",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "Last Samurai Standing",
+    "type": "series",
+    "imdb_id": "tt32237534"
   },
   {
     "name": "Shameless",
@@ -83,20 +98,5 @@
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
   }
 ]

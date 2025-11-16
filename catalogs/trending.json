@@ -15,14 +15,19 @@
     "imdb_id": "tt22797712"
   },
   {
-    "name": "The Beast in Me",
-    "type": "series",
-    "imdb_id": "tt31974367"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Landman",
+    "type": "series",
+    "imdb_id": "tt14186672"
+  },
+  {
+    "name": "The Beast in Me",
+    "type": "series",
+    "imdb_id": "tt31974367"
   },
   {
     "name": "One Piece",
@@ -35,39 +40,9 @@
     "imdb_id": "tt19244304"
   },
   {
-    "name": "Dear X",
-    "type": "series",
-    "imdb_id": "tt37890201"
-  },
-  {
-    "name": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
     "name": "Robin Hood",
     "type": "series",
     "imdb_id": "tt33484460"
-  },
-  {
-    "name": "As You Stood By",
-    "type": "series",
-    "imdb_id": "tt33550045"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
-    "name": "All Her Fault",
-    "type": "series",
-    "imdb_id": "tt31314751"
   },
   {
     "name": "Tulsa King",
@@ -80,9 +55,9 @@
     "imdb_id": "tt34231642"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "Dear X",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt37890201"
   },
   {
     "name": "The Last Frontier",
@@ -90,8 +65,33 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Dynamite Kiss",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt38353551"
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "All Her Fault",
+    "type": "series",
+    "imdb_id": "tt31314751"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
   }
 ]
