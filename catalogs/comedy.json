@@ -10,14 +10,14 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "The Simpsons",
@@ -50,6 +50,11 @@
     "imdb_id": "tt0158552"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
@@ -65,11 +70,6 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
@@ -80,9 +80,9 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -90,9 +90,9 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Wednesday",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt3513388"
   },
   {
     "name": "Rick and Morty",
