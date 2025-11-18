@@ -25,14 +25,19 @@
     "imdb_id": "tt4613620"
   },
   {
+    "name": "MM!",
+    "type": "series",
+    "imdb_id": "tt1952071"
+  },
+  {
     "name": "1% of Anything",
     "type": "series",
     "imdb_id": "tt0771623"
   },
   {
-    "name": "MM!",
+    "name": "Go Princess Go",
     "type": "series",
-    "imdb_id": "tt1952071"
+    "imdb_id": "tt5319572"
   },
   {
     "name": "My Dear Cat",
@@ -43,21 +48,6 @@
     "name": "OniAi",
     "type": "series",
     "imdb_id": "tt2390038"
-  },
-  {
-    "name": "Go Princess Go",
-    "type": "series",
-    "imdb_id": "tt5319572"
-  },
-  {
-    "name": "Rosy Lovers",
-    "type": "series",
-    "imdb_id": "tt5204274"
-  },
-  {
-    "name": "New Tales of the Gisaeng",
-    "type": "series",
-    "imdb_id": "tt2788196"
   },
   {
     "name": "Witch's Castle",
@@ -75,19 +65,14 @@
     "imdb_id": "tt2275419"
   },
   {
-    "name": "Save the Family",
-    "type": "series",
-    "imdb_id": "tt5690206"
-  },
-  {
     "name": "Smile, You",
     "type": "series",
     "imdb_id": "tt6289530"
   },
   {
-    "name": "Brave Woman",
+    "name": "Rosy Lovers",
     "type": "series",
-    "imdb_id": "tt2476828"
+    "imdb_id": "tt5204274"
   },
   {
     "name": "Rin-ne",
@@ -95,8 +80,23 @@
     "imdb_id": "tt4584754"
   },
   {
-    "name": "The Fugitive of Joseon",
+    "name": "Save the Family",
     "type": "series",
-    "imdb_id": "tt3528368"
+    "imdb_id": "tt5690206"
+  },
+  {
+    "name": "Brave Woman",
+    "type": "series",
+    "imdb_id": "tt2476828"
+  },
+  {
+    "name": "New Tales of the Gisaeng",
+    "type": "series",
+    "imdb_id": "tt2788196"
+  },
+  {
+    "name": "Angel's Revenge",
+    "type": "series",
+    "imdb_id": "tt3541074"
   }
 ]
