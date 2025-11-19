@@ -25,6 +25,16 @@
     "imdb_id": "tt19244304"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
+  },
+  {
     "name": "Strange Tales of Tang Dynasty",
     "type": "series",
     "imdb_id": "tt22797712"
@@ -35,14 +45,14 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "The Manipulated",
@@ -50,14 +60,19 @@
     "imdb_id": "tt36188448"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Robin Hood",
     "type": "series",
     "imdb_id": "tt33484460"
   },
   {
-    "name": "The Witcher",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Last Frontier",
@@ -70,28 +85,18 @@
     "imdb_id": "tt34231642"
   },
   {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "All Her Fault",
     "type": "series",
     "imdb_id": "tt31314751"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Smiling Friends",
-    "type": "series",
-    "imdb_id": "tt12074628"
-  },
-  {
-    "name": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
   }
 ]

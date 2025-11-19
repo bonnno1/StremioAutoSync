@@ -20,14 +20,14 @@
     "imdb_id": "tt34231642"
   },
   {
-    "name": "Mrs Playmen",
-    "type": "series",
-    "imdb_id": "tt31078757"
-  },
-  {
     "name": "The Beast in Me",
     "type": "series",
     "imdb_id": "tt31974367"
+  },
+  {
+    "name": "Mrs Playmen",
+    "type": "series",
+    "imdb_id": "tt31078757"
   },
   {
     "name": "Wednesday",
@@ -50,29 +50,9 @@
     "imdb_id": "tt35664835"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "As You Stood By",
-    "type": "series",
-    "imdb_id": "tt33550045"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
   },
   {
     "name": "Black Mirror",
@@ -80,18 +60,38 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Weak Hero",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt0063951"
   },
   {
-    "name": "Heweliusz",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt32253092"
+    "imdb_id": "tt10795658"
+  },
+  {
+    "name": "As You Stood By",
+    "type": "series",
+    "imdb_id": "tt33550045"
   },
   {
     "name": "Just Alice",
     "type": "series",
     "imdb_id": "tt37762739"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
   }
 ]

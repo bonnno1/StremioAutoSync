@@ -15,24 +15,19 @@
     "imdb_id": "tt27792190"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "House of David",
@@ -45,6 +40,16 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -55,19 +60,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
   },
   {
     "name": "Malice",
@@ -75,18 +70,23 @@
     "imdb_id": "tt31036715"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   }
 ]
