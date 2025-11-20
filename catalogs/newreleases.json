@@ -1,13 +1,28 @@
 [
   {
-    "name": "Hazbin Hotel",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   },
   {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
   },
   {
     "name": "Binnelanders",
@@ -20,19 +35,9 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Esref Ruya",
-    "type": "series",
-    "imdb_id": "tt35069642"
-  },
-  {
     "name": "Strange Tales of Tang Dynasty",
     "type": "series",
     "imdb_id": "tt22797712"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
   },
   {
     "name": "Sturm der Liebe",
@@ -40,29 +45,19 @@
     "imdb_id": "tt0479846"
   },
   {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Campfire Cooking in Another World with My Absurd Skill",
-    "type": "series",
-    "imdb_id": "tt24229160"
-  },
-  {
-    "name": "Survivor",
-    "type": "series",
-    "imdb_id": "tt0239195"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
     "name": "Markus Lanz",
     "type": "series",
     "imdb_id": "tt1239083"
+  },
+  {
+    "name": "Love & Crown",
+    "type": "series",
+    "imdb_id": "tt32679087"
+  },
+  {
+    "name": "Dear X",
+    "type": "series",
+    "imdb_id": "tt37890201"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -75,14 +70,9 @@
     "imdb_id": "tt32862759"
   },
   {
-    "name": "Coronation Street",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Love & Crown",
-    "type": "series",
-    "imdb_id": "tt32679087"
+    "imdb_id": "tt3697842"
   },
   {
     "name": "Jeopardy!",
@@ -93,6 +83,16 @@
     "name": "Suidooster",
     "type": "series",
     "imdb_id": "tt5467444"
+  },
+  {
+    "name": "Ghosts",
+    "type": "series",
+    "imdb_id": "tt11379026"
+  },
+  {
+    "name": "Hell's Kitchen",
+    "type": "series",
+    "imdb_id": "tt0437005"
   },
   {
     "name": "EastEnders",

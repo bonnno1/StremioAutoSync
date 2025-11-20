@@ -1,13 +1,13 @@
 [
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
   },
   {
     "name": "Mahsun J",
@@ -15,9 +15,9 @@
     "imdb_id": "tt31027788"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Shameless",
@@ -45,14 +45,14 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",

@@ -10,29 +10,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
   },
   {
-    "name": "The Goldbergs",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Dancing with the Stars",
@@ -40,39 +25,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "King of the Hill",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0106004"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Dallas",
@@ -80,23 +40,63 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "The Nanny",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0118375"
   },
   {
-    "name": "That '70s Show",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0165598"
+    "imdb_id": "tt0052451"
   },
   {
-    "name": "Jeopardy!",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0159881"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
   },
   {
     "name": "Cranberry Sorbet",
     "type": "series",
     "imdb_id": "tt21764074"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Heartland",
+    "type": "series",
+    "imdb_id": "tt1094229"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   }
 ]

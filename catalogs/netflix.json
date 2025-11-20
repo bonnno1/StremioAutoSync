@@ -5,14 +5,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "Last Samurai Standing",
     "type": "series",
     "imdb_id": "tt32237534"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "The Crystal Cuckoo",
@@ -25,11 +25,6 @@
     "imdb_id": "tt31974367"
   },
   {
-    "name": "Mrs Playmen",
-    "type": "series",
-    "imdb_id": "tt31078757"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
@@ -38,6 +33,11 @@
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Mrs Playmen",
+    "type": "series",
+    "imdb_id": "tt31078757"
   },
   {
     "name": "Squid Game",
@@ -55,34 +55,14 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
-    "name": "As You Stood By",
-    "type": "series",
-    "imdb_id": "tt33550045"
-  },
-  {
     "name": "Just Alice",
     "type": "series",
     "imdb_id": "tt37762739"
   },
   {
-    "name": "Raw",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Weak Hero",
@@ -90,8 +70,28 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   }
 ]
