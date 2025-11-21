@@ -5,24 +5,24 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Last Samurai Standing",
+    "type": "series",
+    "imdb_id": "tt32237534"
+  },
+  {
+    "name": "Landman",
+    "type": "series",
+    "imdb_id": "tt14186672"
+  },
+  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
-  },
-  {
-    "name": "The Beast in Me",
-    "type": "series",
-    "imdb_id": "tt31974367"
   },
   {
     "name": "Strange Tales of Tang Dynasty",
@@ -35,9 +35,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Landman",
+    "name": "The Beast in Me",
     "type": "series",
-    "imdb_id": "tt14186672"
+    "imdb_id": "tt31974367"
   },
   {
     "name": "The Mighty Nein",
@@ -45,14 +45,14 @@
     "imdb_id": "tt26453092"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "A Man on the Inside",
@@ -60,19 +60,9 @@
     "imdb_id": "tt26670955"
   },
   {
-    "name": "The Manipulated",
+    "name": "The Last Frontier",
     "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "The Crystal Cuckoo",
-    "type": "series",
-    "imdb_id": "tt34231642"
-  },
-  {
-    "name": "Dear X",
-    "type": "series",
-    "imdb_id": "tt37890201"
+    "imdb_id": "tt26862142"
   },
   {
     "name": "Robin Hood",
@@ -80,9 +70,19 @@
     "imdb_id": "tt33484460"
   },
   {
-    "name": "One-Punch Man",
+    "name": "The Crystal Cuckoo",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt34231642"
+  },
+  {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   },
   {
     "name": "All Her Fault",
@@ -90,13 +90,13 @@
     "imdb_id": "tt31314751"
   },
   {
-    "name": "The Last Frontier",
+    "name": "Dear X",
     "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt37890201"
   },
   {
-    "name": "Maxton Hall - The World Between Us",
+    "name": "The Manipulated",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt36188448"
   }
 ]

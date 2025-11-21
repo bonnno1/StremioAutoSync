@@ -10,9 +10,9 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Doraemon",
@@ -20,9 +20,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Frasier",
@@ -40,34 +40,14 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
-    "name": "Cranberry Sorbet",
-    "type": "series",
-    "imdb_id": "tt21764074"
+    "imdb_id": "tt0052451"
   },
   {
     "name": "The Goldbergs",
@@ -80,6 +60,11 @@
     "imdb_id": "tt1942683"
   },
   {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
+  },
+  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
@@ -90,13 +75,28 @@
     "imdb_id": "tt1094229"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Cranberry Sorbet",
+    "type": "series",
+    "imdb_id": "tt21764074"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Jeopardy!",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0159881"
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "That '70s Show",
+    "type": "series",
+    "imdb_id": "tt0165598"
   }
 ]
