@@ -5,11 +5,6 @@
     "imdb_id": "tt19244304"
   },
   {
-    "name": "The Return of Superman",
-    "type": "series",
-    "imdb_id": "tt5129382"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -20,29 +15,14 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "The Return of Superman",
+    "type": "series",
+    "imdb_id": "tt5129382"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
   },
   {
     "name": "Grey's Anatomy",
@@ -50,19 +30,29 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
   },
   {
-    "name": "NCIS",
+    "name": "Last Samurai Standing",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt32237534"
   },
   {
     "name": "Tulsa King",
@@ -70,24 +60,14 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Pluribus",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "Mahsun J",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt31027788"
-  },
-  {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Dexter",
@@ -95,8 +75,28 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Mahsun J",
+    "type": "series",
+    "imdb_id": "tt31027788"
   }
 ]

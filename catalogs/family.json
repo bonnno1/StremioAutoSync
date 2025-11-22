@@ -15,14 +15,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Frasier",
@@ -30,14 +30,19 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0118375"
   },
   {
-    "name": "Dallas",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Jurassic World: Chaos Theory",
+    "type": "series",
+    "imdb_id": "tt29899148"
   },
   {
     "name": "The Chosen",
@@ -55,14 +60,24 @@
     "imdb_id": "tt2712740"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
   },
   {
-    "name": "The Andy Griffith Show",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt0077000"
   },
   {
     "name": "The Nanny",
@@ -75,28 +90,8 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "King of the Hill",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Cranberry Sorbet",
-    "type": "series",
-    "imdb_id": "tt21764074"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "That '70s Show",
-    "type": "series",
-    "imdb_id": "tt0165598"
+    "imdb_id": "tt0159881"
   }
 ]

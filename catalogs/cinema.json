@@ -10,6 +10,11 @@
     "imdb_id": "tt31227572"
   },
   {
+    "name": "Wicked: For Good",
+    "type": "movie",
+    "imdb_id": "tt19847976"
+  },
+  {
     "name": "Now You See Me: Now You Don't",
     "type": "movie",
     "imdb_id": "tt4712810"
@@ -25,14 +30,14 @@
     "imdb_id": "tt30472557"
   },
   {
-    "name": "Wicked: For Good",
-    "type": "movie",
-    "imdb_id": "tt19847976"
-  },
-  {
     "name": "Shelby Oaks",
     "type": "movie",
     "imdb_id": "tt14999684"
+  },
+  {
+    "name": "After the Hunt",
+    "type": "movie",
+    "imdb_id": "tt32159989"
   },
   {
     "name": "Roofman",
@@ -45,9 +50,9 @@
     "imdb_id": "tt14107334"
   },
   {
-    "name": "After the Hunt",
+    "name": "Train Dreams",
     "type": "movie",
-    "imdb_id": "tt32159989"
+    "imdb_id": "tt29768334"
   },
   {
     "name": "If I Had Legs I'd Kick You",
@@ -93,10 +98,5 @@
     "name": "Kiss of the Spider Woman",
     "type": "movie",
     "imdb_id": "tt30400277"
-  },
-  {
-    "name": "ParaNorman",
-    "type": "movie",
-    "imdb_id": "tt1623288"
   }
 ]
