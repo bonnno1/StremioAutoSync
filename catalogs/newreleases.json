@@ -1,13 +1,63 @@
 [
   {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Landman",
+    "type": "series",
+    "imdb_id": "tt14186672"
+  },
+  {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
+  },
+  {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Strange Tales of Tang Dynasty",
     "type": "series",
     "imdb_id": "tt22797712"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Smiling Friends",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt12074628"
+  },
+  {
+    "name": "Scene of the Crime",
+    "type": "series",
+    "imdb_id": "tt0806910"
+  },
+  {
+    "name": "Mayor of Kingstown",
+    "type": "series",
+    "imdb_id": "tt11712058"
   },
   {
     "name": "Love & Crown",
@@ -15,78 +65,38 @@
     "imdb_id": "tt32679087"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt0156214"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Talamasca: The Secret Order",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt32596156"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Bob's Burgers",
+    "type": "series",
+    "imdb_id": "tt1561755"
+  },
+  {
+    "name": "Tracker",
+    "type": "series",
+    "imdb_id": "tt13875494"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Match of the Day",
     "type": "series",
     "imdb_id": "tt0135733"
-  },
-  {
-    "name": "Amazing Night",
-    "type": "series",
-    "imdb_id": "tt32862759"
-  },
-  {
-    "name": "Hello Saturday",
-    "type": "series",
-    "imdb_id": "tt30985733"
-  },
-  {
-    "name": "Fights Break Sphere",
-    "type": "series",
-    "imdb_id": "tt12409194"
-  },
-  {
-    "name": "Taxi Driver",
-    "type": "series",
-    "imdb_id": "tt13759970"
-  },
-  {
-    "name": "My Hero Academia",
-    "type": "series",
-    "imdb_id": "tt5626028"
-  },
-  {
-    "name": "To Your Eternity",
-    "type": "series",
-    "imdb_id": "tt12063450"
-  },
-  {
-    "name": "Me and Thee",
-    "type": "series",
-    "imdb_id": "tt34929687"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "Poisonous Love",
-    "type": "series",
-    "imdb_id": "tt35557156"
-  },
-  {
-    "name": "Strictly Come Dancing",
-    "type": "series",
-    "imdb_id": "tt0411027"
-  },
-  {
-    "name": "ClaireBell",
-    "type": "series",
-    "imdb_id": "tt35996416"
-  },
-  {
-    "name": "The Banished Court Magician Aims to Become the Strongest",
-    "type": "series",
-    "imdb_id": "tt36631539"
   }
 ]

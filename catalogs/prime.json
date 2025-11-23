@@ -20,14 +20,14 @@
     "imdb_id": "tt6794990"
   },
   {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
   },
   {
     "name": "The Boys",
@@ -40,16 +40,6 @@
     "imdb_id": "tt31036715"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -60,14 +50,19 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Tatsuki Fujimoto 17-26",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt38491451"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Gen V",
@@ -80,6 +75,16 @@
     "imdb_id": "tt3502248"
   },
   {
+    "name": "The Family Man",
+    "type": "series",
+    "imdb_id": "tt9544034"
+  },
+  {
+    "name": "Tatsuki Fujimoto 17-26",
+    "type": "series",
+    "imdb_id": "tt38491451"
+  },
+  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
@@ -88,10 +93,5 @@
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   }
 ]

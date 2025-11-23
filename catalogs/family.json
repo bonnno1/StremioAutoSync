@@ -10,14 +10,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Doraemon",
@@ -30,19 +30,14 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
     "name": "Jurassic World: Chaos Theory",
     "type": "series",
     "imdb_id": "tt29899148"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "The Chosen",
@@ -50,24 +45,29 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Bonanza",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0053479"
   },
   {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -85,13 +85,18 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Heartland",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Cranberry Sorbet",
+    "type": "series",
+    "imdb_id": "tt21764074"
   }
 ]
