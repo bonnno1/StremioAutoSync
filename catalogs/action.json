@@ -15,19 +15,24 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Last Samurai Standing",
+    "type": "series",
+    "imdb_id": "tt32237534"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "The Walking Dead",
@@ -38,11 +43,6 @@
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -60,29 +60,19 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "type": "series",
+    "imdb_id": "tt36593026"
+  },
+  {
     "name": "Robin Hood",
     "type": "series",
     "imdb_id": "tt33484460"
   },
   {
-    "name": "Dinastía Casillas",
+    "name": "Strange Tales of Tang Dynasty",
     "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt22797712"
   },
   {
     "name": "Squid Game",
@@ -90,13 +80,23 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Doctor Who",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Dinastía Casillas",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt38629881"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   }
 ]

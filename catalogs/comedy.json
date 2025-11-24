@@ -5,14 +5,14 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "The Simpsons",
@@ -25,14 +25,14 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Mahsun J",
@@ -40,19 +40,19 @@
     "imdb_id": "tt31027788"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Two and a Half Men",
@@ -60,14 +60,9 @@
     "imdb_id": "tt0369179"
   },
   {
-    "name": "Modern Family",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Wednesday",
@@ -80,6 +75,11 @@
     "imdb_id": "tt0397306"
   },
   {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -90,13 +90,13 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
     "name": "Late Night with Seth Meyers",
     "type": "series",
     "imdb_id": "tt3513388"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
   }
 ]

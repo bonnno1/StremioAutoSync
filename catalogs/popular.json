@@ -1,18 +1,13 @@
 [
   {
-    "name": "IT: Welcome to Derry",
-    "type": "series",
-    "imdb_id": "tt19244304"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Vikings",
+    "name": "IT: Welcome to Derry",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt19244304"
   },
   {
     "name": "Hazbin Hotel",
@@ -25,6 +20,11 @@
     "imdb_id": "tt5129382"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -35,19 +35,14 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
   },
   {
     "name": "The Rookie",
@@ -55,9 +50,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Pluribus",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt5180504"
   },
   {
     "name": "NCIS",
@@ -65,19 +60,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt22202452"
   },
   {
     "name": "The Simpsons",
@@ -85,9 +75,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Law & Order",
+    "name": "Last Samurai Standing",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt32237534"
   },
   {
     "name": "Shameless",
@@ -98,5 +88,15 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "The Blacklist",
+    "type": "series",
+    "imdb_id": "tt2741602"
   }
 ]

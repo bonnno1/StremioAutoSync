@@ -20,14 +20,14 @@
     "imdb_id": "tt26920256"
   },
   {
-    "name": "Monster Island",
-    "type": "movie",
-    "imdb_id": "tt29262075"
-  },
-  {
     "name": "Shelby Oaks",
     "type": "movie",
     "imdb_id": "tt14999684"
+  },
+  {
+    "name": "Monster Island",
+    "type": "movie",
+    "imdb_id": "tt29262075"
   },
   {
     "name": "Pacific Fear",
@@ -65,11 +65,6 @@
     "imdb_id": "tt22697898"
   },
   {
-    "name": "The Dogs",
-    "type": "movie",
-    "imdb_id": "tt7873304"
-  },
-  {
     "name": "Holy Night: Demon Hunters",
     "type": "movie",
     "imdb_id": "tt15766876"
@@ -85,13 +80,18 @@
     "imdb_id": "tt29344903"
   },
   {
+    "name": "The Dogs",
+    "type": "movie",
+    "imdb_id": "tt7873304"
+  },
+  {
     "name": "Wake",
     "type": "movie",
     "imdb_id": "tt18293318"
   },
   {
-    "name": "The Strangers: Chapter 2",
+    "name": "The Long Walk",
     "type": "movie",
-    "imdb_id": "tt28671344"
+    "imdb_id": "tt10374610"
   }
 ]

@@ -15,11 +15,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Jurassic World: Chaos Theory",
     "type": "series",
     "imdb_id": "tt29899148"
@@ -30,14 +25,29 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
   },
   {
     "name": "Rugrats",
@@ -50,19 +60,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "The Ren & Stimpy Show",
-    "type": "series",
-    "imdb_id": "tt0101178"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt0103369"
   },
   {
     "name": "Duel Masters",
@@ -70,24 +70,9 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
   },
   {
     "name": "The Loud House",
@@ -95,8 +80,18 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Gravity Falls",
+    "name": "The Ren & Stimpy Show",
     "type": "series",
-    "imdb_id": "tt1865718"
+    "imdb_id": "tt0101178"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]
