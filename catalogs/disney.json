@@ -1,13 +1,18 @@
 [
   {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Daughter of Fire",
+    "type": "series",
+    "imdb_id": "tt32126001"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "Bluey",
@@ -30,9 +35,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Disney Twisted-Wonderland: The Animation",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt28306749"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Andor",
@@ -45,6 +50,11 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "Disney Twisted-Wonderland: The Animation",
+    "type": "series",
+    "imdb_id": "tt28306749"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
@@ -53,6 +63,16 @@
     "name": "Marvel Zombies",
     "type": "series",
     "imdb_id": "tt16027014"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Soy Luna",
@@ -65,14 +85,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Moon Knight",
+    "name": "Ironheart",
     "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt13623126"
   },
   {
     "name": "Star Wars: Visions",
@@ -80,23 +95,8 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Ironheart",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Tempest",
-    "type": "series",
-    "imdb_id": "tt27368147"
+    "imdb_id": "tt10234724"
   }
 ]

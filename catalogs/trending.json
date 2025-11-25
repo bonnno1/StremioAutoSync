@@ -1,13 +1,13 @@
 [
   {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Strange Tales of Tang Dynasty",
@@ -25,9 +25,9 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Last Samurai Standing",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt32237534"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Landman",
@@ -35,24 +35,9 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "The Mighty Nein",
+    "name": "Last Samurai Standing",
     "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Love on the Turquoise Land",
-    "type": "series",
-    "imdb_id": "tt31828796"
+    "imdb_id": "tt32237534"
   },
   {
     "name": "A Man on the Inside",
@@ -60,14 +45,39 @@
     "imdb_id": "tt26670955"
   },
   {
-    "name": "Taxi Driver",
+    "name": "The Mighty Nein",
     "type": "series",
-    "imdb_id": "tt13759970"
+    "imdb_id": "tt26453092"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
   },
   {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Taxi Driver",
+    "type": "series",
+    "imdb_id": "tt13759970"
+  },
+  {
+    "name": "All Her Fault",
+    "type": "series",
+    "imdb_id": "tt31314751"
   },
   {
     "name": "The Manipulated",
@@ -80,23 +90,13 @@
     "imdb_id": "tt31974367"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Chair Company",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt31987295"
   },
   {
-    "name": "Robin Hood",
+    "name": "Legend of the Magnate",
     "type": "series",
-    "imdb_id": "tt33484460"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt31888090"
   }
 ]
