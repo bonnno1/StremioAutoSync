@@ -10,14 +10,19 @@
     "imdb_id": "tt21105088"
   },
   {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Doraemon",
@@ -25,24 +30,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Jurassic World: Chaos Theory",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt29899148"
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Wagon Train",
+    "type": "series",
+    "imdb_id": "tt0050073"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
   },
   {
     "name": "The Chosen",
@@ -55,19 +60,14 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Jurassic World: Chaos Theory",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt29899148"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Bonanza",
@@ -75,28 +75,23 @@
     "imdb_id": "tt0052451"
   },
   {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Cranberry Sorbet",
-    "type": "series",
-    "imdb_id": "tt21764074"
-  },
-  {
     "name": "The Andy Griffith Show",
     "type": "series",
     "imdb_id": "tt0053479"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
   }
 ]

@@ -1,13 +1,23 @@
 [
   {
-    "name": "Pluribus",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt4574334"
   },
   {
-    "name": "The Last Frontier",
+    "name": "The Return of Superman",
     "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt5129382"
+  },
+  {
+    "name": "Esref Ruya",
+    "type": "series",
+    "imdb_id": "tt35069642"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Binnelanders",
@@ -25,9 +35,19 @@
     "imdb_id": "tt38629881"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt24229160"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "Love & Crown",
@@ -40,14 +60,14 @@
     "imdb_id": "tt1239083"
   },
   {
+    "name": "Coronation Street",
+    "type": "series",
+    "imdb_id": "tt0053494"
+  },
+  {
     "name": "Amazing Night",
     "type": "series",
     "imdb_id": "tt32862759"
-  },
-  {
-    "name": "Die Rosenheim-Cops",
-    "type": "series",
-    "imdb_id": "tt0305095"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -55,9 +75,19 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "My Status as an Assassin Obviously Exceeds the Hero's",
+    "name": "Survivor",
     "type": "series",
-    "imdb_id": "tt36230718"
+    "imdb_id": "tt0239195"
+  },
+  {
+    "name": "Shetland",
+    "type": "series",
+    "imdb_id": "tt2396135"
+  },
+  {
+    "name": "6 of Us",
+    "type": "series",
+    "imdb_id": "tt33349183"
   },
   {
     "name": "EastEnders",
@@ -65,33 +95,8 @@
     "imdb_id": "tt0088512"
   },
   {
-    "name": "QI",
+    "name": "Throne of Seal",
     "type": "series",
-    "imdb_id": "tt0380136"
-  },
-  {
-    "name": "Suidooster",
-    "type": "series",
-    "imdb_id": "tt5467444"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "All's Fair",
-    "type": "series",
-    "imdb_id": "tt30291387"
-  },
-  {
-    "name": "La que se avecina",
-    "type": "series",
-    "imdb_id": "tt0922037"
-  },
-  {
-    "name": "Dreams of Liberty",
-    "type": "series",
-    "imdb_id": "tt30002038"
+    "imdb_id": "tt19902148"
   }
 ]

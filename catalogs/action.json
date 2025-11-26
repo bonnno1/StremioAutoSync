@@ -5,14 +5,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Witcher",
@@ -20,14 +20,29 @@
     "imdb_id": "tt5180504"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Last Samurai Standing",
     "type": "series",
     "imdb_id": "tt32237534"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   },
   {
     "name": "One-Punch Man",
@@ -35,9 +50,9 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "The Walking Dead",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt0285331"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -50,9 +65,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "24",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Prison Break",
@@ -78,25 +98,5 @@
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
   }
 ]
