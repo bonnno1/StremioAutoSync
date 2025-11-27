@@ -1,25 +1,5 @@
 [
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Return of Superman",
-    "type": "series",
-    "imdb_id": "tt5129382"
-  },
-  {
-    "name": "Esref Ruya",
-    "type": "series",
-    "imdb_id": "tt35069642"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
@@ -30,24 +10,9 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Dinastía Casillas",
+    "name": "Sturm der Liebe",
     "type": "series",
-    "imdb_id": "tt38629881"
-  },
-  {
-    "name": "Campfire Cooking in Another World with My Absurd Skill",
-    "type": "series",
-    "imdb_id": "tt24229160"
-  },
-  {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
+    "imdb_id": "tt0479846"
   },
   {
     "name": "Love & Crown",
@@ -60,14 +25,14 @@
     "imdb_id": "tt1239083"
   },
   {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
     "name": "Amazing Night",
     "type": "series",
     "imdb_id": "tt32862759"
+  },
+  {
+    "name": "Dear X",
+    "type": "series",
+    "imdb_id": "tt37890201"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -75,19 +40,24 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Survivor",
+    "name": "El hormiguero",
     "type": "series",
-    "imdb_id": "tt0239195"
+    "imdb_id": "tt0870872"
   },
   {
-    "name": "Shetland",
+    "name": "Adventure Time: Fionna & Cake",
     "type": "series",
-    "imdb_id": "tt2396135"
+    "imdb_id": "tt15248880"
   },
   {
-    "name": "6 of Us",
+    "name": "Dreams of Liberty",
     "type": "series",
-    "imdb_id": "tt33349183"
+    "imdb_id": "tt30002038"
+  },
+  {
+    "name": "Dynamite Kiss",
+    "type": "series",
+    "imdb_id": "tt38353551"
   },
   {
     "name": "EastEnders",
@@ -95,8 +65,38 @@
     "imdb_id": "tt0088512"
   },
   {
-    "name": "Throne of Seal",
+    "name": "Hot Ones",
     "type": "series",
-    "imdb_id": "tt19902148"
+    "imdb_id": "tt6556992"
+  },
+  {
+    "name": "Love on the Turquoise Land",
+    "type": "series",
+    "imdb_id": "tt31828796"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Suidooster",
+    "type": "series",
+    "imdb_id": "tt5467444"
+  },
+  {
+    "name": "Legend of the Magnate",
+    "type": "series",
+    "imdb_id": "tt31888090"
+  },
+  {
+    "name": "Natural High",
+    "type": "series",
+    "imdb_id": "tt30461072"
+  },
+  {
+    "name": "La promesa",
+    "type": "series",
+    "imdb_id": "tt22325164"
   }
 ]

@@ -10,11 +10,6 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -25,9 +20,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Sesame Street",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Jurassic World: Chaos Theory",
@@ -35,14 +30,19 @@
     "imdb_id": "tt29899148"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
   },
   {
     "name": "Duel Masters",
@@ -50,14 +50,9 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "The Bullwinkle Show",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt0052507"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Super Wings",
@@ -65,9 +60,14 @@
     "imdb_id": "tt3600266"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -75,23 +75,23 @@
     "imdb_id": "tt3559124"
   },
   {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
+  },
+  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
   },
   {
+    "name": "The Ren & Stimpy Show",
+    "type": "series",
+    "imdb_id": "tt0101178"
+  },
+  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Mickey Mouse Clubhouse",
-    "type": "series",
-    "imdb_id": "tt0784896"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
   }
 ]

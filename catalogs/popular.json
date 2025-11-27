@@ -1,13 +1,13 @@
 [
   {
-    "name": "IT: Welcome to Derry",
-    "type": "series",
-    "imdb_id": "tt19244304"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
   },
   {
     "name": "Supernatural",
@@ -20,29 +20,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "The Return of Superman",
-    "type": "series",
-    "imdb_id": "tt5129382"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
   },
   {
     "name": "Tulsa King",
@@ -50,29 +30,19 @@
     "imdb_id": "tt16358384"
   },
   {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
   },
   {
     "name": "Dexter",
@@ -80,14 +50,39 @@
     "imdb_id": "tt0773262"
   },
   {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "The Blacklist",
+    "type": "series",
+    "imdb_id": "tt2741602"
   },
   {
     "name": "Law & Order",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "The Blacklist",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt2741602"
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   }
 ]
