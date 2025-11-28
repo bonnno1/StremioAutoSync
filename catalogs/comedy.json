@@ -15,11 +15,6 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
@@ -35,24 +30,19 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "Two and a Half Men",
@@ -65,9 +55,14 @@
     "imdb_id": "tt31027788"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Modern Family",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0397306"
   },
   {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
+    "imdb_id": "tt0121955"
   }
 ]

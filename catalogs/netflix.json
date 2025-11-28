@@ -10,11 +10,6 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
@@ -23,6 +18,11 @@
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Last Samurai Standing",
+    "type": "series",
+    "imdb_id": "tt32237534"
   },
   {
     "name": "Squid Game",
@@ -40,14 +40,19 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "The Crystal Cuckoo",
-    "type": "series",
-    "imdb_id": "tt34231642"
-  },
-  {
     "name": "A Man on the Inside",
     "type": "series",
     "imdb_id": "tt26670955"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
+    "name": "The Crystal Cuckoo",
+    "type": "series",
+    "imdb_id": "tt34231642"
   },
   {
     "name": "Alice in Borderland",
@@ -60,19 +65,9 @@
     "imdb_id": "tt37762739"
   },
   {
-    "name": "Weak Hero",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt7221388"
   },
   {
     "name": "Raw",
@@ -80,18 +75,23 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Cobra Kai",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Jurassic World: Chaos Theory",
-    "type": "series",
-    "imdb_id": "tt29899148"
+    "imdb_id": "tt7134908"
   },
   {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
   }
 ]

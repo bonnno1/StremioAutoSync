@@ -10,14 +10,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Peppa Pig",
@@ -25,19 +25,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Jurassic World: Chaos Theory",
-    "type": "series",
-    "imdb_id": "tt29899148"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "Doraemon",
@@ -45,19 +35,34 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Jurassic World: Chaos Theory",
+    "type": "series",
+    "imdb_id": "tt29899148"
+  },
+  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Wow! Wow! Wubbzy!",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt0762067"
   },
   {
     "name": "Super Wings",
     "type": "series",
     "imdb_id": "tt3600266"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Pokémon Horizons",
@@ -75,11 +80,6 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
@@ -90,8 +90,8 @@
     "imdb_id": "tt0101178"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt4859164"
   }
 ]

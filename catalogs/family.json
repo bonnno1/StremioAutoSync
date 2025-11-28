@@ -15,19 +15,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "King of the Hill",
@@ -35,14 +30,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Doraemon",
@@ -50,19 +40,19 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
   },
   {
     "name": "The Nanny",
@@ -70,19 +60,9 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Dallas",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Jurassic World: Chaos Theory",
-    "type": "series",
-    "imdb_id": "tt29899148"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1094229"
   },
   {
     "name": "Phineas and Ferb",
@@ -90,8 +70,28 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "That '70s Show",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0165598"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Forbidden Fruit",
+    "type": "series",
+    "imdb_id": "tt8045936"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   }
 ]
