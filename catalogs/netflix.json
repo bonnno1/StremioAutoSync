@@ -10,14 +10,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Last Samurai Standing",
@@ -30,19 +30,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "The Beast in Me",
-    "type": "series",
-    "imdb_id": "tt31974367"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "A Man on the Inside",
+    "name": "The Beast in Me",
     "type": "series",
-    "imdb_id": "tt26670955"
+    "imdb_id": "tt31974367"
   },
   {
     "name": "Weak Hero",
@@ -50,39 +45,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "The Crystal Cuckoo",
-    "type": "series",
-    "imdb_id": "tt34231642"
-  },
-  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
-  },
-  {
-    "name": "Just Alice",
-    "type": "series",
-    "imdb_id": "tt37762739"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Black Mirror",
@@ -90,8 +55,48 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Ozark",
+    "type": "series",
+    "imdb_id": "tt5071412"
+  },
+  {
+    "name": "A Man on the Inside",
+    "type": "series",
+    "imdb_id": "tt26670955"
+  },
+  {
+    "name": "Just Alice",
+    "type": "series",
+    "imdb_id": "tt37762739"
+  },
+  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   }
 ]

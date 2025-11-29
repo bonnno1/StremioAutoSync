@@ -15,6 +15,11 @@
     "imdb_id": "tt0460681"
   },
   {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
@@ -25,19 +30,9 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "The Simpsons",
@@ -45,14 +40,14 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
   },
   {
     "name": "Game of Thrones",
@@ -60,19 +55,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Shameless",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt5180504"
   },
   {
     "name": "House",
@@ -80,14 +65,14 @@
     "imdb_id": "tt0412142"
   },
   {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
     "name": "The Blacklist",
     "type": "series",
     "imdb_id": "tt2741602"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
   },
   {
     "name": "Criminal Minds",
@@ -95,8 +80,23 @@
     "imdb_id": "tt0452046"
   },
   {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   }
 ]
