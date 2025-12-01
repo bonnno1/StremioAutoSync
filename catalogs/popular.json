@@ -15,6 +15,11 @@
     "imdb_id": "tt0460681"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
@@ -23,11 +28,6 @@
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
   },
   {
     "name": "The Rookie",
@@ -45,6 +45,11 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Heated Rivalry",
+    "type": "series",
+    "imdb_id": "tt35495073"
+  },
+  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
@@ -60,14 +65,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
   },
   {
     "name": "The Blacklist",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   }
 ]

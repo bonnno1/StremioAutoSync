@@ -5,14 +5,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -20,9 +20,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "The Smurfs",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0081933"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Sesame Street",
@@ -30,19 +30,19 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Doraemon",
+    "name": "Jurassic World Camp Cretaceous",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt10436228"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   },
   {
     "name": "Rugrats",
@@ -50,19 +50,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Super Wings",
+    "name": "The Smurfs",
     "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
-    "name": "Beyblade Burst",
-    "type": "series",
-    "imdb_id": "tt6348126"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0081933"
   },
   {
     "name": "The Fairly OddParents",
@@ -70,14 +60,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Mickey Mouse Funhouse",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt13262134"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0972534"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -90,8 +75,18 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "iCarly",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Jurassic World: Chaos Theory",
+    "type": "series",
+    "imdb_id": "tt29899148"
   }
 ]

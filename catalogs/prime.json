@@ -1,23 +1,23 @@
 [
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Maxton Hall - The World Between Us",
     "type": "series",
     "imdb_id": "tt27792190"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Boys",
@@ -35,19 +35,24 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
   },
   {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   },
   {
     "name": "Bosch",
@@ -70,9 +75,9 @@
     "imdb_id": "tt9544034"
   },
   {
-    "name": "House of David",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Fallout",
@@ -80,18 +85,13 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
   },
   {
-    "name": "La que se avecina",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt0922037"
+    "imdb_id": "tt5057054"
   }
 ]
