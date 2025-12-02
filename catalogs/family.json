@@ -25,11 +25,6 @@
     "imdb_id": "tt0051308"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -45,11 +40,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
@@ -58,6 +48,11 @@
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Heartland",
+    "type": "series",
+    "imdb_id": "tt1094229"
   },
   {
     "name": "Frasier",
@@ -70,14 +65,9 @@
     "imdb_id": "tt21764074"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Forbidden Fruit",
@@ -85,8 +75,28 @@
     "imdb_id": "tt8045936"
   },
   {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   }
 ]

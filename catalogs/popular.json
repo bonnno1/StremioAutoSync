@@ -30,14 +30,14 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Heated Rivalry",
+    "type": "series",
+    "imdb_id": "tt35495073"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "NCIS",
@@ -45,19 +45,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Heated Rivalry",
-    "type": "series",
-    "imdb_id": "tt35495073"
-  },
-  {
     "name": "Dexter",
     "type": "series",
     "imdb_id": "tt0773262"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
   },
   {
     "name": "The Witcher",
@@ -65,9 +55,19 @@
     "imdb_id": "tt5180504"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "House",
@@ -85,6 +85,11 @@
     "imdb_id": "tt0452046"
   },
   {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -93,10 +98,5 @@
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
   }
 ]

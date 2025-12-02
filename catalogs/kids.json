@@ -20,11 +20,6 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -32,22 +27,17 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Jurassic World Camp Cretaceous",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt10436228"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "The Smurfs",
@@ -60,9 +50,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "iCarly",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -70,14 +60,24 @@
     "imdb_id": "tt0784896"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Henry Danger",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt3596174"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   },
   {
     "name": "Super Wings",
@@ -88,5 +88,15 @@
     "name": "Jurassic World: Chaos Theory",
     "type": "series",
     "imdb_id": "tt29899148"
+  },
+  {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   }
 ]

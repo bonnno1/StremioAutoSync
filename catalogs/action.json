@@ -10,14 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Dinastía Casillas",
@@ -25,9 +25,9 @@
     "imdb_id": "tt38629881"
   },
   {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt36593026"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Vikings",
@@ -40,19 +40,9 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "One-Punch Man",
+    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
     "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt36593026"
   },
   {
     "name": "Robin Hood",
@@ -65,24 +55,24 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "Kuruluş Osman",
     "type": "series",
     "imdb_id": "tt11093718"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt2580046"
   },
   {
-    "name": "Last Samurai Standing",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0285331"
   },
   {
     "name": "Squid Game",
@@ -90,13 +80,23 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Lost",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   }
 ]
