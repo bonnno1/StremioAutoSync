@@ -1,10 +1,5 @@
 [
   {
-    "name": "Maxton Hall - The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
-  },
-  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
@@ -13,6 +8,11 @@
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
   },
   {
     "name": "Hazbin Hotel",
@@ -55,11 +55,6 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -70,14 +65,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "The Family Man",
+    "name": "The Mighty Nein",
     "type": "series",
-    "imdb_id": "tt9544034"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt26453092"
   },
   {
     "name": "The Expanse",
@@ -88,6 +78,16 @@
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "La que se avecina",
+    "type": "series",
+    "imdb_id": "tt0922037"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Terminal List: Dark Wolf",
