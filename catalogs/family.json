@@ -20,6 +20,21 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "The Rifleman",
+    "type": "series",
+    "imdb_id": "tt0051308"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -32,22 +47,7 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Rifleman",
-    "type": "series",
-    "imdb_id": "tt0051308"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "King of the Hill",
@@ -55,9 +55,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Doraemon",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0077000"
   },
   {
     "name": "Forbidden Fruit",
@@ -70,19 +70,9 @@
     "imdb_id": "tt21764074"
   },
   {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "Dancing with the Stars",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "The Smurfs",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0081933"
+    "imdb_id": "tt2771780"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Far Away",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt34063491"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "That '70s Show",
+    "type": "series",
+    "imdb_id": "tt0165598"
   }
 ]

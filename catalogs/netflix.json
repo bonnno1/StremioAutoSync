@@ -35,6 +35,11 @@
     "imdb_id": "tt32237534"
   },
   {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
@@ -45,34 +50,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "The Beast in Me",
@@ -80,9 +60,14 @@
     "imdb_id": "tt31974367"
   },
   {
-    "name": "Bridgerton",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Dark",
@@ -90,8 +75,23 @@
     "imdb_id": "tt5753856"
   },
   {
-    "name": "The Crown",
+    "name": "The Last Kingdom",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Just Alice",
+    "type": "series",
+    "imdb_id": "tt37762739"
   }
 ]

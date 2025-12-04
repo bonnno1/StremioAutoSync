@@ -35,14 +35,19 @@
     "imdb_id": "tt28306749"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "Fortnite x The Simpsons",
     "type": "series",
     "imdb_id": "tt38821667"
   },
   {
-    "name": "Andor",
+    "name": "Sekizinci Aile",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt38781098"
   },
   {
     "name": "Loki",
@@ -70,21 +75,6 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "The Beatles Anthology",
-    "type": "series",
-    "imdb_id": "tt0111893"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Sekizinci Aile",
-    "type": "series",
-    "imdb_id": "tt38781098"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
@@ -98,5 +88,15 @@
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
+  },
+  {
+    "name": "The Beatles Anthology",
+    "type": "series",
+    "imdb_id": "tt0111893"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   }
 ]
