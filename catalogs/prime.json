@@ -1,23 +1,23 @@
 [
   {
-    "name": "Absentia",
-    "type": "series",
-    "imdb_id": "tt6794990"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Maxton Hall - The World Between Us",
+    "name": "Absentia",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt6794990"
   },
   {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Maxton Hall - The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
   },
   {
     "name": "The Boys",
@@ -35,9 +35,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt30955673"
   },
   {
     "name": "INVINCIBLE",
@@ -45,9 +45,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "House of David",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -65,14 +70,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "The Mighty Nein",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Goliath",
@@ -80,14 +80,14 @@
     "imdb_id": "tt4687880"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "La que se avecina",
     "type": "series",
     "imdb_id": "tt0922037"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   },
   {
     "name": "The Terminal List: Dark Wolf",

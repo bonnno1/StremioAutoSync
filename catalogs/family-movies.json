@@ -20,11 +20,6 @@
     "imdb_id": "tt38774646"
   },
   {
-    "name": "Yogi Bear",
-    "type": "movie",
-    "imdb_id": "tt1302067"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
@@ -50,9 +45,9 @@
     "imdb_id": "tt26720001"
   },
   {
-    "name": "Elio",
+    "name": "Family Disaster",
     "type": "movie",
-    "imdb_id": "tt4900148"
+    "imdb_id": "tt32768356"
   },
   {
     "name": "Lilo & Stitch",
@@ -65,14 +60,9 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "E.T. the Extra-Terrestrial",
+    "name": "Elio",
     "type": "movie",
-    "imdb_id": "tt0083866"
-  },
-  {
-    "name": "Family Disaster",
-    "type": "movie",
-    "imdb_id": "tt32768356"
+    "imdb_id": "tt4900148"
   },
   {
     "name": "Inside Out 2",
@@ -80,14 +70,14 @@
     "imdb_id": "tt22022452"
   },
   {
-    "name": "The Family Plan",
-    "type": "movie",
-    "imdb_id": "tt16431870"
-  },
-  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
+  },
+  {
+    "name": "The Family Plan",
+    "type": "movie",
+    "imdb_id": "tt16431870"
   },
   {
     "name": "Home Alone 2: Lost in New York",
@@ -98,5 +88,15 @@
     "name": "In Your Dreams",
     "type": "movie",
     "imdb_id": "tt27604215"
+  },
+  {
+    "name": "Yogi Bear",
+    "type": "movie",
+    "imdb_id": "tt1302067"
+  },
+  {
+    "name": "Sonic the Hedgehog 3",
+    "type": "movie",
+    "imdb_id": "tt18259086"
   }
 ]

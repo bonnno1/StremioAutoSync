@@ -15,6 +15,11 @@
     "imdb_id": "tt19847976"
   },
   {
+    "name": "Five Nights at Freddy's 2",
+    "type": "movie",
+    "imdb_id": "tt30274401"
+  },
+  {
     "name": "Bugonia",
     "type": "movie",
     "imdb_id": "tt12300742"
@@ -23,11 +28,6 @@
     "name": "Now You See Me: Now You Don't",
     "type": "movie",
     "imdb_id": "tt4712810"
-  },
-  {
-    "name": "Five Nights at Freddy's 2",
-    "type": "movie",
-    "imdb_id": "tt30274401"
   },
   {
     "name": "Sisu: Road to Revenge",
@@ -85,11 +85,6 @@
     "imdb_id": "tt13651462"
   },
   {
-    "name": "Hamilton",
-    "type": "movie",
-    "imdb_id": "tt8503618"
-  },
-  {
     "name": "Keeper",
     "type": "movie",
     "imdb_id": "tt32332404"
@@ -98,5 +93,10 @@
     "name": "Christmas Karma",
     "type": "movie",
     "imdb_id": "tt20723376"
+  },
+  {
+    "name": "Hamilton",
+    "type": "movie",
+    "imdb_id": "tt8503618"
   }
 ]
