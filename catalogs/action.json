@@ -30,19 +30,24 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
     "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
     "type": "series",
     "imdb_id": "tt36593026"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Prison Break",
@@ -55,14 +60,14 @@
     "imdb_id": "tt11093718"
   },
   {
-    "name": "Robin Hood",
-    "type": "series",
-    "imdb_id": "tt33484460"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
   },
   {
     "name": "24",
@@ -75,19 +80,14 @@
     "imdb_id": "tt32612521"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -95,8 +95,8 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Reacher",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt10919420"
   }
 ]

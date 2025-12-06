@@ -5,6 +5,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "The Boys from Brazil: Rise of the Bolsonaros",
+    "type": "series",
+    "imdb_id": "tt0841010"
+  },
+  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
@@ -35,19 +40,9 @@
     "imdb_id": "tt35495073"
   },
   {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
   },
   {
     "name": "Dexter",
@@ -55,9 +50,14 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "Shameless",
+    "name": "The Manipulated",
     "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt36188448"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Game of Thrones",
@@ -65,19 +65,24 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "The Blacklist",
     "type": "series",
     "imdb_id": "tt2741602"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "House",
@@ -93,10 +98,5 @@
     "name": "Dinastía Casillas",
     "type": "series",
     "imdb_id": "tt38629881"
-  },
-  {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
   }
 ]

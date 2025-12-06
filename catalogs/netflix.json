@@ -10,6 +10,11 @@
     "imdb_id": "tt5180504"
   },
   {
+    "name": "The Abandons",
+    "type": "series",
+    "imdb_id": "tt16280546"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
@@ -18,11 +23,6 @@
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "The Abandons",
-    "type": "series",
-    "imdb_id": "tt16280546"
   },
   {
     "name": "Squid Game",
@@ -40,14 +40,19 @@
     "imdb_id": "tt32237534"
   },
   {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
   },
   {
-    "name": "Weak Hero",
+    "name": "The Beast in Me",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt31974367"
   },
   {
     "name": "Black Mirror",
@@ -60,24 +65,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "The Beast in Me",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt31974367"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Dark",
-    "type": "series",
-    "imdb_id": "tt5753856"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "The Last Kingdom",
@@ -85,13 +75,23 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "Raw",
+    "name": "Cobra Kai",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Dark",
+    "type": "series",
+    "imdb_id": "tt5753856"
   },
   {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   }
 ]
