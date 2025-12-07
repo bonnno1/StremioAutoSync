@@ -10,14 +10,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -27,32 +27,12 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Gravity Falls",
@@ -60,9 +40,14 @@
     "imdb_id": "tt1865718"
   },
   {
-    "name": "iCarly",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -70,9 +55,19 @@
     "imdb_id": "tt0784896"
   },
   {
-    "name": "Henry Danger",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "The Smurfs",
+    "type": "series",
+    "imdb_id": "tt0081933"
   },
   {
     "name": "Rugrats",
@@ -80,14 +75,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Powerpuff Girls",
+    "name": "Henry Danger",
     "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt3596174"
   },
   {
     "name": "Oggy and the Cockroaches",
@@ -95,8 +85,18 @@
     "imdb_id": "tt0213363"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0175058"
+  },
+  {
+    "name": "Spidey and His Amazing Friends",
+    "type": "series",
+    "imdb_id": "tt10862280"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   }
 ]

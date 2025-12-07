@@ -25,9 +25,19 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "The Rookie",
@@ -40,9 +50,9 @@
     "imdb_id": "tt35495073"
   },
   {
-    "name": "NCIS",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Dexter",
@@ -50,14 +60,9 @@
     "imdb_id": "tt0773262"
   },
   {
-    "name": "The Manipulated",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Game of Thrones",
@@ -65,14 +70,19 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "The Blacklist",
@@ -80,23 +90,13 @@
     "imdb_id": "tt2741602"
   },
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Breaking Bad",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Dinastía Casillas",
-    "type": "series",
-    "imdb_id": "tt38629881"
+    "imdb_id": "tt5180504"
   }
 ]
