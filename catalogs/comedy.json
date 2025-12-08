@@ -40,19 +40,19 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Jewel of Section E",
+    "name": "Two and a Half Men",
     "type": "series",
-    "imdb_id": "tt35089718"
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   },
   {
     "name": "The Office",
@@ -65,14 +65,9 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Daily Show",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
+    "imdb_id": "tt0397306"
   },
   {
     "name": "Rick and Morty",
@@ -80,9 +75,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "American Dad!",
+    "name": "Teen Wolf",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt1567432"
   },
   {
     "name": "Modern Family",
@@ -90,13 +85,18 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Seinfeld",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0098904"
   },
   {
-    "name": "Teen Wolf",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt1567432"
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Smiling Friends",
+    "type": "series",
+    "imdb_id": "tt12074628"
   }
 ]

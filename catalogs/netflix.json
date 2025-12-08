@@ -5,14 +5,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "The Abandons",
     "type": "series",
     "imdb_id": "tt16280546"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Wednesday",
@@ -35,9 +35,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Last Samurai Standing",
+    "name": "The Price of Confession",
     "type": "series",
-    "imdb_id": "tt32237534"
+    "imdb_id": "tt37218592"
   },
   {
     "name": "Weak Hero",
@@ -45,14 +45,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Bridgerton",
+    "name": "Last Samurai Standing",
     "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt32237534"
   },
   {
     "name": "Elite",
@@ -70,14 +65,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "The Price of Confession",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt37218592"
+    "imdb_id": "tt0063951"
   },
   {
-    "name": "The Beast in Me",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt31974367"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Cobra Kai",
@@ -85,18 +80,23 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
     "name": "Dark",
     "type": "series",
     "imdb_id": "tt5753856"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Last Kingdom",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "The Beast in Me",
+    "type": "series",
+    "imdb_id": "tt31974367"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
   }
 ]
