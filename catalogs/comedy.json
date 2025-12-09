@@ -5,24 +5,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Tulsa King",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Family Guy",
@@ -30,14 +20,24 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Friends",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
   },
   {
     "name": "Wednesday",
@@ -55,14 +55,14 @@
     "imdb_id": "tt0115147"
   },
   {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
   },
   {
     "name": "American Dad!",
@@ -75,19 +75,14 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Teen Wolf",
     "type": "series",
     "imdb_id": "tt1567432"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
   },
   {
     "name": "SPY x FAMILY",
@@ -95,8 +90,13 @@
     "imdb_id": "tt13706018"
   },
   {
-    "name": "Smiling Friends",
+    "name": "Monk",
     "type": "series",
-    "imdb_id": "tt12074628"
+    "imdb_id": "tt0312172"
+  },
+  {
+    "name": "Silence",
+    "type": "series",
+    "imdb_id": "tt37538765"
   }
 ]

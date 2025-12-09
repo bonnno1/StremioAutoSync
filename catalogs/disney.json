@@ -5,14 +5,9 @@
     "imdb_id": "tt36188448"
   },
   {
-    "name": "Daughter of Fire",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt32126001"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Sekizinci Aile",
@@ -20,14 +15,24 @@
     "imdb_id": "tt38781098"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "The Mandalorian",
+    "name": "Daughter of Fire",
     "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt32126001"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Disney Twisted-Wonderland: The Animation",
@@ -35,9 +40,9 @@
     "imdb_id": "tt28306749"
   },
   {
-    "name": "Andor",
+    "name": "Zootopia+",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt13622956"
   },
   {
     "name": "Loki",
@@ -50,26 +55,6 @@
     "imdb_id": "tt38821667"
   },
   {
-    "name": "Zootopia+",
-    "type": "series",
-    "imdb_id": "tt13622956"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "Marvel Zombies",
     "type": "series",
     "imdb_id": "tt16027014"
@@ -78,6 +63,21 @@
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Ironheart",
