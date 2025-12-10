@@ -20,11 +20,6 @@
     "imdb_id": "tt39089423"
   },
   {
-    "name": "Diary of a Wimpy Kid: The Last Straw",
-    "type": "movie",
-    "imdb_id": "tt37751253"
-  },
-  {
     "name": "How the Grinch Stole Christmas",
     "type": "movie",
     "imdb_id": "tt0170016"
@@ -33,6 +28,16 @@
     "name": "The Night My Dad Saved Christmas 2",
     "type": "movie",
     "imdb_id": "tt38895441"
+  },
+  {
+    "name": "Diary of a Wimpy Kid: The Last Straw",
+    "type": "movie",
+    "imdb_id": "tt37751253"
+  },
+  {
+    "name": "Home Alone 2: Lost in New York",
+    "type": "movie",
+    "imdb_id": "tt0104431"
   },
   {
     "name": "How to Train Your Dragon",
@@ -45,11 +50,6 @@
     "imdb_id": "tt33059822"
   },
   {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
-  },
-  {
     "name": "Elio",
     "type": "movie",
     "imdb_id": "tt4900148"
@@ -60,24 +60,9 @@
     "imdb_id": "tt30017619"
   },
   {
-    "name": "31 Minutes: One Hot Christmas",
+    "name": "A Minecraft Movie",
     "type": "movie",
-    "imdb_id": "tt38774646"
-  },
-  {
-    "name": "Home Alone 2: Lost in New York",
-    "type": "movie",
-    "imdb_id": "tt0104431"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt3566834"
   },
   {
     "name": "The Grinch",
@@ -85,9 +70,24 @@
     "imdb_id": "tt2709692"
   },
   {
+    "name": "E.T. the Extra-Terrestrial",
+    "type": "movie",
+    "imdb_id": "tt0083866"
+  },
+  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
+  },
+  {
+    "name": "31 Minutes: One Hot Christmas",
+    "type": "movie",
+    "imdb_id": "tt38774646"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "The Wild Robot",

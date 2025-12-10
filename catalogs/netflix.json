@@ -15,14 +15,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "The Price of Confession",
@@ -45,9 +45,14 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Last Samurai Standing",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt32237534"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Sean Combs: The Reckoning",
+    "type": "series",
+    "imdb_id": "tt33473000"
   },
   {
     "name": "Black Mirror",
@@ -55,14 +60,19 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Last Samurai Standing",
+    "type": "series",
+    "imdb_id": "tt32237534"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Sean Combs: The Reckoning",
-    "type": "series",
-    "imdb_id": "tt33473000"
   },
   {
     "name": "Bridgerton",
@@ -75,11 +85,6 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
@@ -90,13 +95,8 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "The Beast in Me",
+    "name": "Dark",
     "type": "series",
-    "imdb_id": "tt31974367"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt5753856"
   }
 ]

@@ -30,6 +30,11 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
@@ -38,11 +43,6 @@
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Kasam - Tere Pyaar Ki",
-    "type": "series",
-    "imdb_id": "tt6812456"
   },
   {
     "name": "Frasier",
@@ -75,9 +75,9 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Doraemon",
+    "name": "Forbidden Fruit",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt8045936"
   },
   {
     "name": "Cranberry Sorbet",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0165598"
   },
   {
-    "name": "Forbidden Fruit",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt8045936"
+    "imdb_id": "tt0463398"
   }
 ]

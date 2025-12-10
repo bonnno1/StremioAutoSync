@@ -5,24 +5,14 @@
     "imdb_id": "tt36188448"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Sekizinci Aile",
-    "type": "series",
-    "imdb_id": "tt38781098"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Daughter of Fire",
@@ -30,19 +20,19 @@
     "imdb_id": "tt32126001"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Sekizinci Aile",
+    "type": "series",
+    "imdb_id": "tt38781098"
+  },
+  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
-  },
-  {
-    "name": "Disney Twisted-Wonderland: The Animation",
-    "type": "series",
-    "imdb_id": "tt28306749"
-  },
-  {
-    "name": "Zootopia+",
-    "type": "series",
-    "imdb_id": "tt13622956"
   },
   {
     "name": "Loki",
@@ -50,24 +40,24 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Fortnite x The Simpsons",
-    "type": "series",
-    "imdb_id": "tt38821667"
-  },
-  {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Zootopia+",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt13622956"
+  },
+  {
+    "name": "Disney Twisted-Wonderland: The Animation",
+    "type": "series",
+    "imdb_id": "tt28306749"
+  },
+  {
+    "name": "Fortnite x The Simpsons",
+    "type": "series",
+    "imdb_id": "tt38821667"
   },
   {
     "name": "Soy Luna",
@@ -78,6 +68,16 @@
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
   },
   {
     "name": "Ironheart",
@@ -95,8 +95,8 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "X-Men '97",
+    "name": "Light Shop",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt31014115"
   }
 ]
