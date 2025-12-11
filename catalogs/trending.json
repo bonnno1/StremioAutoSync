@@ -5,6 +5,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
+  },
+  {
     "name": "Spartacus: House of Ashur",
     "type": "series",
     "imdb_id": "tt29921437"
@@ -15,9 +20,9 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "IT: Welcome to Derry",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt19244304"
   },
   {
     "name": "The Abandons",
@@ -25,14 +30,9 @@
     "imdb_id": "tt16280546"
   },
   {
-    "name": "IT: Welcome to Derry",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt19244304"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "The Price of Confession",
@@ -40,9 +40,19 @@
     "imdb_id": "tt37218592"
   },
   {
+    "name": "Record of Ragnarok",
+    "type": "series",
+    "imdb_id": "tt13676344"
+  },
+  {
     "name": "The War Between the Land and the Sea",
     "type": "series",
     "imdb_id": "tt30645193"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "The Last Frontier",
@@ -50,24 +60,9 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Tomb Raider: The Legend of Lara Croft",
     "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Sean Combs: The Reckoning",
-    "type": "series",
-    "imdb_id": "tt33473000"
+    "imdb_id": "tt13930822"
   },
   {
     "name": "Landman",
@@ -75,9 +70,14 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "Record of Ragnarok",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt13676344"
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Heated Rivalry",
@@ -85,18 +85,18 @@
     "imdb_id": "tt35495073"
   },
   {
-    "name": "Fallout",
+    "name": "Blood Coast",
     "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt28129282"
   },
   {
     "name": "Surely Tomorrow",
     "type": "series",
     "imdb_id": "tt38221085"
+  },
+  {
+    "name": "Dynamite Kiss",
+    "type": "series",
+    "imdb_id": "tt38353551"
   }
 ]

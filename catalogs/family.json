@@ -10,9 +10,19 @@
     "imdb_id": "tt21105088"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "The Chosen",
@@ -27,11 +37,6 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
     "imdb_id": "tt0069576"
   },
   {
@@ -40,19 +45,19 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Dallas",
+    "name": "The Tom and Jerry Show",
     "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -60,14 +65,14 @@
     "imdb_id": "tt1942683"
   },
   {
-    "name": "The Nanny",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0463398"
   },
   {
-    "name": "King of the Hill",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0077000"
   },
   {
     "name": "Heartland",
@@ -75,23 +80,13 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Forbidden Fruit",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt8045936"
+    "imdb_id": "tt0118375"
   },
   {
-    "name": "Cranberry Sorbet",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt21764074"
-  },
-  {
-    "name": "That '70s Show",
-    "type": "series",
-    "imdb_id": "tt0165598"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt0106080"
   }
 ]
