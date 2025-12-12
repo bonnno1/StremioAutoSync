@@ -5,6 +5,11 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -25,39 +30,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Shaun the Sheep",
-    "type": "series",
-    "imdb_id": "tt0983983"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -65,24 +40,29 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Rugrats",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0404597"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt26692417"
   },
   {
-    "name": "Mickey Mouse Clubhouse",
+    "name": "Gravity Falls",
     "type": "series",
-    "imdb_id": "tt0784896"
+    "imdb_id": "tt1865718"
   },
   {
-    "name": "Henry Danger",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -90,13 +70,33 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "The Smurfs",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0081933"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "Shin Chan",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt12853970"
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Henry Danger",
+    "type": "series",
+    "imdb_id": "tt3596174"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   }
 ]

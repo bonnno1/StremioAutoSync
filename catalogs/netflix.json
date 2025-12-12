@@ -5,6 +5,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
+  },
+  {
     "name": "The Abandons",
     "type": "series",
     "imdb_id": "tt16280546"
@@ -15,14 +20,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Record of Ragnarok",
@@ -35,19 +40,14 @@
     "imdb_id": "tt37218592"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Weak Hero",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Sesame Street",
@@ -55,9 +55,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Sean Combs: The Reckoning",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt33473000"
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   },
   {
     "name": "Black Mirror",
@@ -65,38 +70,28 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Bridgerton",
+    "name": "Sean Combs: The Reckoning",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt33473000"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Last Samurai Standing",
     "type": "series",
-    "imdb_id": "tt10795658"
-  },
-  {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
+    "imdb_id": "tt32237534"
   },
   {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   }
 ]

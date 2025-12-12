@@ -25,6 +25,11 @@
     "imdb_id": "tt5180504"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
@@ -35,9 +40,9 @@
     "imdb_id": "tt38629881"
   },
   {
-    "name": "Vikings",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "The Walking Dead",
@@ -45,29 +50,19 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "type": "series",
-    "imdb_id": "tt36593026"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Gachiakuta",
@@ -85,18 +80,23 @@
     "imdb_id": "tt13676344"
   },
   {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Doctor Who",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
   }
 ]
