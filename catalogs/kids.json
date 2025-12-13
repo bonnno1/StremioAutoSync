@@ -5,11 +5,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -20,6 +15,11 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -27,27 +27,7 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Gravity Falls",
@@ -55,24 +35,9 @@
     "imdb_id": "tt1865718"
   },
   {
-    "name": "iCarly",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -80,23 +45,58 @@
     "imdb_id": "tt2787558"
   },
   {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Oggy and the Cockroaches",
+    "type": "series",
+    "imdb_id": "tt0213363"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
     "name": "Mickey Mouse Clubhouse",
     "type": "series",
     "imdb_id": "tt0784896"
   },
   {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "The Suite Life of Zack & Cody",
+    "type": "series",
+    "imdb_id": "tt0426371"
+  },
+  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
   }
 ]

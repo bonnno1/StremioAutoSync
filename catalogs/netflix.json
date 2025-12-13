@@ -10,14 +10,19 @@
     "imdb_id": "tt35047134"
   },
   {
-    "name": "The Abandons",
+    "name": "Record of Ragnarok",
     "type": "series",
-    "imdb_id": "tt16280546"
+    "imdb_id": "tt13676344"
   },
   {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "The Abandons",
+    "type": "series",
+    "imdb_id": "tt16280546"
   },
   {
     "name": "Wednesday",
@@ -28,11 +33,6 @@
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "Record of Ragnarok",
-    "type": "series",
-    "imdb_id": "tt13676344"
   },
   {
     "name": "The Price of Confession",
@@ -50,6 +50,16 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -58,16 +68,6 @@
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "Elite",
@@ -80,6 +80,16 @@
     "imdb_id": "tt33473000"
   },
   {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
     "name": "Last Samurai Standing",
     "type": "series",
     "imdb_id": "tt32237534"
@@ -88,10 +98,5 @@
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
   }
 ]

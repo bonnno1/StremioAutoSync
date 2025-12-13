@@ -1,13 +1,13 @@
 [
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Absentia",
@@ -15,24 +15,24 @@
     "imdb_id": "tt6794990"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Chosen",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -45,6 +45,16 @@
     "imdb_id": "tt27792190"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -55,14 +65,9 @@
     "imdb_id": "tt26453092"
   },
   {
-    "name": "Fallout",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt30955673"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -70,24 +75,19 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
   },
   {
     "name": "La que se avecina",

@@ -1,18 +1,13 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Man vs Baby",
     "type": "series",
     "imdb_id": "tt35047134"
   },
   {
-    "name": "Golden Boy",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -20,9 +15,24 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Golden Boy",
+    "type": "series",
+    "imdb_id": "tt21105088"
+  },
+  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Doraemon",
@@ -35,14 +45,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Diya Aur Baati Hum",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt2570866"
   },
   {
     "name": "Phineas and Ferb",
@@ -55,9 +60,24 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "Gravity Falls",
     "type": "series",
-    "imdb_id": "tt3559124"
+    "imdb_id": "tt1865718"
+  },
+  {
+    "name": "That '70s Show",
+    "type": "series",
+    "imdb_id": "tt0165598"
+  },
+  {
+    "name": "Sazae-san",
+    "type": "series",
+    "imdb_id": "tt0236924"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Teen Titans Go!",
@@ -65,29 +85,9 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Zločin na dobré cestě",
     "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Heartland",
-    "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt38040862"
   },
   {
     "name": "The Nanny",
