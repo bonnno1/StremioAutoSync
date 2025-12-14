@@ -45,9 +45,9 @@
     "imdb_id": "tt27792190"
   },
   {
-    "name": "Gen V",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt3502248"
   },
   {
     "name": "Fallout",
@@ -55,19 +55,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Bosch",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -75,9 +65,24 @@
     "imdb_id": "tt14016500"
   },
   {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
+  },
+  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "Goliath",
@@ -88,10 +93,5 @@
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
-  },
-  {
-    "name": "La que se avecina",
-    "type": "series",
-    "imdb_id": "tt0922037"
   }
 ]

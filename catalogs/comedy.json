@@ -5,19 +5,14 @@
     "imdb_id": "tt35047134"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Family Guy",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Shameless",
@@ -25,19 +20,24 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Tulsa King",
@@ -55,24 +55,19 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
   },
   {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
   },
   {
     "name": "American Dad!",
@@ -85,18 +80,23 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Silence",
+    "name": "How I Met Your Mother",
     "type": "series",
-    "imdb_id": "tt37538765"
+    "imdb_id": "tt0460649"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "Teen Wolf",
     "type": "series",
     "imdb_id": "tt1567432"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
   }
 ]

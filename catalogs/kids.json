@@ -10,16 +10,6 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -27,12 +17,22 @@
   {
     "name": "Doraemon",
     "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Gravity Falls",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt1865718"
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Peppa Pig",
@@ -45,14 +45,9 @@
     "imdb_id": "tt2787558"
   },
   {
-    "name": "Duel Masters",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Oggy and the Cockroaches",
-    "type": "series",
-    "imdb_id": "tt0213363"
+    "imdb_id": "tt0972534"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -60,9 +55,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0404597"
   },
   {
     "name": "Shin Chan",
@@ -70,14 +65,14 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Mickey Mouse Clubhouse",
+    "name": "Gravity Falls",
     "type": "series",
-    "imdb_id": "tt0784896"
+    "imdb_id": "tt1865718"
   },
   {
-    "name": "iCarly",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Rugrats",
@@ -85,18 +80,18 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "The Suite Life of Zack & Cody",
-    "type": "series",
-    "imdb_id": "tt0426371"
-  },
-  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
   }
 ]

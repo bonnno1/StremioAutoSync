@@ -15,6 +15,11 @@
     "imdb_id": "tt1312221"
   },
   {
+    "name": "The Carpenter's Son",
+    "type": "movie",
+    "imdb_id": "tt32304349"
+  },
+  {
     "name": "Good Boy",
     "type": "movie",
     "imdb_id": "tt35521922"
@@ -25,19 +30,9 @@
     "imdb_id": "tt32332404"
   },
   {
-    "name": "The Carpenter's Son",
-    "type": "movie",
-    "imdb_id": "tt32304349"
-  },
-  {
     "name": "Five Nights at Freddy's",
     "type": "movie",
     "imdb_id": "tt4589218"
-  },
-  {
-    "name": "Bramayugam",
-    "type": "movie",
-    "imdb_id": "tt27431598"
   },
   {
     "name": "High School of the Dead: Drifters of the Dead",
@@ -45,14 +40,19 @@
     "imdb_id": "tt5799076"
   },
   {
-    "name": "Succubus",
+    "name": "Bramayugam",
     "type": "movie",
-    "imdb_id": "tt13778486"
+    "imdb_id": "tt27431598"
   },
   {
     "name": "Black Phone 2",
     "type": "movie",
     "imdb_id": "tt29644189"
+  },
+  {
+    "name": "Succubus",
+    "type": "movie",
+    "imdb_id": "tt13778486"
   },
   {
     "name": "The Conjuring: Last Rites",
@@ -68,11 +68,6 @@
     "name": "It Chapter Two",
     "type": "movie",
     "imdb_id": "tt7349950"
-  },
-  {
-    "name": "The Surrender",
-    "type": "movie",
-    "imdb_id": "tt33270263"
   },
   {
     "name": "First Moon",
@@ -98,5 +93,10 @@
     "name": "The Strangers: Chapter 2",
     "type": "movie",
     "imdb_id": "tt28671344"
+  },
+  {
+    "name": "The Surrender",
+    "type": "movie",
+    "imdb_id": "tt33270263"
   }
 ]
