@@ -20,14 +20,14 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Friends",
@@ -35,24 +35,24 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
   },
   {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Modern Family",
@@ -65,19 +65,9 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
-  },
-  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "How I Met Your Mother",
@@ -90,13 +80,23 @@
     "imdb_id": "tt13706018"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Teen Wolf",
-    "type": "series",
-    "imdb_id": "tt1567432"
   }
 ]

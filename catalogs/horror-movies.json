@@ -10,6 +10,11 @@
     "imdb_id": "tt31434030"
   },
   {
+    "name": "Good Boy",
+    "type": "movie",
+    "imdb_id": "tt35521922"
+  },
+  {
     "name": "Frankenstein",
     "type": "movie",
     "imdb_id": "tt1312221"
@@ -20,19 +25,9 @@
     "imdb_id": "tt32304349"
   },
   {
-    "name": "Good Boy",
-    "type": "movie",
-    "imdb_id": "tt35521922"
-  },
-  {
     "name": "Keeper",
     "type": "movie",
     "imdb_id": "tt32332404"
-  },
-  {
-    "name": "Five Nights at Freddy's",
-    "type": "movie",
-    "imdb_id": "tt4589218"
   },
   {
     "name": "High School of the Dead: Drifters of the Dead",
@@ -40,19 +35,24 @@
     "imdb_id": "tt5799076"
   },
   {
+    "name": "Five Nights at Freddy's",
+    "type": "movie",
+    "imdb_id": "tt4589218"
+  },
+  {
     "name": "Bramayugam",
     "type": "movie",
     "imdb_id": "tt27431598"
   },
   {
-    "name": "Black Phone 2",
-    "type": "movie",
-    "imdb_id": "tt29644189"
-  },
-  {
     "name": "Succubus",
     "type": "movie",
     "imdb_id": "tt13778486"
+  },
+  {
+    "name": "Black Phone 2",
+    "type": "movie",
+    "imdb_id": "tt29644189"
   },
   {
     "name": "The Conjuring: Last Rites",
@@ -80,14 +80,9 @@
     "imdb_id": "tt33458086"
   },
   {
-    "name": "Leprechaun 2",
+    "name": "The Sanatorium",
     "type": "movie",
-    "imdb_id": "tt0110329"
-  },
-  {
-    "name": "Operation Blood Hunt",
-    "type": "movie",
-    "imdb_id": "tt23553640"
+    "imdb_id": "tt1753767"
   },
   {
     "name": "The Strangers: Chapter 2",
@@ -95,8 +90,13 @@
     "imdb_id": "tt28671344"
   },
   {
-    "name": "The Surrender",
+    "name": "Operation Blood Hunt",
     "type": "movie",
-    "imdb_id": "tt33270263"
+    "imdb_id": "tt23553640"
+  },
+  {
+    "name": "Holy Night: Demon Hunters",
+    "type": "movie",
+    "imdb_id": "tt15766876"
   }
 ]

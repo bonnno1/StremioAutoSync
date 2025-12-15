@@ -5,6 +5,11 @@
     "imdb_id": "tt14107334"
   },
   {
+    "name": "Hunting Season",
+    "type": "movie",
+    "imdb_id": "tt32537226"
+  },
+  {
     "name": "TRON: Ares",
     "type": "movie",
     "imdb_id": "tt6604188"
@@ -15,11 +20,6 @@
     "imdb_id": "tt29232158"
   },
   {
-    "name": "Hunting Season",
-    "type": "movie",
-    "imdb_id": "tt32537226"
-  },
-  {
     "name": "High Rollers",
     "type": "movie",
     "imdb_id": "tt27829510"
@@ -28,6 +28,11 @@
     "name": "Chainsaw Man - The Movie: Reze Arc",
     "type": "movie",
     "imdb_id": "tt30472557"
+  },
+  {
+    "name": "London Calling",
+    "type": "movie",
+    "imdb_id": "tt30425872"
   },
   {
     "name": "Kantara - A Legend: Chapter 1",
@@ -45,14 +50,14 @@
     "imdb_id": "tt31227572"
   },
   {
-    "name": "Bureau 749",
-    "type": "movie",
-    "imdb_id": "tt10210064"
-  },
-  {
     "name": "The Shadow's Edge",
     "type": "movie",
     "imdb_id": "tt34610311"
+  },
+  {
+    "name": "Bureau 749",
+    "type": "movie",
+    "imdb_id": "tt10210064"
   },
   {
     "name": "Wildcat",
@@ -65,11 +70,6 @@
     "imdb_id": "tt12731980"
   },
   {
-    "name": "High Forces",
-    "type": "movie",
-    "imdb_id": "tt17501870"
-  },
-  {
     "name": "Ne Zha 2",
     "type": "movie",
     "imdb_id": "tt34956443"
@@ -80,9 +80,14 @@
     "imdb_id": "tt32820897"
   },
   {
-    "name": "London Calling",
+    "name": "High Forces",
     "type": "movie",
-    "imdb_id": "tt30425872"
+    "imdb_id": "tt17501870"
+  },
+  {
+    "name": "Dhurandhar",
+    "type": "movie",
+    "imdb_id": "tt33014583"
   },
   {
     "name": "Altered",
@@ -93,10 +98,5 @@
     "name": "The Family Plan 2",
     "type": "movie",
     "imdb_id": "tt34276058"
-  },
-  {
-    "name": "One Battle After Another",
-    "type": "movie",
-    "imdb_id": "tt30144839"
   }
 ]
