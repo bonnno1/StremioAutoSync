@@ -1,13 +1,13 @@
 [
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -20,14 +20,14 @@
     "imdb_id": "tt35047134"
   },
   {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -40,24 +40,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Record of Ragnarok",
     "type": "series",
     "imdb_id": "tt13676344"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "The War Between the Land and the Sea",
@@ -65,24 +50,19 @@
     "imdb_id": "tt30645193"
   },
   {
-    "name": "Dexter",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "The Boys from Brazil: Rise of the Bolsonaros",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0841010"
+    "imdb_id": "tt0944947"
   },
   {
-    "name": "Pluribus",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Shameless",
@@ -90,13 +70,33 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Boys from Brazil: Rise of the Bolsonaros",
+    "type": "series",
+    "imdb_id": "tt0841010"
+  },
+  {
+    "name": "Speed and Love",
+    "type": "series",
+    "imdb_id": "tt36596644"
+  },
+  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
-  },
-  {
-    "name": "The Blacklist",
-    "type": "series",
-    "imdb_id": "tt2741602"
   }
 ]

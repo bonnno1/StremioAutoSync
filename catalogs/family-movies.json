@@ -15,11 +15,6 @@
     "imdb_id": "tt27722575"
   },
   {
-    "name": "The Footballest 2",
-    "type": "movie",
-    "imdb_id": "tt33059822"
-  },
-  {
     "name": "E.T. the Extra-Terrestrial",
     "type": "movie",
     "imdb_id": "tt0083866"
@@ -30,19 +25,14 @@
     "imdb_id": "tt4900148"
   },
   {
-    "name": "How the Grinch Stole Christmas",
-    "type": "movie",
-    "imdb_id": "tt0170016"
-  },
-  {
-    "name": "Playdate",
-    "type": "movie",
-    "imdb_id": "tt31425731"
-  },
-  {
     "name": "A Paw Patrol Christmas",
     "type": "movie",
     "imdb_id": "tt37671699"
+  },
+  {
+    "name": "The Footballest 2",
+    "type": "movie",
+    "imdb_id": "tt33059822"
   },
   {
     "name": "Home Alone 2: Lost in New York",
@@ -50,19 +40,14 @@
     "imdb_id": "tt0104431"
   },
   {
+    "name": "How the Grinch Stole Christmas",
+    "type": "movie",
+    "imdb_id": "tt0170016"
+  },
+  {
     "name": "Lilo & Stitch",
     "type": "movie",
     "imdb_id": "tt11655566"
-  },
-  {
-    "name": "The Bad Guys 2",
-    "type": "movie",
-    "imdb_id": "tt30017619"
-  },
-  {
-    "name": "The First Snow of Fraggle Rock",
-    "type": "movie",
-    "imdb_id": "tt39089423"
   },
   {
     "name": "How to Train Your Dragon",
@@ -70,19 +55,19 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Diary of a Wimpy Kid: The Last Straw",
+    "name": "Playdate",
     "type": "movie",
-    "imdb_id": "tt37751253"
+    "imdb_id": "tt31425731"
   },
   {
-    "name": "Moana 2",
+    "name": "How to Train Your Dragon",
     "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt0892769"
   },
   {
-    "name": "Inside Out 2",
+    "name": "The Bad Guys 2",
     "type": "movie",
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt30017619"
   },
   {
     "name": "A Minecraft Movie",
@@ -90,8 +75,28 @@
     "imdb_id": "tt3566834"
   },
   {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
+  },
+  {
     "name": "The Grinch",
     "type": "movie",
     "imdb_id": "tt2709692"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Los Muértimer",
+    "type": "movie",
+    "imdb_id": "tt33023309"
+  },
+  {
+    "name": "Diary of a Wimpy Kid: The Last Straw",
+    "type": "movie",
+    "imdb_id": "tt37751253"
   }
 ]

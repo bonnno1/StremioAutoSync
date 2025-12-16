@@ -10,6 +10,11 @@
     "imdb_id": "tt3121722"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -25,54 +30,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
   },
   {
     "name": "iCarly",
@@ -80,9 +40,49 @@
     "imdb_id": "tt0972534"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
+    "name": "快乐星猫",
+    "type": "series",
+    "imdb_id": "tt15176250"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
     "name": "We Bare Bears",
     "type": "series",
     "imdb_id": "tt4839610"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Gravity Falls",
+    "type": "series",
+    "imdb_id": "tt1865718"
   },
   {
     "name": "Rugrats",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
   }
 ]
