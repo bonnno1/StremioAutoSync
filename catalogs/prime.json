@@ -15,14 +15,14 @@
     "imdb_id": "tt6794990"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
   },
   {
     "name": "INVINCIBLE",
@@ -30,19 +30,14 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   },
   {
     "name": "The Chosen",
@@ -50,7 +45,12 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Maxton Hall - The World Between Us",
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Maxton Hall – The World Between Us",
     "type": "series",
     "imdb_id": "tt27792190"
   },
@@ -60,9 +60,9 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Bosch",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt3502248"
+    "imdb_id": "tt13159924"
   },
   {
     "name": "House of David",
@@ -80,14 +80,14 @@
     "imdb_id": "tt26576161"
   },
   {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
   },
   {
     "name": "Goliath",
