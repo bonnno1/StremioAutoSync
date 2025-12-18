@@ -10,19 +10,9 @@
     "imdb_id": "tt19244304"
   },
   {
-    "name": "Strange Tales of Tang Dynasty",
-    "type": "series",
-    "imdb_id": "tt22797712"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
   },
   {
     "name": "Pluribus",
@@ -30,14 +20,24 @@
     "imdb_id": "tt22202452"
   },
   {
+    "name": "Emily in Paris",
+    "type": "series",
+    "imdb_id": "tt8962124"
+  },
+  {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
+  },
+  {
+    "name": "Strange Tales of Tang Dynasty",
+    "type": "series",
+    "imdb_id": "tt22797712"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "The War Between the Land and the Sea",
-    "type": "series",
-    "imdb_id": "tt30645193"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -45,34 +45,14 @@
     "imdb_id": "tt29921437"
   },
   {
+    "name": "The War Between the Land and the Sea",
+    "type": "series",
+    "imdb_id": "tt30645193"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Record of Ragnarok",
-    "type": "series",
-    "imdb_id": "tt13676344"
-  },
-  {
-    "name": "Landman",
-    "type": "series",
-    "imdb_id": "tt14186672"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "City of Shadows",
-    "type": "series",
-    "imdb_id": "tt34719392"
-  },
-  {
-    "name": "Robin Hood",
-    "type": "series",
-    "imdb_id": "tt33484460"
   },
   {
     "name": "The Vendetta of An",
@@ -80,23 +60,43 @@
     "imdb_id": "tt35089518"
   },
   {
-    "name": "South Park",
+    "name": "Landman",
     "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Tracker",
-    "type": "series",
-    "imdb_id": "tt13875494"
-  },
-  {
-    "name": "My Hero Academia",
-    "type": "series",
-    "imdb_id": "tt5626028"
+    "imdb_id": "tt14186672"
   },
   {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Speed and Love",
+    "type": "series",
+    "imdb_id": "tt36596644"
+  },
+  {
+    "name": "Record of Ragnarok",
+    "type": "series",
+    "imdb_id": "tt13676344"
+  },
+  {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "City of Shadows",
+    "type": "series",
+    "imdb_id": "tt34719392"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   }
 ]

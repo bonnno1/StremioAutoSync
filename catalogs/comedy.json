@@ -25,24 +25,14 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Wednesday",
@@ -50,9 +40,14 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Office",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt0386676"
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Tulsa King",
@@ -65,29 +60,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
   },
   {
     "name": "American Dad!",
@@ -95,8 +70,33 @@
     "imdb_id": "tt0397306"
   },
   {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "How I Met Your Mother",
     "type": "series",
     "imdb_id": "tt0460649"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   }
 ]

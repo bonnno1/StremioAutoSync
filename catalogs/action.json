@@ -15,14 +15,14 @@
     "imdb_id": "tt13676344"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "The Witcher",
@@ -30,9 +30,19 @@
     "imdb_id": "tt5180504"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "One-Punch Man",
@@ -40,14 +50,19 @@
     "imdb_id": "tt4508902"
   },
   {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Robin Hood",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt33484460"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "The Walking Dead",
@@ -60,21 +75,6 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -85,14 +85,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
     "name": "Gachiakuta",
     "type": "series",
     "imdb_id": "tt32612521"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
   },
   {
     "name": "Kuruluş Osman",
