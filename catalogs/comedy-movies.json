@@ -40,19 +40,9 @@
     "imdb_id": "tt35672930"
   },
   {
-    "name": "Merv",
-    "type": "movie",
-    "imdb_id": "tt31281659"
-  },
-  {
     "name": "Los Muértimer",
     "type": "movie",
     "imdb_id": "tt33023309"
-  },
-  {
-    "name": "How the Grinch Stole Christmas",
-    "type": "movie",
-    "imdb_id": "tt0170016"
   },
   {
     "name": "Knives Out",
@@ -60,34 +50,19 @@
     "imdb_id": "tt8946378"
   },
   {
+    "name": "Merv",
+    "type": "movie",
+    "imdb_id": "tt31281659"
+  },
+  {
     "name": "Elio",
     "type": "movie",
     "imdb_id": "tt4900148"
   },
   {
-    "name": "Jay Kelly",
+    "name": "How the Grinch Stole Christmas",
     "type": "movie",
-    "imdb_id": "tt30446847"
-  },
-  {
-    "name": "Home Alone 2: Lost in New York",
-    "type": "movie",
-    "imdb_id": "tt0104431"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
-    "name": "Lost in the Spotlight",
-    "type": "movie",
-    "imdb_id": "tt35668447"
-  },
-  {
-    "name": "The Wolf of Wall Street",
-    "type": "movie",
-    "imdb_id": "tt0993846"
+    "imdb_id": "tt0170016"
   },
   {
     "name": "Inside Out 2",
@@ -98,5 +73,30 @@
     "name": "The Super Mario Bros. Movie",
     "type": "movie",
     "imdb_id": "tt6718170"
+  },
+  {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Home Alone 2: Lost in New York",
+    "type": "movie",
+    "imdb_id": "tt0104431"
+  },
+  {
+    "name": "Barbie",
+    "type": "movie",
+    "imdb_id": "tt1517268"
+  },
+  {
+    "name": "Pulp Fiction",
+    "type": "movie",
+    "imdb_id": "tt0110912"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   }
 ]

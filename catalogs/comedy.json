@@ -1,13 +1,13 @@
 [
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
   },
   {
     "name": "The Rookie",
@@ -70,11 +70,6 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -98,5 +93,10 @@
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Emily in Paris",
+    "type": "series",
+    "imdb_id": "tt8962124"
   }
 ]

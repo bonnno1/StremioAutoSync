@@ -30,24 +30,24 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
   },
   {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Emily in Paris",
+    "type": "series",
+    "imdb_id": "tt8962124"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "The Town",
@@ -60,9 +60,9 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "The Abandons",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt16280546"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Elite",
@@ -70,24 +70,14 @@
     "imdb_id": "tt7134908"
   },
   {
+    "name": "The Abandons",
+    "type": "series",
+    "imdb_id": "tt16280546"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Last Samurai Standing",
-    "type": "series",
-    "imdb_id": "tt32237534"
-  },
-  {
-    "name": "The Price of Confession",
-    "type": "series",
-    "imdb_id": "tt37218592"
-  },
-  {
-    "name": "Alice in Borderland",
-    "type": "series",
-    "imdb_id": "tt10795658"
   },
   {
     "name": "Bridgerton",
@@ -98,5 +88,15 @@
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "13 Reasons Why",
+    "type": "series",
+    "imdb_id": "tt1837492"
+  },
+  {
+    "name": "Alice in Borderland",
+    "type": "series",
+    "imdb_id": "tt10795658"
   }
 ]
