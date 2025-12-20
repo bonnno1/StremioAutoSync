@@ -55,14 +55,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "NCIS",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Breaking Bad",
@@ -93,10 +98,5 @@
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   }
 ]

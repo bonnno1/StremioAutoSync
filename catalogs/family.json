@@ -20,14 +20,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Doraemon",
@@ -35,24 +35,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Family Secrets",
-    "type": "series",
-    "imdb_id": "tt12979628"
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Sazae-san",
@@ -60,14 +50,14 @@
     "imdb_id": "tt0236924"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Forbidden Fruit",
     "type": "series",
     "imdb_id": "tt8045936"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "We Bare Bears",
@@ -75,9 +65,14 @@
     "imdb_id": "tt4839610"
   },
   {
-    "name": "Nature",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt0083452"
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Teen Titans Go!",
@@ -85,8 +80,18 @@
     "imdb_id": "tt2771780"
   },
   {
+    "name": "Family Secrets",
+    "type": "series",
+    "imdb_id": "tt12979628"
+  },
+  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   }
 ]

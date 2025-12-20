@@ -15,14 +15,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Absentia",
-    "type": "series",
-    "imdb_id": "tt6794990"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Absentia",
+    "type": "series",
+    "imdb_id": "tt6794990"
   },
   {
     "name": "INVINCIBLE",
@@ -40,9 +40,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Chosen",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Maxton Hall – The World Between Us",
@@ -50,9 +50,14 @@
     "imdb_id": "tt27792190"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Mighty Nein",
+    "type": "series",
+    "imdb_id": "tt26453092"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -65,6 +70,11 @@
     "imdb_id": "tt30955673"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -75,23 +85,13 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "The Expanse",
+    "name": "The Man in the High Castle",
     "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "name": "The Mighty Nein",
-    "type": "series",
-    "imdb_id": "tt26453092"
+    "imdb_id": "tt1740299"
   },
   {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
-  },
-  {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
   }
 ]

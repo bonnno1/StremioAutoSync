@@ -25,14 +25,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Squid Game",
@@ -50,19 +50,9 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "The Town",
-    "type": "series",
-    "imdb_id": "tt24243760"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "Elite",
@@ -70,14 +60,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "The Abandons",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt16280546"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Bridgerton",
@@ -90,9 +75,24 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "13 Reasons Why",
+    "name": "Weak Hero",
     "type": "series",
-    "imdb_id": "tt1837492"
+    "imdb_id": "tt20234568"
+  },
+  {
+    "name": "The Town",
+    "type": "series",
+    "imdb_id": "tt24243760"
+  },
+  {
+    "name": "The Abandons",
+    "type": "series",
+    "imdb_id": "tt16280546"
+  },
+  {
+    "name": "Culinary Class Wars",
+    "type": "series",
+    "imdb_id": "tt33040785"
   },
   {
     "name": "Alice in Borderland",

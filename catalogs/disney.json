@@ -15,14 +15,19 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt20674124"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -30,14 +35,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Sekizinci Aile",
     "type": "series",
     "imdb_id": "tt38781098"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Moon Knight",
@@ -50,9 +55,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Marvel Zombies",
@@ -60,19 +65,14 @@
     "imdb_id": "tt16027014"
   },
   {
-    "name": "Loki",
+    "name": "Disney Twisted-Wonderland: The Animation",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt28306749"
   },
   {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Disney Twisted-Wonderland: The Animation",
-    "type": "series",
-    "imdb_id": "tt28306749"
   },
   {
     "name": "The End of an Era",
@@ -85,11 +85,6 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Zootopia+",
-    "type": "series",
-    "imdb_id": "tt13622956"
-  },
-  {
     "name": "The Falcon and the Winter Soldier",
     "type": "series",
     "imdb_id": "tt9208876"
@@ -98,5 +93,10 @@
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Zootopia+",
+    "type": "series",
+    "imdb_id": "tt13622956"
   }
 ]

@@ -5,19 +5,19 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Shameless",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
   },
   {
     "name": "House",
@@ -25,9 +25,9 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Friends",
+    "name": "Shameless",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Family Guy",
@@ -35,9 +35,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Wednesday",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt0108778"
   },
   {
     "name": "One-Punch Man",
@@ -45,9 +45,14 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "The Daily Show",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "Tulsa King",
@@ -55,19 +60,9 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Emily in Paris",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt8962124"
   },
   {
     "name": "The Office",
@@ -75,14 +70,19 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Modern Family",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt1442437"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "How I Met Your Mother",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0460649"
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Two and a Half Men",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0369179"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt1442437"
   },
   {
-    "name": "Emily in Paris",
+    "name": "Teen Wolf",
     "type": "series",
-    "imdb_id": "tt8962124"
+    "imdb_id": "tt1567432"
   }
 ]
