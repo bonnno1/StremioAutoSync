@@ -45,14 +45,14 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
   },
   {
     "name": "Pluribus",
@@ -60,19 +60,9 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
   },
   {
     "name": "The Blacklist",
@@ -80,14 +70,14 @@
     "imdb_id": "tt2741602"
   },
   {
-    "name": "Record of Ragnarok",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt13676344"
+    "imdb_id": "tt0944947"
   },
   {
-    "name": "Dexter",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt0412142"
   },
   {
     "name": "Shameless",
@@ -95,8 +85,18 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "House",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Homeland",
+    "type": "series",
+    "imdb_id": "tt1796960"
   }
 ]

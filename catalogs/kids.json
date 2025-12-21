@@ -5,6 +5,11 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -15,14 +20,29 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Aikatsu!",
+    "type": "series",
+    "imdb_id": "tt2398674"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Doraemon",
@@ -35,19 +55,14 @@
     "imdb_id": "tt4839610"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -55,14 +70,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Duel Masters",
@@ -75,23 +85,13 @@
     "imdb_id": "tt0972534"
   },
   {
-    "name": "Amphibia",
-    "type": "series",
-    "imdb_id": "tt8050740"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "The Smurfs",
     "type": "series",
     "imdb_id": "tt0081933"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Amphibia",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt8050740"
   }
 ]
