@@ -5,11 +5,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -25,9 +20,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Shin Chan",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt12853970"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -35,39 +30,9 @@
     "imdb_id": "tt20674124"
   },
   {
-    "name": "Aikatsu!",
-    "type": "series",
-    "imdb_id": "tt2398674"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -75,14 +40,44 @@
     "imdb_id": "tt8677202"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
+  },
+  {
+    "name": "The Epic Tales of Captain Underpants",
+    "type": "series",
+    "imdb_id": "tt7741830"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
   },
   {
     "name": "The Smurfs",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0081933"
   },
   {
-    "name": "Amphibia",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt8050740"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "The Grim Adventures of Billy and Mandy",
+    "type": "series",
+    "imdb_id": "tt0292800"
   }
 ]

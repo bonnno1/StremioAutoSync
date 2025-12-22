@@ -15,11 +15,6 @@
     "imdb_id": "tt13676344"
   },
   {
-    "name": "City of Shadows",
-    "type": "series",
-    "imdb_id": "tt34719392"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
@@ -30,19 +25,24 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "City of Shadows",
+    "type": "series",
+    "imdb_id": "tt34719392"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Emily in Paris",
     "type": "series",
     "imdb_id": "tt8962124"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "You",
@@ -65,29 +65,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "The Town",
-    "type": "series",
-    "imdb_id": "tt24243760"
-  },
-  {
-    "name": "The Abandons",
-    "type": "series",
-    "imdb_id": "tt16280546"
   },
   {
     "name": "Culinary Class Wars",
@@ -95,8 +75,28 @@
     "imdb_id": "tt33040785"
   },
   {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
+  },
+  {
+    "name": "CID",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "The Beast in Me",
+    "type": "series",
+    "imdb_id": "tt31974367"
   }
 ]

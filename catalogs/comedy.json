@@ -1,18 +1,13 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Man vs Baby",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt35047134"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Pluribus",
@@ -20,14 +15,19 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "House",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt35047134"
   },
   {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
   },
   {
     "name": "Family Guy",
@@ -45,14 +45,14 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Tulsa King",
@@ -70,19 +70,14 @@
     "imdb_id": "tt8962124"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
   },
   {
-    "name": "The Daily Show",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Two and a Half Men",
@@ -98,5 +93,10 @@
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Teen Wolf",
+    "type": "series",
+    "imdb_id": "tt1567432"
   }
 ]
