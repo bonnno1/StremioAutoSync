@@ -10,14 +10,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Boys",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Absentia",
@@ -25,14 +20,19 @@
     "imdb_id": "tt6794990"
   },
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -40,9 +40,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Maxton Hall – The World Between Us",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt4687880"
   },
   {
     "name": "The Chosen",
@@ -50,34 +50,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
-    "name": "The Man in the High Castle",
-    "type": "series",
-    "imdb_id": "tt1740299"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
   },
   {
     "name": "The Mighty Nein",
@@ -90,8 +65,33 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Gen V",
+    "name": "The Man in the High Castle",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt1740299"
+  },
+  {
+    "name": "Maxton Hall – The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
   },
   {
     "name": "Shameless",
@@ -25,19 +25,9 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
   },
   {
     "name": "One-Punch Man",
@@ -45,24 +35,34 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "Wednesday",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt35047134"
   },
   {
-    "name": "South Park",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt0108778"
   },
   {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Emily in Paris",
@@ -75,14 +75,9 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Modern Family",
@@ -90,13 +85,18 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Young Hearts",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt0144724"
   },
   {
     "name": "Teen Wolf",
     "type": "series",
     "imdb_id": "tt1567432"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   }
 ]
