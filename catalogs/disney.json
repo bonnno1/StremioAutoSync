@@ -10,19 +10,9 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -30,9 +20,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Loki",
+    "name": "The Manipulated",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt36188448"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
   },
   {
     "name": "The Mandalorian",
@@ -40,12 +35,17 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Sekizinci Aile",
+    "name": "The Eighth Family",
     "type": "series",
     "imdb_id": "tt38781098"
   },
@@ -70,24 +70,14 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "She-Hulk: Attorney at Law",
     "type": "series",
     "imdb_id": "tt10857160"
   },
   {
-    "name": "WandaVision",
+    "name": "The End of an Era",
     "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt38673133"
   },
   {
     "name": "The Stolen Girl",
@@ -95,8 +85,18 @@
     "imdb_id": "tt28228082"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Marvel Zombies",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt16027014"
+  },
+  {
+    "name": "The Book of Boba Fett",
+    "type": "series",
+    "imdb_id": "tt13668894"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
   }
 ]

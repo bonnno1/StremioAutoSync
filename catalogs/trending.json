@@ -10,11 +10,6 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Strange Tales of Tang Dynasty",
-    "type": "series",
-    "imdb_id": "tt22797712"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -23,6 +18,11 @@
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
+  },
+  {
+    "name": "Strange Tales of Tang Dynasty",
+    "type": "series",
+    "imdb_id": "tt22797712"
   },
   {
     "name": "Emily in Paris",
@@ -35,14 +35,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Heated Rivalry",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt35495073"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt33298903"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -50,14 +45,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Landman",
+    "name": "Heated Rivalry",
     "type": "series",
-    "imdb_id": "tt14186672"
-  },
-  {
-    "name": "The War Between the Land and the Sea",
-    "type": "series",
-    "imdb_id": "tt30645193"
+    "imdb_id": "tt35495073"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -65,19 +55,14 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Robin Hood",
+    "name": "The War Between the Land and the Sea",
     "type": "series",
-    "imdb_id": "tt33484460"
+    "imdb_id": "tt30645193"
   },
   {
-    "name": "Man vs Baby",
+    "name": "Landman",
     "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
-    "name": "Uncle",
-    "type": "series",
-    "imdb_id": "tt34607647"
+    "imdb_id": "tt14186672"
   },
   {
     "name": "One-Punch Man",
@@ -85,13 +70,28 @@
     "imdb_id": "tt4508902"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt35047134"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Mighty Nein",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt26453092"
+  },
+  {
+    "name": "Uncle",
+    "type": "series",
+    "imdb_id": "tt34607647"
+  },
+  {
+    "name": "Robin Hood",
+    "type": "series",
+    "imdb_id": "tt33484460"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   }
 ]

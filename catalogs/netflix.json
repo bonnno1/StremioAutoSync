@@ -10,11 +10,6 @@
     "imdb_id": "tt35047134"
   },
   {
-    "name": "Record of Ragnarok",
-    "type": "series",
-    "imdb_id": "tt13676344"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
@@ -25,9 +20,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "City of Shadows",
+    "name": "Record of Ragnarok",
     "type": "series",
-    "imdb_id": "tt34719392"
+    "imdb_id": "tt13676344"
   },
   {
     "name": "Wednesday",
@@ -40,14 +35,14 @@
     "imdb_id": "tt8962124"
   },
   {
+    "name": "City of Shadows",
+    "type": "series",
+    "imdb_id": "tt34719392"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "Raw",
@@ -55,9 +50,9 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Elite",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Black Mirror",
@@ -65,9 +60,24 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Culinary Class Wars",
+    "type": "series",
+    "imdb_id": "tt33040785"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Weak Hero",
@@ -75,9 +85,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Culinary Class Wars",
+    "name": "CID",
     "type": "series",
-    "imdb_id": "tt33040785"
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Bridgerton",
@@ -88,15 +98,5 @@
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
-  },
-  {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "The Beast in Me",
-    "type": "series",
-    "imdb_id": "tt31974367"
   }
 ]

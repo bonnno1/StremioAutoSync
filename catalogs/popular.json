@@ -15,19 +15,24 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Speed and Love",
-    "type": "series",
-    "imdb_id": "tt36596644"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
   },
   {
+    "name": "Speed and Love",
+    "type": "series",
+    "imdb_id": "tt36596644"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Breaking Bad",
@@ -38,11 +43,6 @@
     "name": "Spartacus: House of Ashur",
     "type": "series",
     "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -60,19 +60,14 @@
     "imdb_id": "tt2741602"
   },
   {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Game of Thrones",
@@ -80,9 +75,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Lost",
+    "name": "Homeland",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt1796960"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Shameless",
@@ -90,8 +90,13 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Homeland",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt1796960"
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
   }
 ]
