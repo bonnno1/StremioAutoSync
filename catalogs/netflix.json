@@ -5,11 +5,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
@@ -20,9 +15,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Record of Ragnarok",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt13676344"
+    "imdb_id": "tt35047134"
   },
   {
     "name": "Wednesday",
@@ -35,9 +30,14 @@
     "imdb_id": "tt8962124"
   },
   {
-    "name": "City of Shadows",
+    "name": "Record of Ragnarok",
     "type": "series",
-    "imdb_id": "tt34719392"
+    "imdb_id": "tt13676344"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Squid Game",
@@ -45,9 +45,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Raw",
+    "name": "City of Shadows",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt34719392"
   },
   {
     "name": "You",
@@ -65,9 +65,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt4179452"
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Culinary Class Wars",
@@ -75,9 +75,14 @@
     "imdb_id": "tt33040785"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "CID",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
   },
   {
     "name": "Weak Hero",
@@ -85,18 +90,13 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "Alice in Borderland",
     "type": "series",
     "imdb_id": "tt10795658"
+  },
+  {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
   }
 ]

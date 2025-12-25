@@ -30,6 +30,11 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "The Big Game",
+    "type": "series",
+    "imdb_id": "tt13144490"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
@@ -40,14 +45,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Big Game",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt13144490"
-  },
-  {
-    "name": "Gachiakuta",
-    "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "One-Punch Man",
@@ -60,24 +60,9 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Record of Ragnarok",
+    "name": "Gachiakuta",
     "type": "series",
-    "imdb_id": "tt13676344"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt32612521"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -85,18 +70,33 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Robin Hood",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt33484460"
-  },
-  {
-    "name": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "type": "series",
-    "imdb_id": "tt36593026"
+    "imdb_id": "tt2861424"
   }
 ]

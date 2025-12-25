@@ -5,14 +5,14 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "IT: Welcome to Derry",
@@ -35,11 +35,6 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -48,6 +43,21 @@
     "name": "Heated Rivalry",
     "type": "series",
     "imdb_id": "tt35495073"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
+  },
+  {
+    "name": "The Swords",
+    "type": "series",
+    "imdb_id": "tt33132245"
+  },
+  {
+    "name": "Uncle",
+    "type": "series",
+    "imdb_id": "tt34607647"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -60,14 +70,9 @@
     "imdb_id": "tt30645193"
   },
   {
-    "name": "Landman",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt14186672"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Man vs Baby",
@@ -75,23 +80,18 @@
     "imdb_id": "tt35047134"
   },
   {
-    "name": "The Mighty Nein",
+    "name": "Landman",
     "type": "series",
-    "imdb_id": "tt26453092"
+    "imdb_id": "tt14186672"
   },
   {
-    "name": "Uncle",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt34607647"
+    "imdb_id": "tt13706018"
   },
   {
-    "name": "Robin Hood",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt33484460"
-  },
-  {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt4508902"
   }
 ]

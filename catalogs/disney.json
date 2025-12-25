@@ -10,24 +10,24 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Manipulated",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt36188448"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
     "imdb_id": "tt20674124"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "The Mandalorian",
@@ -45,14 +45,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "The Eighth Family",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt38781098"
+    "imdb_id": "tt33298903"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Sekizinci Aile",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt38781098"
   },
   {
     "name": "What If...?",
@@ -60,14 +60,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Disney Twisted-Wonderland: The Animation",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt28306749"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "She-Hulk: Attorney at Law",
@@ -75,28 +70,33 @@
     "imdb_id": "tt10857160"
   },
   {
+    "name": "Disney Twisted-Wonderland: The Animation",
+    "type": "series",
+    "imdb_id": "tt28306749"
+  },
+  {
     "name": "The End of an Era",
     "type": "series",
     "imdb_id": "tt38673133"
   },
   {
-    "name": "The Stolen Girl",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt28228082"
+    "imdb_id": "tt10160804"
   },
   {
-    "name": "Marvel Zombies",
+    "name": "Star Wars: Tales of the Empire",
     "type": "series",
-    "imdb_id": "tt16027014"
+    "imdb_id": "tt32019314"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "The Book of Boba Fett",
     "type": "series",
     "imdb_id": "tt13668894"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
   }
 ]

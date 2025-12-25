@@ -30,11 +30,6 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
@@ -50,14 +45,9 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Wednesday",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
+    "imdb_id": "tt35047134"
   },
   {
     "name": "South Park",
@@ -65,24 +55,9 @@
     "imdb_id": "tt0121955"
   },
   {
-    "name": "Emily in Paris",
-    "type": "series",
-    "imdb_id": "tt8962124"
-  },
-  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
   },
   {
     "name": "Young Hearts",
@@ -90,13 +65,38 @@
     "imdb_id": "tt0144724"
   },
   {
-    "name": "Teen Wolf",
+    "name": "Two and a Half Men",
     "type": "series",
-    "imdb_id": "tt1567432"
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Emily in Paris",
+    "type": "series",
+    "imdb_id": "tt8962124"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
   },
   {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Teen Wolf",
+    "type": "series",
+    "imdb_id": "tt1567432"
   }
 ]
