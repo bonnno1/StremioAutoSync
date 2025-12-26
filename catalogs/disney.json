@@ -1,13 +1,18 @@
 [
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt33298903"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -20,19 +25,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
   },
   {
     "name": "Loki",
@@ -40,19 +40,19 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
+  },
+  {
+    "name": "The Eighth Family",
+    "type": "series",
+    "imdb_id": "tt38781098"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
-    "name": "Sekizinci Aile",
-    "type": "series",
-    "imdb_id": "tt38781098"
   },
   {
     "name": "What If...?",
@@ -70,33 +70,33 @@
     "imdb_id": "tt10857160"
   },
   {
-    "name": "Disney Twisted-Wonderland: The Animation",
-    "type": "series",
-    "imdb_id": "tt28306749"
-  },
-  {
-    "name": "The End of an Era",
-    "type": "series",
-    "imdb_id": "tt38673133"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: Tales of the Empire",
-    "type": "series",
-    "imdb_id": "tt32019314"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "The Book of Boba Fett",
     "type": "series",
     "imdb_id": "tt13668894"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "Disney Twisted-Wonderland: The Animation",
+    "type": "series",
+    "imdb_id": "tt28306749"
+  },
+  {
+    "name": "Star Wars: Tales of the Empire",
+    "type": "series",
+    "imdb_id": "tt32019314"
   }
 ]

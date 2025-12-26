@@ -10,14 +10,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Reacher",
@@ -30,19 +30,9 @@
     "imdb_id": "tt6794990"
   },
   {
-    "name": "The Chosen",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Hazbin Hotel",
@@ -50,9 +40,19 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "The Wheel of Time",
@@ -60,14 +60,14 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Mighty Nein",
@@ -85,13 +85,13 @@
     "imdb_id": "tt1740299"
   },
   {
-    "name": "Maxton Hall – The World Between Us",
-    "type": "series",
-    "imdb_id": "tt27792190"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Maxton Hall – The World Between Us",
+    "type": "series",
+    "imdb_id": "tt27792190"
   }
 ]

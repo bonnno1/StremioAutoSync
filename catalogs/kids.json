@@ -15,11 +15,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
@@ -30,19 +25,14 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
   },
   {
     "name": "Shin Chan",
@@ -50,24 +40,19 @@
     "imdb_id": "tt12853970"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "iCarly",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "The Epic Tales of Captain Underpants",
-    "type": "series",
-    "imdb_id": "tt7741830"
+    "imdb_id": "tt20674124"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -85,8 +70,28 @@
     "imdb_id": "tt3596174"
   },
   {
-    "name": "The Smurfs",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt0081933"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt0131613"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   }
 ]
