@@ -10,14 +10,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
   },
   {
     "name": "Severance",
@@ -35,19 +35,14 @@
     "imdb_id": "tt19381692"
   },
   {
-    "name": "See",
-    "type": "series",
-    "imdb_id": "tt7949218"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Servant",
+    "name": "See",
     "type": "series",
-    "imdb_id": "tt8068860"
+    "imdb_id": "tt7949218"
   },
   {
     "name": "The Studio",
@@ -60,6 +55,16 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
@@ -70,33 +75,28 @@
     "imdb_id": "tt9174600"
   },
   {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Down Cemetery Road",
+    "name": "Servant",
     "type": "series",
-    "imdb_id": "tt32132630"
+    "imdb_id": "tt8068860"
   },
   {
-    "name": "The Buccaneers",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt21108774"
+    "imdb_id": "tt2640044"
   },
   {
     "name": "Hello Tomorrow!",
     "type": "series",
     "imdb_id": "tt14596212"
+  },
+  {
+    "name": "Down Cemetery Road",
+    "type": "series",
+    "imdb_id": "tt32132630"
   }
 ]

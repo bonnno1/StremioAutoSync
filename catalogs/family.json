@@ -5,29 +5,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt35047134"
   },
   {
     "name": "Young Sheldon",
@@ -35,14 +20,29 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Doraemon",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -60,9 +60,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "The Nanny",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Teen Titans Go!",
@@ -70,19 +70,9 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Forbidden Fruit",
-    "type": "series",
-    "imdb_id": "tt8045936"
   },
   {
     "name": "El Chavo del Ocho",
@@ -90,8 +80,13 @@
     "imdb_id": "tt0229889"
   },
   {
-    "name": "Love Stories in the Countryside",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt1395015"
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   }
 ]
