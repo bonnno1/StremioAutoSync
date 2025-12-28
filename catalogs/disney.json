@@ -1,23 +1,23 @@
 [
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "Made in Korea",
     "type": "series",
     "imdb_id": "tt33298903"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Andor",
@@ -35,29 +35,14 @@
     "imdb_id": "tt38781098"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "The Manipulated",
     "type": "series",
     "imdb_id": "tt36188448"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -65,19 +50,29 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "The Falcon and the Winter Soldier",
     "type": "series",
     "imdb_id": "tt9208876"
   },
   {
-    "name": "Hawkeye",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "She-Hulk: Attorney at Law",
-    "type": "series",
-    "imdb_id": "tt10857160"
+    "imdb_id": "tt24640580"
   },
   {
     "name": "Marvel Studios Legends",
@@ -85,18 +80,23 @@
     "imdb_id": "tt13650480"
   },
   {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Disney Twisted-Wonderland: The Animation",
+    "name": "Your Friendly Neighborhood Spider-Man",
     "type": "series",
-    "imdb_id": "tt28306749"
+    "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   }
 ]

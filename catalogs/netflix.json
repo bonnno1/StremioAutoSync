@@ -25,11 +25,6 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -40,9 +35,14 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Record of Ragnarok",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt13676344"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
   },
   {
     "name": "You",
@@ -50,24 +50,14 @@
     "imdb_id": "tt7335184"
   },
   {
+    "name": "Record of Ragnarok",
+    "type": "series",
+    "imdb_id": "tt13676344"
+  },
+  {
     "name": "Emily in Paris",
     "type": "series",
     "imdb_id": "tt8962124"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "City of Shadows",
-    "type": "series",
-    "imdb_id": "tt34719392"
-  },
-  {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -75,19 +65,19 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "CID",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "Culinary Class Wars",
     "type": "series",
     "imdb_id": "tt33040785"
   },
   {
-    "name": "Elite",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Cobra Kai",
@@ -95,8 +85,18 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "Weak Hero",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "City of Shadows",
+    "type": "series",
+    "imdb_id": "tt34719392"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
   }
 ]

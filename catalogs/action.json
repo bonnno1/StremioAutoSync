@@ -15,11 +15,6 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -28,6 +23,21 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "The Big Game",
@@ -40,19 +50,19 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Smallville",
+    "name": "Cashero",
     "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt30413044"
   },
   {
     "name": "The Witcher",
@@ -60,9 +70,9 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Gachiakuta",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt32612521"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Stargate SG-1",
@@ -70,29 +80,19 @@
     "imdb_id": "tt0118480"
   },
   {
+    "name": "Gachiakuta",
+    "type": "series",
+    "imdb_id": "tt32612521"
+  },
+  {
     "name": "One-Punch Man",
     "type": "series",
     "imdb_id": "tt4508902"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
   },
   {
     "name": "Rick and Morty",

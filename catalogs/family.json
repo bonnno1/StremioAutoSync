@@ -75,6 +75,11 @@
     "imdb_id": "tt0106004"
   },
   {
+    "name": "Shaun the Sheep",
+    "type": "series",
+    "imdb_id": "tt0983983"
+  },
+  {
     "name": "El Chavo del Ocho",
     "type": "series",
     "imdb_id": "tt0229889"
@@ -83,10 +88,5 @@
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
   }
 ]
