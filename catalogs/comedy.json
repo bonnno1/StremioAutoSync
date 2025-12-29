@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "House",
@@ -65,6 +65,11 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "Young Hearts",
     "type": "series",
     "imdb_id": "tt0144724"
@@ -83,11 +88,6 @@
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "SPY x FAMILY",

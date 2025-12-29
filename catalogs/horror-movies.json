@@ -10,14 +10,19 @@
     "imdb_id": "tt27208407"
   },
   {
-    "name": "Slaughterhouse 2",
-    "type": "movie",
-    "imdb_id": "tt34960723"
-  },
-  {
     "name": "Anaconda",
     "type": "movie",
     "imdb_id": "tt33244668"
+  },
+  {
+    "name": "Santastein",
+    "type": "movie",
+    "imdb_id": "tt11814322"
+  },
+  {
+    "name": "Slaughterhouse 2",
+    "type": "movie",
+    "imdb_id": "tt34960723"
   },
   {
     "name": "Frankenstein",
@@ -25,19 +30,19 @@
     "imdb_id": "tt1312221"
   },
   {
-    "name": "The Other",
-    "type": "movie",
-    "imdb_id": "tt28498159"
-  },
-  {
     "name": "Dracula",
     "type": "movie",
     "imdb_id": "tt31434030"
   },
   {
-    "name": "Santastein",
+    "name": "Conjuring Tapes",
     "type": "movie",
-    "imdb_id": "tt11814322"
+    "imdb_id": "tt29954526"
+  },
+  {
+    "name": "The Other",
+    "type": "movie",
+    "imdb_id": "tt28498159"
   },
   {
     "name": "Good Boy",
@@ -48,11 +53,6 @@
     "name": "It",
     "type": "movie",
     "imdb_id": "tt1396484"
-  },
-  {
-    "name": "I Am Frankelda",
-    "type": "movie",
-    "imdb_id": "tt36639986"
   },
   {
     "name": "The Cursed: Insatiable Desires",
@@ -75,6 +75,11 @@
     "imdb_id": "tt4589218"
   },
   {
+    "name": "I Am Frankelda",
+    "type": "movie",
+    "imdb_id": "tt36639986"
+  },
+  {
     "name": "Keeper",
     "type": "movie",
     "imdb_id": "tt32332404"
@@ -85,18 +90,13 @@
     "imdb_id": "tt7349950"
   },
   {
+    "name": "The Ghost Game",
+    "type": "movie",
+    "imdb_id": "tt37285917"
+  },
+  {
     "name": "The Conjuring: Last Rites",
     "type": "movie",
     "imdb_id": "tt22898462"
-  },
-  {
-    "name": "Sinners",
-    "type": "movie",
-    "imdb_id": "tt31193180"
-  },
-  {
-    "name": "Succubus",
-    "type": "movie",
-    "imdb_id": "tt13778486"
   }
 ]

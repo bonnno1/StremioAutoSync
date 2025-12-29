@@ -20,14 +20,14 @@
     "imdb_id": "tt2948356"
   },
   {
-    "name": "The Muppet Christmas Carol",
-    "type": "movie",
-    "imdb_id": "tt0104940"
-  },
-  {
     "name": "The SpongeBob Movie: Search for SquarePants",
     "type": "movie",
     "imdb_id": "tt23572848"
+  },
+  {
+    "name": "The Muppet Christmas Carol",
+    "type": "movie",
+    "imdb_id": "tt0104940"
   },
   {
     "name": "I Am Frankelda",
@@ -35,19 +35,19 @@
     "imdb_id": "tt36639986"
   },
   {
-    "name": "The Grinch",
-    "type": "movie",
-    "imdb_id": "tt2709692"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Sin cobertura",
+    "name": "The Grinch",
     "type": "movie",
-    "imdb_id": "tt33586306"
+    "imdb_id": "tt2709692"
+  },
+  {
+    "name": "Hitpig!",
+    "type": "movie",
+    "imdb_id": "tt13176330"
   },
   {
     "name": "Playdate",
@@ -55,9 +55,9 @@
     "imdb_id": "tt31425731"
   },
   {
-    "name": "Los Muértimer",
+    "name": "Rise of the Guardians",
     "type": "movie",
-    "imdb_id": "tt33023309"
+    "imdb_id": "tt1446192"
   },
   {
     "name": "Elio",
@@ -65,9 +65,14 @@
     "imdb_id": "tt4900148"
   },
   {
-    "name": "It's a Wonderful Life",
+    "name": "Los Muértimer",
     "type": "movie",
-    "imdb_id": "tt0038650"
+    "imdb_id": "tt33023309"
+  },
+  {
+    "name": "Sin cobertura",
+    "type": "movie",
+    "imdb_id": "tt33586306"
   },
   {
     "name": "The Polar Express",
@@ -75,28 +80,23 @@
     "imdb_id": "tt0338348"
   },
   {
-    "name": "Rise of the Guardians",
-    "type": "movie",
-    "imdb_id": "tt1446192"
-  },
-  {
-    "name": "A Christmas Carol",
-    "type": "movie",
-    "imdb_id": "tt1067106"
-  },
-  {
     "name": "E.T. the Extra-Terrestrial",
     "type": "movie",
     "imdb_id": "tt0083866"
   },
   {
+    "name": "It's a Wonderful Life",
+    "type": "movie",
+    "imdb_id": "tt0038650"
+  },
+  {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "type": "movie",
+    "imdb_id": "tt0363771"
+  },
+  {
     "name": "Lilo & Stitch",
     "type": "movie",
     "imdb_id": "tt11655566"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
   }
 ]
