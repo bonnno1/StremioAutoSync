@@ -1,13 +1,23 @@
 [
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "The Simpsons",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
   },
   {
     "name": "House",
@@ -20,34 +30,14 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
   },
   {
-    "name": "South Park",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Adventure Time",
-    "type": "series",
-    "imdb_id": "tt1305826"
+    "imdb_id": "tt4508902"
   },
   {
     "name": "The Office",
@@ -60,19 +50,34 @@
     "imdb_id": "tt0397306"
   },
   {
+    "name": "Young Hearts",
+    "type": "series",
+    "imdb_id": "tt0144724"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Adventure Time",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt1305826"
   },
   {
-    "name": "Young Hearts",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Tulsa King",
@@ -85,13 +90,13 @@
     "imdb_id": "tt0369179"
   },
   {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
-  },
-  {
     "name": "SPY x FAMILY",
     "type": "series",
     "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   }
 ]

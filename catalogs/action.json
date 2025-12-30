@@ -35,6 +35,16 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -75,11 +85,6 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
     "name": "The Big Game",
     "type": "series",
     "imdb_id": "tt13144490"
@@ -88,10 +93,5 @@
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt30413044"
   },
   {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
   },
   {
     "name": "Raw",
@@ -25,14 +25,19 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Wednesday",
@@ -45,29 +50,19 @@
     "imdb_id": "tt35047134"
   },
   {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Record of Ragnarok",
-    "type": "series",
-    "imdb_id": "tt13676344"
-  },
-  {
-    "name": "Emily in Paris",
-    "type": "series",
-    "imdb_id": "tt8962124"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Record of Ragnarok",
+    "type": "series",
+    "imdb_id": "tt13676344"
   },
   {
     "name": "CID",
@@ -80,14 +75,19 @@
     "imdb_id": "tt33040785"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Emily in Paris",
+    "type": "series",
+    "imdb_id": "tt8962124"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Elite",
@@ -95,8 +95,8 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "City of Shadows",
+    "name": "Weak Hero",
     "type": "series",
-    "imdb_id": "tt34719392"
+    "imdb_id": "tt20234568"
   }
 ]
