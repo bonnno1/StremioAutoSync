@@ -10,9 +10,9 @@
     "imdb_id": "tt30413044"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "The Witcher",
@@ -20,14 +20,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "Squid Game",
@@ -45,29 +45,19 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Record of Ragnarok",
-    "type": "series",
-    "imdb_id": "tt13676344"
-  },
-  {
     "name": "CID",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Culinary Class Wars",
@@ -80,14 +70,24 @@
     "imdb_id": "tt7221388"
   },
   {
-    "name": "Emily in Paris",
-    "type": "series",
-    "imdb_id": "tt8962124"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Man vs Baby",
+    "type": "series",
+    "imdb_id": "tt35047134"
+  },
+  {
+    "name": "Record of Ragnarok",
+    "type": "series",
+    "imdb_id": "tt13676344"
+  },
+  {
+    "name": "Emily in Paris",
+    "type": "series",
+    "imdb_id": "tt8962124"
   },
   {
     "name": "Elite",

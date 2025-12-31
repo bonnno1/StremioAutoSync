@@ -5,24 +5,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Cashero",
     "type": "series",
     "imdb_id": "tt30413044"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Game of Thrones",
@@ -30,24 +20,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Spartacus: House of Ashur",
     "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt29921437"
   },
   {
     "name": "Doctor Who",
@@ -55,9 +40,34 @@
     "imdb_id": "tt0436992"
   },
   {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "The Walking Dead",
@@ -65,14 +75,14 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
   },
   {
     "name": "Smallville",
@@ -80,18 +90,8 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "One-Punch Man",
     "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "The Big Game",
-    "type": "series",
-    "imdb_id": "tt13144490"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt4508902"
   }
 ]

@@ -35,19 +35,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   },
   {
     "name": "Friends",
@@ -65,6 +55,11 @@
     "imdb_id": "tt30413044"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
@@ -78,6 +73,11 @@
     "name": "Midsomer Murders",
     "type": "series",
     "imdb_id": "tt0118401"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Game of Thrones",

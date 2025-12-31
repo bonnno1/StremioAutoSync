@@ -1,28 +1,8 @@
 [
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "The Mandalorian",
@@ -30,14 +10,39 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "The Eighth Family",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt38781098"
+    "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "The Eighth Family",
+    "type": "series",
+    "imdb_id": "tt38781098"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "The Manipulated",
@@ -50,24 +55,9 @@
     "imdb_id": "tt9208876"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
   },
   {
     "name": "Your Friendly Neighborhood Spider-Man",
@@ -75,19 +65,14 @@
     "imdb_id": "tt16027074"
   },
   {
-    "name": "Moving",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt20674124"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -95,8 +80,23 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Ironheart",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Ahsoka",
+    "type": "series",
+    "imdb_id": "tt13622776"
   }
 ]

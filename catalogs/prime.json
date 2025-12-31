@@ -5,14 +5,14 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "The Boys",
@@ -30,11 +30,6 @@
     "imdb_id": "tt6794990"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -43,11 +38,6 @@
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "The Expanse",
@@ -60,9 +50,24 @@
     "imdb_id": "tt14016500"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "The Wheel of Time",
@@ -73,11 +78,6 @@
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
   },
   {
     "name": "La que se avecina",

@@ -1,13 +1,13 @@
 [
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Doraemon",
@@ -20,11 +20,6 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -33,6 +28,11 @@
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Shin Chan",
@@ -50,6 +50,31 @@
     "imdb_id": "tt4859164"
   },
   {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
     "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
     "imdb_id": "tt0131613"
@@ -65,33 +90,8 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Chiikawa",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt0175058"
   }
 ]

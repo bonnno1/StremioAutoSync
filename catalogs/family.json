@@ -10,14 +10,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Young Sheldon",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Doraemon",
@@ -25,19 +30,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Man vs Baby",
-    "type": "series",
-    "imdb_id": "tt35047134"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "That '70s Show",
+    "type": "series",
+    "imdb_id": "tt0165598"
   },
   {
     "name": "The Amazing World of Gumball",
@@ -55,14 +55,9 @@
     "imdb_id": "tt0236924"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Man vs Baby",
     "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt35047134"
   },
   {
     "name": "Teen Titans Go!",
@@ -75,9 +70,14 @@
     "imdb_id": "tt2811158"
   },
   {
-    "name": "The Loud House",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt4859164"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "El Chavo del Ocho",
@@ -85,8 +85,8 @@
     "imdb_id": "tt0229889"
   },
   {
-    "name": "Love Stories in the Countryside",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt1395015"
+    "imdb_id": "tt4859164"
   }
 ]
