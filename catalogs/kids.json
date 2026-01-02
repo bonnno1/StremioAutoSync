@@ -5,19 +5,24 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Doraemon",
@@ -30,14 +35,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
   },
   {
     "name": "Bluey",
@@ -50,24 +55,9 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -80,9 +70,19 @@
     "imdb_id": "tt0131613"
   },
   {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
     "name": "Shaun the Sheep",
     "type": "series",
     "imdb_id": "tt0983983"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   },
   {
     "name": "Sesame Street",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "The Powerpuff Girls",
+    "name": "The Penguins of Madagascar",
     "type": "series",
-    "imdb_id": "tt0175058"
+    "imdb_id": "tt0892700"
   }
 ]

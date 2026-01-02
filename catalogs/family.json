@@ -15,24 +15,24 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Golden Boy",
-    "type": "series",
-    "imdb_id": "tt21105088"
-  },
-  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Golden Boy",
+    "type": "series",
+    "imdb_id": "tt21105088"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "That '70s Show",
@@ -45,9 +45,9 @@
     "imdb_id": "tt1942683"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt26997679"
   },
   {
     "name": "Sazae-san",
@@ -55,19 +55,14 @@
     "imdb_id": "tt0236924"
   },
   {
-    "name": "Man vs Baby",
+    "name": "KochiKame",
     "type": "series",
-    "imdb_id": "tt35047134"
+    "imdb_id": "tt2811158"
   },
   {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "KochiKame",
-    "type": "series",
-    "imdb_id": "tt2811158"
   },
   {
     "name": "The Chosen",
@@ -80,9 +75,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   },
   {
     "name": "El Chavo del Ocho",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0229889"
   },
   {
-    "name": "The Loud House",
+    "name": "New Looney Tunes",
     "type": "series",
-    "imdb_id": "tt4859164"
+    "imdb_id": "tt4558858"
   }
 ]

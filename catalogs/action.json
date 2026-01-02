@@ -5,14 +5,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Cashero",
-    "type": "series",
-    "imdb_id": "tt30413044"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Cashero",
+    "type": "series",
+    "imdb_id": "tt30413044"
   },
   {
     "name": "Game of Thrones",
@@ -20,14 +20,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -50,9 +50,9 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Vikings",
@@ -60,9 +60,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Doraemon",
@@ -70,19 +70,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Kamen Rider",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Smallville",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "One-Punch Man",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt4508902"
+    "imdb_id": "tt5180504"
   }
 ]
