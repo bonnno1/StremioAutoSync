@@ -15,14 +15,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Squid Game",
@@ -55,11 +55,6 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "Culinary Class Wars",
     "type": "series",
     "imdb_id": "tt33040785"
@@ -68,6 +63,16 @@
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Dark",
+    "type": "series",
+    "imdb_id": "tt5753856"
   },
   {
     "name": "Weak Hero",
@@ -80,23 +85,18 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Emily in Paris",
-    "type": "series",
-    "imdb_id": "tt8962124"
-  },
-  {
     "name": "Man vs Baby",
     "type": "series",
     "imdb_id": "tt35047134"
   },
   {
-    "name": "Record of Ragnarok",
+    "name": "Alice in Borderland",
     "type": "series",
-    "imdb_id": "tt13676344"
+    "imdb_id": "tt10795658"
   },
   {
-    "name": "Dark",
+    "name": "House of Cards",
     "type": "series",
-    "imdb_id": "tt5753856"
+    "imdb_id": "tt1856010"
   }
 ]

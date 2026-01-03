@@ -5,24 +5,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
   },
   {
-    "name": "House",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Family Guy",
@@ -30,19 +20,29 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
   },
   {
     "name": "Rick and Morty",
@@ -55,24 +55,19 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Adventure Time",
     "type": "series",
     "imdb_id": "tt1305826"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "One-Punch Man",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0144724"
   },
   {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
-  },
-  {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
   }
 ]

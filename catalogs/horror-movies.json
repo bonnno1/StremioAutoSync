@@ -20,21 +20,6 @@
     "imdb_id": "tt14264694"
   },
   {
-    "name": "Santastein",
-    "type": "movie",
-    "imdb_id": "tt11814322"
-  },
-  {
-    "name": "Frankenstein",
-    "type": "movie",
-    "imdb_id": "tt1312221"
-  },
-  {
-    "name": "Please Don't Feed the Children",
-    "type": "movie",
-    "imdb_id": "tt27208407"
-  },
-  {
     "name": "Diabolical",
     "type": "movie",
     "imdb_id": "tt29728906"
@@ -45,9 +30,24 @@
     "imdb_id": "tt37285917"
   },
   {
+    "name": "Frankenstein",
+    "type": "movie",
+    "imdb_id": "tt1312221"
+  },
+  {
+    "name": "Santastein",
+    "type": "movie",
+    "imdb_id": "tt11814322"
+  },
+  {
     "name": "Noise",
     "type": "movie",
     "imdb_id": "tt29845247"
+  },
+  {
+    "name": "Please Don't Feed the Children",
+    "type": "movie",
+    "imdb_id": "tt27208407"
   },
   {
     "name": "Dracula",
@@ -70,6 +70,11 @@
     "imdb_id": "tt29644189"
   },
   {
+    "name": "The Conjuring: Last Rites",
+    "type": "movie",
+    "imdb_id": "tt22898462"
+  },
+  {
     "name": "The Other",
     "type": "movie",
     "imdb_id": "tt28498159"
@@ -85,18 +90,13 @@
     "imdb_id": "tt34960723"
   },
   {
-    "name": "Weapons",
+    "name": "November",
     "type": "movie",
-    "imdb_id": "tt26581740"
+    "imdb_id": "tt6164502"
   },
   {
-    "name": "The Cursed: Insatiable Desires",
+    "name": "Captain Hook: The Cursed Tides",
     "type": "movie",
-    "imdb_id": "tt37024184"
-  },
-  {
-    "name": "Five Nights at Freddy's",
-    "type": "movie",
-    "imdb_id": "tt4589218"
+    "imdb_id": "tt33458086"
   }
 ]

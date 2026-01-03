@@ -25,14 +25,14 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Shin Chan",
@@ -50,14 +50,19 @@
     "imdb_id": "tt7678620"
   },
   {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt0103369"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -70,9 +75,9 @@
     "imdb_id": "tt0131613"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Shaun the Sheep",
@@ -80,18 +85,13 @@
     "imdb_id": "tt0983983"
   },
   {
-    "name": "Duel Masters",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "Sesame Street",
+    "name": "Totally Spies!",
     "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "The Penguins of Madagascar",
-    "type": "series",
-    "imdb_id": "tt0892700"
+    "imdb_id": "tt0283226"
   }
 ]
