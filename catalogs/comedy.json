@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Rookie",
@@ -70,11 +70,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
     "name": "Young Hearts",
     "type": "series",
     "imdb_id": "tt0144724"
@@ -83,6 +78,11 @@
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
   },
   {
     "name": "SPY x FAMILY",

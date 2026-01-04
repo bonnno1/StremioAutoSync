@@ -5,9 +5,9 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Andor",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -15,14 +15,14 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
   },
   {
     "name": "Made in Korea",
@@ -50,34 +50,14 @@
     "imdb_id": "tt13622982"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
-  },
-  {
-    "name": "The Eighth Family",
-    "type": "series",
-    "imdb_id": "tt38781098"
-  },
-  {
-    "name": "Your Friendly Neighborhood Spider-Man",
-    "type": "series",
-    "imdb_id": "tt16027074"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "The Falcon and the Winter Soldier",
-    "type": "series",
-    "imdb_id": "tt9208876"
   },
   {
     "name": "Soy Luna",
@@ -85,18 +65,38 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "WandaVision",
+    "name": "Your Friendly Neighborhood Spider-Man",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "The Eighth Family",
+    "type": "series",
+    "imdb_id": "tt38781098"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "American Born Chinese",
-    "type": "series",
-    "imdb_id": "tt15552018"
   }
 ]

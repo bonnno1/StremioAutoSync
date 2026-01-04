@@ -1,18 +1,28 @@
 [
   {
-    "name": "Detective Conan",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt0096697"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt2185037"
   },
   {
-    "name": "Fights Break Sphere",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Landman",
+    "type": "series",
+    "imdb_id": "tt14186672"
+  },
+  {
+    "name": "Scene of the Crime",
+    "type": "series",
+    "imdb_id": "tt0806910"
   },
   {
     "name": "Shine on Me",
@@ -25,9 +35,9 @@
     "imdb_id": "tt30985733"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt27432264"
   },
   {
     "name": "The Unclouded Soul",
@@ -35,14 +45,39 @@
     "imdb_id": "tt31521718"
   },
   {
+    "name": "The Night Manager",
+    "type": "series",
+    "imdb_id": "tt1399664"
+  },
+  {
     "name": "Match of the Day",
     "type": "series",
     "imdb_id": "tt0135733"
   },
   {
-    "name": "Taxi Driver",
+    "name": "Jack-of-All-Trades, Party of None",
     "type": "series",
-    "imdb_id": "tt13759970"
+    "imdb_id": "tt38648925"
+  },
+  {
+    "name": "The Daily Life of the Immortal King",
+    "type": "series",
+    "imdb_id": "tt11755260"
+  },
+  {
+    "name": "My Little Old Boy",
+    "type": "series",
+    "imdb_id": "tt33336849"
+  },
+  {
+    "name": "The Shadow Team",
+    "type": "series",
+    "imdb_id": "tt13562418"
+  },
+  {
+    "name": "Tamon's B-Side",
+    "type": "series",
+    "imdb_id": "tt37532722"
   },
   {
     "name": "Natural High",
@@ -50,43 +85,8 @@
     "imdb_id": "tt30461072"
   },
   {
-    "name": "All Elite Wrestling: Collision",
+    "name": "MF GHOST",
     "type": "series",
-    "imdb_id": "tt27776045"
-  },
-  {
-    "name": "Me and Thee",
-    "type": "series",
-    "imdb_id": "tt34929687"
-  },
-  {
-    "name": "TMZ",
-    "type": "series",
-    "imdb_id": "tt1095213"
-  },
-  {
-    "name": "The Manager",
-    "type": "series",
-    "imdb_id": "tt15340934"
-  },
-  {
-    "name": "Pro Bono",
-    "type": "series",
-    "imdb_id": "tt39012462"
-  },
-  {
-    "name": "Taskmaster",
-    "type": "series",
-    "imdb_id": "tt4934214"
-  },
-  {
-    "name": "One Hundred Thousand Years of Qi Refining",
-    "type": "series",
-    "imdb_id": "tt28210907"
-  },
-  {
-    "name": "The Truth Within",
-    "type": "series",
-    "imdb_id": "tt35019273"
+    "imdb_id": "tt28299608"
   }
 ]

@@ -15,9 +15,9 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "King of the Hill",
+    "name": "Golden Boy",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt21105088"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -25,9 +25,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Golden Boy",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "That '70s Show",
@@ -40,24 +45,19 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt0463398"
   },
   {
     "name": "KochiKame",
     "type": "series",
     "imdb_id": "tt2811158"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
   },
   {
     "name": "Teen Titans Go!",
@@ -70,9 +70,19 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Sazae-san",
+    "type": "series",
+    "imdb_id": "tt0236924"
   },
   {
     "name": "Frasier",
@@ -80,18 +90,8 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
     "name": "El Chavo del Ocho",
     "type": "series",
     "imdb_id": "tt0229889"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
   }
 ]
