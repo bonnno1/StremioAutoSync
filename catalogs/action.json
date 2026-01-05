@@ -30,14 +30,14 @@
     "imdb_id": "tt30413044"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Pokémon",
     "type": "series",
     "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "FBI",
@@ -60,6 +60,11 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -75,11 +80,6 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -90,8 +90,8 @@
     "imdb_id": "tt2364582"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt4083422"
   }
 ]

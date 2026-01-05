@@ -15,14 +15,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Foundation",
@@ -50,34 +50,19 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Chief of War",
-    "type": "series",
-    "imdb_id": "tt19381692"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "Down Cemetery Road",
-    "type": "series",
-    "imdb_id": "tt32132630"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
   },
   {
     "name": "Murderbot",
@@ -95,8 +80,23 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Pachinko",
+    "name": "Mythic Quest",
     "type": "series",
-    "imdb_id": "tt8888462"
+    "imdb_id": "tt8879940"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Down Cemetery Road",
+    "type": "series",
+    "imdb_id": "tt32132630"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   }
 ]

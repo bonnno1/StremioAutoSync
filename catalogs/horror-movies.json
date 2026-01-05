@@ -5,24 +5,24 @@
     "imdb_id": "tt30274401"
   },
   {
-    "name": "Conjuring Tapes",
-    "type": "movie",
-    "imdb_id": "tt29954526"
-  },
-  {
     "name": "Diabolical",
     "type": "movie",
     "imdb_id": "tt29728906"
   },
   {
-    "name": "Anaconda",
+    "name": "Conjuring Tapes",
     "type": "movie",
-    "imdb_id": "tt33244668"
+    "imdb_id": "tt29954526"
   },
   {
     "name": "Worldbreaker",
     "type": "movie",
     "imdb_id": "tt14264694"
+  },
+  {
+    "name": "Anaconda",
+    "type": "movie",
+    "imdb_id": "tt33244668"
   },
   {
     "name": "The Ghost Game",
@@ -35,14 +35,14 @@
     "imdb_id": "tt1312221"
   },
   {
+    "name": "MaXXXine",
+    "type": "movie",
+    "imdb_id": "tt22048412"
+  },
+  {
     "name": "Noise",
     "type": "movie",
     "imdb_id": "tt29845247"
-  },
-  {
-    "name": "Santastein",
-    "type": "movie",
-    "imdb_id": "tt11814322"
   },
   {
     "name": "Please Don't Feed the Children",
@@ -50,19 +50,24 @@
     "imdb_id": "tt27208407"
   },
   {
+    "name": "Santastein",
+    "type": "movie",
+    "imdb_id": "tt11814322"
+  },
+  {
     "name": "Dracula",
     "type": "movie",
     "imdb_id": "tt31434030"
   },
   {
+    "name": "Don't Follow Me",
+    "type": "movie",
+    "imdb_id": "tt11344566"
+  },
+  {
     "name": "Sinners",
     "type": "movie",
     "imdb_id": "tt31193180"
-  },
-  {
-    "name": "MaXXXine",
-    "type": "movie",
-    "imdb_id": "tt22048412"
   },
   {
     "name": "Good Boy",
@@ -85,13 +90,8 @@
     "imdb_id": "tt28498159"
   },
   {
-    "name": "It",
+    "name": "Captain Hook: The Cursed Tides",
     "type": "movie",
-    "imdb_id": "tt1396484"
-  },
-  {
-    "name": "November",
-    "type": "movie",
-    "imdb_id": "tt6164502"
+    "imdb_id": "tt33458086"
   }
 ]
