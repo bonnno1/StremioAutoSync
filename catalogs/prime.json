@@ -25,14 +25,19 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
   },
   {
-    "name": "Goliath",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Chosen",
@@ -40,19 +45,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Bosch",
@@ -65,19 +65,14 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt5057054"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "La que se avecina",
     "type": "series",
     "imdb_id": "tt0922037"
-  },
-  {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
   },
   {
     "name": "Hazbin Hotel",
@@ -88,6 +83,11 @@
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   },
   {
     "name": "The Legend of Vox Machina",
