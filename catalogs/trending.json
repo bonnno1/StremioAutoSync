@@ -30,14 +30,14 @@
     "imdb_id": "tt32536168"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Kaguya-sama: Love Is War",
-    "type": "series",
-    "imdb_id": "tt9522300"
   },
   {
     "name": "Landman",
@@ -45,34 +45,9 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "One-Punch Man",
+    "name": "Kaguya-sama: Love Is War",
     "type": "series",
-    "imdb_id": "tt4508902"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "The Copenhagen Test",
-    "type": "series",
-    "imdb_id": "tt31314791"
-  },
-  {
-    "name": "There's No Freaking Way I'll Be Your Lover! Unless...",
-    "type": "series",
-    "imdb_id": "tt36592708"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
-  },
-  {
-    "name": "Land of Sin",
-    "type": "series",
-    "imdb_id": "tt33501959"
+    "imdb_id": "tt9522300"
   },
   {
     "name": "The Rookie",
@@ -80,14 +55,29 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Shine on Me",
+    "type": "series",
+    "imdb_id": "tt34852924"
+  },
+  {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
   },
   {
-    "name": "Heated Rivalry",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt35495073"
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Beast Games",
+    "type": "series",
+    "imdb_id": "tt31812476"
   },
   {
     "name": "The Pitt",
@@ -95,8 +85,18 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Land of Sin",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt33501959"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Heated Rivalry",
+    "type": "series",
+    "imdb_id": "tt35495073"
   }
 ]

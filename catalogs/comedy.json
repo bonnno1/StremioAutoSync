@@ -5,14 +5,14 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Family Guy",
@@ -35,11 +35,6 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -60,19 +55,14 @@
     "imdb_id": "tt1305826"
   },
   {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "South Park",
     "type": "series",
     "imdb_id": "tt0121955"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "SPY x FAMILY",
-    "type": "series",
-    "imdb_id": "tt13706018"
   },
   {
     "name": "Modern Family",
@@ -80,14 +70,14 @@
     "imdb_id": "tt1442437"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "The Tonight Show with Conan O'Brien",
     "type": "series",
     "imdb_id": "tt0899126"
-  },
-  {
-    "name": "One-Punch Man",
-    "type": "series",
-    "imdb_id": "tt4508902"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -95,8 +85,18 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Seinfeld",
+    "name": "SPY x FAMILY",
     "type": "series",
-    "imdb_id": "tt0098904"
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "One-Punch Man",
+    "type": "series",
+    "imdb_id": "tt4508902"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
   }
 ]

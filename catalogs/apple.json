@@ -15,14 +15,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Foundation",
@@ -45,14 +45,14 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Chief of War",
@@ -75,6 +75,11 @@
     "imdb_id": "tt30444310"
   },
   {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
+  },
+  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
@@ -85,18 +90,13 @@
     "imdb_id": "tt19854762"
   },
   {
+    "name": "Pachinko",
+    "type": "series",
+    "imdb_id": "tt8888462"
+  },
+  {
     "name": "Down Cemetery Road",
     "type": "series",
     "imdb_id": "tt32132630"
-  },
-  {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
   }
 ]

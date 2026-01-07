@@ -10,14 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -25,14 +25,9 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Cashero",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt30413044"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Pokémon",
@@ -40,14 +35,9 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Lost",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "The Walking Dead",
@@ -60,19 +50,24 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Cashero",
+    "type": "series",
+    "imdb_id": "tt30413044"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Marvel's Agents of S.H.I.E.L.D.",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt2364582"
+    "imdb_id": "tt7491982"
   }
 ]

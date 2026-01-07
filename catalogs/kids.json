@@ -20,19 +20,24 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -45,24 +50,9 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
-  },
-  {
-    "name": "Totally Spies!",
-    "type": "series",
-    "imdb_id": "tt0283226"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0131613"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -75,9 +65,9 @@
     "imdb_id": "tt0892700"
   },
   {
-    "name": "The Loud House",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt4859164"
+    "imdb_id": "tt0131613"
   },
   {
     "name": "Sailor Moon",
@@ -85,9 +75,19 @@
     "imdb_id": "tt0103369"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
+  },
+  {
+    "name": "Totally Spies!",
+    "type": "series",
+    "imdb_id": "tt0283226"
   },
   {
     "name": "OK K.O.! Let's Be Heroes",
@@ -95,8 +95,8 @@
     "imdb_id": "tt6965802"
   },
   {
-    "name": "Rugrats",
+    "name": "X-Men",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0103584"
   }
 ]
