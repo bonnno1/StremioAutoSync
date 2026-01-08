@@ -20,24 +20,19 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "New Looney Tunes",
@@ -50,24 +45,19 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Chiikawa",
     "type": "series",
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
     "name": "KochiKame",
     "type": "series",
     "imdb_id": "tt2811158"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "El Chavo del Ocho",
@@ -80,9 +70,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "That '70s Show",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt0165598"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Phineas and Ferb",
@@ -90,8 +80,13 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Nanny",
+    "name": "That '70s Show",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0165598"
+  },
+  {
+    "name": "Sazae-san",
+    "type": "series",
+    "imdb_id": "tt0236924"
   }
 ]

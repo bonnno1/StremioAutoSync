@@ -20,14 +20,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "See",
@@ -40,6 +40,11 @@
     "imdb_id": "tt26862142"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
@@ -50,9 +55,9 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Invasion",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt15677150"
   },
   {
     "name": "Chief of War",
@@ -65,24 +70,9 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
     "name": "Murderbot",
     "type": "series",
     "imdb_id": "tt30444310"
-  },
-  {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
   },
   {
     "name": "Hijack",
@@ -90,13 +80,23 @@
     "imdb_id": "tt19854762"
   },
   {
-    "name": "Pachinko",
-    "type": "series",
-    "imdb_id": "tt8888462"
-  },
-  {
     "name": "Down Cemetery Road",
     "type": "series",
     "imdb_id": "tt32132630"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
+  },
+  {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
   }
 ]

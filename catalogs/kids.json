@@ -40,11 +40,6 @@
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Chiikawa",
     "type": "series",
     "imdb_id": "tt26997679"
@@ -55,29 +50,9 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "The Penguins of Madagascar",
-    "type": "series",
-    "imdb_id": "tt0892700"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0131613"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Henry Danger",
@@ -85,9 +60,19 @@
     "imdb_id": "tt3596174"
   },
   {
-    "name": "Totally Spies!",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt0283226"
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt0131613"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
   },
   {
     "name": "OK K.O.! Let's Be Heroes",
@@ -95,8 +80,23 @@
     "imdb_id": "tt6965802"
   },
   {
-    "name": "X-Men",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0103584"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "The Penguins of Madagascar",
+    "type": "series",
+    "imdb_id": "tt0892700"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
+  },
+  {
+    "name": "Totally Spies!",
+    "type": "series",
+    "imdb_id": "tt0283226"
   }
 ]
