@@ -10,14 +10,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Pokémon Horizons",
@@ -25,14 +25,19 @@
     "imdb_id": "tt26692417"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Doraemon",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "New Looney Tunes",
@@ -50,11 +55,6 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
@@ -70,14 +70,19 @@
     "imdb_id": "tt0131613"
   },
   {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
-  },
-  {
-    "name": "OK K.O.! Let's Be Heroes",
-    "type": "series",
-    "imdb_id": "tt6965802"
   },
   {
     "name": "Rugrats",
@@ -85,18 +90,13 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Penguins of Madagascar",
+    "name": "OK K.O.! Let's Be Heroes",
     "type": "series",
-    "imdb_id": "tt0892700"
+    "imdb_id": "tt6965802"
   },
   {
-    "name": "The Loud House",
+    "name": "Shaun the Sheep",
     "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Totally Spies!",
-    "type": "series",
-    "imdb_id": "tt0283226"
+    "imdb_id": "tt0983983"
   }
 ]

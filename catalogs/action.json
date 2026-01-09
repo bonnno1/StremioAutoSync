@@ -5,6 +5,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -25,19 +30,14 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Pokémon",
@@ -50,9 +50,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Rick and Morty",
@@ -63,6 +63,11 @@
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
   },
   {
     "name": "Smallville",
@@ -85,13 +90,8 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt0285331"
   }
 ]

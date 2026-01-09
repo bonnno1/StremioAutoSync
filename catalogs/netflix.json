@@ -15,11 +15,6 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Cashero",
-    "type": "series",
-    "imdb_id": "tt30413044"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -30,9 +25,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Land of Sin",
+    "name": "Cashero",
     "type": "series",
-    "imdb_id": "tt33501959"
+    "imdb_id": "tt30413044"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   },
   {
     "name": "You",
@@ -40,14 +40,14 @@
     "imdb_id": "tt7335184"
   },
   {
+    "name": "Land of Sin",
+    "type": "series",
+    "imdb_id": "tt33501959"
+  },
+  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
   },
   {
     "name": "Dark",
@@ -60,9 +60,9 @@
     "imdb_id": "tt33040785"
   },
   {
-    "name": "Run Away",
+    "name": "CID",
     "type": "series",
-    "imdb_id": "tt9169516"
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -70,14 +70,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Run Away",
+    "type": "series",
+    "imdb_id": "tt9169516"
   },
   {
     "name": "Weak Hero",

@@ -10,9 +10,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Golden Boy",
@@ -30,6 +40,11 @@
     "imdb_id": "tt1942683"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
@@ -40,19 +55,9 @@
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Sazae-san",
     "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "KochiKame",
-    "type": "series",
-    "imdb_id": "tt2811158"
+    "imdb_id": "tt0236924"
   },
   {
     "name": "The Chosen",
@@ -60,33 +65,28 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "El Chavo del Ocho",
-    "type": "series",
-    "imdb_id": "tt0229889"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "El Chavo del Ocho",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt0229889"
+  },
+  {
+    "name": "KochiKame",
+    "type": "series",
+    "imdb_id": "tt2811158"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
   },
   {
     "name": "That '70s Show",
     "type": "series",
     "imdb_id": "tt0165598"
-  },
-  {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
   }
 ]

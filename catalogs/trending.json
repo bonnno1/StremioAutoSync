@@ -5,9 +5,19 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
   },
   {
     "name": "Pluribus",
@@ -20,24 +30,9 @@
     "imdb_id": "tt9169516"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "HIS & HERS",
     "type": "series",
     "imdb_id": "tt33035373"
-  },
-  {
-    "name": "The Night Manager",
-    "type": "series",
-    "imdb_id": "tt1399664"
-  },
-  {
-    "name": "Sentenced to Be a Hero",
-    "type": "series",
-    "imdb_id": "tt32536168"
   },
   {
     "name": "One Piece",
@@ -45,14 +40,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Pitt",
+    "name": "Sentenced to Be a Hero",
     "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt32536168"
   },
   {
-    "name": "Kaguya-sama: Love Is War",
+    "name": "The Night Manager",
     "type": "series",
-    "imdb_id": "tt9522300"
+    "imdb_id": "tt1399664"
   },
   {
     "name": "The Rookie",
@@ -65,14 +60,9 @@
     "imdb_id": "tt19244304"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "Landman",
@@ -85,9 +75,19 @@
     "imdb_id": "tt35495073"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Chained Soldier",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt16156736"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Land of Sin",
@@ -95,8 +95,8 @@
     "imdb_id": "tt33501959"
   },
   {
-    "name": "All Her Fault",
+    "name": "Kaguya-sama: Love Is War",
     "type": "series",
-    "imdb_id": "tt31314751"
+    "imdb_id": "tt9522300"
   }
 ]
