@@ -25,11 +25,6 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Run Away",
-    "type": "series",
-    "imdb_id": "tt9169516"
-  },
-  {
     "name": "HIS & HERS",
     "type": "series",
     "imdb_id": "tt33035373"
@@ -40,14 +35,19 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Run Away",
+    "type": "series",
+    "imdb_id": "tt9169516"
+  },
+  {
     "name": "Sentenced to Be a Hero",
     "type": "series",
     "imdb_id": "tt32536168"
-  },
-  {
-    "name": "The Night Manager",
-    "type": "series",
-    "imdb_id": "tt1399664"
   },
   {
     "name": "The Rookie",
@@ -55,14 +55,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "IT: Welcome to Derry",
+    "name": "Heated Rivalry",
     "type": "series",
-    "imdb_id": "tt19244304"
+    "imdb_id": "tt35495073"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Fire Force",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt9307686"
+  },
+  {
+    "name": "The Night Manager",
+    "type": "series",
+    "imdb_id": "tt1399664"
   },
   {
     "name": "Landman",
@@ -70,9 +75,19 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "Heated Rivalry",
+    "name": "A Thousand Blows",
     "type": "series",
-    "imdb_id": "tt35495073"
+    "imdb_id": "tt21874900"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
+  },
+  {
+    "name": "Kaguya-sama: Love Is War",
+    "type": "series",
+    "imdb_id": "tt9522300"
   },
   {
     "name": "Chained Soldier",
@@ -80,23 +95,8 @@
     "imdb_id": "tt16156736"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "IT: Welcome to Derry",
     "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Land of Sin",
-    "type": "series",
-    "imdb_id": "tt33501959"
-  },
-  {
-    "name": "Kaguya-sama: Love Is War",
-    "type": "series",
-    "imdb_id": "tt9522300"
+    "imdb_id": "tt19244304"
   }
 ]

@@ -45,14 +45,14 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Rick and Morty",
@@ -75,6 +75,11 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
@@ -88,10 +93,5 @@
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
   }
 ]

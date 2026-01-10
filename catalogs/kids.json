@@ -20,6 +20,11 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
@@ -35,9 +40,9 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Shin Chan",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt12853970"
   },
   {
     "name": "New Looney Tunes",
@@ -48,11 +53,6 @@
     "name": "Chiikawa",
     "type": "series",
     "imdb_id": "tt26997679"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
   },
   {
     "name": "Henry Danger",
@@ -70,19 +70,9 @@
     "imdb_id": "tt0131613"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
   },
   {
     "name": "Rugrats",
@@ -90,13 +80,18 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "OK K.O.! Let's Be Heroes",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt6965802"
+    "imdb_id": "tt4859164"
   },
   {
-    "name": "Shaun the Sheep",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt0983983"
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "The Penguins of Madagascar",
+    "type": "series",
+    "imdb_id": "tt0892700"
   }
 ]
