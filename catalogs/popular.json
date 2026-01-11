@@ -20,19 +20,14 @@
     "imdb_id": "tt0460681"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "The Return of Superman",
-    "type": "series",
-    "imdb_id": "tt5129382"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "Grey's Anatomy",
@@ -40,9 +35,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "NCIS",
@@ -50,14 +45,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Law & Order",
+    "name": "The Return of Superman",
     "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt5129382"
   },
   {
     "name": "The Good Doctor",
@@ -70,14 +60,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Dexter",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0773262"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "House",
@@ -90,13 +85,18 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "The Blacklist",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt2741602"
+    "imdb_id": "tt0773262"
   },
   {
     "name": "Breaking Bad",
     "type": "series",
     "imdb_id": "tt0903747"
+  },
+  {
+    "name": "The Blacklist",
+    "type": "series",
+    "imdb_id": "tt2741602"
   }
 ]

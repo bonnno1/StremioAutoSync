@@ -15,14 +15,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -35,14 +35,14 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
   },
   {
     "name": "Lost",
@@ -50,9 +50,14 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Vikings",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Rick and Morty",
@@ -60,29 +65,19 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Smallville",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0436992"
   },
   {
-    "name": "FBI",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Stargate SG-1",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
   }
 ]
