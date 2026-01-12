@@ -10,9 +10,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "The Night Manager",
+    "name": "The Pitt",
     "type": "series",
-    "imdb_id": "tt1399664"
+    "imdb_id": "tt31938062"
   },
   {
     "name": "Fallout",
@@ -20,9 +20,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Pitt",
+    "name": "The Night Manager",
     "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt1399664"
   },
   {
     "name": "HIS & HERS",
@@ -35,6 +35,11 @@
     "imdb_id": "tt22202452"
   },
   {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
     "name": "Landman",
     "type": "series",
     "imdb_id": "tt14186672"
@@ -45,9 +50,14 @@
     "imdb_id": "tt32864316"
   },
   {
-    "name": "Sentenced to Be a Hero",
+    "name": "Spartacus: House of Ashur",
     "type": "series",
-    "imdb_id": "tt32536168"
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Industry",
+    "type": "series",
+    "imdb_id": "tt7671070"
   },
   {
     "name": "One Piece",
@@ -55,39 +65,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Hell's Paradise",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt13911284"
   },
   {
-    "name": "The Rookie",
+    "name": "Sentenced to Be a Hero",
     "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Heated Rivalry",
-    "type": "series",
-    "imdb_id": "tt35495073"
-  },
-  {
-    "name": "Run Away",
-    "type": "series",
-    "imdb_id": "tt9169516"
-  },
-  {
-    "name": "You and I Are Polar Opposites",
-    "type": "series",
-    "imdb_id": "tt36034547"
-  },
-  {
-    "name": "IT: Welcome to Derry",
-    "type": "series",
-    "imdb_id": "tt19244304"
-  },
-  {
-    "name": "TRIGUN STAMPEDE",
-    "type": "series",
-    "imdb_id": "tt21216104"
+    "imdb_id": "tt32536168"
   },
   {
     "name": "A Thousand Blows",
@@ -95,8 +80,23 @@
     "imdb_id": "tt21874900"
   },
   {
-    "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+    "name": "Taxi Driver",
     "type": "series",
-    "imdb_id": "tt33309549"
+    "imdb_id": "tt13759970"
+  },
+  {
+    "name": "Heated Rivalry",
+    "type": "series",
+    "imdb_id": "tt35495073"
+  },
+  {
+    "name": "TRIGUN STAMPEDE",
+    "type": "series",
+    "imdb_id": "tt21216104"
+  },
+  {
+    "name": "Chained Soldier",
+    "type": "series",
+    "imdb_id": "tt16156736"
   }
 ]
