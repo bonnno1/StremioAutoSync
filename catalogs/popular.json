@@ -30,14 +30,14 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "NCIS",
@@ -55,11 +55,6 @@
     "imdb_id": "tt6470478"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
@@ -75,9 +70,9 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "The Return of Superman",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt5129382"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Midsomer Murders",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0118401"
   },
   {
-    "name": "Dexter",
-    "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
     "name": "Homeland",
     "type": "series",
     "imdb_id": "tt1796960"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "HIS & HERS",
+    "type": "series",
+    "imdb_id": "tt33035373"
+  },
+  {
+    "name": "The Blacklist",
+    "type": "series",
+    "imdb_id": "tt2741602"
   }
 ]

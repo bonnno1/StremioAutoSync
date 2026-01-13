@@ -15,14 +15,14 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "The Night Manager",
     "type": "series",
     "imdb_id": "tt1399664"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "HIS & HERS",
@@ -35,29 +35,14 @@
     "imdb_id": "tt22202452"
   },
   {
+    "name": "Hell's Paradise",
+    "type": "series",
+    "imdb_id": "tt13911284"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Landman",
-    "type": "series",
-    "imdb_id": "tt14186672"
-  },
-  {
-    "name": "Fate/strange Fake",
-    "type": "series",
-    "imdb_id": "tt32864316"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Industry",
-    "type": "series",
-    "imdb_id": "tt7671070"
   },
   {
     "name": "One Piece",
@@ -65,24 +50,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Hell's Paradise",
+    "name": "Spartacus: House of Ashur",
     "type": "series",
-    "imdb_id": "tt13911284"
-  },
-  {
-    "name": "Sentenced to Be a Hero",
-    "type": "series",
-    "imdb_id": "tt32536168"
-  },
-  {
-    "name": "A Thousand Blows",
-    "type": "series",
-    "imdb_id": "tt21874900"
-  },
-  {
-    "name": "Taxi Driver",
-    "type": "series",
-    "imdb_id": "tt13759970"
+    "imdb_id": "tt29921437"
   },
   {
     "name": "Heated Rivalry",
@@ -90,13 +60,43 @@
     "imdb_id": "tt35495073"
   },
   {
-    "name": "TRIGUN STAMPEDE",
+    "name": "Industry",
     "type": "series",
-    "imdb_id": "tt21216104"
+    "imdb_id": "tt7671070"
   },
   {
-    "name": "Chained Soldier",
+    "name": "Fate/strange Fake",
     "type": "series",
-    "imdb_id": "tt16156736"
+    "imdb_id": "tt32864316"
+  },
+  {
+    "name": "Landman",
+    "type": "series",
+    "imdb_id": "tt14186672"
+  },
+  {
+    "name": "Tell Me Lies",
+    "type": "series",
+    "imdb_id": "tt13018148"
+  },
+  {
+    "name": "A Thousand Blows",
+    "type": "series",
+    "imdb_id": "tt21874900"
+  },
+  {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
+  },
+  {
+    "name": "SPY x FAMILY",
+    "type": "series",
+    "imdb_id": "tt13706018"
+  },
+  {
+    "name": "Taxi Driver",
+    "type": "series",
+    "imdb_id": "tt13759970"
   }
 ]
