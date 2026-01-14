@@ -30,19 +30,14 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Absentia",
-    "type": "series",
-    "imdb_id": "tt6794990"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Absentia",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt6794990"
   },
   {
     "name": "The Chosen",
@@ -50,19 +45,14 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
   },
   {
     "name": "Beast Games",
@@ -70,9 +60,9 @@
     "imdb_id": "tt31812476"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Wheel of Time",
@@ -80,18 +70,28 @@
     "imdb_id": "tt7462410"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
   },
   {
-    "name": "La que se avecina",
-    "type": "series",
-    "imdb_id": "tt0922037"
-  },
-  {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
+  },
+  {
+    "name": "La que se avecina",
+    "type": "series",
+    "imdb_id": "tt0922037"
   }
 ]

@@ -10,19 +10,19 @@
     "imdb_id": "tt12343534"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "The Pitt",
     "type": "series",
     "imdb_id": "tt31938062"
   },
   {
-    "name": "The Night Manager",
+    "name": "Hijack",
     "type": "series",
-    "imdb_id": "tt1399664"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt19854762"
   },
   {
     "name": "HIS & HERS",
@@ -30,14 +30,14 @@
     "imdb_id": "tt33035373"
   },
   {
+    "name": "The Night Manager",
+    "type": "series",
+    "imdb_id": "tt1399664"
+  },
+  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Hell's Paradise",
-    "type": "series",
-    "imdb_id": "tt13911284"
   },
   {
     "name": "The Rookie",
@@ -45,29 +45,19 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Tell Me Lies",
+    "type": "series",
+    "imdb_id": "tt13018148"
+  },
+  {
+    "name": "Hell's Paradise",
+    "type": "series",
+    "imdb_id": "tt13911284"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Heated Rivalry",
-    "type": "series",
-    "imdb_id": "tt35495073"
-  },
-  {
-    "name": "Industry",
-    "type": "series",
-    "imdb_id": "tt7671070"
-  },
-  {
-    "name": "Fate/strange Fake",
-    "type": "series",
-    "imdb_id": "tt32864316"
   },
   {
     "name": "Landman",
@@ -75,9 +65,14 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "Tell Me Lies",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt13018148"
+    "imdb_id": "tt33298903"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
   },
   {
     "name": "A Thousand Blows",
@@ -85,18 +80,23 @@
     "imdb_id": "tt21874900"
   },
   {
-    "name": "IT: Welcome to Derry",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt19244304"
+    "imdb_id": "tt12324366"
   },
   {
-    "name": "SPY x FAMILY",
+    "name": "Heated Rivalry",
     "type": "series",
-    "imdb_id": "tt13706018"
+    "imdb_id": "tt35495073"
   },
   {
-    "name": "Taxi Driver",
+    "name": "Detective Conan",
     "type": "series",
-    "imdb_id": "tt13759970"
+    "imdb_id": "tt0131179"
+  },
+  {
+    "name": "Fire Force",
+    "type": "series",
+    "imdb_id": "tt9307686"
   }
 ]

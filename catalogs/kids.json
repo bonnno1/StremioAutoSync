@@ -1,18 +1,18 @@
 [
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Doraemon",
@@ -20,9 +20,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Doraemon",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Shin Chan",
@@ -40,6 +40,11 @@
     "imdb_id": "tt26692417"
   },
   {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
@@ -50,9 +55,9 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Bluey",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Sesame Street",
@@ -60,19 +65,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt7678620"
   },
   {
     "name": "Sailor Moon",
@@ -80,18 +75,23 @@
     "imdb_id": "tt0103369"
   },
   {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
   }
 ]

@@ -55,6 +55,16 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
@@ -63,21 +73,6 @@
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
   },
   {
     "name": "Pokémon",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "24",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   }
 ]
