@@ -1,13 +1,13 @@
 [
   {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
   },
   {
     "name": "Silo",
@@ -20,14 +20,19 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Severance",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt5875444"
   },
   {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "See",
@@ -38,6 +43,16 @@
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "The Afterparty",
+    "type": "series",
+    "imdb_id": "tt12614214"
   },
   {
     "name": "For All Mankind",
@@ -55,19 +70,9 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "The Studio",
+    "name": "Bad Monkey",
     "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt15203646"
   },
   {
     "name": "Shrinking",
@@ -75,28 +80,23 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Chief of War",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt19381692"
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
+  },
+  {
+    "name": "Palm Royale",
+    "type": "series",
+    "imdb_id": "tt8888540"
   },
   {
     "name": "Dark Matter",
     "type": "series",
     "imdb_id": "tt19231492"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
   }
 ]

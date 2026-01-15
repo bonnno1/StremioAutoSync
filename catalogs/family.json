@@ -20,6 +20,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
@@ -30,19 +35,9 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "Love Stories in the Countryside",
@@ -55,24 +50,14 @@
     "imdb_id": "tt9025492"
   },
   {
-    "name": "The Amazing World of Gumball",
-    "type": "series",
-    "imdb_id": "tt1942683"
-  },
-  {
     "name": "Forbidden Fruit",
     "type": "series",
     "imdb_id": "tt8045936"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "The Pendragon Cycle: Rise of the Merlin",
@@ -80,13 +65,28 @@
     "imdb_id": "tt23734948"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Bade Achhe Lagte Hai",
+    "type": "series",
+    "imdb_id": "tt1985299"
   }
 ]
