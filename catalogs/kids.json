@@ -5,9 +5,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Doraemon",
@@ -15,14 +15,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Doraemon",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Shin Chan",
@@ -30,14 +25,14 @@
     "imdb_id": "tt12853970"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -48,6 +43,11 @@
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Duel Masters",
@@ -65,11 +65,6 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "Sailor Moon",
     "type": "series",
     "imdb_id": "tt0103369"
@@ -80,18 +75,23 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "The Guardians of Carcosa",
     "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt29729800"
   },
   {
     "name": "Ninja Hattori-kun",
     "type": "series",
     "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   }
 ]

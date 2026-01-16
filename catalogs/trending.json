@@ -1,18 +1,13 @@
 [
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Fallout",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "The Pitt",
@@ -20,19 +15,19 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "Star Trek: Starfleet Academy",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "【OSHI NO KO】",
-    "type": "series",
-    "imdb_id": "tt21030032"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Night Manager",
     "type": "series",
     "imdb_id": "tt1399664"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   },
   {
     "name": "HIS & HERS",
@@ -45,14 +40,19 @@
     "imdb_id": "tt31974288"
   },
   {
-    "name": "Hijack",
+    "name": "Can This Love Be Translated?",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt30293074"
   },
   {
-    "name": "PONIES",
+    "name": "【OSHI NO KO】",
     "type": "series",
-    "imdb_id": "tt33270420"
+    "imdb_id": "tt21030032"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
   },
   {
     "name": "Hell's Paradise",
@@ -60,14 +60,19 @@
     "imdb_id": "tt13911284"
   },
   {
-    "name": "Pluribus",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "PONIES",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt33270420"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
   },
   {
     "name": "Landman",
@@ -75,28 +80,23 @@
     "imdb_id": "tt14186672"
   },
   {
-    "name": "Industry",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt7671070"
+    "imdb_id": "tt22202452"
   },
   {
-    "name": "Made in Korea",
+    "name": "Fate/strange Fake",
     "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt32864316"
   },
   {
     "name": "Tell Me Lies",
     "type": "series",
     "imdb_id": "tt13018148"
+  },
+  {
+    "name": "Chained Soldier",
+    "type": "series",
+    "imdb_id": "tt16156736"
   }
 ]

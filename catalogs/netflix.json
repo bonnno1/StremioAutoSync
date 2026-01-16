@@ -15,39 +15,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Culinary Class Wars",
-    "type": "series",
-    "imdb_id": "tt33040785"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "CID",
@@ -55,9 +25,44 @@
     "imdb_id": "tt0401916"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Agatha Christie's Seven Dials",
+    "type": "series",
+    "imdb_id": "tt31974288"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Culinary Class Wars",
+    "type": "series",
+    "imdb_id": "tt33040785"
   },
   {
     "name": "Dark",
@@ -75,6 +80,16 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "Taskaree: The Smuggler's Web",
+    "type": "series",
+    "imdb_id": "tt35335046"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -83,20 +98,5 @@
     "name": "Cashero",
     "type": "series",
     "imdb_id": "tt30413044"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
-    "name": "Unlocked: A Jail Experiment",
-    "type": "series",
-    "imdb_id": "tt31722999"
   }
 ]

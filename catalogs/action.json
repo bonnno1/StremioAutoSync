@@ -10,6 +10,11 @@
     "imdb_id": "tt12343534"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -18,11 +23,6 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -40,14 +40,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Kamen Rider",
@@ -55,14 +55,19 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Prison Break",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Doctor Who",
@@ -75,9 +80,9 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Hell's Paradise",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt13911284"
   },
   {
     "name": "S.W.A.T.",
@@ -85,13 +90,8 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Pokémon",
+    "name": "9-1-1",
     "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt7235466"
   }
 ]
