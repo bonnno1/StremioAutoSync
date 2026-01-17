@@ -10,6 +10,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
     "name": "The Pitt",
     "type": "series",
     "imdb_id": "tt31938062"
@@ -25,29 +30,9 @@
     "imdb_id": "tt1399664"
   },
   {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "HIS & HERS",
-    "type": "series",
-    "imdb_id": "tt33035373"
-  },
-  {
     "name": "Agatha Christie's Seven Dials",
     "type": "series",
     "imdb_id": "tt31974288"
-  },
-  {
-    "name": "Can This Love Be Translated?",
-    "type": "series",
-    "imdb_id": "tt30293074"
-  },
-  {
-    "name": "【OSHI NO KO】",
-    "type": "series",
-    "imdb_id": "tt21030032"
   },
   {
     "name": "Star Trek: Starfleet Academy",
@@ -55,14 +40,24 @@
     "imdb_id": "tt8622160"
   },
   {
-    "name": "Hell's Paradise",
+    "name": "【OSHI NO KO】",
     "type": "series",
-    "imdb_id": "tt13911284"
+    "imdb_id": "tt21030032"
   },
   {
-    "name": "One Piece",
+    "name": "HIS & HERS",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt33035373"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Can This Love Be Translated?",
+    "type": "series",
+    "imdb_id": "tt30293074"
   },
   {
     "name": "PONIES",
@@ -70,19 +65,14 @@
     "imdb_id": "tt33270420"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
     "name": "Landman",
     "type": "series",
     "imdb_id": "tt14186672"
   },
   {
-    "name": "Pluribus",
+    "name": "Hell's Paradise",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt13911284"
   },
   {
     "name": "Fate/strange Fake",
@@ -90,13 +80,23 @@
     "imdb_id": "tt32864316"
   },
   {
-    "name": "Tell Me Lies",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt13018148"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "Chained Soldier",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt16156736"
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   }
 ]

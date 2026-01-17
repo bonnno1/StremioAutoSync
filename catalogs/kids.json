@@ -7,17 +7,7 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
   },
   {
     "name": "Shin Chan",
@@ -25,19 +15,19 @@
     "imdb_id": "tt12853970"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -45,9 +35,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Duel Masters",
@@ -55,9 +45,9 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Rugrats",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Sesame Street",
@@ -65,19 +55,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "Chiikawa",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "The Guardians of Carcosa",
-    "type": "series",
-    "imdb_id": "tt29729800"
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -88,6 +73,11 @@
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   },
   {
     "name": "The Fairly OddParents",
