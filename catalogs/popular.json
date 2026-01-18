@@ -10,14 +10,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Supernatural",
@@ -40,11 +40,6 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -53,6 +48,16 @@
     "name": "The Good Doctor",
     "type": "series",
     "imdb_id": "tt6470478"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
   },
   {
     "name": "House",
@@ -65,9 +70,9 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Homeland",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt1796960"
   },
   {
     "name": "HIS & HERS",
@@ -75,23 +80,18 @@
     "imdb_id": "tt33035373"
   },
   {
-    "name": "Homeland",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt1796960"
+    "imdb_id": "tt0098844"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Dexter",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0773262"
   },
   {
     "name": "The Blacklist",
     "type": "series",
     "imdb_id": "tt2741602"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
   }
 ]

@@ -60,6 +60,11 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Hell's Paradise",
+    "type": "series",
+    "imdb_id": "tt13911284"
+  },
+  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
@@ -68,11 +73,6 @@
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Hell's Paradise",
-    "type": "series",
-    "imdb_id": "tt13911284"
   },
   {
     "name": "Kamen Rider",
@@ -85,13 +85,13 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
     "name": "CID",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
   }
 ]
