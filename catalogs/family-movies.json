@@ -35,19 +35,9 @@
     "imdb_id": "tt13176330"
   },
   {
-    "name": "Tangled",
+    "name": "Papá x dos",
     "type": "movie",
-    "imdb_id": "tt0398286"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
-  },
-  {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
+    "imdb_id": "tt33728446"
   },
   {
     "name": "Coco",
@@ -65,6 +55,16 @@
     "imdb_id": "tt13622970"
   },
   {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
+  },
+  {
+    "name": "Tangled",
+    "type": "movie",
+    "imdb_id": "tt0398286"
+  },
+  {
     "name": "Lilo & Stitch",
     "type": "movie",
     "imdb_id": "tt11655566"
@@ -73,6 +73,11 @@
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
   },
   {
     "name": "The Bad Guys 2",
@@ -85,18 +90,13 @@
     "imdb_id": "tt18259086"
   },
   {
-    "name": "Bear Claw Camp",
+    "name": "Toy Story 2",
     "type": "movie",
-    "imdb_id": "tt32616813"
+    "imdb_id": "tt0120363"
   },
   {
-    "name": "Tinker Bell and the Legend of the NeverBeast",
+    "name": "Despicable Me 4",
     "type": "movie",
-    "imdb_id": "tt3120408"
-  },
-  {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
+    "imdb_id": "tt7510222"
   }
 ]

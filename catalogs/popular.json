@@ -35,14 +35,24 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "type": "series",
+    "imdb_id": "tt23734948"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Good Doctor",
@@ -55,11 +65,6 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
@@ -70,14 +75,14 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Midsomer Murders",
+    "type": "series",
+    "imdb_id": "tt0118401"
+  },
+  {
     "name": "Homeland",
     "type": "series",
     "imdb_id": "tt1796960"
-  },
-  {
-    "name": "HIS & HERS",
-    "type": "series",
-    "imdb_id": "tt33035373"
   },
   {
     "name": "Law & Order",
@@ -85,13 +90,8 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Dexter",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt0773262"
-  },
-  {
-    "name": "The Blacklist",
-    "type": "series",
-    "imdb_id": "tt2741602"
+    "imdb_id": "tt22248376"
   }
 ]

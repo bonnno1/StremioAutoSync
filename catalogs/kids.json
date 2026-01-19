@@ -5,11 +5,6 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
@@ -22,6 +17,11 @@
   {
     "name": "Doraemon",
     "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
     "imdb_id": "tt4083422"
   },
   {
@@ -30,14 +30,14 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
   },
   {
     "name": "Duel Masters",
@@ -45,24 +45,19 @@
     "imdb_id": "tt0404597"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Garfield and Friends",
+    "type": "series",
+    "imdb_id": "tt0094469"
+  },
+  {
     "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
     "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
   },
   {
     "name": "Ninja Hattori-kun",
@@ -70,18 +65,28 @@
     "imdb_id": "tt2787558"
   },
   {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt0131613"
+  },
+  {
     "name": "Sailor Moon",
     "type": "series",
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Rugrats",
+    "name": "Courage the Cowardly Dog",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0220880"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   }
 ]
