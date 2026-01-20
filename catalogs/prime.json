@@ -20,19 +20,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Absentia",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt6794990"
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -40,9 +35,19 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Absentia",
+    "type": "series",
+    "imdb_id": "tt6794990"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   },
   {
     "name": "INVINCIBLE",
@@ -60,24 +65,9 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Beast Games",
-    "type": "series",
-    "imdb_id": "tt31812476"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
   },
   {
     "name": "Gen V",
@@ -85,8 +75,18 @@
     "imdb_id": "tt13159924"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
+  },
+  {
+    "name": "The Grand Tour",
+    "type": "series",
+    "imdb_id": "tt5712554"
   }
 ]
