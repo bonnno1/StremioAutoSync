@@ -1,5 +1,10 @@
 [
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -8,6 +13,11 @@
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Andor",
@@ -20,24 +30,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Made in Korea",
@@ -50,16 +50,6 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -70,19 +60,19 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
+  },
+  {
     "name": "A Thousand Blows",
     "type": "series",
     "imdb_id": "tt21874900"
-  },
-  {
-    "name": "Secret Invasion",
-    "type": "series",
-    "imdb_id": "tt13157618"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   },
   {
     "name": "Moving",
@@ -90,13 +80,23 @@
     "imdb_id": "tt24640580"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Secret Invasion",
+    "type": "series",
+    "imdb_id": "tt13157618"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Ironheart",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt5189554"
   }
 ]
