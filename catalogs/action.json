@@ -10,9 +10,24 @@
     "imdb_id": "tt27497448"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Pendragon Cycle: Rise of the Merlin",
@@ -25,19 +40,9 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Fallout",
+    "name": "The Fugitive",
     "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0056757"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -45,24 +50,14 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Star Trek: Starfleet Academy",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Lost",
@@ -70,14 +65,14 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Hell's Paradise",
-    "type": "series",
-    "imdb_id": "tt13911284"
   },
   {
     "name": "Kamen Rider",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
+  },
+  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
   },
   {
-    "name": "CID",
+    "name": "Hell's Paradise",
     "type": "series",
-    "imdb_id": "tt0401916"
+    "imdb_id": "tt13911284"
   }
 ]

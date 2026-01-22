@@ -5,6 +5,11 @@
     "imdb_id": "tt26443597"
   },
   {
+    "name": "The SpongeBob Movie: Search for SquarePants",
+    "type": "movie",
+    "imdb_id": "tt23572848"
+  },
+  {
     "name": "School of Magical Animals 3",
     "type": "movie",
     "imdb_id": "tt32241578"
@@ -20,19 +25,14 @@
     "imdb_id": "tt6208148"
   },
   {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt26743210"
-  },
-  {
     "name": "Zootopia",
     "type": "movie",
     "imdb_id": "tt2948356"
   },
   {
-    "name": "The SpongeBob Movie: Search for SquarePants",
+    "name": "How to Train Your Dragon",
     "type": "movie",
-    "imdb_id": "tt23572848"
+    "imdb_id": "tt26743210"
   },
   {
     "name": "Coco",
@@ -45,11 +45,6 @@
     "imdb_id": "tt13176330"
   },
   {
-    "name": "The Bad Guys 2",
-    "type": "movie",
-    "imdb_id": "tt30017619"
-  },
-  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
@@ -60,9 +55,19 @@
     "imdb_id": "tt0398286"
   },
   {
-    "name": "Playdate",
+    "name": "Shrek",
     "type": "movie",
-    "imdb_id": "tt31425731"
+    "imdb_id": "tt0126029"
+  },
+  {
+    "name": "The Bad Guys 2",
+    "type": "movie",
+    "imdb_id": "tt30017619"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "A Minecraft Movie",
@@ -75,28 +80,23 @@
     "imdb_id": "tt22022452"
   },
   {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
-    "name": "Sonic the Hedgehog 3",
-    "type": "movie",
-    "imdb_id": "tt18259086"
-  },
-  {
     "name": "Toy Story 2",
     "type": "movie",
     "imdb_id": "tt0120363"
   },
   {
+    "name": "Playdate",
+    "type": "movie",
+    "imdb_id": "tt31425731"
+  },
+  {
     "name": "Frozen",
     "type": "movie",
     "imdb_id": "tt2294629"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "type": "movie",
+    "imdb_id": "tt0198781"
   }
 ]

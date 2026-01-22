@@ -20,39 +20,14 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt23734948"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Game of Thrones",
@@ -63,6 +38,31 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "type": "series",
+    "imdb_id": "tt23734948"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
   },
   {
     "name": "The Good Doctor",
@@ -80,18 +80,18 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "The Fugitive",
+    "type": "series",
+    "imdb_id": "tt0056757"
   },
   {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
   }
 ]

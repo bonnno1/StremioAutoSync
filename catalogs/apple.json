@@ -1,13 +1,13 @@
 [
   {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   },
   {
     "name": "Slow Horses",
@@ -20,9 +20,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "See",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Ted Lasso",
@@ -30,14 +35,39 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Foundation",
+    "name": "See",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt7949218"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   },
   {
     "name": "The Afterparty",
@@ -50,34 +80,9 @@
     "imdb_id": "tt15203646"
   },
   {
-    "name": "Severance",
+    "name": "Drops of God",
     "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt6867482"
   },
   {
     "name": "The Studio",
@@ -85,18 +90,13 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
-  },
-  {
-    "name": "Palm Royale",
-    "type": "series",
-    "imdb_id": "tt8888540"
-  },
-  {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Murderbot",
+    "type": "series",
+    "imdb_id": "tt30444310"
   }
 ]

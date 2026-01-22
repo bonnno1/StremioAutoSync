@@ -15,14 +15,14 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Friends",
@@ -35,9 +35,24 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
     "name": "Young Hearts",
     "type": "series",
     "imdb_id": "tt0144724"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -45,9 +60,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "South Park",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Državni posao",
@@ -60,19 +75,9 @@
     "imdb_id": "tt0236924"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Two and a Half Men",
@@ -83,10 +88,5 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Chibi Maruko-chan",
-    "type": "series",
-    "imdb_id": "tt0220204"
   }
 ]

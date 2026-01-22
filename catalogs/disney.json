@@ -1,13 +1,13 @@
 [
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Loki",
@@ -15,19 +15,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Moon Knight",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
@@ -35,24 +30,24 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Hawkeye",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Daredevil: Born Again",
@@ -65,29 +60,14 @@
     "imdb_id": "tt13622982"
   },
   {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
+  },
+  {
     "name": "The Manipulated",
     "type": "series",
     "imdb_id": "tt36188448"
-  },
-  {
-    "name": "A Thousand Blows",
-    "type": "series",
-    "imdb_id": "tt21874900"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Secret Invasion",
-    "type": "series",
-    "imdb_id": "tt13157618"
   },
   {
     "name": "X-Men '97",
@@ -95,8 +75,28 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Soy Luna",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "A Thousand Blows",
+    "type": "series",
+    "imdb_id": "tt21874900"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
+  },
+  {
+    "name": "Secret Invasion",
+    "type": "series",
+    "imdb_id": "tt13157618"
   }
 ]

@@ -10,11 +10,6 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -25,24 +20,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
   },
   {
     "name": "Sesame Street",
@@ -50,14 +35,19 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Rugrats",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0404597"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "3000 Whys of Blue Cat",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -65,9 +55,9 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Masha and the Bear",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt1884856"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Sailor Moon",
@@ -75,18 +65,23 @@
     "imdb_id": "tt0103369"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Henry Danger",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt3596174"
+    "imdb_id": "tt2787558"
   },
   {
-    "name": "Bluey",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0235918"
   }
 ]
