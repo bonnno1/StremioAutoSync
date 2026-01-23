@@ -10,24 +10,24 @@
     "imdb_id": "tt23572848"
   },
   {
-    "name": "School of Magical Animals 3",
-    "type": "movie",
-    "imdb_id": "tt32241578"
-  },
-  {
     "name": "Papá x dos",
     "type": "movie",
     "imdb_id": "tt33728446"
   },
   {
-    "name": "Snow White",
+    "name": "School of Magical Animals 3",
     "type": "movie",
-    "imdb_id": "tt6208148"
+    "imdb_id": "tt32241578"
   },
   {
     "name": "Zootopia",
     "type": "movie",
     "imdb_id": "tt2948356"
+  },
+  {
+    "name": "Snow White",
+    "type": "movie",
+    "imdb_id": "tt6208148"
   },
   {
     "name": "How to Train Your Dragon",
@@ -45,9 +45,19 @@
     "imdb_id": "tt13176330"
   },
   {
+    "name": "The Bad Guys 2",
+    "type": "movie",
+    "imdb_id": "tt30017619"
+  },
+  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
   },
   {
     "name": "Tangled",
@@ -55,29 +65,19 @@
     "imdb_id": "tt0398286"
   },
   {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
-  },
-  {
-    "name": "The Bad Guys 2",
-    "type": "movie",
-    "imdb_id": "tt30017619"
-  },
-  {
     "name": "Lilo & Stitch",
     "type": "movie",
     "imdb_id": "tt11655566"
   },
   {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
+  },
+  {
     "name": "A Minecraft Movie",
     "type": "movie",
     "imdb_id": "tt3566834"
-  },
-  {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
   },
   {
     "name": "Toy Story 2",
