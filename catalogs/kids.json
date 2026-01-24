@@ -1,13 +1,13 @@
 [
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Doraemon",
@@ -40,19 +40,14 @@
     "imdb_id": "tt0404597"
   },
   {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
   },
   {
     "name": "Rugrats",
@@ -60,9 +55,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "3000 Whys of Blue Cat",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt8483276"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Bluey",
@@ -70,14 +65,24 @@
     "imdb_id": "tt7678620"
   },
   {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
     "name": "Sailor Moon",
     "type": "series",
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "Boonie Bears",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt3342514"
   },
   {
     "name": "The Fairly OddParents",

@@ -15,19 +15,19 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt5057054"
+    "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -35,9 +35,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Goliath",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Chosen",
@@ -50,6 +50,11 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
@@ -60,9 +65,9 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Bosch",
+    "name": "The Grand Tour",
     "type": "series",
-    "imdb_id": "tt3502248"
+    "imdb_id": "tt5712554"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -70,24 +75,19 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt5712554"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
   },
   {
     "name": "House of David",

@@ -30,16 +30,6 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
@@ -48,6 +38,16 @@
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Game of Thrones",
@@ -65,19 +65,9 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
     "name": "Spartacus: House of Ashur",
     "type": "series",
     "imdb_id": "tt29921437"
-  },
-  {
-    "name": "The Good Doctor",
-    "type": "series",
-    "imdb_id": "tt6470478"
   },
   {
     "name": "Law & Order",
@@ -85,13 +75,23 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Shameless",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "The Good Doctor",
+    "type": "series",
+    "imdb_id": "tt6470478"
   },
   {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
   }
 ]

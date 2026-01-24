@@ -1,18 +1,23 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Sazae-san",
@@ -22,17 +27,17 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Among Friends",
+    "name": "Everwood",
     "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt0318883"
   },
   {
     "name": "Young Sheldon",
@@ -45,19 +50,14 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Everwood",
+    "name": "RadhaKrishn",
     "type": "series",
-    "imdb_id": "tt0318883"
+    "imdb_id": "tt9025492"
   },
   {
     "name": "Love Stories in the Countryside",
     "type": "series",
     "imdb_id": "tt1395015"
-  },
-  {
-    "name": "RadhaKrishn",
-    "type": "series",
-    "imdb_id": "tt9025492"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -70,9 +70,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Frasier",
+    "name": "Bade Achhe Lagte Hai",
     "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt1985299"
   },
   {
     "name": "Rugrats",
@@ -80,9 +80,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Bade Achhe Lagte Hai",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt1985299"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Teen Titans Go!",
