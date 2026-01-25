@@ -30,24 +30,24 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Spartacus: House of Ashur",
     "type": "series",
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Smallville",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "The Walking Dead",
@@ -75,9 +75,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "The Fugitive",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0056757"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Prison Break",
@@ -85,13 +90,8 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Star Trek: Starfleet Academy",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "Hell's Paradise",
-    "type": "series",
-    "imdb_id": "tt13911284"
+    "imdb_id": "tt0118480"
   }
 ]

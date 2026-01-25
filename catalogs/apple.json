@@ -40,24 +40,24 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
   },
   {
     "name": "The Morning Show",
@@ -75,14 +75,9 @@
     "imdb_id": "tt6867482"
   },
   {
-    "name": "The Afterparty",
+    "name": "Carpool Karaoke: The Series",
     "type": "series",
-    "imdb_id": "tt12614214"
-  },
-  {
-    "name": "Ghostwriter",
-    "type": "series",
-    "imdb_id": "tt11004134"
+    "imdb_id": "tt6396082"
   },
   {
     "name": "The Studio",
@@ -90,13 +85,18 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Bad Monkey",
+    "name": "Murderbot",
     "type": "series",
-    "imdb_id": "tt15203646"
+    "imdb_id": "tt30444310"
   },
   {
     "name": "Chief of War",
     "type": "series",
     "imdb_id": "tt19381692"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   }
 ]
