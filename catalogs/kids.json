@@ -1,13 +1,8 @@
 [
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Doraemon",
@@ -15,9 +10,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Doraemon",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Shin Chan",
@@ -25,19 +25,14 @@
     "imdb_id": "tt12853970"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -50,29 +45,29 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Yu-Gi-Oh! GX",
+    "type": "series",
+    "imdb_id": "tt0493334"
+  },
+  {
+    "name": "The Guardians of Carcosa",
+    "type": "series",
+    "imdb_id": "tt29729800"
   },
   {
     "name": "Bluey",
@@ -80,13 +75,23 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt0404597"
   },
   {
-    "name": "iCarly",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
   }
 ]

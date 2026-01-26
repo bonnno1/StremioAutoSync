@@ -1,13 +1,13 @@
 [
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Loki",
@@ -25,6 +25,11 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
@@ -35,24 +40,19 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Star Wars: Visions",
@@ -65,26 +65,6 @@
     "imdb_id": "tt36188448"
   },
   {
-    "name": "A Thousand Blows",
-    "type": "series",
-    "imdb_id": "tt21874900"
-  },
-  {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
@@ -93,6 +73,26 @@
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Secret Invasion",
