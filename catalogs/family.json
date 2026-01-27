@@ -1,23 +1,13 @@
 [
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
-    "type": "series",
-    "imdb_id": "tt23734948"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt23734948"
   },
   {
     "name": "Doraemon",
@@ -30,9 +20,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Among Friends",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Everwood",
@@ -40,9 +30,9 @@
     "imdb_id": "tt0318883"
   },
   {
-    "name": "Golden Boy",
+    "name": "Sazae-san",
     "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt0236924"
   },
   {
     "name": "Young Sheldon",
@@ -50,14 +40,39 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "RadhaKrishn",
+    "name": "Golden Boy",
     "type": "series",
-    "imdb_id": "tt9025492"
+    "imdb_id": "tt21105088"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Love Stories in the Countryside",
     "type": "series",
     "imdb_id": "tt1395015"
+  },
+  {
+    "name": "Home with Kids",
+    "type": "series",
+    "imdb_id": "tt2324525"
+  },
+  {
+    "name": "RadhaKrishn",
+    "type": "series",
+    "imdb_id": "tt9025492"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Phineas and Ferb",
@@ -68,25 +83,5 @@
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Bade Achhe Lagte Hai",
-    "type": "series",
-    "imdb_id": "tt1985299"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Ghum Hai Kisikey Pyaar Meiin",
-    "type": "series",
-    "imdb_id": "tt13085534"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
   }
 ]

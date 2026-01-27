@@ -10,16 +10,6 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "HIS & HERS",
-    "type": "series",
-    "imdb_id": "tt33035373"
-  },
-  {
-    "name": "Taskaree: The Smuggler's Web",
-    "type": "series",
-    "imdb_id": "tt35335046"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
@@ -30,9 +20,9 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Can This Love Be Translated?",
+    "name": "HIS & HERS",
     "type": "series",
-    "imdb_id": "tt30293074"
+    "imdb_id": "tt33035373"
   },
   {
     "name": "The Witcher",
@@ -40,14 +30,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Sesame Street",
@@ -55,14 +45,14 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Taskaree: The Smuggler's Web",
+    "type": "series",
+    "imdb_id": "tt35335046"
+  },
+  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
   },
   {
     "name": "Wednesday",
@@ -70,24 +60,14 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
     "name": "Free Bert",
     "type": "series",
     "imdb_id": "tt37449205"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Agatha Christie's Seven Dials",
-    "type": "series",
-    "imdb_id": "tt31974288"
-  },
-  {
-    "name": "Dark",
-    "type": "series",
-    "imdb_id": "tt5753856"
   },
   {
     "name": "Finding Her Edge",
@@ -95,8 +75,28 @@
     "imdb_id": "tt35495058"
   },
   {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Can This Love Be Translated?",
+    "type": "series",
+    "imdb_id": "tt30293074"
+  },
+  {
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   }
 ]
