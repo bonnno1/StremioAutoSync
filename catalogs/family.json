@@ -35,24 +35,14 @@
     "imdb_id": "tt0236924"
   },
   {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Rugrats",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Love Stories in the Countryside",
@@ -60,14 +50,29 @@
     "imdb_id": "tt1395015"
   },
   {
+    "name": "RadhaKrishn",
+    "type": "series",
+    "imdb_id": "tt9025492"
+  },
+  {
     "name": "Home with Kids",
     "type": "series",
     "imdb_id": "tt2324525"
   },
   {
-    "name": "RadhaKrishn",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt9025492"
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Frasier",
@@ -78,10 +83,5 @@
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
   }
 ]

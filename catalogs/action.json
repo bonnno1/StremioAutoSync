@@ -15,14 +15,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Game of Thrones",
@@ -35,11 +35,6 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -50,14 +45,19 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
   },
   {
     "name": "Kamen Rider",

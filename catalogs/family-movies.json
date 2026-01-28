@@ -1,23 +1,23 @@
 [
   {
-    "name": "The SpongeBob Movie: Search for SquarePants",
-    "type": "movie",
-    "imdb_id": "tt23572848"
-  },
-  {
     "name": "Zootopia 2",
     "type": "movie",
     "imdb_id": "tt26443597"
   },
   {
+    "name": "The SpongeBob Movie: Search for SquarePants",
+    "type": "movie",
+    "imdb_id": "tt23572848"
+  },
+  {
+    "name": "David",
+    "type": "movie",
+    "imdb_id": "tt15678738"
+  },
+  {
     "name": "Papá x dos",
     "type": "movie",
     "imdb_id": "tt33728446"
-  },
-  {
-    "name": "School of Magical Animals 3",
-    "type": "movie",
-    "imdb_id": "tt32241578"
   },
   {
     "name": "Zootopia",
@@ -30,14 +30,24 @@
     "imdb_id": "tt26743210"
   },
   {
+    "name": "School of Magical Animals 3",
+    "type": "movie",
+    "imdb_id": "tt32241578"
+  },
+  {
+    "name": "Four Kids and It",
+    "type": "movie",
+    "imdb_id": "tt5556054"
+  },
+  {
     "name": "Shrek",
     "type": "movie",
     "imdb_id": "tt0126029"
   },
   {
-    "name": "The Super Mario Bros. Movie",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt6718170"
+    "imdb_id": "tt22022452"
   },
   {
     "name": "The Super Mario Galaxy Movie",
@@ -45,9 +55,19 @@
     "imdb_id": "tt28650488"
   },
   {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
+  },
+  {
     "name": "Tangled",
     "type": "movie",
     "imdb_id": "tt0398286"
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "type": "movie",
+    "imdb_id": "tt6718170"
   },
   {
     "name": "Playdate",
@@ -55,24 +75,9 @@
     "imdb_id": "tt31425731"
   },
   {
-    "name": "Snow White",
-    "type": "movie",
-    "imdb_id": "tt6208148"
-  },
-  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
   },
   {
     "name": "Hitpig!",
@@ -85,14 +90,9 @@
     "imdb_id": "tt0114709"
   },
   {
-    "name": "Inside Out 2",
+    "name": "Lilo & Stitch",
     "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Frozen",
