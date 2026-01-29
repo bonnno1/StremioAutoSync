@@ -25,19 +25,14 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
   },
   {
-    "name": "NCIS",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Pendragon Cycle: Rise of the Merlin",
@@ -45,19 +40,24 @@
     "imdb_id": "tt23734948"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Game of Thrones",
@@ -85,13 +85,13 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "The Good Doctor",
+    "type": "series",
+    "imdb_id": "tt6470478"
+  },
+  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
   }
 ]

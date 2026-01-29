@@ -10,24 +10,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "HIS & HERS",
     "type": "series",
     "imdb_id": "tt33035373"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
   },
   {
     "name": "Bridgerton",
@@ -35,14 +20,24 @@
     "imdb_id": "tt8740790"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "CID",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Taskaree: The Smuggler's Web",
@@ -50,14 +45,14 @@
     "imdb_id": "tt35335046"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
   },
   {
     "name": "Free Bert",
@@ -68,6 +63,11 @@
     "name": "Finding Her Edge",
     "type": "series",
     "imdb_id": "tt35495058"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Elite",
@@ -85,18 +85,18 @@
     "imdb_id": "tt30293074"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Dark",
     "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt5753856"
   },
   {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   }
 ]

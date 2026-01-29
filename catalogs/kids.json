@@ -10,6 +10,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -20,19 +25,14 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -40,19 +40,14 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Rugrats",
@@ -60,9 +55,14 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Super Wings",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Yu-Gi-Oh! GX",
@@ -70,14 +70,14 @@
     "imdb_id": "tt0493334"
   },
   {
-    "name": "The Guardians of Carcosa",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt29729800"
+    "imdb_id": "tt2787558"
   },
   {
-    "name": "Duel Masters",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt7678620"
   },
   {
     "name": "Sailor Moon",
@@ -85,8 +85,13 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Chiikawa",
+    "name": "The Guardians of Carcosa",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt29729800"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
   }
 ]
