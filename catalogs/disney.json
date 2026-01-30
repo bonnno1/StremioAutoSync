@@ -5,19 +5,14 @@
     "imdb_id": "tt21066182"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Mandalorian",
@@ -25,14 +20,19 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -85,11 +85,6 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
     "name": "Marvel Studios Legends",
     "type": "series",
     "imdb_id": "tt13650480"
@@ -98,5 +93,10 @@
     "name": "The Falcon and the Winter Soldier",
     "type": "series",
     "imdb_id": "tt9208876"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
   }
 ]

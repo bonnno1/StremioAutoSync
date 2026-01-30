@@ -20,29 +20,14 @@
     "imdb_id": "tt2948356"
   },
   {
-    "name": "Papá x dos",
-    "type": "movie",
-    "imdb_id": "tt33728446"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
   },
   {
-    "name": "School of Magical Animals 3",
+    "name": "Papá x dos",
     "type": "movie",
-    "imdb_id": "tt32241578"
-  },
-  {
-    "name": "Four Kids and It",
-    "type": "movie",
-    "imdb_id": "tt5556054"
-  },
-  {
-    "name": "Playdate",
-    "type": "movie",
-    "imdb_id": "tt31425731"
+    "imdb_id": "tt33728446"
   },
   {
     "name": "The Super Mario Bros. Movie",
@@ -50,9 +35,14 @@
     "imdb_id": "tt6718170"
   },
   {
-    "name": "Tangled",
+    "name": "School of Magical Animals 3",
     "type": "movie",
-    "imdb_id": "tt0398286"
+    "imdb_id": "tt32241578"
+  },
+  {
+    "name": "Playdate",
+    "type": "movie",
+    "imdb_id": "tt31425731"
   },
   {
     "name": "Shrek",
@@ -60,19 +50,19 @@
     "imdb_id": "tt0126029"
   },
   {
+    "name": "Tangled",
+    "type": "movie",
+    "imdb_id": "tt0398286"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
+  },
+  {
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
-  },
-  {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
-    "name": "Hitpig!",
-    "type": "movie",
-    "imdb_id": "tt13176330"
   },
   {
     "name": "A Minecraft Movie",
@@ -80,23 +70,33 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
     "name": "Toy Story",
     "type": "movie",
     "imdb_id": "tt0114709"
   },
   {
-    "name": "Lilo & Stitch",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt22022452"
   },
   {
-    "name": "Snow White",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt6208148"
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "type": "movie",
+    "imdb_id": "tt0198781"
+  },
+  {
+    "name": "The Bad Guys 2",
+    "type": "movie",
+    "imdb_id": "tt30017619"
+  },
+  {
+    "name": "Elio",
+    "type": "movie",
+    "imdb_id": "tt4900148"
   }
 ]

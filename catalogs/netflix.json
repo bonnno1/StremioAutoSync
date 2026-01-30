@@ -5,19 +5,24 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "HIS & HERS",
     "type": "series",
     "imdb_id": "tt33035373"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
   },
   {
     "name": "Raw",
@@ -30,39 +35,14 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "CID",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Taskaree: The Smuggler's Web",
+    "name": "CID",
     "type": "series",
-    "imdb_id": "tt35335046"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Free Bert",
-    "type": "series",
-    "imdb_id": "tt37449205"
-  },
-  {
-    "name": "Finding Her Edge",
-    "type": "series",
-    "imdb_id": "tt35495058"
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Squid Game",
@@ -70,14 +50,24 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Taskaree: The Smuggler's Web",
+    "type": "series",
+    "imdb_id": "tt35335046"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Wednesday",
+    "name": "Finding Her Edge",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt35495058"
   },
   {
     "name": "Can This Love Be Translated?",
@@ -85,18 +75,28 @@
     "imdb_id": "tt30293074"
   },
   {
+    "name": "Free Bert",
+    "type": "series",
+    "imdb_id": "tt37449205"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "Dark",
     "type": "series",
     "imdb_id": "tt5753856"
   },
   {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
   }
 ]
