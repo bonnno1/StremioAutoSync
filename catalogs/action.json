@@ -15,24 +15,24 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
-    "type": "series",
-    "imdb_id": "tt23734948"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Fallout",
+    "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt23734948"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Smallville",
@@ -50,11 +50,6 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -65,14 +60,19 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
   },
   {
     "name": "Vikings",
@@ -85,13 +85,13 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Sandokan",
     "type": "series",
     "imdb_id": "tt13924304"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   }
 ]

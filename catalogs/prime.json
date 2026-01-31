@@ -20,14 +20,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Invincible",
@@ -40,19 +40,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
   },
   {
     "name": "The Chosen",
@@ -60,9 +50,19 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
   },
   {
     "name": "Absentia",
@@ -85,13 +85,13 @@
     "imdb_id": "tt39366393"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   }
 ]
