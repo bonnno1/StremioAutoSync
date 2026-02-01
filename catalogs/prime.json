@@ -10,11 +10,6 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Steal",
-    "type": "series",
-    "imdb_id": "tt32499731"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
@@ -25,9 +20,19 @@
     "imdb_id": "tt4687880"
   },
   {
+    "name": "Steal",
+    "type": "series",
+    "imdb_id": "tt32499731"
+  },
+  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Invincible",
@@ -40,9 +45,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Expanse",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt3502248"
   },
   {
     "name": "The Chosen",
@@ -50,9 +55,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Bosch",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt3502248"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -60,9 +65,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt7462410"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Absentia",
@@ -70,24 +75,19 @@
     "imdb_id": "tt6794990"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "LOL Talent Show: Mexico",
-    "type": "series",
-    "imdb_id": "tt39366393"
-  },
-  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
+  },
+  {
+    "name": "LOL Talent Show: Mexico",
+    "type": "series",
+    "imdb_id": "tt39366393"
   },
   {
     "name": "House of David",

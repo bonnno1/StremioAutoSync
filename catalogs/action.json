@@ -10,14 +10,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "The Pendragon Cycle: Rise of the Merlin",
@@ -35,14 +35,14 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
     "name": "Spartacus: House of Ashur",
     "type": "series",
     "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Lost",
@@ -65,11 +65,6 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
@@ -80,18 +75,23 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Sandokan",
-    "type": "series",
-    "imdb_id": "tt13924304"
   }
 ]

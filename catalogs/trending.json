@@ -10,6 +10,11 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
@@ -20,9 +25,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Bridgerton",
+    "name": "The Night Manager",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt1399664"
   },
   {
     "name": "Stranger Things",
@@ -35,39 +40,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "The Beauty",
-    "type": "series",
-    "imdb_id": "tt33517752"
-  },
-  {
     "name": "The Pitt",
     "type": "series",
     "imdb_id": "tt31938062"
   },
   {
-    "name": "Shrinking",
+    "name": "The Beauty",
     "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Steal",
-    "type": "series",
-    "imdb_id": "tt32499731"
-  },
-  {
-    "name": "Swords Into Plowshares",
-    "type": "series",
-    "imdb_id": "tt32561981"
-  },
-  {
-    "name": "【OSHI NO KO】",
-    "type": "series",
-    "imdb_id": "tt21030032"
-  },
-  {
-    "name": "Star Trek: Starfleet Academy",
-    "type": "series",
-    "imdb_id": "tt8622160"
+    "imdb_id": "tt33517752"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -75,19 +55,29 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Hijack",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt15677150"
   },
   {
-    "name": "The Night Manager",
+    "name": "【OSHI NO KO】",
     "type": "series",
-    "imdb_id": "tt1399664"
+    "imdb_id": "tt21030032"
   },
   {
-    "name": "The Rookie",
+    "name": "Swords Into Plowshares",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt32561981"
+  },
+  {
+    "name": "Steal",
+    "type": "series",
+    "imdb_id": "tt32499731"
+  },
+  {
+    "name": "Medalist",
+    "type": "series",
+    "imdb_id": "tt33310730"
   },
   {
     "name": "One Piece",
@@ -95,8 +85,18 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Born to Be Alive",
+    "name": "Hijack",
     "type": "series",
-    "imdb_id": "tt35045308"
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "PONIES",
+    "type": "series",
+    "imdb_id": "tt33270420"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
   }
 ]
