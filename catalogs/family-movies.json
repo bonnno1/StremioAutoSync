@@ -25,9 +25,19 @@
     "imdb_id": "tt26743210"
   },
   {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
+  },
+  {
     "name": "Papá x dos",
     "type": "movie",
     "imdb_id": "tt33728446"
+  },
+  {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
   },
   {
     "name": "Playdate",
@@ -35,9 +45,14 @@
     "imdb_id": "tt31425731"
   },
   {
-    "name": "Shrek",
+    "name": "The Super Mario Bros. Movie",
     "type": "movie",
-    "imdb_id": "tt0126029"
+    "imdb_id": "tt6718170"
+  },
+  {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
   },
   {
     "name": "The Super Mario Galaxy Movie",
@@ -45,14 +60,19 @@
     "imdb_id": "tt28650488"
   },
   {
-    "name": "The Super Mario Bros. Movie",
+    "name": "Toy Story",
     "type": "movie",
-    "imdb_id": "tt6718170"
+    "imdb_id": "tt0114709"
   },
   {
-    "name": "A Minecraft Movie",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Inside Out 2",
@@ -70,33 +90,13 @@
     "imdb_id": "tt32241578"
   },
   {
-    "name": "Moana 2",
+    "name": "Hitpig!",
     "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt13176330"
   },
   {
-    "name": "Coco",
+    "name": "Sonic the Hedgehog 3",
     "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
-    "name": "GOAT",
-    "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
-    "name": "Toy Story",
-    "type": "movie",
-    "imdb_id": "tt0114709"
-  },
-  {
-    "name": "The Bad Guys 2",
-    "type": "movie",
-    "imdb_id": "tt30017619"
+    "imdb_id": "tt18259086"
   }
 ]

@@ -15,6 +15,11 @@
     "imdb_id": "tt5875444"
   },
   {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -28,11 +33,6 @@
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
   },
   {
     "name": "Foundation",
@@ -55,11 +55,6 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
@@ -75,14 +70,24 @@
     "imdb_id": "tt23649128"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
+  },
+  {
     "name": "Loot",
     "type": "series",
     "imdb_id": "tt14271498"
   },
   {
-    "name": "Murderbot",
+    "name": "The Mosquito Coast",
     "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt11041132"
   },
   {
     "name": "Dark Matter",
@@ -90,13 +95,8 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Carpool Karaoke: The Series",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt6396082"
-  },
-  {
-    "name": "Amazing Stories",
-    "type": "series",
-    "imdb_id": "tt5165368"
+    "imdb_id": "tt16418808"
   }
 ]

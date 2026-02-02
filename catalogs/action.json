@@ -25,19 +25,14 @@
     "imdb_id": "tt23734948"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Smallville",
@@ -45,14 +40,19 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Kamen Rider",
@@ -60,24 +60,14 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Doraemon",
@@ -85,13 +75,23 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt8677202"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   }
 ]
