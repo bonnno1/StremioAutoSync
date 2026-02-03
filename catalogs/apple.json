@@ -10,24 +10,24 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Severance",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt5875444"
   },
   {
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Ted Lasso",
@@ -50,19 +50,14 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt7203552"
   },
   {
     "name": "The Studio",
@@ -70,14 +65,9 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Invasion",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Loot",
@@ -85,18 +75,28 @@
     "imdb_id": "tt14271498"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
+  },
+  {
     "name": "The Mosquito Coast",
     "type": "series",
     "imdb_id": "tt11041132"
   },
   {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
+  },
+  {
     "name": "Dark Matter",
     "type": "series",
     "imdb_id": "tt19231492"
-  },
-  {
-    "name": "Sugar",
-    "type": "series",
-    "imdb_id": "tt16418808"
   }
 ]

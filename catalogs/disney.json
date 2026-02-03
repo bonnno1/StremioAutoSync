@@ -25,19 +25,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Moon Knight",
@@ -45,9 +40,19 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "WandaVision",
@@ -60,29 +65,9 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
-    "name": "She-Hulk: Attorney at Law",
-    "type": "series",
-    "imdb_id": "tt10857160"
   },
   {
     "name": "Star Wars: Visions",
@@ -90,13 +75,28 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Your Friendly Neighborhood Spider-Man",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt16027074"
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "A Thousand Blows",
+    "type": "series",
+    "imdb_id": "tt21874900"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   },
   {
     "name": "The Book of Boba Fett",
     "type": "series",
     "imdb_id": "tt13668894"
+  },
+  {
+    "name": "Secret Invasion",
+    "type": "series",
+    "imdb_id": "tt13157618"
   }
 ]

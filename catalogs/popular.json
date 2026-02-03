@@ -5,19 +5,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Supernatural",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt27497448"
   },
   {
     "name": "Bridgerton",
@@ -25,39 +15,14 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "NCIS",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0460681"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Wonder Man",
-    "type": "series",
-    "imdb_id": "tt21066182"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Grey's Anatomy",
@@ -65,19 +30,39 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Wonder Man",
+    "type": "series",
+    "imdb_id": "tt21066182"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
   },
   {
-    "name": "Doraemon",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Fallout",
@@ -88,5 +73,25 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Midsomer Murders",
+    "type": "series",
+    "imdb_id": "tt0118401"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   }
 ]
