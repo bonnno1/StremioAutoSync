@@ -10,14 +10,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "The Pendragon Cycle: Rise of the Merlin",
@@ -25,24 +25,19 @@
     "imdb_id": "tt23734948"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -55,14 +50,14 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
   },
   {
     "name": "The Walking Dead",
@@ -70,14 +65,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Doraemon",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0436992"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -85,13 +80,18 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
   }
 ]
