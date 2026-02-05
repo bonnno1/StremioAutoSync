@@ -15,14 +15,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Fallout",
@@ -45,19 +45,24 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
   },
   {
     "name": "The Walking Dead",
@@ -75,11 +80,6 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -90,8 +90,8 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt0285331"
   }
 ]

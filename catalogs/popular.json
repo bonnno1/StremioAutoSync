@@ -1,5 +1,10 @@
 [
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -10,9 +15,24 @@
     "imdb_id": "tt8740790"
   },
   {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Supernatural",
@@ -20,24 +40,14 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -50,11 +60,6 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Wonder Man",
-    "type": "series",
-    "imdb_id": "tt21066182"
-  },
-  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
@@ -65,9 +70,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Fallout",
+    "name": "Wonder Man",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt21066182"
   },
   {
     "name": "Game of Thrones",
@@ -75,9 +80,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Midsomer Murders",
+    "name": "Bones",
     "type": "series",
-    "imdb_id": "tt0118401"
+    "imdb_id": "tt0460627"
   },
   {
     "name": "House",
@@ -85,13 +90,8 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "Law & Order",
+    "name": "Midsomer Murders",
     "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0118401"
   }
 ]

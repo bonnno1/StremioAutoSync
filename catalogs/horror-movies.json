@@ -10,11 +10,6 @@
     "imdb_id": "tt8036976"
   },
   {
-    "name": "Silent Night, Deadly Night",
-    "type": "movie",
-    "imdb_id": "tt34508974"
-  },
-  {
     "name": "Iron Lung",
     "type": "movie",
     "imdb_id": "tt27564844"
@@ -23,6 +18,11 @@
     "name": "The Confession",
     "type": "movie",
     "imdb_id": "tt35838700"
+  },
+  {
+    "name": "Silent Night, Deadly Night",
+    "type": "movie",
+    "imdb_id": "tt34508974"
   },
   {
     "name": "The Calling Witch",
@@ -35,14 +35,14 @@
     "imdb_id": "tt33479805"
   },
   {
-    "name": "Five Nights at Freddy's 2",
-    "type": "movie",
-    "imdb_id": "tt30274401"
-  },
-  {
     "name": "Sinners",
     "type": "movie",
     "imdb_id": "tt31193180"
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "type": "movie",
+    "imdb_id": "tt30274401"
   },
   {
     "name": "Eye for an Eye",
@@ -50,14 +50,14 @@
     "imdb_id": "tt28088571"
   },
   {
-    "name": "28 Years Later: The Bone Temple",
-    "type": "movie",
-    "imdb_id": "tt32141377"
-  },
-  {
     "name": "Worldbreaker",
     "type": "movie",
     "imdb_id": "tt14264694"
+  },
+  {
+    "name": "28 Years Later: The Bone Temple",
+    "type": "movie",
+    "imdb_id": "tt32141377"
   },
   {
     "name": "Frankenstein",
@@ -65,9 +65,19 @@
     "imdb_id": "tt1312221"
   },
   {
+    "name": "We Bury the Dead",
+    "type": "movie",
+    "imdb_id": "tt29713093"
+  },
+  {
     "name": "Primate",
     "type": "movie",
     "imdb_id": "tt33028778"
+  },
+  {
+    "name": "The Rule of Jenny Pen",
+    "type": "movie",
+    "imdb_id": "tt6874690"
   },
   {
     "name": "Dracula",
@@ -80,23 +90,13 @@
     "imdb_id": "tt22868010"
   },
   {
-    "name": "We Bury the Dead",
-    "type": "movie",
-    "imdb_id": "tt29713093"
-  },
-  {
-    "name": "Good Boy",
-    "type": "movie",
-    "imdb_id": "tt35521922"
-  },
-  {
     "name": "The Wailing of the Maghrib",
     "type": "movie",
     "imdb_id": "tt25872924"
   },
   {
-    "name": "Night of the Zoopocalypse",
+    "name": "Good Boy",
     "type": "movie",
-    "imdb_id": "tt29544253"
+    "imdb_id": "tt35521922"
   }
 ]
