@@ -30,19 +30,14 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Steal",
-    "type": "series",
-    "imdb_id": "tt32499731"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "Invincible",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Steal",
+    "type": "series",
+    "imdb_id": "tt32499731"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -55,6 +50,11 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -65,19 +65,14 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
   },
   {
     "name": "House of David",
@@ -85,13 +80,18 @@
     "imdb_id": "tt30955673"
   },
   {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Beast Games",
+    "type": "series",
+    "imdb_id": "tt31812476"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
-  },
-  {
-    "name": "The Man in the High Castle",
-    "type": "series",
-    "imdb_id": "tt1740299"
   }
 ]

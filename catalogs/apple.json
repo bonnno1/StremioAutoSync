@@ -1,13 +1,18 @@
 [
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Pluribus",
+    "name": "Hijack",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt19854762"
   },
   {
     "name": "Slow Horses",
@@ -15,9 +20,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Hijack",
+    "name": "Severance",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -30,19 +35,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Severance",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
   },
   {
     "name": "See",
@@ -60,19 +60,14 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Loot",
-    "type": "series",
-    "imdb_id": "tt14271498"
-  },
-  {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "The Studio",
@@ -80,14 +75,14 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Stick",
-    "type": "series",
-    "imdb_id": "tt31710249"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
   },
   {
     "name": "Dark Matter",
@@ -95,8 +90,13 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "The Mosquito Coast",
+    "name": "Loot",
     "type": "series",
-    "imdb_id": "tt11041132"
+    "imdb_id": "tt14271498"
+  },
+  {
+    "name": "Truth Be Told",
+    "type": "series",
+    "imdb_id": "tt7821582"
   }
 ]

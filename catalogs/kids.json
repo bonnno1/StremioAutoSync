@@ -5,24 +5,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -35,9 +35,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0404597"
   },
   {
     "name": "Peppa Pig",
@@ -45,14 +45,19 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Duel Masters",
+    "name": "Yu-Gi-Oh! GX",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0493334"
   },
   {
     "name": "Rugrats",
@@ -65,19 +70,9 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
     "name": "The Guardians of Carcosa",
     "type": "series",
     "imdb_id": "tt29729800"
-  },
-  {
-    "name": "Yu-Gi-Oh! GX",
-    "type": "series",
-    "imdb_id": "tt0493334"
   },
   {
     "name": "Sailor Moon",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Super Wings",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt2787558"
   },
   {
-    "name": "Chiikawa",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   }
 ]

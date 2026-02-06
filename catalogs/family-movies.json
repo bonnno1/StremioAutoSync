@@ -20,14 +20,14 @@
     "imdb_id": "tt0191383"
   },
   {
-    "name": "Zootopia",
-    "type": "movie",
-    "imdb_id": "tt2948356"
-  },
-  {
     "name": "The Muppet Show",
     "type": "movie",
     "imdb_id": "tt37969426"
+  },
+  {
+    "name": "Zootopia",
+    "type": "movie",
+    "imdb_id": "tt2948356"
   },
   {
     "name": "How to Train Your Dragon",
@@ -35,14 +35,14 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "GOAT",
-    "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "type": "movie",
     "imdb_id": "tt0363771"
+  },
+  {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
   },
   {
     "name": "Shrek",
@@ -65,6 +65,11 @@
     "imdb_id": "tt13622970"
   },
   {
+    "name": "Playdate",
+    "type": "movie",
+    "imdb_id": "tt31425731"
+  },
+  {
     "name": "The Super Mario Bros. Movie",
     "type": "movie",
     "imdb_id": "tt6718170"
@@ -73,6 +78,11 @@
     "name": "Frozen",
     "type": "movie",
     "imdb_id": "tt2294629"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
   },
   {
     "name": "Coco",
@@ -85,18 +95,8 @@
     "imdb_id": "tt13176330"
   },
   {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
     "name": "Tangled",
     "type": "movie",
     "imdb_id": "tt0398286"
-  },
-  {
-    "name": "Playdate",
-    "type": "movie",
-    "imdb_id": "tt31425731"
   }
 ]
