@@ -1,13 +1,18 @@
 [
   {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Shrinking",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Hijack",
@@ -30,9 +35,9 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Ted Lasso",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Foundation",
@@ -50,14 +55,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "For All Mankind",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt23649128"
   },
   {
     "name": "The Last Frontier",
@@ -65,19 +65,14 @@
     "imdb_id": "tt26862142"
   },
   {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
   },
   {
     "name": "Stick",
@@ -85,18 +80,23 @@
     "imdb_id": "tt31710249"
   },
   {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Carpool Karaoke: The Series",
+    "type": "series",
+    "imdb_id": "tt6396082"
+  },
+  {
     "name": "Dark Matter",
     "type": "series",
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Loot",
+    "name": "Drops of God",
     "type": "series",
-    "imdb_id": "tt14271498"
-  },
-  {
-    "name": "Truth Be Told",
-    "type": "series",
-    "imdb_id": "tt7821582"
+    "imdb_id": "tt6867482"
   }
 ]

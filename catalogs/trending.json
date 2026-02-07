@@ -5,11 +5,6 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
@@ -20,14 +15,19 @@
     "imdb_id": "tt21066182"
   },
   {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
   },
   {
     "name": "Bridgerton",
@@ -35,14 +35,9 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "The Night Manager",
+    "name": "Unfamiliar",
     "type": "series",
-    "imdb_id": "tt1399664"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt37024136"
   },
   {
     "name": "How Dare You!?",
@@ -50,9 +45,19 @@
     "imdb_id": "tt35231547"
   },
   {
-    "name": "Unfamiliar",
+    "name": "The Pitt",
     "type": "series",
-    "imdb_id": "tt37024136"
+    "imdb_id": "tt31938062"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "The Night Manager",
+    "type": "series",
+    "imdb_id": "tt1399664"
   },
   {
     "name": "The Lincoln Lawyer",
@@ -60,9 +65,9 @@
     "imdb_id": "tt13833978"
   },
   {
-    "name": "Stranger Things",
+    "name": "Swords Into Plowshares",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt32561981"
   },
   {
     "name": "No Pain No Gain",
@@ -75,19 +80,14 @@
     "imdb_id": "tt33517752"
   },
   {
-    "name": "Swords Into Plowshares",
-    "type": "series",
-    "imdb_id": "tt32561981"
-  },
-  {
     "name": "Star Trek: Starfleet Academy",
     "type": "series",
     "imdb_id": "tt8622160"
   },
   {
-    "name": "The Rookie",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "【OSHI NO KO】",
@@ -95,8 +95,8 @@
     "imdb_id": "tt21030032"
   },
   {
-    "name": "One Piece",
+    "name": "Cash Queens",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt34139155"
   }
 ]

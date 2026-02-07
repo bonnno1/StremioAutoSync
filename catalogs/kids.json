@@ -5,6 +5,16 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -13,16 +23,6 @@
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -35,14 +35,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Duel Masters",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Pokémon Horizons",
@@ -50,9 +45,19 @@
     "imdb_id": "tt26692417"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   },
   {
     "name": "Yu-Gi-Oh! GX",
@@ -60,19 +65,9 @@
     "imdb_id": "tt0493334"
   },
   {
-    "name": "Rugrats",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "The Guardians of Carcosa",
-    "type": "series",
-    "imdb_id": "tt29729800"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Sailor Moon",
@@ -80,18 +75,23 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt7678620"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "New Looney Tunes",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt4558858"
   },
   {
-    "name": "iCarly",
+    "name": "The Guardians of Carcosa",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt29729800"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
   }
 ]
