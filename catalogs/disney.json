@@ -5,14 +5,14 @@
     "imdb_id": "tt21066182"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Andor",
@@ -20,9 +20,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Dancing with the Stars",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
@@ -40,19 +40,24 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Bloody Flower",
-    "type": "series",
-    "imdb_id": "tt39306333"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
   },
   {
-    "name": "The Manipulated",
+    "name": "Bloody Flower",
     "type": "series",
-    "imdb_id": "tt36188448"
+    "imdb_id": "tt39306333"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Daredevil: Born Again",
@@ -60,9 +65,19 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "WandaVision",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Secret Invasion",
@@ -75,28 +90,13 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Once",
-    "type": "series",
-    "imdb_id": "tt6922826"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   }
 ]

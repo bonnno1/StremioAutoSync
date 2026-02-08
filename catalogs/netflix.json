@@ -10,6 +10,11 @@
     "imdb_id": "tt8740790"
   },
   {
+    "name": "Unfamiliar",
+    "type": "series",
+    "imdb_id": "tt37024136"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
@@ -25,19 +30,19 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "The Lincoln Lawyer",
     "type": "series",
     "imdb_id": "tt13833978"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Squid Game",
@@ -45,49 +50,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "C.I.D.",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "HIS & HERS",
-    "type": "series",
-    "imdb_id": "tt33035373"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Dark",
-    "type": "series",
-    "imdb_id": "tt5753856"
-  },
-  {
-    "name": "Unfamiliar",
-    "type": "series",
-    "imdb_id": "tt37024136"
-  },
-  {
-    "name": "Finding Her Edge",
-    "type": "series",
-    "imdb_id": "tt35495058"
-  },
-  {
-    "name": "Taskaree: The Smuggler's Web",
-    "type": "series",
-    "imdb_id": "tt35335046"
+    "imdb_id": "tt5180504"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -95,8 +60,43 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Sesame Street",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt3398228"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Dark",
+    "type": "series",
+    "imdb_id": "tt5753856"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
   }
 ]

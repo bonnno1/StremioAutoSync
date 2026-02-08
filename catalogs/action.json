@@ -30,9 +30,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt23734948"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -40,9 +40,9 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Smallville",
+    "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt23734948"
   },
   {
     "name": "Lost",
@@ -50,9 +50,14 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Doraemon",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
   },
   {
     "name": "Doctor Who",
@@ -60,24 +65,14 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Hawaii Five-0",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Unfamiliar",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt37024136"
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
   }
 ]

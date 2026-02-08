@@ -1,5 +1,10 @@
 [
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
@@ -10,9 +15,14 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Severance",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt11280740"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Hijack",
@@ -20,29 +30,14 @@
     "imdb_id": "tt19854762"
   },
   {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
   },
   {
-    "name": "For All Mankind",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Silo",
@@ -55,14 +50,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "The Studio",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "The Morning Show",
@@ -70,14 +60,19 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Stick",
+    "name": "The Last Frontier",
     "type": "series",
-    "imdb_id": "tt31710249"
+    "imdb_id": "tt26862142"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -85,9 +80,14 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Carpool Karaoke: The Series",
+    "name": "Surface",
     "type": "series",
-    "imdb_id": "tt6396082"
+    "imdb_id": "tt13694702"
+  },
+  {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
   },
   {
     "name": "Dark Matter",
@@ -95,8 +95,8 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Drops of God",
+    "name": "Truth Be Told",
     "type": "series",
-    "imdb_id": "tt6867482"
+    "imdb_id": "tt7821582"
   }
 ]

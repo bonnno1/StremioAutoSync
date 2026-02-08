@@ -1,13 +1,13 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -30,16 +30,6 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
@@ -50,9 +40,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Sesame Street",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Duel Masters",
@@ -60,14 +50,14 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Yu-Gi-Oh! GX",
+    "name": "3000 Whys of Blue Cat",
     "type": "series",
-    "imdb_id": "tt0493334"
+    "imdb_id": "tt8483276"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Sailor Moon",
@@ -75,23 +65,33 @@
     "imdb_id": "tt0103369"
   },
   {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Yu-Gi-Oh! GX",
+    "type": "series",
+    "imdb_id": "tt0493334"
+  },
+  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "The Tom and Jerry Show",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt3559124"
   },
   {
-    "name": "The Guardians of Carcosa",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt29729800"
+    "imdb_id": "tt0972534"
   },
   {
-    "name": "We Bare Bears",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt4839610"
+    "imdb_id": "tt2787558"
   }
 ]
