@@ -10,6 +10,11 @@
     "imdb_id": "tt27497448"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -18,11 +23,6 @@
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "Game of Thrones",
@@ -40,24 +40,19 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
-    "type": "series",
-    "imdb_id": "tt23734948"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Unfamiliar",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt37024136"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt23734948"
   },
   {
     "name": "Doctor Who",
@@ -65,14 +60,29 @@
     "imdb_id": "tt0436992"
   },
   {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
   },
   {
     "name": "Hawaii Five-0",
@@ -80,18 +90,8 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
   }
 ]

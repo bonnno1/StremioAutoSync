@@ -5,11 +5,6 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -17,7 +12,12 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -25,9 +25,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Pokémon Horizons",
@@ -45,19 +45,14 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Sailor Moon",
@@ -70,21 +65,6 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Yu-Gi-Oh! GX",
-    "type": "series",
-    "imdb_id": "tt0493334"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
@@ -93,5 +73,25 @@
     "name": "Ninja Hattori-kun",
     "type": "series",
     "imdb_id": "tt2787558"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "The Bullwinkle Show",
+    "type": "series",
+    "imdb_id": "tt0052507"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
   }
 ]

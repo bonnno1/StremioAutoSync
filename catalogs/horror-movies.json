@@ -10,14 +10,14 @@
     "imdb_id": "tt8036976"
   },
   {
-    "name": "The Confession",
-    "type": "movie",
-    "imdb_id": "tt35838700"
-  },
-  {
     "name": "The Rule of Jenny Pen",
     "type": "movie",
     "imdb_id": "tt6874690"
+  },
+  {
+    "name": "The Confession",
+    "type": "movie",
+    "imdb_id": "tt35838700"
   },
   {
     "name": "Iron Lung",
@@ -35,19 +35,24 @@
     "imdb_id": "tt33479805"
   },
   {
+    "name": "Exit 8",
+    "type": "movie",
+    "imdb_id": "tt35222590"
+  },
+  {
+    "name": "We Bury the Dead",
+    "type": "movie",
+    "imdb_id": "tt29713093"
+  },
+  {
     "name": "Eye for an Eye",
     "type": "movie",
     "imdb_id": "tt28088571"
   },
   {
-    "name": "The Calling Witch",
+    "name": "Dracula",
     "type": "movie",
-    "imdb_id": "tt11609626"
-  },
-  {
-    "name": "Sinners",
-    "type": "movie",
-    "imdb_id": "tt31193180"
+    "imdb_id": "tt31434030"
   },
   {
     "name": "Five Nights at Freddy's 2",
@@ -55,9 +60,9 @@
     "imdb_id": "tt30274401"
   },
   {
-    "name": "Dracula",
+    "name": "Sinners",
     "type": "movie",
-    "imdb_id": "tt31434030"
+    "imdb_id": "tt31193180"
   },
   {
     "name": "Frankenstein",
@@ -70,14 +75,19 @@
     "imdb_id": "tt14264694"
   },
   {
+    "name": "The Calling Witch",
+    "type": "movie",
+    "imdb_id": "tt11609626"
+  },
+  {
     "name": "28 Years Later: The Bone Temple",
     "type": "movie",
     "imdb_id": "tt32141377"
   },
   {
-    "name": "We Bury the Dead",
+    "name": "Return to Silent Hill",
     "type": "movie",
-    "imdb_id": "tt29713093"
+    "imdb_id": "tt22868010"
   },
   {
     "name": "Primate",
@@ -85,18 +95,8 @@
     "imdb_id": "tt33028778"
   },
   {
-    "name": "Darken",
+    "name": "The Strangers: Chapter 3",
     "type": "movie",
-    "imdb_id": "tt6472742"
-  },
-  {
-    "name": "Exit 8",
-    "type": "movie",
-    "imdb_id": "tt35222590"
-  },
-  {
-    "name": "Return to Silent Hill",
-    "type": "movie",
-    "imdb_id": "tt22868010"
+    "imdb_id": "tt28682323"
   }
 ]
