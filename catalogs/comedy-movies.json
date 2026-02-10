@@ -20,24 +20,24 @@
     "imdb_id": "tt8036976"
   },
   {
-    "name": "The Muppet Show",
-    "type": "movie",
-    "imdb_id": "tt37969426"
-  },
-  {
     "name": "The SpongeBob Movie: Search for SquarePants",
     "type": "movie",
     "imdb_id": "tt23572848"
   },
   {
-    "name": "KPop Demon Hunters",
+    "name": "The Muppet Show",
     "type": "movie",
-    "imdb_id": "tt14205554"
+    "imdb_id": "tt37969426"
   },
   {
     "name": "Relationship Goals",
     "type": "movie",
     "imdb_id": "tt35718349"
+  },
+  {
+    "name": "KPop Demon Hunters",
+    "type": "movie",
+    "imdb_id": "tt14205554"
   },
   {
     "name": "The Proud Princess",
@@ -60,34 +60,9 @@
     "imdb_id": "tt30096221"
   },
   {
-    "name": "Wild Guitar",
-    "type": "movie",
-    "imdb_id": "tt0056693"
-  },
-  {
     "name": "Miraculous World: Tokyo, Stellar Force",
     "type": "movie",
     "imdb_id": "tt39012071"
-  },
-  {
-    "name": "No Other Choice",
-    "type": "movie",
-    "imdb_id": "tt1527793"
-  },
-  {
-    "name": "Bha. Bha. Ba.",
-    "type": "movie",
-    "imdb_id": "tt28551273"
-  },
-  {
-    "name": "GOAT",
-    "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
-    "name": "Bugonia",
-    "type": "movie",
-    "imdb_id": "tt12300742"
   },
   {
     "name": "Yadang: The Snitch",
@@ -95,8 +70,33 @@
     "imdb_id": "tt35851026"
   },
   {
+    "name": "No Other Choice",
+    "type": "movie",
+    "imdb_id": "tt1527793"
+  },
+  {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
+  },
+  {
     "name": "Shrek",
     "type": "movie",
     "imdb_id": "tt0126029"
+  },
+  {
+    "name": "Wild Guitar",
+    "type": "movie",
+    "imdb_id": "tt0056693"
+  },
+  {
+    "name": "Forrest Gump",
+    "type": "movie",
+    "imdb_id": "tt0109830"
+  },
+  {
+    "name": "Parasite",
+    "type": "movie",
+    "imdb_id": "tt6751668"
   }
 ]

@@ -15,19 +15,9 @@
     "imdb_id": "tt0318883"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   },
   {
     "name": "Frasier",
@@ -45,9 +35,24 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Sazae-san",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Golden Boy",
+    "type": "series",
+    "imdb_id": "tt21105088"
   },
   {
     "name": "The Andy Griffith Show",
@@ -60,14 +65,9 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Diagnosis: Murder",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0105986"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Rugrats",
@@ -75,18 +75,18 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Golden Boy",
+    "name": "That '70s Show",
     "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt0165598"
+  },
+  {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
   },
   {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
   }
 ]

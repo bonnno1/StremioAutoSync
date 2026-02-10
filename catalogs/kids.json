@@ -10,11 +10,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -27,6 +22,11 @@
   {
     "name": "Doraemon",
     "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
     "imdb_id": "tt0069576"
   },
   {
@@ -35,24 +35,34 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Sailor Moon",
@@ -65,33 +75,23 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "iCarly",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "The Bullwinkle Show",
-    "type": "series",
-    "imdb_id": "tt0052507"
+    "imdb_id": "tt4859164"
   },
   {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
   }
 ]
