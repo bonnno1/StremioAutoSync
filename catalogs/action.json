@@ -15,19 +15,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Smallville",
@@ -35,9 +30,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Spartacus: House of Ashur",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Lost",
@@ -45,9 +40,14 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Unfamiliar",
+    "name": "Spartacus: House of Ashur",
     "type": "series",
-    "imdb_id": "tt37024136"
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
   },
   {
     "name": "Doctor Who",
@@ -55,24 +55,29 @@
     "imdb_id": "tt0436992"
   },
   {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Unfamiliar",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt37024136"
   },
   {
-    "name": "Vikings",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "24",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt6111130"
   },
   {
     "name": "Hawaii Five-0",
@@ -80,18 +85,13 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt23734948"
+    "imdb_id": "tt0118480"
   },
   {
-    "name": "Arrow",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt2306299"
   }
 ]

@@ -20,14 +20,19 @@
     "imdb_id": "tt37969426"
   },
   {
-    "name": "The Proud Princess",
+    "name": "GOAT",
     "type": "movie",
-    "imdb_id": "tt0191383"
+    "imdb_id": "tt27613895"
   },
   {
     "name": "Zootopia",
     "type": "movie",
     "imdb_id": "tt2948356"
+  },
+  {
+    "name": "The Proud Princess",
+    "type": "movie",
+    "imdb_id": "tt0191383"
   },
   {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -40,19 +45,9 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "GOAT",
-    "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
     "name": "Shrek",
     "type": "movie",
     "imdb_id": "tt0126029"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
   },
   {
     "name": "Big Hero 6",
@@ -60,9 +55,9 @@
     "imdb_id": "tt2245084"
   },
   {
-    "name": "The Super Mario Bros. Movie",
+    "name": "A Minecraft Movie",
     "type": "movie",
-    "imdb_id": "tt6718170"
+    "imdb_id": "tt3566834"
   },
   {
     "name": "Frozen",
@@ -70,24 +65,14 @@
     "imdb_id": "tt2294629"
   },
   {
-    "name": "The Wild Robot",
-    "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
   },
   {
-    "name": "Sonic the Hedgehog 3",
+    "name": "The Super Mario Bros. Movie",
     "type": "movie",
-    "imdb_id": "tt18259086"
+    "imdb_id": "tt6718170"
   },
   {
     "name": "The Lion King",
@@ -95,8 +80,23 @@
     "imdb_id": "tt0110357"
   },
   {
-    "name": "Lilo & Stitch",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Inside Out",
+    "type": "movie",
+    "imdb_id": "tt2096673"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "type": "movie",
+    "imdb_id": "tt0198781"
+  },
+  {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
   }
 ]

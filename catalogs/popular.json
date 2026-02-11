@@ -1,13 +1,23 @@
 [
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Law & Order",
@@ -20,29 +30,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "Family Guy",
@@ -50,14 +40,24 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt27497448"
   },
   {
-    "name": "Fallout",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Blacklist",
+    "type": "series",
+    "imdb_id": "tt2741602"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   },
   {
     "name": "Game of Thrones",
@@ -65,9 +65,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Bridgerton",
+    "name": "CSI: Crime Scene Investigation",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt0247082"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Bones",
@@ -75,19 +80,14 @@
     "imdb_id": "tt0460627"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "CSI: Crime Scene Investigation",
-    "type": "series",
-    "imdb_id": "tt0247082"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Criminal Minds",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Midsomer Murders",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt0118401"
+    "imdb_id": "tt12637874"
   }
 ]

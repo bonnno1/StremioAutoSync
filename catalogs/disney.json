@@ -15,14 +15,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -35,16 +35,6 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
@@ -55,9 +45,24 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "The Artful Dodger",
+    "type": "series",
+    "imdb_id": "tt20285780"
   },
   {
     "name": "Bloody Flower",
@@ -65,9 +70,9 @@
     "imdb_id": "tt39306333"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -75,19 +80,14 @@
     "imdb_id": "tt12708542"
   },
   {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "Secret Invasion",
@@ -95,8 +95,8 @@
     "imdb_id": "tt13157618"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt24640580"
   }
 ]
