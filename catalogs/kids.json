@@ -1,13 +1,13 @@
 [
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Sesame Street",
@@ -15,19 +15,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Doraemon",
@@ -35,9 +25,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Rugrats",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Peppa Pig",
@@ -45,9 +35,19 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Duel Masters",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Bluey",
@@ -55,14 +55,29 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "iCarly",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt26997679"
   },
   {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
   },
   {
     "name": "Sailor Moon",
@@ -75,23 +90,8 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "The Loud House",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt0404597"
   }
 ]

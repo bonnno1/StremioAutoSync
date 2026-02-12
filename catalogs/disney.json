@@ -5,14 +5,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Wonder Man",
-    "type": "series",
-    "imdb_id": "tt21066182"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "The Mandalorian",
@@ -20,9 +20,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Andor",
+    "name": "Wonder Man",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt21066182"
   },
   {
     "name": "What If...?",
@@ -35,6 +35,11 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
@@ -45,29 +50,19 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "The Artful Dodger",
     "type": "series",
     "imdb_id": "tt20285780"
-  },
-  {
-    "name": "Bloody Flower",
-    "type": "series",
-    "imdb_id": "tt39306333"
   },
   {
     "name": "Hawkeye",
@@ -85,18 +80,23 @@
     "imdb_id": "tt20674124"
   },
   {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "Bloody Flower",
+    "type": "series",
+    "imdb_id": "tt39306333"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Secret Invasion",
+    "name": "Obi-Wan Kenobi",
     "type": "series",
-    "imdb_id": "tt13157618"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt8466564"
   }
 ]
