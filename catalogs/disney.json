@@ -10,14 +10,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Wonder Man",
@@ -35,14 +35,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "The Artful Dodger",
     "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt20285780"
   },
   {
     "name": "WandaVision",
@@ -50,19 +45,19 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "The Artful Dodger",
-    "type": "series",
-    "imdb_id": "tt20285780"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Hawkeye",
@@ -75,9 +70,9 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Marvel Studios Legends",
@@ -85,9 +80,9 @@
     "imdb_id": "tt13650480"
   },
   {
-    "name": "Bloody Flower",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt39306333"
+    "imdb_id": "tt20674124"
   },
   {
     "name": "X-Men '97",
@@ -95,8 +90,13 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Obi-Wan Kenobi",
+    "name": "The Book of Boba Fett",
     "type": "series",
-    "imdb_id": "tt8466564"
+    "imdb_id": "tt13668894"
+  },
+  {
+    "name": "Bloody Flower",
+    "type": "series",
+    "imdb_id": "tt39306333"
   }
 ]

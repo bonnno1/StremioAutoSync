@@ -30,14 +30,19 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Fallout",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "Spartacus: House of Ashur",
@@ -50,14 +55,14 @@
     "imdb_id": "tt1378167"
   },
   {
-    "name": "Doctor Who",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Arrow",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "The Walking Dead",
@@ -65,9 +70,9 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Unfamiliar",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt37024136"
+    "imdb_id": "tt2193021"
   },
   {
     "name": "Rick and Morty",
@@ -75,23 +80,18 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Vikings",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Unfamiliar",
+    "type": "series",
+    "imdb_id": "tt37024136"
   }
 ]

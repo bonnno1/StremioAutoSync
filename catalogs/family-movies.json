@@ -15,14 +15,14 @@
     "imdb_id": "tt23572848"
   },
   {
-    "name": "The Muppet Show",
-    "type": "movie",
-    "imdb_id": "tt37969426"
-  },
-  {
     "name": "GOAT",
     "type": "movie",
     "imdb_id": "tt27613895"
+  },
+  {
+    "name": "The Muppet Show",
+    "type": "movie",
+    "imdb_id": "tt37969426"
   },
   {
     "name": "Zootopia",
@@ -35,6 +35,16 @@
     "imdb_id": "tt26743210"
   },
   {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "type": "movie",
+    "imdb_id": "tt0363771"
+  },
+  {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
+  },
+  {
     "name": "Big Hero 6",
     "type": "movie",
     "imdb_id": "tt2245084"
@@ -45,44 +55,9 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Moana 2",
+    "name": "Monsters, Inc.",
     "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
-    "name": "Frozen",
-    "type": "movie",
-    "imdb_id": "tt2294629"
-  },
-  {
-    "name": "Sonic the Hedgehog 3",
-    "type": "movie",
-    "imdb_id": "tt18259086"
-  },
-  {
-    "name": "The Proud Princess",
-    "type": "movie",
-    "imdb_id": "tt0191383"
-  },
-  {
-    "name": "The Wild Robot",
-    "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
-    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "type": "movie",
-    "imdb_id": "tt0363771"
-  },
-  {
-    "name": "Lilo & Stitch",
-    "type": "movie",
-    "imdb_id": "tt11655566"
-  },
-  {
-    "name": "Despicable Me 4",
-    "type": "movie",
-    "imdb_id": "tt7510222"
+    "imdb_id": "tt0198781"
   },
   {
     "name": "Coco",
@@ -90,13 +65,38 @@
     "imdb_id": "tt2380307"
   },
   {
-    "name": "Tangled",
+    "name": "Frozen",
     "type": "movie",
-    "imdb_id": "tt0398286"
+    "imdb_id": "tt2294629"
   },
   {
-    "name": "The Bad Guys 2",
+    "name": "The Lion King",
     "type": "movie",
-    "imdb_id": "tt30017619"
+    "imdb_id": "tt0110357"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Sonic the Hedgehog 3",
+    "type": "movie",
+    "imdb_id": "tt18259086"
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "type": "movie",
+    "imdb_id": "tt6718170"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   }
 ]
