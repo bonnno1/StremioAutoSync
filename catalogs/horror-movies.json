@@ -10,6 +10,16 @@
     "imdb_id": "tt33244668"
   },
   {
+    "name": "Twisted",
+    "type": "movie",
+    "imdb_id": "tt14201728"
+  },
+  {
+    "name": "Die'ced: Reloaded",
+    "type": "movie",
+    "imdb_id": "tt36748605"
+  },
+  {
     "name": "We Bury the Dead",
     "type": "movie",
     "imdb_id": "tt29713093"
@@ -25,24 +35,9 @@
     "imdb_id": "tt8036976"
   },
   {
-    "name": "The Rule of Jenny Pen",
-    "type": "movie",
-    "imdb_id": "tt6874690"
-  },
-  {
     "name": "The Shadow",
     "type": "movie",
     "imdb_id": "tt31174024"
-  },
-  {
-    "name": "Twisted",
-    "type": "movie",
-    "imdb_id": "tt14201728"
-  },
-  {
-    "name": "The Confession",
-    "type": "movie",
-    "imdb_id": "tt35838700"
   },
   {
     "name": "Exit 8",
@@ -50,19 +45,24 @@
     "imdb_id": "tt35222590"
   },
   {
-    "name": "Return to Silent Hill",
-    "type": "movie",
-    "imdb_id": "tt22868010"
-  },
-  {
     "name": "Dracula",
     "type": "movie",
     "imdb_id": "tt31434030"
   },
   {
-    "name": "Iron Lung",
+    "name": "Return to Silent Hill",
     "type": "movie",
-    "imdb_id": "tt27564844"
+    "imdb_id": "tt22868010"
+  },
+  {
+    "name": "The Rule of Jenny Pen",
+    "type": "movie",
+    "imdb_id": "tt6874690"
+  },
+  {
+    "name": "The Confession",
+    "type": "movie",
+    "imdb_id": "tt35838700"
   },
   {
     "name": "Frankenstein",
@@ -70,9 +70,14 @@
     "imdb_id": "tt1312221"
   },
   {
-    "name": "28 Years Later: The Bone Temple",
+    "name": "Worldbreaker",
     "type": "movie",
-    "imdb_id": "tt32141377"
+    "imdb_id": "tt14264694"
+  },
+  {
+    "name": "Iron Lung",
+    "type": "movie",
+    "imdb_id": "tt27564844"
   },
   {
     "name": "Killer Whale",
@@ -80,19 +85,14 @@
     "imdb_id": "tt33479805"
   },
   {
-    "name": "Sinners",
-    "type": "movie",
-    "imdb_id": "tt31193180"
-  },
-  {
-    "name": "Worldbreaker",
-    "type": "movie",
-    "imdb_id": "tt14264694"
-  },
-  {
     "name": "Five Nights at Freddy's 2",
     "type": "movie",
     "imdb_id": "tt30274401"
+  },
+  {
+    "name": "Sinners",
+    "type": "movie",
+    "imdb_id": "tt31193180"
   },
   {
     "name": "Scream 7",

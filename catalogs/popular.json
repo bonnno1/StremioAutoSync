@@ -1,33 +1,8 @@
 [
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
   },
   {
     "name": "Grey's Anatomy",
@@ -35,14 +10,34 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
-  },
-  {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
   },
   {
     "name": "NCIS",
@@ -50,9 +45,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Game of Thrones",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt27497448"
   },
   {
     "name": "House",
@@ -65,9 +60,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "CSI: Crime Scene Investigation",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0247082"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Smallville",
@@ -75,23 +70,28 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "The Blacklist",
     "type": "series",
     "imdb_id": "tt2741602"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "The Flash",
     "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt3107288"
   },
   {
-    "name": "American Dad!",
+    "name": "CSI: Crime Scene Investigation",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt0247082"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0108778"
   }
 ]

@@ -15,6 +15,11 @@
     "imdb_id": "tt33028778"
   },
   {
+    "name": "State of Fear",
+    "type": "movie",
+    "imdb_id": "tt39369643"
+  },
+  {
     "name": "The Shadow's Edge",
     "type": "movie",
     "imdb_id": "tt34610311"
@@ -35,11 +40,6 @@
     "imdb_id": "tt13186306"
   },
   {
-    "name": "State of Fear",
-    "type": "movie",
-    "imdb_id": "tt39369643"
-  },
-  {
     "name": "The Rip",
     "type": "movie",
     "imdb_id": "tt32642706"
@@ -50,9 +50,14 @@
     "imdb_id": "tt23172090"
   },
   {
-    "name": "Shelter",
+    "name": "Twisted",
     "type": "movie",
-    "imdb_id": "tt32357218"
+    "imdb_id": "tt14201728"
+  },
+  {
+    "name": "Die'ced: Reloaded",
+    "type": "movie",
+    "imdb_id": "tt36748605"
   },
   {
     "name": "We Bury the Dead",
@@ -60,9 +65,19 @@
     "imdb_id": "tt29713093"
   },
   {
+    "name": "Crime 101",
+    "type": "movie",
+    "imdb_id": "tt32430579"
+  },
+  {
     "name": "Holy Ghost",
     "type": "movie",
     "imdb_id": "tt36364273"
+  },
+  {
+    "name": "Shelter",
+    "type": "movie",
+    "imdb_id": "tt32357218"
   },
   {
     "name": "Send Help",
@@ -75,11 +90,6 @@
     "imdb_id": "tt29780866"
   },
   {
-    "name": "The Rule of Jenny Pen",
-    "type": "movie",
-    "imdb_id": "tt6874690"
-  },
-  {
     "name": "The Shadow",
     "type": "movie",
     "imdb_id": "tt31174024"
@@ -88,15 +98,5 @@
     "name": "Now You See Me: Now You Don't",
     "type": "movie",
     "imdb_id": "tt4712810"
-  },
-  {
-    "name": "Twisted",
-    "type": "movie",
-    "imdb_id": "tt14201728"
-  },
-  {
-    "name": "xXx",
-    "type": "movie",
-    "imdb_id": "tt0295701"
   }
 ]

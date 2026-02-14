@@ -10,14 +10,14 @@
     "imdb_id": "tt15678738"
   },
   {
-    "name": "The SpongeBob Movie: Search for SquarePants",
-    "type": "movie",
-    "imdb_id": "tt23572848"
-  },
-  {
     "name": "GOAT",
     "type": "movie",
     "imdb_id": "tt27613895"
+  },
+  {
+    "name": "The SpongeBob Movie: Search for SquarePants",
+    "type": "movie",
+    "imdb_id": "tt23572848"
   },
   {
     "name": "The Muppet Show",
@@ -45,14 +45,19 @@
     "imdb_id": "tt0126029"
   },
   {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
+  },
+  {
     "name": "Big Hero 6",
     "type": "movie",
     "imdb_id": "tt2245084"
   },
   {
-    "name": "A Minecraft Movie",
+    "name": "Coco",
     "type": "movie",
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt2380307"
   },
   {
     "name": "Monsters, Inc.",
@@ -60,9 +65,14 @@
     "imdb_id": "tt0198781"
   },
   {
-    "name": "Coco",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt2380307"
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Frozen",
@@ -75,28 +85,18 @@
     "imdb_id": "tt0110357"
   },
   {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
     "name": "Sonic the Hedgehog 3",
     "type": "movie",
     "imdb_id": "tt18259086"
   },
   {
-    "name": "The Super Mario Bros. Movie",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt6718170"
+    "imdb_id": "tt22022452"
   },
   {
-    "name": "Lilo & Stitch",
+    "name": "Spirited Away",
     "type": "movie",
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt0245429"
   }
 ]
