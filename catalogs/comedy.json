@@ -15,34 +15,14 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Modern Family",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt2057880"
   },
   {
     "name": "Shameless",
@@ -50,14 +30,19 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "The Daily Show",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt0397306"
   },
   {
-    "name": "South Park",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
   },
   {
     "name": "The Office",
@@ -65,19 +50,14 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt0121955"
   },
   {
-    "name": "Infinite Challenge",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt4546568"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Rick and Morty",
@@ -85,13 +65,33 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Mike Douglas Show",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt0170980"
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
   },
   {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
+  },
+  {
+    "name": "Adventure Time",
+    "type": "series",
+    "imdb_id": "tt1305826"
+  },
+  {
+    "name": "Monk",
+    "type": "series",
+    "imdb_id": "tt0312172"
   }
 ]

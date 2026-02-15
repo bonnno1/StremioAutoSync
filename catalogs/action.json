@@ -5,19 +5,19 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Smallville",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt27497448"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Game of Thrones",
@@ -25,9 +25,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Doctor Who",
@@ -40,16 +40,6 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
@@ -60,19 +50,9 @@
     "imdb_id": "tt29921437"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Walking Dead",
@@ -85,13 +65,33 @@
     "imdb_id": "tt1378167"
   },
   {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   }
 ]

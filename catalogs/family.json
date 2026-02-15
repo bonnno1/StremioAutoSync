@@ -10,16 +10,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
     "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
     "imdb_id": "tt23734948"
@@ -35,9 +25,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Rugrats",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Young Sheldon",
@@ -45,24 +35,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0106004"
   },
   {
-    "name": "That '70s Show",
+    "name": "Sazae-san",
     "type": "series",
-    "imdb_id": "tt0165598"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
+    "imdb_id": "tt0236924"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -70,14 +50,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Bonanza",
@@ -85,8 +60,33 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Home with Kids",
+    "name": "That '70s Show",
     "type": "series",
-    "imdb_id": "tt2324525"
+    "imdb_id": "tt0165598"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Golden Boy",
+    "type": "series",
+    "imdb_id": "tt21105088"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
   }
 ]
