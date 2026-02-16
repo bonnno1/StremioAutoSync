@@ -25,11 +25,6 @@
     "imdb_id": "tt35149250"
   },
   {
-    "name": "Unfamiliar",
-    "type": "series",
-    "imdb_id": "tt37024136"
-  },
-  {
     "name": "The Lincoln Lawyer",
     "type": "series",
     "imdb_id": "tt13833978"
@@ -38,6 +33,11 @@
     "name": "In the Mud",
     "type": "series",
     "imdb_id": "tt32874331"
+  },
+  {
+    "name": "Unfamiliar",
+    "type": "series",
+    "imdb_id": "tt37024136"
   },
   {
     "name": "Black Mirror",
@@ -50,14 +50,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Orange Is the New Black",
     "type": "series",
     "imdb_id": "tt2372162"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "You",
@@ -70,9 +70,9 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "The Crown",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "BoJack Horseman",
@@ -80,9 +80,9 @@
     "imdb_id": "tt3398228"
   },
   {
-    "name": "Squid Game",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt4786824"
   },
   {
     "name": "Arrested Development",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0367279"
   },
   {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Salvador",
-    "type": "series",
-    "imdb_id": "tt35316779"
   }
 ]

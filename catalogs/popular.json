@@ -10,11 +10,6 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -25,19 +20,14 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "A Knight of the Seven Kingdoms",
@@ -45,14 +35,9 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "House",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -60,14 +45,24 @@
     "imdb_id": "tt12343534"
   },
   {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Smallville",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Breaking Bad",
@@ -75,23 +70,28 @@
     "imdb_id": "tt0903747"
   },
   {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
     "name": "The Blacklist",
     "type": "series",
     "imdb_id": "tt2741602"
   },
   {
-    "name": "The Flash",
-    "type": "series",
-    "imdb_id": "tt3107288"
-  },
-  {
-    "name": "CSI: Crime Scene Investigation",
-    "type": "series",
-    "imdb_id": "tt0247082"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Dexter",
+    "type": "series",
+    "imdb_id": "tt0773262"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
   }
 ]
