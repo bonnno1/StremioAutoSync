@@ -20,9 +20,9 @@
     "imdb_id": "tt23572848"
   },
   {
-    "name": "Old Dogs",
+    "name": "Tales from the Magic Garden",
     "type": "movie",
-    "imdb_id": "tt0976238"
+    "imdb_id": "tt10312938"
   },
   {
     "name": "Zootopia",
@@ -30,29 +30,14 @@
     "imdb_id": "tt2948356"
   },
   {
+    "name": "Old Dogs",
+    "type": "movie",
+    "imdb_id": "tt0976238"
+  },
+  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
-  },
-  {
-    "name": "The Muppet Show",
-    "type": "movie",
-    "imdb_id": "tt37969426"
-  },
-  {
-    "name": "Tales from the Magic Garden",
-    "type": "movie",
-    "imdb_id": "tt10312938"
-  },
-  {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
   },
   {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -60,9 +45,14 @@
     "imdb_id": "tt0363771"
   },
   {
-    "name": "Coco",
+    "name": "A Minecraft Movie",
     "type": "movie",
-    "imdb_id": "tt2380307"
+    "imdb_id": "tt3566834"
+  },
+  {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
   },
   {
     "name": "Moana 2",
@@ -70,24 +60,19 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "Spirited Away",
+    "name": "Coco",
     "type": "movie",
-    "imdb_id": "tt0245429"
+    "imdb_id": "tt2380307"
   },
   {
-    "name": "Sonic the Hedgehog 3",
+    "name": "Playdate",
     "type": "movie",
-    "imdb_id": "tt18259086"
+    "imdb_id": "tt31425731"
   },
   {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
-  },
-  {
-    "name": "Big Hero 6",
-    "type": "movie",
-    "imdb_id": "tt2245084"
   },
   {
     "name": "Despicable Me 4",
@@ -98,5 +83,20 @@
     "name": "The Lion King",
     "type": "movie",
     "imdb_id": "tt0110357"
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "type": "movie",
+    "imdb_id": "tt6718170"
+  },
+  {
+    "name": "Sonic the Hedgehog 3",
+    "type": "movie",
+    "imdb_id": "tt18259086"
+  },
+  {
+    "name": "The Muppet Show",
+    "type": "movie",
+    "imdb_id": "tt37969426"
   }
 ]

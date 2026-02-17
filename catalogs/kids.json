@@ -5,24 +5,19 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -45,6 +40,11 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
@@ -60,29 +60,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "iCarly",
     "type": "series",
     "imdb_id": "tt0972534"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
   },
   {
     "name": "Duel Masters",
@@ -90,8 +70,28 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "We Bare Bears",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt4839610"
+  },
+  {
+    "name": "Henry Danger",
+    "type": "series",
+    "imdb_id": "tt3596174"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   }
 ]

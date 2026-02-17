@@ -15,19 +15,14 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "The Art of Sarah",
     "type": "series",
     "imdb_id": "tt35149250"
   },
   {
-    "name": "The Lincoln Lawyer",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt13833978"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "In the Mud",
@@ -35,9 +30,9 @@
     "imdb_id": "tt32874331"
   },
   {
-    "name": "Unfamiliar",
+    "name": "The Lincoln Lawyer",
     "type": "series",
-    "imdb_id": "tt37024136"
+    "imdb_id": "tt13833978"
   },
   {
     "name": "Black Mirror",
@@ -45,9 +40,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Sesame Street",
+    "name": "Unfamiliar",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt37024136"
   },
   {
     "name": "Orange Is the New Black",
@@ -55,14 +50,9 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "The Witcher",
@@ -75,9 +65,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt0458290"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "The Crown",
@@ -85,18 +80,23 @@
     "imdb_id": "tt4786824"
   },
   {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
+  },
+  {
     "name": "Arrested Development",
     "type": "series",
     "imdb_id": "tt0367279"
   },
   {
+    "name": "Lead Children",
+    "type": "series",
+    "imdb_id": "tt33322230"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
   }
 ]

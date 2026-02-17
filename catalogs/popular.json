@@ -1,5 +1,10 @@
 [
   {
+    "name": "A Knight of the Seven Kingdoms",
+    "type": "series",
+    "imdb_id": "tt27497448"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
@@ -30,19 +35,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
   },
   {
     "name": "House",
@@ -68,6 +63,11 @@
     "name": "Breaking Bad",
     "type": "series",
     "imdb_id": "tt0903747"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Smallville",

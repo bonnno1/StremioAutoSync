@@ -15,19 +15,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
   },
   {
     "name": "Shameless",
@@ -35,14 +25,24 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt2057880"
   },
   {
     "name": "Doraemon",
@@ -50,9 +50,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "The Office",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0386676"
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Rick and Morty",
@@ -70,11 +70,6 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
     "name": "Two and a Half Men",
     "type": "series",
     "imdb_id": "tt0369179"
@@ -85,13 +80,18 @@
     "imdb_id": "tt1305826"
   },
   {
+    "name": "Infinite Challenge",
+    "type": "series",
+    "imdb_id": "tt4546568"
+  },
+  {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
   },
   {
-    "name": "Infinite Challenge",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt4546568"
+    "imdb_id": "tt3513388"
   }
 ]
