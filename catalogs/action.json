@@ -10,11 +10,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -23,6 +18,11 @@
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Smallville",
@@ -40,19 +40,9 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Doraemon",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "The Walking Dead",
@@ -60,9 +50,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Spartacus: House of Ashur",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
   },
   {
     "name": "Rick and Morty",
@@ -75,14 +70,14 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Prison Break",
@@ -93,5 +88,10 @@
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
   }
 ]

@@ -10,24 +10,24 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "The Art of Sarah",
     "type": "series",
     "imdb_id": "tt35149250"
   },
   {
-    "name": "Lucifer",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "In the Mud",
     "type": "series",
     "imdb_id": "tt32874331"
+  },
+  {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
   },
   {
     "name": "The Lincoln Lawyer",
@@ -45,11 +45,6 @@
     "imdb_id": "tt37024136"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -60,14 +55,19 @@
     "imdb_id": "tt5180504"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "You",
@@ -75,14 +75,14 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   },
   {
     "name": "Arrested Development",
@@ -95,8 +95,8 @@
     "imdb_id": "tt33322230"
   },
   {
-    "name": "Wednesday",
+    "name": "Million-Follower Detective",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt27850500"
   }
 ]

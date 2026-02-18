@@ -1,8 +1,18 @@
 [
   {
+    "name": "56 Days",
+    "type": "series",
+    "imdb_id": "tt30412869"
+  },
+  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
+  },
+  {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
   },
   {
     "name": "The Art of Sarah",
@@ -15,24 +25,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Love Story",
-    "type": "series",
-    "imdb_id": "tt15232564"
-  },
-  {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -40,14 +35,44 @@
     "imdb_id": "tt22248376"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "How Dare You!?",
+    "type": "series",
+    "imdb_id": "tt35231547"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Love Story",
+    "type": "series",
+    "imdb_id": "tt15232564"
+  },
+  {
     "name": "The Pitt",
     "type": "series",
     "imdb_id": "tt31938062"
   },
   {
+    "name": "Lead Children",
+    "type": "series",
+    "imdb_id": "tt33322230"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
   },
   {
     "name": "The Rookie",
@@ -65,38 +90,13 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Lead Children",
-    "type": "series",
-    "imdb_id": "tt33322230"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
     "name": "The Artful Dodger",
     "type": "series",
     "imdb_id": "tt20285780"
   },
   {
-    "name": "Tell Me Lies",
-    "type": "series",
-    "imdb_id": "tt13018148"
-  },
-  {
     "name": "Heated Rivalry",
     "type": "series",
     "imdb_id": "tt35495073"
-  },
-  {
-    "name": "Museum of Innocence",
-    "type": "series",
-    "imdb_id": "tt34692373"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   }
 ]

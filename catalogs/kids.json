@@ -20,21 +20,6 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -45,14 +30,29 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -70,19 +70,14 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
     "name": "Henry Danger",
     "type": "series",
     "imdb_id": "tt3596174"
   },
   {
-    "name": "Chiikawa",
+    "name": "We Bare Bears",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt4839610"
   },
   {
     "name": "The Fairly OddParents",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
   }
 ]
