@@ -10,11 +10,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -23,6 +18,11 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Smallville",
@@ -45,14 +45,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Stargate SG-1",
@@ -60,9 +55,29 @@
     "imdb_id": "tt0118480"
   },
   {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Fallout",
@@ -72,22 +87,7 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Frieren: Beyond Journey's End",

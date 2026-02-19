@@ -15,14 +15,14 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "56 Days",
+    "type": "series",
+    "imdb_id": "tt30412869"
+  },
+  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
   },
   {
     "name": "The Expanse",
@@ -30,9 +30,9 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Invincible",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt4687880"
   },
   {
     "name": "Steal",
@@ -40,9 +40,24 @@
     "imdb_id": "tt32499731"
   },
   {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -55,16 +70,6 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
@@ -75,19 +80,14 @@
     "imdb_id": "tt39137681"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "House of David",
