@@ -40,6 +40,11 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -50,19 +55,14 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Game of Thrones",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0412142"
   },
   {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
   },
   {
     "name": "Breaking Bad",
@@ -73,6 +73,11 @@
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "The X-Files",
+    "type": "series",
+    "imdb_id": "tt0106179"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -88,10 +93,5 @@
     "name": "Criminal Minds",
     "type": "series",
     "imdb_id": "tt0452046"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
   }
 ]

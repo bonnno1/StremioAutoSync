@@ -60,9 +60,14 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Moana 2",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Toy Story 5",
+    "type": "movie",
+    "imdb_id": "tt29355505"
   },
   {
     "name": "Spirited Away",
@@ -70,14 +75,19 @@
     "imdb_id": "tt0245429"
   },
   {
-    "name": "Inside Out 2",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt13622970"
   },
   {
     "name": "The Lion King",
     "type": "movie",
     "imdb_id": "tt0110357"
+  },
+  {
+    "name": "Playdate",
+    "type": "movie",
+    "imdb_id": "tt31425731"
   },
   {
     "name": "The Super Mario Bros. Movie",
@@ -88,15 +98,5 @@
     "name": "Coco",
     "type": "movie",
     "imdb_id": "tt2380307"
-  },
-  {
-    "name": "Playdate",
-    "type": "movie",
-    "imdb_id": "tt31425731"
-  },
-  {
-    "name": "Sonic the Hedgehog 3",
-    "type": "movie",
-    "imdb_id": "tt18259086"
   }
 ]

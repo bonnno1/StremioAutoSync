@@ -1,13 +1,13 @@
 [
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Boys",
@@ -45,11 +45,6 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
@@ -60,14 +55,14 @@
     "imdb_id": "tt11794812"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
-  },
-  {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
   },
   {
     "name": "The Wheel of Time",
@@ -75,14 +70,19 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "Spring Fever",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt39137681"
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Spring Fever",
+    "type": "series",
+    "imdb_id": "tt39137681"
   },
   {
     "name": "Hazbin Hotel",
