@@ -5,6 +5,11 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -20,29 +25,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
   },
   {
     "name": "Pokémon Horizons",
@@ -50,9 +35,24 @@
     "imdb_id": "tt26692417"
   },
   {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Bluey",
@@ -60,29 +60,24 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "Yu-Gi-Oh! GX",
     "type": "series",
     "imdb_id": "tt0493334"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt3600266"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "The Guardians of Carcosa",
     "type": "series",
-    "imdb_id": "tt3559124"
+    "imdb_id": "tt29729800"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   },
   {
     "name": "We Bare Bears",
@@ -90,8 +85,8 @@
     "imdb_id": "tt4839610"
   },
   {
-    "name": "iCarly",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt0103369"
   }
 ]

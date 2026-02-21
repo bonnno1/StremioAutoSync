@@ -1,18 +1,8 @@
 [
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "Dancing with the Stars",
@@ -20,14 +10,24 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Loki",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt9253284"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Wonder Man",
@@ -40,9 +40,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "The Artful Dodger",
+    "name": "Once",
     "type": "series",
-    "imdb_id": "tt20285780"
+    "imdb_id": "tt6922826"
   },
   {
     "name": "WandaVision",
@@ -55,34 +55,14 @@
     "imdb_id": "tt10160804"
   },
   {
+    "name": "The Artful Dodger",
+    "type": "series",
+    "imdb_id": "tt20285780"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Once",
-    "type": "series",
-    "imdb_id": "tt6922826"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "name": "The Eighth Family",
-    "type": "series",
-    "imdb_id": "tt38781098"
   },
   {
     "name": "Star Wars: Visions",
@@ -90,8 +70,28 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Bloody Flower",
+    "name": "The Eighth Family",
     "type": "series",
-    "imdb_id": "tt39306333"
+    "imdb_id": "tt38781098"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
   }
 ]

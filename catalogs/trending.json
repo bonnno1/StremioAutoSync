@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
   },
   {
     "name": "56 Days",
@@ -15,19 +15,19 @@
     "imdb_id": "tt30412869"
   },
   {
-    "name": "The Art of Sarah",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt35149250"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt22248376"
   },
   {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "The Art of Sarah",
+    "type": "series",
+    "imdb_id": "tt35149250"
   },
   {
     "name": "Fallout",
@@ -40,14 +40,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "How Dare You!?",
-    "type": "series",
-    "imdb_id": "tt35231547"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
   },
   {
     "name": "Love Story",
@@ -55,24 +55,9 @@
     "imdb_id": "tt15232564"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
     "name": "Star Trek: Starfleet Academy",
     "type": "series",
     "imdb_id": "tt8622160"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Strip Law",
-    "type": "series",
-    "imdb_id": "tt37937030"
   },
   {
     "name": "Cross",
@@ -80,9 +65,14 @@
     "imdb_id": "tt11794812"
   },
   {
-    "name": "The Last Thing He Told Me",
+    "name": "How Dare You!?",
     "type": "series",
-    "imdb_id": "tt13745850"
+    "imdb_id": "tt35231547"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "The Beauty",
@@ -90,13 +80,23 @@
     "imdb_id": "tt33517752"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
   },
   {
-    "name": "The Simpsons",
+    "name": "Heated Rivalry",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt35495073"
+  },
+  {
+    "name": "The Last Thing He Told Me",
+    "type": "series",
+    "imdb_id": "tt13745850"
   }
 ]
