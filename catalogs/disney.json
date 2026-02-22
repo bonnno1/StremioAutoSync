@@ -5,6 +5,11 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -15,14 +20,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "The Mandalorian",
+    "name": "Battle of Fates",
     "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
+    "imdb_id": "tt39961100"
   },
   {
     "name": "Loki",
@@ -30,9 +30,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Wonder Man",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt21066182"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Daredevil: Born Again",
@@ -40,19 +40,14 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Wonder Man",
+    "type": "series",
+    "imdb_id": "tt21066182"
+  },
+  {
     "name": "Once",
     "type": "series",
     "imdb_id": "tt6922826"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "The Artful Dodger",
@@ -60,14 +55,19 @@
     "imdb_id": "tt20285780"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "The Eighth Family",
@@ -80,18 +80,23 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Bloody Flower",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt39306333"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   }
 ]

@@ -35,11 +35,6 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -50,19 +45,9 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "Law & Order",
@@ -75,18 +60,38 @@
     "imdb_id": "tt0412142"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Smallville",
+    "name": "Tagesschau",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0246393"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "56 Days",
+    "type": "series",
+    "imdb_id": "tt30412869"
   }
 ]
