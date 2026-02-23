@@ -10,6 +10,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -20,24 +25,14 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Peppa Pig",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Duel Masters",
@@ -45,14 +40,24 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "3000 Whys of Blue Cat",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt8483276"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Armorsaurs",
+    "type": "series",
+    "imdb_id": "tt38514634"
   },
   {
     "name": "Rugrats",
@@ -83,10 +88,5 @@
     "name": "Super Wings",
     "type": "series",
     "imdb_id": "tt3600266"
-  },
-  {
-    "name": "The Guardians of Carcosa",
-    "type": "series",
-    "imdb_id": "tt29729800"
   }
 ]

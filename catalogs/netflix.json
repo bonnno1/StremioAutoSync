@@ -10,19 +10,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "In the Mud",
-    "type": "series",
-    "imdb_id": "tt32874331"
-  },
-  {
     "name": "The Night Agent",
     "type": "series",
     "imdb_id": "tt13918776"
   },
   {
-    "name": "The Art of Sarah",
+    "name": "In the Mud",
     "type": "series",
-    "imdb_id": "tt35149250"
+    "imdb_id": "tt32874331"
   },
   {
     "name": "Bridgerton",
@@ -33,6 +28,11 @@
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "The Art of Sarah",
+    "type": "series",
+    "imdb_id": "tt35149250"
   },
   {
     "name": "C.I.D.",
@@ -50,19 +50,14 @@
     "imdb_id": "tt13833978"
   },
   {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Museum of Innocence",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt34692373"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "The Witcher",
@@ -80,23 +75,28 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "Museum of Innocence",
+    "type": "series",
+    "imdb_id": "tt34692373"
+  },
+  {
+    "name": "Strip Law",
+    "type": "series",
+    "imdb_id": "tt37937030"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
-  },
-  {
-    "name": "Unfamiliar",
-    "type": "series",
-    "imdb_id": "tt37024136"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
   }
 ]

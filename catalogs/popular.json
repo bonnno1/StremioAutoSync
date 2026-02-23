@@ -5,19 +5,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Simpsons",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0460681"
   },
   {
     "name": "The Rookie",
@@ -25,14 +20,24 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Stranger Things",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -45,9 +50,9 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Game of Thrones",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Law & Order",
@@ -55,29 +60,14 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "House",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt0944947"
   },
   {
-    "name": "NCIS",
+    "name": "56 Days",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt30412869"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -85,13 +75,23 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
   },
   {
-    "name": "56 Days",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt30412869"
+    "imdb_id": "tt4083422"
   }
 ]

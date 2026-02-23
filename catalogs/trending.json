@@ -5,6 +5,11 @@
     "imdb_id": "tt27497448"
   },
   {
+    "name": "Paradise",
+    "type": "series",
+    "imdb_id": "tt27444205"
+  },
+  {
     "name": "The Night Agent",
     "type": "series",
     "imdb_id": "tt13918776"
@@ -25,6 +30,11 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -35,49 +45,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
-  },
-  {
     "name": "The Art of Sarah",
     "type": "series",
     "imdb_id": "tt35149250"
   },
   {
-    "name": "The Last Thing He Told Me",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt13745850"
-  },
-  {
-    "name": "Star Trek: Starfleet Academy",
-    "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Vanished",
-    "type": "series",
-    "imdb_id": "tt36958533"
-  },
-  {
-    "name": "Love Story",
-    "type": "series",
-    "imdb_id": "tt15232564"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Family Guy",
@@ -85,18 +60,43 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "The Last Thing He Told Me",
+    "type": "series",
+    "imdb_id": "tt13745850"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Love Story",
+    "type": "series",
+    "imdb_id": "tt15232564"
+  },
+  {
+    "name": "Vanished",
+    "type": "series",
+    "imdb_id": "tt36958533"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
+  },
+  {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
+  },
+  {
     "name": "How Dare You!?",
     "type": "series",
     "imdb_id": "tt35231547"
   },
   {
-    "name": "Hijack",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Hell's Paradise",
-    "type": "series",
-    "imdb_id": "tt13911284"
+    "imdb_id": "tt0397306"
   }
 ]

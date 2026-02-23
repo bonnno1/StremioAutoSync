@@ -15,14 +15,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Doraemon",
@@ -30,29 +30,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "The Night Agent",
     "type": "series",
     "imdb_id": "tt13918776"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Stargate SG-1",
@@ -60,9 +45,19 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Pokémon",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Doraemon",
@@ -70,19 +65,14 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Spartacus: House of Ashur",
-    "type": "series",
-    "imdb_id": "tt29921437"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -90,8 +80,18 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Spartacus: House of Ashur",
+    "type": "series",
+    "imdb_id": "tt29921437"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   }
 ]
