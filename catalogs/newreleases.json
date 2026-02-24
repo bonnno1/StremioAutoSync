@@ -1,18 +1,13 @@
 [
   {
-    "name": "The Rookie",
+    "name": "Tagesschau",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt0246393"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
   },
   {
     "name": "The Daily Show",
@@ -35,16 +30,6 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Na Wspólnej",
-    "type": "series",
-    "imdb_id": "tt0388626"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
     "name": "Coronation Street",
     "type": "series",
     "imdb_id": "tt0053494"
@@ -60,14 +45,24 @@
     "imdb_id": "tt7124904"
   },
   {
-    "name": "Memory of a Killer",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt35707374"
+    "imdb_id": "tt0159881"
   },
   {
-    "name": "La promesa",
+    "name": "Who's the Murderer",
     "type": "series",
-    "imdb_id": "tt22325164"
+    "imdb_id": "tt9332934"
+  },
+  {
+    "name": "Markus Lanz",
+    "type": "series",
+    "imdb_id": "tt1239083"
+  },
+  {
+    "name": "Love Stories in the Countryside",
+    "type": "series",
+    "imdb_id": "tt1395015"
   },
   {
     "name": "LIVE with Kelly and Mark",
@@ -75,9 +70,9 @@
     "imdb_id": "tt0096636"
   },
   {
-    "name": "Mayday",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0386950"
+    "imdb_id": "tt26997679"
   },
   {
     "name": "Suidooster",
@@ -88,5 +83,10 @@
     "name": "Ulice",
     "type": "series",
     "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
   }
 ]

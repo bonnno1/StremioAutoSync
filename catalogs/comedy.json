@@ -1,18 +1,23 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -25,16 +30,6 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Young Hearts",
     "type": "series",
     "imdb_id": "tt0144724"
@@ -43,6 +38,11 @@
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Modern Family",
@@ -55,6 +55,16 @@
     "imdb_id": "tt0108778"
   },
   {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
@@ -65,9 +75,9 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "South Park",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt0106053"
   },
   {
     "name": "Doraemon",
@@ -75,18 +85,8 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
-    "name": "Infinite Challenge",
-    "type": "series",
-    "imdb_id": "tt4546568"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt0121955"
   }
 ]

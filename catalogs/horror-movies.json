@@ -15,24 +15,14 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Primate",
-    "type": "movie",
-    "imdb_id": "tt33028778"
-  },
-  {
     "name": "Misdirection",
     "type": "movie",
     "imdb_id": "tt6374142"
   },
   {
-    "name": "Night Patrol",
+    "name": "Primate",
     "type": "movie",
-    "imdb_id": "tt8637438"
-  },
-  {
-    "name": "Anaconda",
-    "type": "movie",
-    "imdb_id": "tt33244668"
+    "imdb_id": "tt33028778"
   },
   {
     "name": "iPossessed",
@@ -40,14 +30,44 @@
     "imdb_id": "tt11139374"
   },
   {
-    "name": "Eye for an Eye",
+    "name": "Anaconda",
     "type": "movie",
-    "imdb_id": "tt28088571"
+    "imdb_id": "tt33244668"
+  },
+  {
+    "name": "Night Patrol",
+    "type": "movie",
+    "imdb_id": "tt8637438"
+  },
+  {
+    "name": "Witchcraft",
+    "type": "movie",
+    "imdb_id": "tt0058753"
+  },
+  {
+    "name": "The Dreadful",
+    "type": "movie",
+    "imdb_id": "tt30842022"
   },
   {
     "name": "Incarnate",
     "type": "movie",
     "imdb_id": "tt3216348"
+  },
+  {
+    "name": "Scream 7",
+    "type": "movie",
+    "imdb_id": "tt27047903"
+  },
+  {
+    "name": "Maniac",
+    "type": "movie",
+    "imdb_id": "tt2103217"
+  },
+  {
+    "name": "Eye for an Eye",
+    "type": "movie",
+    "imdb_id": "tt28088571"
   },
   {
     "name": "Dracula",
@@ -60,34 +80,14 @@
     "imdb_id": "tt8036976"
   },
   {
+    "name": "Willard",
+    "type": "movie",
+    "imdb_id": "tt0310357"
+  },
+  {
     "name": "Die'ced: Reloaded",
     "type": "movie",
     "imdb_id": "tt36748605"
-  },
-  {
-    "name": "Maniac",
-    "type": "movie",
-    "imdb_id": "tt2103217"
-  },
-  {
-    "name": "Five Nights at Freddy's 2",
-    "type": "movie",
-    "imdb_id": "tt30274401"
-  },
-  {
-    "name": "Scream 7",
-    "type": "movie",
-    "imdb_id": "tt27047903"
-  },
-  {
-    "name": "Frankenstein",
-    "type": "movie",
-    "imdb_id": "tt1312221"
-  },
-  {
-    "name": "The Dreadful",
-    "type": "movie",
-    "imdb_id": "tt30842022"
   },
   {
     "name": "Sinners",
@@ -95,8 +95,8 @@
     "imdb_id": "tt31193180"
   },
   {
-    "name": "Willard",
+    "name": "Five Nights at Freddy's 2",
     "type": "movie",
-    "imdb_id": "tt0310357"
+    "imdb_id": "tt30274401"
   }
 ]

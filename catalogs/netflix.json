@@ -15,14 +15,14 @@
     "imdb_id": "tt13918776"
   },
   {
-    "name": "In the Mud",
-    "type": "series",
-    "imdb_id": "tt32874331"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "In the Mud",
+    "type": "series",
+    "imdb_id": "tt32874331"
   },
   {
     "name": "Lucifer",
@@ -75,11 +75,6 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Museum of Innocence",
-    "type": "series",
-    "imdb_id": "tt34692373"
-  },
-  {
     "name": "Strip Law",
     "type": "series",
     "imdb_id": "tt37937030"
@@ -98,5 +93,10 @@
     "name": "Cobra Kai",
     "type": "series",
     "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   }
 ]

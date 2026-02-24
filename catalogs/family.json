@@ -30,19 +30,14 @@
     "imdb_id": "tt23734948"
   },
   {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
+  },
+  {
     "name": "Everwood",
     "type": "series",
     "imdb_id": "tt0318883"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
   },
   {
     "name": "Golden Boy",
@@ -50,24 +45,14 @@
     "imdb_id": "tt21105088"
   },
   {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "Love Stories in the Countryside",
@@ -75,8 +60,23 @@
     "imdb_id": "tt1395015"
   },
   {
-    "name": "King of the Hill",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
   }
 ]

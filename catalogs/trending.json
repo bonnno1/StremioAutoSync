@@ -5,14 +5,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Paradise",
-    "type": "series",
-    "imdb_id": "tt27444205"
-  },
-  {
     "name": "The Night Agent",
     "type": "series",
     "imdb_id": "tt13918776"
+  },
+  {
+    "name": "Paradise",
+    "type": "series",
+    "imdb_id": "tt27444205"
   },
   {
     "name": "56 Days",
@@ -20,19 +20,9 @@
     "imdb_id": "tt30412869"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -40,9 +30,29 @@
     "imdb_id": "tt12343534"
   },
   {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "CIA",
+    "type": "series",
+    "imdb_id": "tt35515227"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Art of Sarah",
@@ -55,9 +65,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Family Guy",
+    "name": "How Dare You!?",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt35231547"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
   },
   {
     "name": "The Last Thing He Told Me",
@@ -65,9 +80,14 @@
     "imdb_id": "tt13745850"
   },
   {
-    "name": "The Rookie",
+    "name": "Hijack",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Hell's Paradise",
+    "type": "series",
+    "imdb_id": "tt13911284"
   },
   {
     "name": "Love Story",
@@ -78,25 +98,5 @@
     "name": "Vanished",
     "type": "series",
     "imdb_id": "tt36958533"
-  },
-  {
-    "name": "Star Trek: Starfleet Academy",
-    "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
-  },
-  {
-    "name": "How Dare You!?",
-    "type": "series",
-    "imdb_id": "tt35231547"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
   }
 ]

@@ -55,14 +55,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Wheel of Time",
@@ -75,11 +75,6 @@
     "imdb_id": "tt11794812"
   },
   {
-    "name": "Steal",
-    "type": "series",
-    "imdb_id": "tt32499731"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
@@ -88,6 +83,11 @@
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
+  },
+  {
+    "name": "Steal",
+    "type": "series",
+    "imdb_id": "tt32499731"
   },
   {
     "name": "Spring Fever",
