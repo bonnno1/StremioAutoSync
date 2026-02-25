@@ -5,6 +5,11 @@
     "imdb_id": "tt11280740"
   },
   {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
@@ -20,49 +25,9 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "See",
-    "type": "series",
-    "imdb_id": "tt7949218"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "The Last Thing He Told Me",
-    "type": "series",
-    "imdb_id": "tt13745850"
-  },
-  {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -70,19 +35,49 @@
     "imdb_id": "tt17220216"
   },
   {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "The Last Thing He Told Me",
+    "type": "series",
+    "imdb_id": "tt13745850"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
   },
   {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
   },
   {
     "name": "Black Bird",
@@ -95,8 +90,13 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Truth Be Told",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt7821582"
+    "imdb_id": "tt2640044"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
   }
 ]

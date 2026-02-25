@@ -5,14 +5,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "Paradise",
     "type": "series",
     "imdb_id": "tt27444205"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
   },
   {
     "name": "56 Days",
@@ -20,9 +20,9 @@
     "imdb_id": "tt30412869"
   },
   {
-    "name": "The Rookie",
+    "name": "Cross",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt11794812"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -35,49 +35,14 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "CIA",
-    "type": "series",
-    "imdb_id": "tt35515227"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Fallout",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Art of Sarah",
-    "type": "series",
-    "imdb_id": "tt35149250"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "How Dare You!?",
-    "type": "series",
-    "imdb_id": "tt35231547"
-  },
-  {
-    "name": "Star Trek: Starfleet Academy",
-    "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "The Last Thing He Told Me",
-    "type": "series",
-    "imdb_id": "tt13745850"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Hijack",
@@ -85,9 +50,19 @@
     "imdb_id": "tt19854762"
   },
   {
-    "name": "Hell's Paradise",
+    "name": "The Pitt",
     "type": "series",
-    "imdb_id": "tt13911284"
+    "imdb_id": "tt31938062"
+  },
+  {
+    "name": "CIA",
+    "type": "series",
+    "imdb_id": "tt35515227"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Love Story",
@@ -95,8 +70,33 @@
     "imdb_id": "tt15232564"
   },
   {
-    "name": "Vanished",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt36958533"
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Beast Games",
+    "type": "series",
+    "imdb_id": "tt31812476"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Art of Sarah",
+    "type": "series",
+    "imdb_id": "tt35149250"
+  },
+  {
+    "name": "How Dare You!?",
+    "type": "series",
+    "imdb_id": "tt35231547"
   }
 ]
