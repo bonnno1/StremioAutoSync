@@ -10,14 +10,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Battle of Fates",
     "type": "series",
     "imdb_id": "tt39961100"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Andor",
@@ -50,19 +50,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
   },
   {
     "name": "The Artful Dodger",
@@ -70,14 +60,19 @@
     "imdb_id": "tt20285780"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
   },
   {
-    "name": "WandaVision",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "The Eighth Family",
@@ -85,18 +80,23 @@
     "imdb_id": "tt38781098"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt9140560"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Bloody Flower",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt39306333"
   },
   {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   }
 ]

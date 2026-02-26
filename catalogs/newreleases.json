@@ -1,8 +1,23 @@
 [
   {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
     "name": "Tagesschau",
     "type": "series",
     "imdb_id": "tt0246393"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -15,14 +30,14 @@
     "imdb_id": "tt0115147"
   },
   {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
-  },
-  {
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "type": "series",
-    "imdb_id": "tt0103434"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -30,9 +45,24 @@
     "imdb_id": "tt3697842"
   },
   {
+    "name": "Gute Zeiten, schlechte Zeiten",
+    "type": "series",
+    "imdb_id": "tt0103434"
+  },
+  {
     "name": "Na Wspólnej",
     "type": "series",
     "imdb_id": "tt0388626"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "name": "You are the One I Love",
+    "type": "series",
+    "imdb_id": "tt38987259"
   },
   {
     "name": "Coronation Street",
@@ -45,9 +75,14 @@
     "imdb_id": "tt0088512"
   },
   {
-    "name": "Esref's Dream",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt35069642"
+    "imdb_id": "tt3121722"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
   },
   {
     "name": "Tomorrow Is Ours",
@@ -60,38 +95,8 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "AIBOU: Tokyo Detective Duo",
-    "type": "series",
-    "imdb_id": "tt1505970"
-  },
-  {
     "name": "Suidooster",
     "type": "series",
     "imdb_id": "tt5467444"
-  },
-  {
-    "name": "Markus Lanz",
-    "type": "series",
-    "imdb_id": "tt1239083"
-  },
-  {
-    "name": "Who's the Murderer",
-    "type": "series",
-    "imdb_id": "tt9332934"
-  },
-  {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
-  },
-  {
-    "name": "Love Stories in the Countryside",
-    "type": "series",
-    "imdb_id": "tt1395015"
-  },
-  {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
   }
 ]

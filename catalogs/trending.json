@@ -1,13 +1,18 @@
 [
   {
+    "name": "Scrubs",
+    "type": "series",
+    "imdb_id": "tt37017338"
+  },
+  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Paradise",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt27444205"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "The Night Agent",
@@ -15,14 +20,14 @@
     "imdb_id": "tt13918776"
   },
   {
+    "name": "Paradise",
+    "type": "series",
+    "imdb_id": "tt27444205"
+  },
+  {
     "name": "56 Days",
     "type": "series",
     "imdb_id": "tt30412869"
-  },
-  {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -30,24 +35,19 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Rookie",
+    "name": "BAKI-DOU: The Invincible Samurai",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt38201910"
   },
   {
-    "name": "Hijack",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt22248376"
   },
   {
     "name": "The Pitt",
@@ -55,29 +55,14 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "CIA",
-    "type": "series",
-    "imdb_id": "tt35515227"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Love Story",
+    "name": "The Beauty",
     "type": "series",
-    "imdb_id": "tt15232564"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "Beast Games",
-    "type": "series",
-    "imdb_id": "tt31812476"
+    "imdb_id": "tt33517752"
   },
   {
     "name": "Star Trek: Starfleet Academy",
@@ -85,14 +70,29 @@
     "imdb_id": "tt8622160"
   },
   {
-    "name": "The Simpsons",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt12637874"
   },
   {
-    "name": "The Art of Sarah",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt35149250"
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "CIA",
+    "type": "series",
+    "imdb_id": "tt35515227"
   },
   {
     "name": "How Dare You!?",

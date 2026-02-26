@@ -10,24 +10,24 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Doraemon",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "The Night Agent",
@@ -48,6 +48,11 @@
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Doctor Who",
@@ -75,16 +80,6 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -93,5 +88,10 @@
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   }
 ]
