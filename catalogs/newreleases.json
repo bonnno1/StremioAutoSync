@@ -1,38 +1,18 @@
 [
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Tagesschau",
     "type": "series",
     "imdb_id": "tt0246393"
   },
   {
-    "name": "Grey's Anatomy",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0413573"
+    "imdb_id": "tt12343534"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Secret Lives",
     "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt0185819"
   },
   {
     "name": "Binnelanders",
@@ -40,49 +20,24 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
     "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Na Wspólnej",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt0388626"
+    "imdb_id": "tt22248376"
   },
   {
-    "name": "9-1-1",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
-    "name": "You are the One I Love",
-    "type": "series",
-    "imdb_id": "tt38987259"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Coronation Street",
     "type": "series",
     "imdb_id": "tt0053494"
-  },
-  {
-    "name": "EastEnders",
-    "type": "series",
-    "imdb_id": "tt0088512"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
   },
   {
     "name": "Tomorrow Is Ours",
@@ -98,5 +53,50 @@
     "name": "Suidooster",
     "type": "series",
     "imdb_id": "tt5467444"
+  },
+  {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Death in Paradise",
+    "type": "series",
+    "imdb_id": "tt1888075"
+  },
+  {
+    "name": "The Graham Norton Show",
+    "type": "series",
+    "imdb_id": "tt0924651"
+  },
+  {
+    "name": "Home Alone",
+    "type": "series",
+    "imdb_id": "tt7997010"
+  },
+  {
+    "name": "Hello Saturday",
+    "type": "series",
+    "imdb_id": "tt30985733"
+  },
+  {
+    "name": "Love Stories in the Countryside",
+    "type": "series",
+    "imdb_id": "tt1395015"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "La promesa",
+    "type": "series",
+    "imdb_id": "tt22325164"
+  },
+  {
+    "name": "LIVE with Kelly and Mark",
+    "type": "series",
+    "imdb_id": "tt0096636"
   }
 ]

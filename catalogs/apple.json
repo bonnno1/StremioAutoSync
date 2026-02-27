@@ -1,5 +1,10 @@
 [
   {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -23,11 +28,6 @@
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
   },
   {
     "name": "Shrinking",
@@ -70,6 +70,11 @@
     "imdb_id": "tt13745850"
   },
   {
+    "name": "Formula 1: Drive to Survive",
+    "type": "series",
+    "imdb_id": "tt8289930"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
@@ -93,10 +98,5 @@
     "name": "Mythic Quest",
     "type": "series",
     "imdb_id": "tt8879940"
-  },
-  {
-    "name": "Murderbot",
-    "type": "series",
-    "imdb_id": "tt30444310"
   }
 ]

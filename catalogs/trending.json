@@ -1,13 +1,18 @@
 [
   {
-    "name": "Scrubs",
-    "type": "series",
-    "imdb_id": "tt37017338"
-  },
-  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
+  },
+  {
+    "name": "Scrubs",
+    "type": "series",
+    "imdb_id": "tt40197357"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Bridgerton",
@@ -15,19 +20,14 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "Paradise",
     "type": "series",
     "imdb_id": "tt27444205"
   },
   {
-    "name": "56 Days",
+    "name": "The Night Agent",
     "type": "series",
-    "imdb_id": "tt30412869"
+    "imdb_id": "tt13918776"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -35,14 +35,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "One Piece",
+    "name": "The Pitt",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "BAKI-DOU: The Invincible Samurai",
-    "type": "series",
-    "imdb_id": "tt38201910"
+    "imdb_id": "tt31938062"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -50,29 +45,19 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "The Pitt",
+    "name": "56 Days",
     "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt30412869"
   },
   {
-    "name": "Stranger Things",
+    "name": "Formula 1: Drive to Survive",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt8289930"
   },
   {
-    "name": "The Beauty",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt33517752"
-  },
-  {
-    "name": "Star Trek: Starfleet Academy",
-    "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "The Rookie",
@@ -80,23 +65,38 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Cross",
+    "name": "The Last Thing He Told Me",
     "type": "series",
-    "imdb_id": "tt11794812"
+    "imdb_id": "tt13745850"
   },
   {
-    "name": "Hijack",
+    "name": "Love Story",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt15232564"
+  },
+  {
+    "name": "The Beauty",
+    "type": "series",
+    "imdb_id": "tt33517752"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "type": "series",
+    "imdb_id": "tt8622160"
   },
   {
     "name": "CIA",
     "type": "series",
     "imdb_id": "tt35515227"
-  },
-  {
-    "name": "How Dare You!?",
-    "type": "series",
-    "imdb_id": "tt35231547"
   }
 ]

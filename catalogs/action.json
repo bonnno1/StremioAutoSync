@@ -5,14 +5,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -45,9 +45,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt7491982"
   },
   {
     "name": "C.I.D.",
@@ -55,14 +55,34 @@
     "imdb_id": "tt0401916"
   },
   {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Lost",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Pokémon",
@@ -73,25 +93,5 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   }
 ]
