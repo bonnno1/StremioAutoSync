@@ -1,18 +1,8 @@
 [
   {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
   },
   {
     "name": "Slow Horses",
@@ -20,9 +10,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Hijack",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Silo",
@@ -30,14 +25,19 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Shrinking",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   },
   {
     "name": "The Morning Show",
@@ -55,14 +55,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "For All Mankind",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt15677150"
   },
   {
     "name": "The Last Thing He Told Me",
@@ -70,19 +65,9 @@
     "imdb_id": "tt13745850"
   },
   {
-    "name": "Formula 1: Drive to Survive",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt8289930"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Pachinko",
-    "type": "series",
-    "imdb_id": "tt8888462"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "The Last Frontier",
@@ -90,13 +75,28 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Black Bird",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt4301160"
+    "imdb_id": "tt23649128"
   },
   {
     "name": "Mythic Quest",
     "type": "series",
     "imdb_id": "tt8879940"
+  },
+  {
+    "name": "Truth Be Told",
+    "type": "series",
+    "imdb_id": "tt7821582"
+  },
+  {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
+  },
+  {
+    "name": "Pachinko",
+    "type": "series",
+    "imdb_id": "tt8888462"
   }
 ]

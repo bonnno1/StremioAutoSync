@@ -10,14 +10,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Sazae-san",
@@ -30,19 +30,14 @@
     "imdb_id": "tt0175383"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
-    "type": "series",
-    "imdb_id": "tt23734948"
-  },
-  {
     "name": "Everwood",
     "type": "series",
     "imdb_id": "tt0318883"
   },
   {
-    "name": "Golden Boy",
+    "name": "The Pendragon Cycle: Rise of the Merlin",
     "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt23734948"
   },
   {
     "name": "Jeopardy!",
@@ -50,9 +45,9 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "Bonanza",
+    "name": "Golden Boy",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt21105088"
   },
   {
     "name": "Young Sheldon",
@@ -65,6 +60,11 @@
     "imdb_id": "tt1395015"
   },
   {
+    "name": "KochiKame",
+    "type": "series",
+    "imdb_id": "tt2811158"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -75,6 +75,11 @@
     "imdb_id": "tt2771780"
   },
   {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
     "name": "RadhaKrishn",
     "type": "series",
     "imdb_id": "tt9025492"
@@ -83,10 +88,5 @@
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
   }
 ]

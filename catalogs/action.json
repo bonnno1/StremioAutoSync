@@ -5,14 +5,14 @@
     "imdb_id": "tt27497448"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -20,19 +20,14 @@
     "imdb_id": "tt12343534"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
   },
   {
     "name": "Smallville",
@@ -40,19 +35,14 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Stargate SG-1",
@@ -60,29 +50,19 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "24",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt8677202"
   },
   {
-    "name": "Vikings",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0069576"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Pokémon",
@@ -90,8 +70,28 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Doraemon",
+    "name": "The Night Agent",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt13918776"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Dragon Ball Z",
+    "type": "series",
+    "imdb_id": "tt0121220"
   }
 ]
