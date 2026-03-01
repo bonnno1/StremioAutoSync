@@ -1,8 +1,8 @@
 [
   {
-    "name": "Severance",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Slow Horses",
@@ -10,19 +10,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "For All Mankind",
@@ -30,19 +25,24 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Pluribus",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt7203552"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
   },
   {
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
   },
   {
     "name": "See",
@@ -55,19 +55,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Shrinking",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
-    "name": "The Last Thing He Told Me",
-    "type": "series",
-    "imdb_id": "tt13745850"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt22202452"
   },
   {
     "name": "The Last Frontier",
@@ -75,19 +65,24 @@
     "imdb_id": "tt26862142"
   },
   {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
+  },
+  {
+    "name": "The Last Thing He Told Me",
+    "type": "series",
+    "imdb_id": "tt13745850"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "Truth Be Told",
-    "type": "series",
-    "imdb_id": "tt7821582"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Black Bird",
@@ -95,8 +90,13 @@
     "imdb_id": "tt4301160"
   },
   {
-    "name": "Pachinko",
+    "name": "Truth Be Told",
     "type": "series",
-    "imdb_id": "tt8888462"
+    "imdb_id": "tt7821582"
+  },
+  {
+    "name": "Carpool Karaoke: The Series",
+    "type": "series",
+    "imdb_id": "tt6396082"
   }
 ]

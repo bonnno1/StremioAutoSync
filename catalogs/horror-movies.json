@@ -1,13 +1,13 @@
 [
   {
-    "name": "Return to Silent Hill",
-    "type": "movie",
-    "imdb_id": "tt22868010"
-  },
-  {
     "name": "Scream 7",
     "type": "movie",
     "imdb_id": "tt27047903"
+  },
+  {
+    "name": "Return to Silent Hill",
+    "type": "movie",
+    "imdb_id": "tt22868010"
   },
   {
     "name": "28 Years Later: The Bone Temple",
@@ -20,16 +20,6 @@
     "imdb_id": "tt30842022"
   },
   {
-    "name": "Gates of Flesh",
-    "type": "movie",
-    "imdb_id": "tt9387532"
-  },
-  {
-    "name": "Stonehearst Asylum",
-    "type": "movie",
-    "imdb_id": "tt1772264"
-  },
-  {
     "name": "The Faculty",
     "type": "movie",
     "imdb_id": "tt0133751"
@@ -40,14 +30,24 @@
     "imdb_id": "tt17348060"
   },
   {
+    "name": "Kraken",
+    "type": "movie",
+    "imdb_id": "tt19838566"
+  },
+  {
     "name": "Anaconda",
     "type": "movie",
     "imdb_id": "tt33244668"
   },
   {
-    "name": "Kraken",
+    "name": "Gates of Flesh",
     "type": "movie",
-    "imdb_id": "tt19838566"
+    "imdb_id": "tt9387532"
+  },
+  {
+    "name": "Stonehearst Asylum",
+    "type": "movie",
+    "imdb_id": "tt1772264"
   },
   {
     "name": "Somnium",
@@ -55,24 +55,9 @@
     "imdb_id": "tt4920098"
   },
   {
-    "name": "Misdirection",
-    "type": "movie",
-    "imdb_id": "tt6374142"
-  },
-  {
     "name": "Primate",
     "type": "movie",
     "imdb_id": "tt33028778"
-  },
-  {
-    "name": "Witchcraft",
-    "type": "movie",
-    "imdb_id": "tt0058753"
-  },
-  {
-    "name": "Dracula",
-    "type": "movie",
-    "imdb_id": "tt31434030"
   },
   {
     "name": "Route 666",
@@ -85,9 +70,19 @@
     "imdb_id": "tt0105459"
   },
   {
+    "name": "Witchcraft",
+    "type": "movie",
+    "imdb_id": "tt0058753"
+  },
+  {
     "name": "Send Help",
     "type": "movie",
     "imdb_id": "tt8036976"
+  },
+  {
+    "name": "Dracula",
+    "type": "movie",
+    "imdb_id": "tt31434030"
   },
   {
     "name": "Frankenstein",
@@ -95,8 +90,13 @@
     "imdb_id": "tt1312221"
   },
   {
-    "name": "iPossessed",
+    "name": "Sinners",
     "type": "movie",
-    "imdb_id": "tt11139374"
+    "imdb_id": "tt31193180"
+  },
+  {
+    "name": "Misdirection",
+    "type": "movie",
+    "imdb_id": "tt6374142"
   }
 ]

@@ -15,14 +15,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
   },
   {
     "name": "Lucifer",
@@ -30,19 +30,14 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "BAKI-DOU: The Invincible Samurai",
+    "type": "series",
+    "imdb_id": "tt38201910"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "In the Mud",
-    "type": "series",
-    "imdb_id": "tt32874331"
-  },
-  {
-    "name": "The Lincoln Lawyer",
-    "type": "series",
-    "imdb_id": "tt13833978"
   },
   {
     "name": "Squid Game",
@@ -50,9 +45,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "You",
+    "name": "The Lincoln Lawyer",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt13833978"
   },
   {
     "name": "Black Mirror",
@@ -60,9 +55,14 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "The Witcher",
+    "name": "In the Mud",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt32874331"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Wednesday",
@@ -70,14 +70,19 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Formula 1: Drive to Survive",
+    "type": "series",
+    "imdb_id": "tt8289930"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "The Art of Sarah",
-    "type": "series",
-    "imdb_id": "tt35149250"
   },
   {
     "name": "Cobra Kai",
@@ -93,10 +98,5 @@
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
-  },
-  {
-    "name": "BAKI-DOU: The Invincible Samurai",
-    "type": "series",
-    "imdb_id": "tt38201910"
   }
 ]

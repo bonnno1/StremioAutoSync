@@ -1,8 +1,13 @@
 [
   {
-    "name": "A Knight of the Seven Kingdoms",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt27497448"
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Grey's Anatomy",
@@ -15,9 +20,9 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Law & Order",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt27497448"
   },
   {
     "name": "Tagesschau",
@@ -30,59 +35,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
   },
   {
-    "name": "Stranger Things",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
-    "name": "The Tonight Show Starring Johnny Carson",
-    "type": "series",
-    "imdb_id": "tt0055708"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Doraemon",
@@ -90,8 +50,43 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   }
 ]

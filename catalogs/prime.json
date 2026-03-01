@@ -25,24 +25,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
   },
   {
     "name": "Invincible",
@@ -50,24 +35,19 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt5622316"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt3502248"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt4687880"
   },
   {
     "name": "Gen V",
@@ -75,9 +55,24 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Cross",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt11794812"
+    "imdb_id": "tt5057054"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Wheel of Time",
@@ -85,13 +80,13 @@
     "imdb_id": "tt7462410"
   },
   {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
+  },
+  {
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
-  },
-  {
-    "name": "Beast Games",
-    "type": "series",
-    "imdb_id": "tt31812476"
   }
 ]

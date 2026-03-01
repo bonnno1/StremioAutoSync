@@ -15,14 +15,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Game of Thrones",
@@ -65,16 +65,6 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
@@ -90,8 +80,18 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "Dragon Ball Z",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0121220"
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
   }
 ]
