@@ -1,5 +1,10 @@
 [
   {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
@@ -15,11 +20,6 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Paradise",
     "type": "series",
     "imdb_id": "tt27444205"
@@ -30,9 +30,19 @@
     "imdb_id": "tt8740790"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
+  },
+  {
+    "name": "DTF St. Louis",
+    "type": "series",
+    "imdb_id": "tt34385331"
   },
   {
     "name": "The Pitt",
@@ -40,14 +50,19 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Siren's Kiss",
+    "type": "series",
+    "imdb_id": "tt39303992"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
   },
   {
     "name": "BAKI-DOU: The Invincible Samurai",
@@ -55,24 +70,24 @@
     "imdb_id": "tt38201910"
   },
   {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Fallout",
+    "name": "Industry",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt7671070"
   },
   {
-    "name": "Hijack",
+    "name": "Hell's Paradise",
     "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt13911284"
   },
   {
     "name": "56 Days",
@@ -80,23 +95,8 @@
     "imdb_id": "tt30412869"
   },
   {
-    "name": "Formula 1: Drive to Survive",
-    "type": "series",
-    "imdb_id": "tt8289930"
-  },
-  {
     "name": "The Beauty",
     "type": "series",
     "imdb_id": "tt33517752"
-  },
-  {
-    "name": "Love Story in the 1970s",
-    "type": "series",
-    "imdb_id": "tt36384225"
-  },
-  {
-    "name": "In Your Radiant Season",
-    "type": "series",
-    "imdb_id": "tt39369595"
   }
 ]
