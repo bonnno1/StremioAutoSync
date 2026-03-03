@@ -80,6 +80,11 @@
     "imdb_id": "tt8036976"
   },
   {
+    "name": "The Bride!",
+    "type": "movie",
+    "imdb_id": "tt30851137"
+  },
+  {
     "name": "Sinners",
     "type": "movie",
     "imdb_id": "tt31193180"
@@ -93,10 +98,5 @@
     "name": "Dracula",
     "type": "movie",
     "imdb_id": "tt31434030"
-  },
-  {
-    "name": "Scream",
-    "type": "movie",
-    "imdb_id": "tt0117571"
   }
 ]

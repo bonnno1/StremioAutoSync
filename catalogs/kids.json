@@ -15,14 +15,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -30,9 +30,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Sesame Street",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Duel Masters",
@@ -45,24 +50,14 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Rugrats",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Sailor Moon",
@@ -70,23 +65,23 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Yu-Gi-Oh! GX",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt0493334"
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Thomas & Friends",
+    "type": "series",
+    "imdb_id": "tt0086815"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Super Wings",
     "type": "series",
     "imdb_id": "tt3600266"
-  },
-  {
-    "name": "The Guardians of Carcosa",
-    "type": "series",
-    "imdb_id": "tt29729800"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
   }
 ]

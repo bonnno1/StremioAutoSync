@@ -1,18 +1,13 @@
 [
   {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt27497448"
   },
   {
     "name": "Stranger Things",
@@ -25,9 +20,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Doraemon",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Smallville",
@@ -35,14 +30,14 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
   },
   {
     "name": "Doctor Who",
@@ -55,34 +50,9 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "C.I.D.",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "BAKI-DOU: The Invincible Samurai",
@@ -90,8 +60,38 @@
     "imdb_id": "tt38201910"
   },
   {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]

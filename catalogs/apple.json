@@ -15,19 +15,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
   },
   {
     "name": "Hijack",
@@ -40,9 +30,9 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Shrinking",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Pluribus",
@@ -55,19 +45,19 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "The Last Frontier",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "The Last Thing He Told Me",
-    "type": "series",
-    "imdb_id": "tt13745850"
+    "imdb_id": "tt15677150"
   },
   {
     "name": "Invasion",
@@ -75,19 +65,14 @@
     "imdb_id": "tt9737326"
   },
   {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Pachinko",
-    "type": "series",
-    "imdb_id": "tt8888462"
-  },
-  {
-    "name": "Black Bird",
-    "type": "series",
-    "imdb_id": "tt4301160"
   },
   {
     "name": "Mythic Quest",
@@ -95,8 +80,23 @@
     "imdb_id": "tt8879940"
   },
   {
+    "name": "The Last Thing He Told Me",
+    "type": "series",
+    "imdb_id": "tt13745850"
+  },
+  {
     "name": "Masters of the Air",
     "type": "series",
     "imdb_id": "tt2640044"
+  },
+  {
+    "name": "Truth Be Told",
+    "type": "series",
+    "imdb_id": "tt7821582"
+  },
+  {
+    "name": "Pachinko",
+    "type": "series",
+    "imdb_id": "tt8888462"
   }
 ]
