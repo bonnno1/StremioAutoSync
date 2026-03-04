@@ -1,13 +1,13 @@
 [
   {
-    "name": "56 Days",
-    "type": "series",
-    "imdb_id": "tt30412869"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "56 Days",
+    "type": "series",
+    "imdb_id": "tt30412869"
   },
   {
     "name": "The Boys",
@@ -30,24 +30,24 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "Invincible",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -60,19 +60,14 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Absentia",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt6794990"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "Hazbin Hotel",
@@ -80,18 +75,23 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "Cross",
     "type": "series",
     "imdb_id": "tt11794812"
   },
   {
+    "name": "Absentia",
+    "type": "series",
+    "imdb_id": "tt6794990"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   }
 ]
