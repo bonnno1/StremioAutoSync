@@ -35,11 +35,6 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
@@ -50,9 +45,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Peppa Pig",
@@ -65,23 +60,28 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "Thomas & Friends",
     "type": "series",
     "imdb_id": "tt0086815"
   },
   {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "Young Sherlock",
+    "type": "series",
+    "imdb_id": "tt8599532"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -20,14 +25,14 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "The Expanse",
@@ -60,14 +65,14 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Hazbin Hotel",
@@ -78,11 +83,6 @@
     "name": "Cross",
     "type": "series",
     "imdb_id": "tt11794812"
-  },
-  {
-    "name": "Absentia",
-    "type": "series",
-    "imdb_id": "tt6794990"
   },
   {
     "name": "Gen V",

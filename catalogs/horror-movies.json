@@ -25,14 +25,14 @@
     "imdb_id": "tt28500290"
   },
   {
+    "name": "Whistle",
+    "type": "movie",
+    "imdb_id": "tt29550683"
+  },
+  {
     "name": "Somnium",
     "type": "movie",
     "imdb_id": "tt4920098"
-  },
-  {
-    "name": "The Dreadful",
-    "type": "movie",
-    "imdb_id": "tt30842022"
   },
   {
     "name": "The Faculty",
@@ -70,14 +70,9 @@
     "imdb_id": "tt9387532"
   },
   {
-    "name": "Stonehearst Asylum",
+    "name": "The Dreadful",
     "type": "movie",
-    "imdb_id": "tt1772264"
-  },
-  {
-    "name": "Send Help",
-    "type": "movie",
-    "imdb_id": "tt8036976"
+    "imdb_id": "tt30842022"
   },
   {
     "name": "Scream",
@@ -98,5 +93,10 @@
     "name": "Scary Movie",
     "type": "movie",
     "imdb_id": "tt32093575"
+  },
+  {
+    "name": "Send Help",
+    "type": "movie",
+    "imdb_id": "tt8036976"
   }
 ]

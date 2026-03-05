@@ -1,8 +1,13 @@
 [
   {
-    "name": "Tagesschau",
+    "name": "Grey's Anatomy",
     "type": "series",
-    "imdb_id": "tt0246393"
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -10,9 +15,19 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -33,6 +48,11 @@
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
+  },
+  {
+    "name": "You are the One I Love",
+    "type": "series",
+    "imdb_id": "tt38987259"
   },
   {
     "name": "Coronation Street",
@@ -60,29 +80,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Chicago Med",
+    "name": "The Pitt",
     "type": "series",
-    "imdb_id": "tt4655480"
+    "imdb_id": "tt31938062"
   },
   {
-    "name": "Chicago Fire",
+    "name": "9-1-1",
     "type": "series",
-    "imdb_id": "tt2261391"
-  },
-  {
-    "name": "Chicago P.D.",
-    "type": "series",
-    "imdb_id": "tt2805096"
-  },
-  {
-    "name": "Match of the Day",
-    "type": "series",
-    "imdb_id": "tt0135733"
-  },
-  {
-    "name": "Scrubs",
-    "type": "series",
-    "imdb_id": "tt40197357"
+    "imdb_id": "tt7235466"
   },
   {
     "name": "Jeopardy!",
@@ -93,10 +98,5 @@
     "name": "Tomorrow Is Ours",
     "type": "series",
     "imdb_id": "tt7124904"
-  },
-  {
-    "name": "AIBOU: Tokyo Detective Duo",
-    "type": "series",
-    "imdb_id": "tt1505970"
   }
 ]

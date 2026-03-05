@@ -10,19 +10,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Smallville",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -35,19 +30,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doraemon",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -55,14 +40,24 @@
     "imdb_id": "tt17220216"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Young Sherlock",
+    "type": "series",
+    "imdb_id": "tt8599532"
+  },
+  {
     "name": "BAKI-DOU: The Invincible Samurai",
     "type": "series",
     "imdb_id": "tt38201910"
   },
   {
-    "name": "Lost",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "C.I.D.",
@@ -70,9 +65,24 @@
     "imdb_id": "tt0401916"
   },
   {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Pokémon",
@@ -80,18 +90,8 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "24",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt2306299"
   }
 ]
