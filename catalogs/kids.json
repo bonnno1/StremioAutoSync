@@ -5,14 +5,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Sesame Street",
@@ -30,19 +30,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
   },
   {
-    "name": "3000 Whys of Blue Cat",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt8483276"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Rugrats",
@@ -50,9 +45,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Peppa Pig",
+    "name": "3000 Whys of Blue Cat",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt8483276"
   },
   {
     "name": "Sailor Moon",
@@ -60,9 +55,19 @@
     "imdb_id": "tt0103369"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
     "name": "Thomas & Friends",
     "type": "series",
     "imdb_id": "tt0086815"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
   },
   {
     "name": "Pokémon Horizons",
@@ -73,15 +78,5 @@
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Ninja Hattori-kun",
-    "type": "series",
-    "imdb_id": "tt2787558"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
   }
 ]

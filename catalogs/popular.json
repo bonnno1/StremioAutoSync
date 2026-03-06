@@ -5,19 +5,14 @@
     "imdb_id": "tt0246393"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Supernatural",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Grey's Anatomy",
@@ -25,29 +20,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Simpsons",
+    "name": "Young Sherlock",
     "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt8599532"
   },
   {
     "name": "Young Hearts",
@@ -55,19 +30,29 @@
     "imdb_id": "tt0144724"
   },
   {
-    "name": "Family Guy",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0203259"
   },
   {
-    "name": "The Tonight Show Starring Johnny Carson",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt0055708"
+    "imdb_id": "tt0460681"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt27497448"
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Marshals",
@@ -80,9 +65,24 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Stranger Things",
+    "name": "The Tonight Show Starring Johnny Carson",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt0055708"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -90,8 +90,13 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "The Daily Show",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt27497448"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   }
 ]

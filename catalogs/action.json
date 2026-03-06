@@ -1,13 +1,13 @@
 [
   {
+    "name": "Young Sherlock",
+    "type": "series",
+    "imdb_id": "tt8599532"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
   },
   {
     "name": "Game of Thrones",
@@ -15,9 +15,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Stranger Things",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -25,9 +25,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Kamen Rider",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt27497448"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Smallville",
@@ -40,29 +45,14 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Doraemon",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Young Sherlock",
-    "type": "series",
-    "imdb_id": "tt8599532"
+    "imdb_id": "tt0401916"
   },
   {
     "name": "BAKI-DOU: The Invincible Samurai",
     "type": "series",
     "imdb_id": "tt38201910"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Stargate SG-1",
@@ -72,12 +62,17 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Lost",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Pokémon",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   }
 ]

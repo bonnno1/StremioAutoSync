@@ -1,33 +1,13 @@
 [
   {
-    "name": "Grey's Anatomy",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0413573"
+    "imdb_id": "tt12343534"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Secret Lives",
     "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt0185819"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -35,9 +15,9 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "The Late Show with Stephen Colbert",
+    "name": "Binnelanders",
     "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt1527854"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -45,49 +25,14 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Binnelanders",
-    "type": "series",
-    "imdb_id": "tt1527854"
-  },
-  {
-    "name": "You are the One I Love",
-    "type": "series",
-    "imdb_id": "tt38987259"
-  },
-  {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Na Wspólnej",
-    "type": "series",
-    "imdb_id": "tt0388626"
-  },
-  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
   },
   {
-    "name": "EastEnders",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt0088512"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
-  },
-  {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
+    "imdb_id": "tt22248376"
   },
   {
     "name": "Jeopardy!",
@@ -95,8 +40,63 @@
     "imdb_id": "tt0159881"
   },
   {
+    "name": "The Graham Norton Show",
+    "type": "series",
+    "imdb_id": "tt0924651"
+  },
+  {
     "name": "Tomorrow Is Ours",
     "type": "series",
     "imdb_id": "tt7124904"
+  },
+  {
+    "name": "Real Time with Bill Maher",
+    "type": "series",
+    "imdb_id": "tt0350448"
+  },
+  {
+    "name": "Home Alone",
+    "type": "series",
+    "imdb_id": "tt7997010"
+  },
+  {
+    "name": "Outlander",
+    "type": "series",
+    "imdb_id": "tt3006802"
+  },
+  {
+    "name": "LIVE with Kelly and Mark",
+    "type": "series",
+    "imdb_id": "tt0096636"
+  },
+  {
+    "name": "Suidooster",
+    "type": "series",
+    "imdb_id": "tt5467444"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "RE: European Stories",
+    "type": "series",
+    "imdb_id": "tt11274898"
+  },
+  {
+    "name": "Ici tout commence",
+    "type": "series",
+    "imdb_id": "tt13392064"
+  },
+  {
+    "name": "RuPaul's Drag Race",
+    "type": "series",
+    "imdb_id": "tt1353056"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   }
 ]
