@@ -10,14 +10,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "PAW Patrol",
@@ -45,6 +45,11 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
@@ -68,11 +73,6 @@
     "name": "Ninja Hattori-kun",
     "type": "series",
     "imdb_id": "tt2787558"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
   },
   {
     "name": "Bluey",

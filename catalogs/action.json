@@ -15,14 +15,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "A Knight of the Seven Kingdoms",
@@ -80,11 +80,6 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -93,5 +88,10 @@
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
   }
 ]

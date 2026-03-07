@@ -5,6 +5,11 @@
     "imdb_id": "tt17220216"
   },
   {
+    "name": "The Hunt",
+    "type": "series",
+    "imdb_id": "tt33086602"
+  },
+  {
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
@@ -13,11 +18,6 @@
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
   },
   {
     "name": "Severance",
@@ -30,19 +30,19 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
   },
   {
-    "name": "The Hunt",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt33086602"
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Pluribus",
@@ -50,14 +50,14 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "See",
-    "type": "series",
-    "imdb_id": "tt7949218"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
   },
   {
     "name": "The Morning Show",
@@ -65,19 +65,14 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
   },
   {
-    "name": "The Studio",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Mythic Quest",
@@ -85,18 +80,23 @@
     "imdb_id": "tt8879940"
   },
   {
-    "name": "Truth Be Told",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt7821582"
-  },
-  {
-    "name": "Dickinson",
-    "type": "series",
-    "imdb_id": "tt8518136"
+    "imdb_id": "tt23649128"
   },
   {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
+  },
+  {
+    "name": "The Last Thing He Told Me",
+    "type": "series",
+    "imdb_id": "tt13745850"
+  },
+  {
+    "name": "Trying",
+    "type": "series",
+    "imdb_id": "tt10982034"
   }
 ]

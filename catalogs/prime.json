@@ -45,14 +45,14 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -70,11 +70,6 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -88,6 +83,11 @@
     "name": "House of David",
     "type": "series",
     "imdb_id": "tt30955673"
+  },
+  {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
   },
   {
     "name": "Hazbin Hotel",
