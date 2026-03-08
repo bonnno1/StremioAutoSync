@@ -15,6 +15,11 @@
     "imdb_id": "tt19854762"
   },
   {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
@@ -23,16 +28,6 @@
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
   },
   {
     "name": "Shrinking",
@@ -45,9 +40,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Pluribus",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Ted Lasso",
@@ -55,24 +50,14 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "The Last Frontier",
-    "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
   },
   {
     "name": "Mythic Quest",
@@ -80,14 +65,14 @@
     "imdb_id": "tt8879940"
   },
   {
-    "name": "The Studio",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt7203552"
   },
   {
-    "name": "Your Friends & Neighbors",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "The Last Thing He Told Me",
@@ -95,8 +80,23 @@
     "imdb_id": "tt13745850"
   },
   {
-    "name": "Trying",
+    "name": "The Last Frontier",
     "type": "series",
-    "imdb_id": "tt10982034"
+    "imdb_id": "tt26862142"
+  },
+  {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
+  },
+  {
+    "name": "Pachinko",
+    "type": "series",
+    "imdb_id": "tt8888462"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
   }
 ]

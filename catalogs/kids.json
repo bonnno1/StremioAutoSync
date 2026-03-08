@@ -5,6 +5,21 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -15,34 +30,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "Shin Chan",
@@ -55,28 +45,48 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Thomas & Friends",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0086815"
+    "imdb_id": "tt26692417"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "Bluey",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "Yu-Gi-Oh! GX",
+    "type": "series",
+    "imdb_id": "tt0493334"
+  },
+  {
+    "name": "The Guardians of Carcosa",
+    "type": "series",
+    "imdb_id": "tt29729800"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
   }
 ]

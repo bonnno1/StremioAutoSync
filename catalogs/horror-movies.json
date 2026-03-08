@@ -50,14 +50,14 @@
     "imdb_id": "tt31193180"
   },
   {
-    "name": "Coven",
-    "type": "movie",
-    "imdb_id": "tt6844138"
-  },
-  {
     "name": "Somnium",
     "type": "movie",
     "imdb_id": "tt4920098"
+  },
+  {
+    "name": "Scary Movie",
+    "type": "movie",
+    "imdb_id": "tt32093575"
   },
   {
     "name": "Gates of Flesh",
@@ -75,16 +75,6 @@
     "imdb_id": "tt0133751"
   },
   {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
-    "name": "Scream Dream",
-    "type": "movie",
-    "imdb_id": "tt0098270"
-  },
-  {
     "name": "Kraken",
     "type": "movie",
     "imdb_id": "tt19838566"
@@ -93,5 +83,20 @@
     "name": "Diabolic",
     "type": "movie",
     "imdb_id": "tt17348060"
+  },
+  {
+    "name": "Worldbreaker",
+    "type": "movie",
+    "imdb_id": "tt14264694"
+  },
+  {
+    "name": "Frankenstein",
+    "type": "movie",
+    "imdb_id": "tt1312221"
+  },
+  {
+    "name": "Scream",
+    "type": "movie",
+    "imdb_id": "tt0117571"
   }
 ]
