@@ -10,9 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Game of Thrones",
@@ -20,9 +25,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt27497448"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Stranger Things",
@@ -30,14 +35,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Kamen Rider",
+    "name": "A Knight of the Seven Kingdoms",
     "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt27497448"
   },
   {
     "name": "Smallville",
@@ -45,44 +45,14 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
-  },
-  {
-    "name": "BAKI-DOU: The Invincible Samurai",
-    "type": "series",
-    "imdb_id": "tt38201910"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
   },
   {
     "name": "Doraemon",
@@ -90,8 +60,38 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Doraemon",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "BAKI-DOU: The Invincible Samurai",
+    "type": "series",
+    "imdb_id": "tt38201910"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]
