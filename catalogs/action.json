@@ -1,10 +1,5 @@
 [
   {
-    "name": "Young Sherlock",
-    "type": "series",
-    "imdb_id": "tt8599532"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -15,14 +10,19 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doraemon",
+    "name": "Young Sherlock",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt8599532"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -35,14 +35,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "A Knight of the Seven Kingdoms",
+    "type": "series",
+    "imdb_id": "tt27497448"
   },
   {
     "name": "Doctor Who",
@@ -60,6 +60,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
@@ -70,28 +75,23 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Pokémon",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "BAKI-DOU: The Invincible Samurai",
-    "type": "series",
-    "imdb_id": "tt38201910"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   }
 ]

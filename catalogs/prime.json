@@ -15,19 +15,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "56 Days",
-    "type": "series",
-    "imdb_id": "tt30412869"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
-  },
-  {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "The Chosen",
@@ -38,6 +28,16 @@
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "56 Days",
+    "type": "series",
+    "imdb_id": "tt30412869"
+  },
+  {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Expanse",
@@ -55,14 +55,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Tom Clancy's Jack Ryan",
     "type": "series",
     "imdb_id": "tt5057054"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Wheel of Time",
@@ -75,11 +75,6 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -88,6 +83,11 @@
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   },
   {
     "name": "Cross",

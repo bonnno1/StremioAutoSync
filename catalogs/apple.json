@@ -15,6 +15,11 @@
     "imdb_id": "tt19854762"
   },
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
@@ -35,19 +40,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "For All Mankind",
@@ -55,9 +50,9 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "See",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "The Morning Show",
@@ -65,9 +60,9 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "The Last Frontier",
+    "name": "See",
     "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt7949218"
   },
   {
     "name": "Mythic Quest",
@@ -75,14 +70,14 @@
     "imdb_id": "tt8879940"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
     "name": "The Last Thing He Told Me",
     "type": "series",
     "imdb_id": "tt13745850"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
   },
   {
     "name": "Masters of the Air",
@@ -90,13 +85,18 @@
     "imdb_id": "tt2640044"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Servant",
+    "type": "series",
+    "imdb_id": "tt8068860"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
-  },
-  {
-    "name": "Truth Be Told",
-    "type": "series",
-    "imdb_id": "tt7821582"
   }
 ]
