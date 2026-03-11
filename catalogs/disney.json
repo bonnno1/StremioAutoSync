@@ -20,14 +20,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Daredevil: Born Again",
@@ -40,6 +40,11 @@
     "imdb_id": "tt39961100"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
@@ -50,9 +55,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Moon Knight",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Moving",
@@ -60,14 +65,9 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt13650480"
   },
   {
     "name": "WandaVision",
@@ -75,19 +75,9 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Wonder Man",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt21066182"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Bloody Flower",
-    "type": "series",
-    "imdb_id": "tt39306333"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Agatha All Along",
@@ -95,8 +85,18 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Wonder Man",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt21066182"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Bloody Flower",
+    "type": "series",
+    "imdb_id": "tt39306333"
   }
 ]

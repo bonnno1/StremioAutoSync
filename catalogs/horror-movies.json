@@ -1,18 +1,13 @@
 [
   {
-    "name": "Return to Silent Hill",
-    "type": "movie",
-    "imdb_id": "tt22868010"
-  },
-  {
     "name": "Whistle",
     "type": "movie",
     "imdb_id": "tt29550683"
   },
   {
-    "name": "Scream 7",
+    "name": "Return to Silent Hill",
     "type": "movie",
-    "imdb_id": "tt27047903"
+    "imdb_id": "tt22868010"
   },
   {
     "name": "Cold Storage",
@@ -20,9 +15,19 @@
     "imdb_id": "tt8879928"
   },
   {
+    "name": "Scream 7",
+    "type": "movie",
+    "imdb_id": "tt27047903"
+  },
+  {
     "name": "The Bride!",
     "type": "movie",
     "imdb_id": "tt30851137"
+  },
+  {
+    "name": "Re/Member: The Last Night",
+    "type": "movie",
+    "imdb_id": "tt38219225"
   },
   {
     "name": "28 Years Later: The Bone Temple",
@@ -30,24 +35,14 @@
     "imdb_id": "tt32141377"
   },
   {
-    "name": "Mouseboat Massacre",
-    "type": "movie",
-    "imdb_id": "tt33362805"
-  },
-  {
     "name": "Anaconda",
     "type": "movie",
     "imdb_id": "tt33244668"
   },
   {
-    "name": "Grizzly Night",
+    "name": "Mouseboat Massacre",
     "type": "movie",
-    "imdb_id": "tt28500290"
-  },
-  {
-    "name": "Worldbreaker",
-    "type": "movie",
-    "imdb_id": "tt14264694"
+    "imdb_id": "tt33362805"
   },
   {
     "name": "Sinners",
@@ -55,39 +50,24 @@
     "imdb_id": "tt31193180"
   },
   {
+    "name": "Worldbreaker",
+    "type": "movie",
+    "imdb_id": "tt14264694"
+  },
+  {
     "name": "Frankenstein",
     "type": "movie",
     "imdb_id": "tt1312221"
   },
   {
-    "name": "Gates of Flesh",
+    "name": "Grizzly Night",
     "type": "movie",
-    "imdb_id": "tt9387532"
+    "imdb_id": "tt28500290"
   },
   {
     "name": "Send Help",
     "type": "movie",
     "imdb_id": "tt8036976"
-  },
-  {
-    "name": "The Faculty",
-    "type": "movie",
-    "imdb_id": "tt0133751"
-  },
-  {
-    "name": "Diabolic",
-    "type": "movie",
-    "imdb_id": "tt17348060"
-  },
-  {
-    "name": "Kraken",
-    "type": "movie",
-    "imdb_id": "tt19838566"
-  },
-  {
-    "name": "Somnium",
-    "type": "movie",
-    "imdb_id": "tt4920098"
   },
   {
     "name": "Dracula",
@@ -98,5 +78,25 @@
     "name": "The Strangers: Chapter 3",
     "type": "movie",
     "imdb_id": "tt28682323"
+  },
+  {
+    "name": "Osiris",
+    "type": "movie",
+    "imdb_id": "tt31179712"
+  },
+  {
+    "name": "Gates of Flesh",
+    "type": "movie",
+    "imdb_id": "tt9387532"
+  },
+  {
+    "name": "The Faculty",
+    "type": "movie",
+    "imdb_id": "tt0133751"
+  },
+  {
+    "name": "Primate",
+    "type": "movie",
+    "imdb_id": "tt33028778"
   }
 ]

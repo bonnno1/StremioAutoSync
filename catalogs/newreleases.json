@@ -5,11 +5,6 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
@@ -30,6 +25,11 @@
     "imdb_id": "tt1527854"
   },
   {
+    "name": "AIBOU: Tokyo Detective Duo",
+    "type": "series",
+    "imdb_id": "tt1505970"
+  },
+  {
     "name": "EastEnders",
     "type": "series",
     "imdb_id": "tt0088512"
@@ -45,9 +45,24 @@
     "imdb_id": "tt0388626"
   },
   {
+    "name": "Who's the Murderer",
+    "type": "series",
+    "imdb_id": "tt9332934"
+  },
+  {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Pursuit of Jade",
+    "type": "series",
+    "imdb_id": "tt35316225"
   },
   {
     "name": "Tomorrow Is Ours",
@@ -55,9 +70,9 @@
     "imdb_id": "tt7124904"
   },
   {
-    "name": "Who's the Murderer",
+    "name": "Chicago P.D.",
     "type": "series",
-    "imdb_id": "tt9332934"
+    "imdb_id": "tt2805096"
   },
   {
     "name": "LIVE with Kelly and Mark",
@@ -70,9 +85,9 @@
     "imdb_id": "tt0320037"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Chicago Med",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt4655480"
   },
   {
     "name": "Home and Away",
@@ -80,23 +95,8 @@
     "imdb_id": "tt0094481"
   },
   {
-    "name": "Pursuit of Jade",
-    "type": "series",
-    "imdb_id": "tt35316225"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "Markus Lanz",
     "type": "series",
     "imdb_id": "tt1239083"
-  },
-  {
-    "name": "Siren's Kiss",
-    "type": "series",
-    "imdb_id": "tt39303992"
   }
 ]

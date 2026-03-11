@@ -1,13 +1,18 @@
 [
   {
-    "name": "Bridgerton",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "C.I.D.",
@@ -53,11 +58,6 @@
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
   },
   {
     "name": "The Dinosaurs",

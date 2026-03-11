@@ -10,14 +10,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Young Sherlock",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt8599532"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Doraemon",
@@ -25,14 +20,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "Smallville",
@@ -40,39 +35,14 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "A Knight of the Seven Kingdoms",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt27497448"
+    "imdb_id": "tt4574334"
   },
   {
-    "name": "Doctor Who",
+    "name": "Young Sherlock",
     "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt8599532"
   },
   {
     "name": "Lost",
@@ -80,18 +50,48 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "A Knight of the Seven Kingdoms",
+    "type": "series",
+    "imdb_id": "tt27497448"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "The Walking Dead",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "Bleach",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   }
 ]

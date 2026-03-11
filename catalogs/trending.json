@@ -5,24 +5,14 @@
     "imdb_id": "tt11737520"
   },
   {
+    "name": "Scarpetta",
+    "type": "series",
+    "imdb_id": "tt14786934"
+  },
+  {
     "name": "Young Sherlock",
     "type": "series",
     "imdb_id": "tt8599532"
-  },
-  {
-    "name": "Pursuit of Jade",
-    "type": "series",
-    "imdb_id": "tt35316225"
-  },
-  {
-    "name": "ted",
-    "type": "series",
-    "imdb_id": "tt14824792"
-  },
-  {
-    "name": "Boyfriend on Demand",
-    "type": "series",
-    "imdb_id": "tt35848827"
   },
   {
     "name": "Rooster",
@@ -30,9 +20,9 @@
     "imdb_id": "tt32420734"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Pursuit of Jade",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt35316225"
   },
   {
     "name": "The Dinosaurs",
@@ -40,19 +30,19 @@
     "imdb_id": "tt32493765"
   },
   {
-    "name": "Marshals",
+    "name": "Boyfriend on Demand",
     "type": "series",
-    "imdb_id": "tt36849871"
+    "imdb_id": "tt35848827"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "ted",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt14824792"
   },
   {
-    "name": "Vladimir",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt35997699"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "One Piece",
@@ -60,34 +50,19 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "Vladimir",
+    "type": "series",
+    "imdb_id": "tt35997699"
+  },
+  {
     "name": "A Knight of the Seven Kingdoms",
     "type": "series",
     "imdb_id": "tt27497448"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Siren's Kiss",
-    "type": "series",
-    "imdb_id": "tt39303992"
-  },
-  {
-    "name": "Paradise",
-    "type": "series",
-    "imdb_id": "tt27444205"
-  },
-  {
-    "name": "Scrubs",
-    "type": "series",
-    "imdb_id": "tt40197357"
   },
   {
     "name": "The Beauty",
@@ -95,8 +70,33 @@
     "imdb_id": "tt33517752"
   },
   {
-    "name": "Bridgerton",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Paradise",
+    "type": "series",
+    "imdb_id": "tt27444205"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   }
 ]
