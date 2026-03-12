@@ -5,19 +5,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Peppa Pig",
@@ -30,9 +25,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Sesame Street",
+    "name": "Shin Chan",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt12853970"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -40,14 +35,19 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "The Guardians of Carcosa",
@@ -60,19 +60,19 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
     "name": "Chiikawa",
     "type": "series",
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Super Wings",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   },
   {
     "name": "Pokémon Horizons",
@@ -80,8 +80,8 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt3600266"
   }
 ]

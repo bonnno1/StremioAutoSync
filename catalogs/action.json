@@ -1,5 +1,10 @@
 [
   {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -8,11 +13,6 @@
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
   },
   {
     "name": "Doraemon",
@@ -40,11 +40,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Young Sherlock",
-    "type": "series",
-    "imdb_id": "tt8599532"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
@@ -60,6 +55,11 @@
     "imdb_id": "tt0118480"
   },
   {
+    "name": "Young Sherlock",
+    "type": "series",
+    "imdb_id": "tt8599532"
+  },
+  {
     "name": "Pokémon",
     "type": "series",
     "imdb_id": "tt0168366"
@@ -70,14 +70,14 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "C.I.D.",

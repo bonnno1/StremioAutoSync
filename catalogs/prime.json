@@ -15,11 +15,6 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
@@ -28,6 +23,11 @@
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "56 Days",
@@ -60,19 +60,19 @@
     "imdb_id": "tt5057054"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt30955673"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -85,9 +85,9 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "House of David",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt30955673"
+    "imdb_id": "tt7462410"
   },
   {
     "name": "Cross",

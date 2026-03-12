@@ -35,9 +35,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Battle of Fates",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt39961100"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Moon Knight",
@@ -45,19 +45,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Battle of Fates",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt39961100"
   },
   {
     "name": "Moving",
@@ -65,9 +60,19 @@
     "imdb_id": "tt24640580"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Marvel Studios Legends",
     "type": "series",
     "imdb_id": "tt13650480"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
   },
   {
     "name": "WandaVision",
@@ -80,6 +85,11 @@
     "imdb_id": "tt12708542"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
@@ -88,15 +98,5 @@
     "name": "Wonder Man",
     "type": "series",
     "imdb_id": "tt21066182"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Bloody Flower",
-    "type": "series",
-    "imdb_id": "tt39306333"
   }
 ]
