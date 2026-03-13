@@ -10,6 +10,11 @@
     "imdb_id": "tt3121722"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -20,24 +25,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
     "name": "Shin Chan",
     "type": "series",
     "imdb_id": "tt12853970"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -45,24 +35,24 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Bionic Six",
+    "type": "series",
+    "imdb_id": "tt0092323"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "name": "The Guardians of Carcosa",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt29729800"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Duel Masters",
@@ -70,18 +60,28 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Sailor Moon",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt26997679"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Hamtaro",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt0318895"
   },
   {
-    "name": "Super Wings",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Transformers: Prime",
+    "type": "series",
+    "imdb_id": "tt1659175"
+  },
+  {
+    "name": "The Guardians of Carcosa",
+    "type": "series",
+    "imdb_id": "tt29729800"
   }
 ]
