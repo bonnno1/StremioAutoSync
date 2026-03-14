@@ -30,24 +30,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Moving",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "WandaVision",
@@ -55,9 +45,9 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Soy Luna",
@@ -65,9 +55,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -75,19 +65,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Love, Victor",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt10166602"
-  },
-  {
-    "name": "Battle of Fates",
-    "type": "series",
-    "imdb_id": "tt39961100"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt24640580"
   },
   {
     "name": "The Manipulated",
@@ -95,8 +75,28 @@
     "imdb_id": "tt36188448"
   },
   {
+    "name": "Love, Victor",
+    "type": "series",
+    "imdb_id": "tt10166602"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "Wonder Man",
     "type": "series",
     "imdb_id": "tt21066182"
+  },
+  {
+    "name": "Battle of Fates",
+    "type": "series",
+    "imdb_id": "tt39961100"
   }
 ]

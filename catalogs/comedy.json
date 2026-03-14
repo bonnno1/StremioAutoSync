@@ -1,13 +1,13 @@
 [
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
   },
   {
     "name": "The Simpsons",
@@ -15,14 +15,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Men on a Mission",
@@ -35,9 +35,14 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Doraemon",
+    "name": "Family Matters",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0096579"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
   },
   {
     "name": "Young Hearts",
@@ -45,14 +50,19 @@
     "imdb_id": "tt0144724"
   },
   {
-    "name": "Family Matters",
-    "type": "series",
-    "imdb_id": "tt0096579"
-  },
-  {
     "name": "Desperate Housewives",
     "type": "series",
     "imdb_id": "tt0410975"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -65,33 +75,28 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "The Goldbergs",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt2712740"
+    "imdb_id": "tt0106004"
   },
   {
-    "name": "The Late Late Show with Craig Ferguson",
+    "name": "Cheers",
     "type": "series",
-    "imdb_id": "tt0437729"
+    "imdb_id": "tt0083399"
   },
   {
-    "name": "Running Man",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt2185037"
+    "imdb_id": "tt0106053"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
   },
   {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Infinite Challenge",
-    "type": "series",
-    "imdb_id": "tt4546568"
   }
 ]
