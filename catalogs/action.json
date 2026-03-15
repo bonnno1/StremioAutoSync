@@ -20,14 +20,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Smallville",
@@ -35,14 +35,19 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Stranger Things",
+    "name": "Chuck",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt0934814"
   },
   {
     "name": "Sea Hunt",
@@ -55,16 +60,6 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
     "name": "Sliders",
     "type": "series",
     "imdb_id": "tt0112167"
@@ -75,23 +70,28 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Pokémon",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt0118480"
   },
   {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
   }
 ]

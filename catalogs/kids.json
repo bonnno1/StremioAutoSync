@@ -1,5 +1,10 @@
 [
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -10,14 +15,24 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Bionic Six",
+    "type": "series",
+    "imdb_id": "tt0092323"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Peppa Pig",
@@ -30,9 +45,9 @@
     "imdb_id": "tt12853970"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt0404597"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -40,14 +55,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Bionic Six",
+    "name": "Transformers: Prime",
     "type": "series",
-    "imdb_id": "tt0092323"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt1659175"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -55,19 +65,14 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "Hamtaro",
     "type": "series",
     "imdb_id": "tt0318895"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   },
   {
     "name": "Rugrats",
@@ -75,13 +80,13 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Transformers: Prime",
+    "name": "X-Men",
     "type": "series",
-    "imdb_id": "tt1659175"
+    "imdb_id": "tt0103584"
   },
   {
-    "name": "The Guardians of Carcosa",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt29729800"
+    "imdb_id": "tt26997679"
   }
 ]

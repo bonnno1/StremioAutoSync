@@ -10,19 +10,14 @@
     "imdb_id": "tt14786934"
   },
   {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Pursuit of Jade",
     "type": "series",
     "imdb_id": "tt35316225"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Young Sherlock",
-    "type": "series",
-    "imdb_id": "tt8599532"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -30,14 +25,24 @@
     "imdb_id": "tt22248376"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "The Madison",
+    "type": "series",
+    "imdb_id": "tt33204276"
+  },
+  {
+    "name": "Young Sherlock",
+    "type": "series",
+    "imdb_id": "tt8599532"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
   },
   {
     "name": "The Dinosaurs",
@@ -50,29 +55,9 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "The Madison",
-    "type": "series",
-    "imdb_id": "tt33204276"
-  },
-  {
-    "name": "Boyfriend on Demand",
-    "type": "series",
-    "imdb_id": "tt35848827"
-  },
-  {
     "name": "Rooster",
     "type": "series",
     "imdb_id": "tt32420734"
-  },
-  {
-    "name": "Star Trek: Starfleet Academy",
-    "type": "series",
-    "imdb_id": "tt8622160"
-  },
-  {
-    "name": "ted",
-    "type": "series",
-    "imdb_id": "tt14824792"
   },
   {
     "name": "A Knight of the Seven Kingdoms",
@@ -80,23 +65,38 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "The Beauty",
-    "type": "series",
-    "imdb_id": "tt33517752"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Marshals",
+    "name": "ted",
     "type": "series",
-    "imdb_id": "tt36849871"
+    "imdb_id": "tt14824792"
   },
   {
-    "name": "That Night",
+    "name": "Star Trek: Starfleet Academy",
     "type": "series",
-    "imdb_id": "tt35674865"
+    "imdb_id": "tt8622160"
+  },
+  {
+    "name": "Boyfriend on Demand",
+    "type": "series",
+    "imdb_id": "tt35848827"
+  },
+  {
+    "name": "Paradise",
+    "type": "series",
+    "imdb_id": "tt27444205"
+  },
+  {
+    "name": "Scrubs",
+    "type": "series",
+    "imdb_id": "tt40197357"
+  },
+  {
+    "name": "Rooster Fighter",
+    "type": "series",
+    "imdb_id": "tt33086804"
   }
 ]
