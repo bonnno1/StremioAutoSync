@@ -5,6 +5,11 @@
     "imdb_id": "tt0463398"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -13,11 +18,6 @@
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -30,9 +30,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Moon Knight",
@@ -40,54 +40,19 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt9140560"
   },
   {
-    "name": "Moving",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Wonder Man",
@@ -95,8 +60,43 @@
     "imdb_id": "tt21066182"
   },
   {
-    "name": "Battle of Fates",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt39961100"
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "The Manipulated",
+    "type": "series",
+    "imdb_id": "tt36188448"
+  },
+  {
+    "name": "Ms. Marvel",
+    "type": "series",
+    "imdb_id": "tt10857164"
+  },
+  {
+    "name": "Love, Victor",
+    "type": "series",
+    "imdb_id": "tt10166602"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "The Acolyte",
+    "type": "series",
+    "imdb_id": "tt12262202"
   }
 ]

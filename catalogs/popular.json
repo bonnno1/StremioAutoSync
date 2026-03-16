@@ -5,14 +5,24 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
+  },
+  {
     "name": "Tagesschau",
     "type": "series",
     "imdb_id": "tt0246393"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Bones",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt0460627"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Grey's Anatomy",
@@ -25,21 +35,6 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Bones",
-    "type": "series",
-    "imdb_id": "tt0460627"
-  },
-  {
-    "name": "The Talk",
-    "type": "series",
-    "imdb_id": "tt1740718"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -50,14 +45,19 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Talk",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt1740718"
   },
   {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Daily Show",
@@ -70,19 +70,9 @@
     "imdb_id": "tt5247622"
   },
   {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
   },
   {
     "name": "Young Hearts",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0144724"
   },
   {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "The Tonight Show Starring Johnny Carson",
     "type": "series",
     "imdb_id": "tt0055708"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
   }
 ]
