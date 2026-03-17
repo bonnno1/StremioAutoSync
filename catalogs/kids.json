@@ -15,6 +15,16 @@
     "imdb_id": "tt3121722"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -25,14 +35,9 @@
     "imdb_id": "tt0092323"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Transformers: Prime",
     "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt1659175"
   },
   {
     "name": "Peppa Pig",
@@ -40,14 +45,14 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
   },
   {
     "name": "3000 Whys of Blue Cat",
@@ -55,29 +60,9 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Transformers: Prime",
-    "type": "series",
-    "imdb_id": "tt1659175"
-  },
-  {
     "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
     "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Hamtaro",
-    "type": "series",
-    "imdb_id": "tt0318895"
-  },
-  {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "X-Men",
@@ -85,8 +70,23 @@
     "imdb_id": "tt0103584"
   },
   {
-    "name": "Chiikawa",
+    "name": "Hamtaro",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt0318895"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Animaniacs",
+    "type": "series",
+    "imdb_id": "tt0105941"
   }
 ]

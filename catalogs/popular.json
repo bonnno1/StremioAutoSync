@@ -1,5 +1,10 @@
 [
   {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -8,11 +13,6 @@
     "name": "ONE PIECE",
     "type": "series",
     "imdb_id": "tt11737520"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
   },
   {
     "name": "Bones",
@@ -30,14 +30,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -45,9 +40,19 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "The Talk",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt1740718"
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "EastEnders",
+    "type": "series",
+    "imdb_id": "tt0088512"
   },
   {
     "name": "NCIS",
@@ -55,19 +60,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "The Simpsons",
+    "name": "Young Hearts",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0144724"
   },
   {
-    "name": "The Daily Show",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "The Mentalist",
@@ -75,28 +75,18 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "Young Hearts",
+    "name": "The Talk",
     "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt1740718"
   },
   {
-    "name": "The Goldbergs",
+    "name": "La Revuelta",
     "type": "series",
-    "imdb_id": "tt2712740"
+    "imdb_id": "tt33362276"
   },
   {
-    "name": "Frasier",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "The Tonight Show Starring Johnny Carson",
-    "type": "series",
-    "imdb_id": "tt0055708"
+    "imdb_id": "tt0115147"
   }
 ]

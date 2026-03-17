@@ -20,11 +20,6 @@
     "imdb_id": "tt35316225"
   },
   {
-    "name": "Rooster",
-    "type": "series",
-    "imdb_id": "tt32420734"
-  },
-  {
     "name": "The Madison",
     "type": "series",
     "imdb_id": "tt33204276"
@@ -35,9 +30,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Paradise",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt27444205"
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Rooster",
+    "type": "series",
+    "imdb_id": "tt32420734"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -45,19 +45,9 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "The Dinosaurs",
-    "type": "series",
-    "imdb_id": "tt32493765"
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Young Sherlock",
@@ -65,14 +55,24 @@
     "imdb_id": "tt8599532"
   },
   {
+    "name": "The Dinosaurs",
+    "type": "series",
+    "imdb_id": "tt32493765"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "Paradise",
+    "type": "series",
+    "imdb_id": "tt27444205"
+  },
+  {
     "name": "ted",
     "type": "series",
     "imdb_id": "tt14824792"
-  },
-  {
-    "name": "That Night",
-    "type": "series",
-    "imdb_id": "tt35674865"
   },
   {
     "name": "The Pitt",
@@ -80,9 +80,9 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "The Rookie",
+    "name": "Outlander",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt3006802"
   },
   {
     "name": "A Knight of the Seven Kingdoms",
@@ -90,13 +90,13 @@
     "imdb_id": "tt27497448"
   },
   {
-    "name": "Star Trek: Starfleet Academy",
+    "name": "Dream of Golden Years",
     "type": "series",
-    "imdb_id": "tt8622160"
+    "imdb_id": "tt34625806"
   },
   {
-    "name": "Stranger Things",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt1190634"
   }
 ]
