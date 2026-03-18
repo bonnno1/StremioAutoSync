@@ -5,14 +5,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "The Mandalorian",
@@ -35,16 +35,6 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
@@ -55,9 +45,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Wonder Man",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt21066182"
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Soy Luna",
@@ -65,29 +60,9 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Wonder Man",
     "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "The Manipulated",
-    "type": "series",
-    "imdb_id": "tt36188448"
-  },
-  {
-    "name": "Ms. Marvel",
-    "type": "series",
-    "imdb_id": "tt10857164"
-  },
-  {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt21066182"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -95,8 +70,33 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "The Acolyte",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt12262202"
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Bref",
+    "type": "series",
+    "imdb_id": "tt2044128"
+  },
+  {
+    "name": "Love, Victor",
+    "type": "series",
+    "imdb_id": "tt10166602"
+  },
+  {
+    "name": "Secret Invasion",
+    "type": "series",
+    "imdb_id": "tt13157618"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   }
 ]

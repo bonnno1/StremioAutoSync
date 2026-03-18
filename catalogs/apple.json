@@ -30,11 +30,6 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
@@ -55,29 +50,14 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Dickinson",
-    "type": "series",
-    "imdb_id": "tt8518136"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
   },
   {
     "name": "The Hunt",
@@ -85,18 +65,38 @@
     "imdb_id": "tt33086602"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "The Studio",
+    "type": "series",
+    "imdb_id": "tt23649128"
+  },
+  {
     "name": "The Last Frontier",
     "type": "series",
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Surface",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt13694702"
+    "imdb_id": "tt2640044"
+  },
+  {
+    "name": "Dickinson",
+    "type": "series",
+    "imdb_id": "tt8518136"
   },
   {
     "name": "Truth Be Told",
     "type": "series",
     "imdb_id": "tt7821582"
+  },
+  {
+    "name": "Loot",
+    "type": "series",
+    "imdb_id": "tt14271498"
   }
 ]

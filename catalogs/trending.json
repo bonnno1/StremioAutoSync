@@ -5,6 +5,16 @@
     "imdb_id": "tt11737520"
   },
   {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Pursuit of Jade",
+    "type": "series",
+    "imdb_id": "tt35316225"
+  },
+  {
     "name": "Scarpetta",
     "type": "series",
     "imdb_id": "tt14786934"
@@ -15,9 +25,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Pursuit of Jade",
+    "name": "Imperfect Women",
     "type": "series",
-    "imdb_id": "tt35316225"
+    "imdb_id": "tt31937954"
+  },
+  {
+    "name": "Radioactive Emergency",
+    "type": "series",
+    "imdb_id": "tt37041021"
   },
   {
     "name": "The Madison",
@@ -30,19 +45,29 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Rooster",
-    "type": "series",
-    "imdb_id": "tt32420734"
-  },
-  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
+  },
+  {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
+  },
+  {
+    "name": "The Dinosaurs",
+    "type": "series",
+    "imdb_id": "tt32493765"
+  },
+  {
+    "name": "Furies",
+    "type": "series",
+    "imdb_id": "tt11384300"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
   },
   {
     "name": "The Rookie",
@@ -50,14 +75,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Young Sherlock",
+    "name": "That Night",
     "type": "series",
-    "imdb_id": "tt8599532"
+    "imdb_id": "tt35674865"
   },
   {
-    "name": "The Dinosaurs",
+    "name": "The Pitt",
     "type": "series",
-    "imdb_id": "tt32493765"
+    "imdb_id": "tt31938062"
+  },
+  {
+    "name": "A Knight of the Seven Kingdoms",
+    "type": "series",
+    "imdb_id": "tt27497448"
   },
   {
     "name": "Marshals",
@@ -68,35 +98,5 @@
     "name": "Paradise",
     "type": "series",
     "imdb_id": "tt27444205"
-  },
-  {
-    "name": "ted",
-    "type": "series",
-    "imdb_id": "tt14824792"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
-  },
-  {
-    "name": "Outlander",
-    "type": "series",
-    "imdb_id": "tt3006802"
-  },
-  {
-    "name": "A Knight of the Seven Kingdoms",
-    "type": "series",
-    "imdb_id": "tt27497448"
-  },
-  {
-    "name": "Dream of Golden Years",
-    "type": "series",
-    "imdb_id": "tt34625806"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
   }
 ]

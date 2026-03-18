@@ -1,18 +1,13 @@
 [
   {
-    "name": "NCIS",
+    "name": "EastEnders",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0088512"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
-  },
-  {
-    "name": "EastEnders",
-    "type": "series",
-    "imdb_id": "tt0088512"
   },
   {
     "name": "The Daily Show",
@@ -30,24 +25,24 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Binnelanders",
-    "type": "series",
-    "imdb_id": "tt1527854"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
   },
   {
+    "name": "Shortland Street",
+    "type": "series",
+    "imdb_id": "tt0098911"
+  },
+  {
+    "name": "Binnelanders",
+    "type": "series",
+    "imdb_id": "tt1527854"
+  },
+  {
     "name": "Coronation Street",
     "type": "series",
     "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Will Trent",
-    "type": "series",
-    "imdb_id": "tt17543592"
   },
   {
     "name": "Na Wspólnej",
@@ -60,14 +55,24 @@
     "imdb_id": "tt0159881"
   },
   {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Chicago P.D.",
+    "type": "series",
+    "imdb_id": "tt2805096"
+  },
+  {
     "name": "Pursuit of Jade",
     "type": "series",
     "imdb_id": "tt35316225"
   },
   {
-    "name": "Tomorrow Is Ours",
+    "name": "Chicago Med",
     "type": "series",
-    "imdb_id": "tt7124904"
+    "imdb_id": "tt4655480"
   },
   {
     "name": "Who's the Murderer",
@@ -80,6 +85,11 @@
     "imdb_id": "tt0320037"
   },
   {
+    "name": "Tomorrow Is Ours",
+    "type": "series",
+    "imdb_id": "tt7124904"
+  },
+  {
     "name": "LIVE with Kelly and Mark",
     "type": "series",
     "imdb_id": "tt0096636"
@@ -88,15 +98,5 @@
     "name": "Markus Lanz",
     "type": "series",
     "imdb_id": "tt1239083"
-  },
-  {
-    "name": "SOKO Köln",
-    "type": "series",
-    "imdb_id": "tt0339702"
-  },
-  {
-    "name": "High Potential",
-    "type": "series",
-    "imdb_id": "tt22091076"
   }
 ]

@@ -1,18 +1,28 @@
 [
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -25,19 +35,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
+    "name": "Shin Chan",
     "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Bionic Six",
-    "type": "series",
-    "imdb_id": "tt0092323"
-  },
-  {
-    "name": "Transformers: Prime",
-    "type": "series",
-    "imdb_id": "tt1659175"
+    "imdb_id": "tt12853970"
   },
   {
     "name": "Peppa Pig",
@@ -45,34 +45,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
     "name": "X-Men",
     "type": "series",
     "imdb_id": "tt0103584"
-  },
-  {
-    "name": "Hamtaro",
-    "type": "series",
-    "imdb_id": "tt0318895"
   },
   {
     "name": "Rugrats",
@@ -80,13 +55,38 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
+  },
+  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Animaniacs",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt0105941"
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Bionic Six",
+    "type": "series",
+    "imdb_id": "tt0092323"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Transformers: Prime",
+    "type": "series",
+    "imdb_id": "tt1659175"
   }
 ]

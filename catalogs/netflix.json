@@ -5,14 +5,14 @@
     "imdb_id": "tt11737520"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Sesame Street",
@@ -20,14 +20,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Lucifer",
@@ -45,14 +45,9 @@
     "imdb_id": "tt1751634"
   },
   {
-    "name": "Wednesday",
+    "name": "That Night",
     "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt35674865"
   },
   {
     "name": "Black Mirror",
@@ -65,14 +60,24 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Boyfriend on Demand",
-    "type": "series",
-    "imdb_id": "tt35848827"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Elite",
@@ -80,9 +85,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "The Night Agent",
@@ -90,13 +95,8 @@
     "imdb_id": "tt13918776"
   },
   {
-    "name": "That Night",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt35674865"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt3398228"
   }
 ]

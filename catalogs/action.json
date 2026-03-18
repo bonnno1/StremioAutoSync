@@ -15,14 +15,14 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Doraemon",
@@ -55,11 +55,6 @@
     "imdb_id": "tt0934814"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
@@ -75,14 +70,19 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Sliders",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt0112167"
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Pokémon",
     "type": "series",
     "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Sliders",
+    "type": "series",
+    "imdb_id": "tt0112167"
   },
   {
     "name": "Doraemon",
