@@ -5,6 +5,11 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -15,9 +20,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt0115147"
   },
   {
     "name": "Young Hearts",
@@ -30,14 +35,9 @@
     "imdb_id": "tt33362276"
   },
   {
-    "name": "The Daily Show",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Men on a Mission",
@@ -50,14 +50,14 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Cheers",
     "type": "series",
     "imdb_id": "tt0083399"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
   },
   {
     "name": "Infinite Challenge",
@@ -70,14 +70,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Heartland",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0106053"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -85,13 +80,13 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Desperate Housewives",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0410975"
+    "imdb_id": "tt0108778"
   },
   {
-    "name": "Shameless",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt1442437"
   }
 ]

@@ -1,18 +1,23 @@
 [
   {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Scarpetta",
-    "type": "series",
-    "imdb_id": "tt14786934"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Scarpetta",
+    "type": "series",
+    "imdb_id": "tt14786934"
   },
   {
     "name": "Vikings",
@@ -25,16 +30,6 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "Young Sherlock",
-    "type": "series",
-    "imdb_id": "tt8599532"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
@@ -43,6 +38,11 @@
     "name": "Day One",
     "type": "series",
     "imdb_id": "tt35996744"
+  },
+  {
+    "name": "Young Sherlock",
+    "type": "series",
+    "imdb_id": "tt8599532"
   },
   {
     "name": "Fallout",
@@ -60,6 +60,11 @@
     "imdb_id": "tt4687880"
   },
   {
+    "name": "La oficina",
+    "type": "series",
+    "imdb_id": "tt34231110"
+  },
+  {
     "name": "56 Days",
     "type": "series",
     "imdb_id": "tt30412869"
@@ -70,14 +75,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Man in the High Castle",
     "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt1740299"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -85,8 +85,8 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "La oficina",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt34231110"
+    "imdb_id": "tt7216636"
   }
 ]

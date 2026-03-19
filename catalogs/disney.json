@@ -5,14 +5,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Mandalorian",
@@ -35,24 +35,24 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Moon Knight",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Soy Luna",
@@ -65,11 +65,6 @@
     "imdb_id": "tt21066182"
   },
   {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
@@ -78,6 +73,11 @@
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Bref",
@@ -90,9 +90,9 @@
     "imdb_id": "tt10166602"
   },
   {
-    "name": "Secret Invasion",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt13157618"
+    "imdb_id": "tt13650480"
   },
   {
     "name": "Ironheart",
