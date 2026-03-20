@@ -1,18 +1,13 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Doraemon",
@@ -20,14 +15,24 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -45,6 +50,16 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
     "name": "X-Men",
     "type": "series",
     "imdb_id": "tt0103584"
@@ -55,38 +70,23 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Duel Masters",
+    "name": "Ninja Hattori-kun",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt2787558"
   },
   {
-    "name": "Bionic Six",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt0092323"
+    "imdb_id": "tt3600266"
   },
   {
-    "name": "Chiikawa",
+    "name": "Victorious",
     "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "Transformers: Prime",
-    "type": "series",
-    "imdb_id": "tt1659175"
+    "imdb_id": "tt1604099"
   }
 ]

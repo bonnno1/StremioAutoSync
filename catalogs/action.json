@@ -1,13 +1,13 @@
 [
   {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Kamen Rider",
@@ -15,9 +15,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doctor Who",
+    "name": "Invincible",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -30,24 +30,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "Stranger Things",
@@ -55,14 +40,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lost",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Baywatch",
@@ -70,19 +50,29 @@
     "imdb_id": "tt0096542"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Pokémon",
     "type": "series",
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Chuck",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0934814"
+    "imdb_id": "tt5622316"
   },
   {
-    "name": "C.I.D.",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt0401916"
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Doraemon",
@@ -90,8 +80,18 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Chuck",
+    "type": "series",
+    "imdb_id": "tt0934814"
   }
 ]
