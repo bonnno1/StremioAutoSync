@@ -5,9 +5,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Kamen Rider",
@@ -15,14 +15,19 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Game of Thrones",
@@ -45,14 +50,14 @@
     "imdb_id": "tt0436992"
   },
   {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "Baywatch",
     "type": "series",
     "imdb_id": "tt0096542"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "Pokémon",
@@ -70,28 +75,23 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Chuck",
-    "type": "series",
-    "imdb_id": "tt0934814"
   }
 ]
