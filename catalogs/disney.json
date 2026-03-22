@@ -25,6 +25,11 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
@@ -35,14 +40,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "O11CE: New Generation",
     "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt40526776"
   },
   {
     "name": "Hawkeye",
@@ -50,34 +50,19 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "O11CE: New Generation",
-    "type": "series",
-    "imdb_id": "tt40526776"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Soy Luna",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt5189554"
+    "imdb_id": "tt9140560"
   },
   {
-    "name": "Wonder Man",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt21066182"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Moving",
@@ -85,9 +70,14 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Bref",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt2044128"
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -98,5 +88,15 @@
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Wonder Man",
+    "type": "series",
+    "imdb_id": "tt21066182"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   }
 ]

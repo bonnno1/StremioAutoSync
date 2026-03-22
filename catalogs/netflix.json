@@ -5,14 +5,19 @@
     "imdb_id": "tt11737520"
   },
   {
-    "name": "Raw",
+    "name": "Peaky Blinders",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt2442560"
   },
   {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -93,10 +98,5 @@
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "That Night",
-    "type": "series",
-    "imdb_id": "tt35674865"
   }
 ]

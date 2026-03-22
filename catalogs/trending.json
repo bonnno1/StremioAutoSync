@@ -5,19 +5,14 @@
     "imdb_id": "tt11737520"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Pursuit of Jade",
     "type": "series",
     "imdb_id": "tt35316225"
   },
   {
-    "name": "The Madison",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt33204276"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Invincible",
@@ -30,9 +25,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "The Madison",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt33204276"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -40,29 +35,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Radioactive Emergency",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt37041021"
-  },
-  {
-    "name": "Imperfect Women",
-    "type": "series",
-    "imdb_id": "tt31937954"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Scarpetta",
-    "type": "series",
-    "imdb_id": "tt14786934"
-  },
-  {
-    "name": "Paradise",
-    "type": "series",
-    "imdb_id": "tt27444205"
+    "imdb_id": "tt22248376"
   },
   {
     "name": "Scrubs",
@@ -75,14 +50,19 @@
     "imdb_id": "tt31938062"
   },
   {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "ted",
+    "type": "series",
+    "imdb_id": "tt14824792"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   },
   {
     "name": "Stranger Things",
@@ -90,13 +70,28 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Outlander",
+    "name": "Scarpetta",
     "type": "series",
-    "imdb_id": "tt3006802"
+    "imdb_id": "tt14786934"
   },
   {
-    "name": "The Boys",
+    "name": "Paradise",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt27444205"
+  },
+  {
+    "name": "Radioactive Emergency",
+    "type": "series",
+    "imdb_id": "tt37041021"
+  },
+  {
+    "name": "Imperfect Women",
+    "type": "series",
+    "imdb_id": "tt31937954"
+  },
+  {
+    "name": "Rooster Fighter",
+    "type": "series",
+    "imdb_id": "tt33086804"
   }
 ]
