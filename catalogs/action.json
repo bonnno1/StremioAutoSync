@@ -10,9 +10,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doraemon",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Game of Thrones",
@@ -25,29 +25,14 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Stranger Things",
@@ -60,19 +45,19 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Arrow",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Bleach",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt0118480"
   },
   {
-    "name": "The Chosen",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Baywatch",
@@ -80,9 +65,14 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Doraemon",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -90,8 +80,18 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "24",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   }
 ]

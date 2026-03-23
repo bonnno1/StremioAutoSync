@@ -5,14 +5,19 @@
     "imdb_id": "tt11737520"
   },
   {
-    "name": "Pursuit of Jade",
-    "type": "series",
-    "imdb_id": "tt35316225"
-  },
-  {
     "name": "JoJo's Bizarre Adventure",
     "type": "series",
     "imdb_id": "tt2359704"
+  },
+  {
+    "name": "The Madison",
+    "type": "series",
+    "imdb_id": "tt33204276"
+  },
+  {
+    "name": "Pursuit of Jade",
+    "type": "series",
+    "imdb_id": "tt35316225"
   },
   {
     "name": "Invincible",
@@ -25,54 +30,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Madison",
-    "type": "series",
-    "imdb_id": "tt33204276"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Scrubs",
-    "type": "series",
-    "imdb_id": "tt40197357"
-  },
-  {
-    "name": "The Pitt",
-    "type": "series",
-    "imdb_id": "tt31938062"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "ted",
-    "type": "series",
-    "imdb_id": "tt14824792"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Scarpetta",
-    "type": "series",
-    "imdb_id": "tt14786934"
   },
   {
     "name": "Paradise",
@@ -80,9 +40,19 @@
     "imdb_id": "tt27444205"
   },
   {
-    "name": "Radioactive Emergency",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt37041021"
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "The Comeback",
+    "type": "series",
+    "imdb_id": "tt0434672"
   },
   {
     "name": "Imperfect Women",
@@ -90,8 +60,43 @@
     "imdb_id": "tt31937954"
   },
   {
-    "name": "Rooster Fighter",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt33086804"
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
+  },
+  {
+    "name": "Rooster",
+    "type": "series",
+    "imdb_id": "tt32420734"
+  },
+  {
+    "name": "Scarpetta",
+    "type": "series",
+    "imdb_id": "tt14786934"
+  },
+  {
+    "name": "Scrubs",
+    "type": "series",
+    "imdb_id": "tt40197357"
+  },
+  {
+    "name": "Lucky Luke",
+    "type": "series",
+    "imdb_id": "tt33560536"
+  },
+  {
+    "name": "Radioactive Emergency",
+    "type": "series",
+    "imdb_id": "tt37041021"
+  },
+  {
+    "name": "Hell's Paradise",
+    "type": "series",
+    "imdb_id": "tt13911284"
   }
 ]
