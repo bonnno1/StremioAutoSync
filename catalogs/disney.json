@@ -45,6 +45,11 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "Lucky Luke",
+    "type": "series",
+    "imdb_id": "tt33560536"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
@@ -65,14 +70,14 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "Wonder Man",
     "type": "series",
     "imdb_id": "tt21066182"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -93,10 +98,5 @@
     "name": "Ironheart",
     "type": "series",
     "imdb_id": "tt13623126"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
   }
 ]
