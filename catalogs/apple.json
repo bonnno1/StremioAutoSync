@@ -5,11 +5,6 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
@@ -25,9 +20,19 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
   },
   {
     "name": "See",
@@ -38,11 +43,6 @@
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
   },
   {
     "name": "Pluribus",
@@ -60,19 +60,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Imperfect Women",
-    "type": "series",
-    "imdb_id": "tt31937954"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
-  },
-  {
-    "name": "The Hunt",
-    "type": "series",
-    "imdb_id": "tt33086602"
   },
   {
     "name": "Masters of the Air",
@@ -80,9 +70,24 @@
     "imdb_id": "tt2640044"
   },
   {
-    "name": "The Studio",
+    "name": "Imperfect Women",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt31937954"
+  },
+  {
+    "name": "Loot",
+    "type": "series",
+    "imdb_id": "tt14271498"
+  },
+  {
+    "name": "The Hunt",
+    "type": "series",
+    "imdb_id": "tt33086602"
+  },
+  {
+    "name": "Carpool Karaoke: The Series",
+    "type": "series",
+    "imdb_id": "tt6396082"
   },
   {
     "name": "The Last Frontier",
@@ -90,13 +95,8 @@
     "imdb_id": "tt26862142"
   },
   {
-    "name": "Pachinko",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt8888462"
-  },
-  {
-    "name": "Loot",
-    "type": "series",
-    "imdb_id": "tt14271498"
+    "imdb_id": "tt23649128"
   }
 ]

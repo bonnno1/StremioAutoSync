@@ -10,9 +10,19 @@
     "imdb_id": "tt26443616"
   },
   {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
+  },
+  {
     "name": "David",
     "type": "movie",
     "imdb_id": "tt15678738"
+  },
+  {
+    "name": "The Super Mario Bros. Movie",
+    "type": "movie",
+    "imdb_id": "tt6718170"
   },
   {
     "name": "Vodnická čertovina",
@@ -25,19 +35,14 @@
     "imdb_id": "tt2845860"
   },
   {
-    "name": "The Super Mario Bros. Movie",
-    "type": "movie",
-    "imdb_id": "tt6718170"
-  },
-  {
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
   },
   {
-    "name": "GOAT",
+    "name": "Ice Age: Collision Course",
     "type": "movie",
-    "imdb_id": "tt27613895"
+    "imdb_id": "tt3416828"
   },
   {
     "name": "The SpongeBob Movie: Search for SquarePants",
@@ -50,9 +55,9 @@
     "imdb_id": "tt0125454"
   },
   {
-    "name": "Playdate",
+    "name": "Moana",
     "type": "movie",
-    "imdb_id": "tt31425731"
+    "imdb_id": "tt27419466"
   },
   {
     "name": "Zootopia",
@@ -60,19 +65,9 @@
     "imdb_id": "tt2948356"
   },
   {
-    "name": "The Family Plan",
+    "name": "Playdate",
     "type": "movie",
-    "imdb_id": "tt16431870"
-  },
-  {
-    "name": "Despicable Me 4",
-    "type": "movie",
-    "imdb_id": "tt7510222"
-  },
-  {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
+    "imdb_id": "tt31425731"
   },
   {
     "name": "The Bad Guys 2",
@@ -80,14 +75,19 @@
     "imdb_id": "tt30017619"
   },
   {
-    "name": "A Minecraft Movie",
+    "name": "Despicable Me 4",
     "type": "movie",
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt7510222"
   },
   {
-    "name": "Inside Out 2",
+    "name": "The Family Plan",
     "type": "movie",
-    "imdb_id": "tt22022452"
+    "imdb_id": "tt16431870"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
   },
   {
     "name": "How to Train Your Dragon",

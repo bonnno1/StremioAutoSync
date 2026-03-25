@@ -1,18 +1,8 @@
 [
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
-  },
-  {
-    "name": "Pursuit of Jade",
-    "type": "series",
-    "imdb_id": "tt35316225"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Invincible",
@@ -20,14 +10,19 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Madison",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt33204276"
+    "imdb_id": "tt11737520"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Pursuit of Jade",
+    "type": "series",
+    "imdb_id": "tt35316225"
   },
   {
     "name": "One Piece",
@@ -35,19 +30,34 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "The Madison",
+    "type": "series",
+    "imdb_id": "tt33204276"
+  },
+  {
+    "name": "Scrubs",
+    "type": "series",
+    "imdb_id": "tt40197357"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
   },
   {
+    "name": "Imperfect Women",
+    "type": "series",
+    "imdb_id": "tt31937954"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
     "name": "Paradise",
     "type": "series",
     "imdb_id": "tt27444205"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
   },
   {
     "name": "The Rookie",
@@ -60,9 +70,19 @@
     "imdb_id": "tt31938062"
   },
   {
+    "name": "High Potential",
+    "type": "series",
+    "imdb_id": "tt22091076"
+  },
+  {
     "name": "Radioactive Emergency",
     "type": "series",
     "imdb_id": "tt37041021"
+  },
+  {
+    "name": "Heartbreak High",
+    "type": "series",
+    "imdb_id": "tt15054962"
   },
   {
     "name": "Lucky Luke",
@@ -70,33 +90,13 @@
     "imdb_id": "tt33560536"
   },
   {
-    "name": "Scrubs",
+    "name": "Scarpetta",
     "type": "series",
-    "imdb_id": "tt40197357"
+    "imdb_id": "tt14786934"
   },
   {
-    "name": "Marshals",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "Climax",
-    "type": "series",
-    "imdb_id": "tt39017753"
-  },
-  {
-    "name": "Imperfect Women",
-    "type": "series",
-    "imdb_id": "tt31937954"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt17220216"
   }
 ]

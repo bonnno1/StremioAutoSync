@@ -25,6 +25,16 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "ONE PIECE",
     "type": "series",
     "imdb_id": "tt11737520"
@@ -35,9 +45,9 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Stranger Things",
+    "name": "Baywatch",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt0096542"
   },
   {
     "name": "Lost",
@@ -50,14 +60,9 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "The Chosen",
+    "name": "Chuck",
     "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Baywatch",
-    "type": "series",
-    "imdb_id": "tt0096542"
+    "imdb_id": "tt0934814"
   },
   {
     "name": "NCIS: Los Angeles",
@@ -70,14 +75,9 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "Arrow",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt0285331"
   },
   {
     "name": "Doraemon",
@@ -85,13 +85,13 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "24",
+    "name": "9-1-1",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt7235466"
   },
   {
-    "name": "FBI",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt2193021"
   }
 ]
