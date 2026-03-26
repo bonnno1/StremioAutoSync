@@ -1,8 +1,8 @@
 [
   {
-    "name": "Doraemon",
+    "name": "X-Men",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0103584"
   },
   {
     "name": "PAW Patrol",
@@ -10,14 +10,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "X-Men",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0103584"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Victorious",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt1604099"
   },
   {
     "name": "Peppa Pig",
@@ -25,19 +25,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt14670820"
-  },
-  {
-    "name": "Victorious",
-    "type": "series",
-    "imdb_id": "tt1604099"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Sesame Street",
@@ -50,24 +40,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Rugrats",
+    "name": "The Smurfs",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Bionic Six",
-    "type": "series",
-    "imdb_id": "tt0092323"
+    "imdb_id": "tt14670820"
   },
   {
     "name": "Austin & Ally",
@@ -75,18 +55,43 @@
     "imdb_id": "tt1830491"
   },
   {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "GG Bond",
     "type": "series",
     "imdb_id": "tt24191416"
+  },
+  {
+    "name": "Bionic Six",
+    "type": "series",
+    "imdb_id": "tt0092323"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Transformers: Prime",
+    "type": "series",
+    "imdb_id": "tt1659175"
+  },
+  {
+    "name": "Shin Chan",
+    "type": "series",
+    "imdb_id": "tt12853970"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   }
 ]

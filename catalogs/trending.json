@@ -1,13 +1,33 @@
 [
   {
-    "name": "Daredevil: Born Again",
+    "name": "Detective Hole",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt31810018"
   },
   {
     "name": "Invincible",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Something Very Bad Is Going to Happen",
+    "type": "series",
+    "imdb_id": "tt32937780"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Scrubs",
+    "type": "series",
+    "imdb_id": "tt40197357"
+  },
+  {
+    "name": "Pursuit of Jade",
+    "type": "series",
+    "imdb_id": "tt35316225"
   },
   {
     "name": "ONE PIECE",
@@ -20,34 +40,9 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Pursuit of Jade",
-    "type": "series",
-    "imdb_id": "tt35316225"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "The Madison",
-    "type": "series",
-    "imdb_id": "tt33204276"
-  },
-  {
-    "name": "Scrubs",
-    "type": "series",
-    "imdb_id": "tt40197357"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Imperfect Women",
-    "type": "series",
-    "imdb_id": "tt31937954"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -55,14 +50,14 @@
     "imdb_id": "tt22248376"
   },
   {
-    "name": "Paradise",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt27444205"
+    "imdb_id": "tt12343534"
   },
   {
-    "name": "The Rookie",
+    "name": "The Madison",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt33204276"
   },
   {
     "name": "The Pitt",
@@ -70,19 +65,14 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "High Potential",
+    "name": "【OSHI NO KO】",
     "type": "series",
-    "imdb_id": "tt22091076"
+    "imdb_id": "tt21030032"
   },
   {
-    "name": "Radioactive Emergency",
+    "name": "Paradise",
     "type": "series",
-    "imdb_id": "tt37041021"
-  },
-  {
-    "name": "Heartbreak High",
-    "type": "series",
-    "imdb_id": "tt15054962"
+    "imdb_id": "tt27444205"
   },
   {
     "name": "Lucky Luke",
@@ -90,13 +80,23 @@
     "imdb_id": "tt33560536"
   },
   {
-    "name": "Scarpetta",
+    "name": "Imperfect Women",
     "type": "series",
-    "imdb_id": "tt14786934"
+    "imdb_id": "tt31937954"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   }
 ]

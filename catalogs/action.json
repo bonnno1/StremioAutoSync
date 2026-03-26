@@ -5,9 +5,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -15,14 +15,14 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "The Chosen",
@@ -30,14 +30,19 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Baywatch",
+    "type": "series",
+    "imdb_id": "tt0096542"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "ONE PIECE",
+    "name": "NCIS: Los Angeles",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt1378167"
   },
   {
     "name": "Doctor Who",
@@ -45,14 +50,9 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Baywatch",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt0096542"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Stargate SG-1",
@@ -65,9 +65,19 @@
     "imdb_id": "tt0934814"
   },
   {
-    "name": "NCIS: Los Angeles",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt1378167"
+    "imdb_id": "tt11737520"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Hawaii Five-0",
@@ -75,23 +85,13 @@
     "imdb_id": "tt1600194"
   },
   {
+    "name": "GARO",
+    "type": "series",
+    "imdb_id": "tt0978032"
+  },
+  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
   }
 ]
