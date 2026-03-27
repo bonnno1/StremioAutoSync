@@ -45,11 +45,6 @@
     "imdb_id": "tt0051257"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "3000 Leagues in Search of Mother",
     "type": "series",
     "imdb_id": "tt0074002"
@@ -65,6 +60,16 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Family Affair",
+    "type": "series",
+    "imdb_id": "tt0059982"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
@@ -75,23 +80,18 @@
     "imdb_id": "tt1597420"
   },
   {
-    "name": "Bionic Six",
-    "type": "series",
-    "imdb_id": "tt0092323"
-  },
-  {
-    "name": "Family Affair",
-    "type": "series",
-    "imdb_id": "tt0059982"
-  },
-  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Bonanza",
+    "name": "Bionic Six",
     "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt0092323"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   }
 ]

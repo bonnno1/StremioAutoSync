@@ -25,14 +25,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -40,9 +40,19 @@
     "imdb_id": "tt5057054"
   },
   {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
     "name": "Young Sherlock",
     "type": "series",
     "imdb_id": "tt8599532"
+  },
+  {
+    "name": "Power of Love",
+    "type": "series",
+    "imdb_id": "tt24060116"
   },
   {
     "name": "Scarpetta",
@@ -55,14 +65,9 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "Fallout",
+    "name": "Truth Seekers",
     "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
-    "name": "Power of Love",
-    "type": "series",
-    "imdb_id": "tt24060116"
+    "imdb_id": "tt7907922"
   },
   {
     "name": "La oficina",
@@ -70,23 +75,18 @@
     "imdb_id": "tt34231110"
   },
   {
+    "name": "Animal Love",
+    "type": "series",
+    "imdb_id": "tt40358752"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Man in the High Castle",
     "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "name": "56 Days",
-    "type": "series",
-    "imdb_id": "tt30412869"
-  },
-  {
-    "name": "Animal Love",
-    "type": "series",
-    "imdb_id": "tt40358752"
+    "imdb_id": "tt1740299"
   }
 ]

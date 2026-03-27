@@ -5,9 +5,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Invincible",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -15,9 +15,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Smallville",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Kamen Rider",
@@ -25,9 +25,24 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Baywatch",
@@ -35,29 +50,9 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Stranger Things",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "NCIS: Los Angeles",
-    "type": "series",
-    "imdb_id": "tt1378167"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Chuck",
@@ -65,24 +60,14 @@
     "imdb_id": "tt0934814"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt0118480"
   },
   {
-    "name": "Arrow",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "GARO",
@@ -90,8 +75,23 @@
     "imdb_id": "tt0978032"
   },
   {
-    "name": "24",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Sliders",
+    "type": "series",
+    "imdb_id": "tt0112167"
+  },
+  {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
   }
 ]

@@ -25,14 +25,14 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -50,14 +50,19 @@
     "imdb_id": "tt33560536"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
-    "name": "WandaVision",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Wonder Man",
@@ -70,6 +75,16 @@
     "imdb_id": "tt24640580"
   },
   {
+    "name": "The Book of Boba Fett",
+    "type": "series",
+    "imdb_id": "tt13668894"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
@@ -80,23 +95,8 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Secret Invasion",
     "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
+    "imdb_id": "tt13157618"
   }
 ]

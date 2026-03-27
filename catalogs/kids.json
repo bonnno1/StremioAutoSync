@@ -1,5 +1,10 @@
 [
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "X-Men",
     "type": "series",
     "imdb_id": "tt0103584"
@@ -8,11 +13,6 @@
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "Victorious",
@@ -30,24 +30,14 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt14670820"
   },
   {
     "name": "Austin & Ally",
@@ -55,24 +45,24 @@
     "imdb_id": "tt1830491"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "Bionic Six",
     "type": "series",
     "imdb_id": "tt0092323"
   },
   {
-    "name": "Rugrats",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt26692417"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Transformers: Prime",
@@ -80,18 +70,28 @@
     "imdb_id": "tt1659175"
   },
   {
-    "name": "Shin Chan",
-    "type": "series",
-    "imdb_id": "tt12853970"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Duel Masters",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
+  },
+  {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
   }
 ]

@@ -1,23 +1,8 @@
 [
   {
-    "name": "EastEnders",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0088512"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -25,29 +10,39 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Pursuit of Jade",
+    "name": "Secret Lives",
     "type": "series",
-    "imdb_id": "tt35316225"
+    "imdb_id": "tt0185819"
   },
   {
-    "name": "9-1-1",
+    "name": "Outlander",
     "type": "series",
-    "imdb_id": "tt7235466"
+    "imdb_id": "tt3006802"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Real Time with Bill Maher",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt0350448"
   },
   {
-    "name": "Who's the Murderer",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt9332934"
+    "imdb_id": "tt22248376"
   },
   {
-    "name": "The Pitt",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Death in Paradise",
+    "type": "series",
+    "imdb_id": "tt1888075"
+  },
+  {
+    "name": "Hello Saturday",
+    "type": "series",
+    "imdb_id": "tt30985733"
   },
   {
     "name": "Shopping Queen",
@@ -55,9 +50,9 @@
     "imdb_id": "tt2206845"
   },
   {
-    "name": "Jimmy Kimmel Live!",
+    "name": "RuPaul's Drag Race",
     "type": "series",
-    "imdb_id": "tt0320037"
+    "imdb_id": "tt1353056"
   },
   {
     "name": "Jeopardy!",
@@ -65,24 +60,14 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "type": "series",
-    "imdb_id": "tt0103434"
-  },
-  {
-    "name": "Hot Ones",
-    "type": "series",
-    "imdb_id": "tt6556992"
-  },
-  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
   },
   {
     "name": "LIVE with Kelly and Mark",
@@ -90,13 +75,28 @@
     "imdb_id": "tt0096636"
   },
   {
-    "name": "Markus Lanz",
+    "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
-    "imdb_id": "tt1239083"
+    "imdb_id": "tt0103434"
   },
   {
-    "name": "Power of Love",
+    "name": "Father Brown",
     "type": "series",
-    "imdb_id": "tt24060116"
+    "imdb_id": "tt2215842"
+  },
+  {
+    "name": "SOKO Leipzig",
+    "type": "series",
+    "imdb_id": "tt0274279"
+  },
+  {
+    "name": "Home Alone",
+    "type": "series",
+    "imdb_id": "tt7997010"
+  },
+  {
+    "name": "112 Vandaag",
+    "type": "series",
+    "imdb_id": "tt33080231"
   }
 ]
