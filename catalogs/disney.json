@@ -5,19 +5,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "O11CE: New Generation",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt40526776"
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Star Wars: Visions",
@@ -25,14 +20,19 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "O11CE: New Generation",
+    "type": "series",
+    "imdb_id": "tt40526776"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
@@ -60,34 +60,14 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "Wonder Man",
     "type": "series",
     "imdb_id": "tt21066182"
   },
   {
-    "name": "Moving",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -95,8 +75,28 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Secret Invasion",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt13157618"
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
+  },
+  {
+    "name": "The Book of Boba Fett",
+    "type": "series",
+    "imdb_id": "tt13668894"
   }
 ]

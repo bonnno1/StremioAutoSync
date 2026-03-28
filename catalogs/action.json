@@ -5,19 +5,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
   },
   {
     "name": "Kamen Rider",
@@ -25,19 +15,14 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "Smallville",
@@ -50,9 +35,19 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Lost",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0411008"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
   },
   {
     "name": "Chuck",
@@ -60,9 +55,14 @@
     "imdb_id": "tt0934814"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Stranger Things",
@@ -75,9 +75,9 @@
     "imdb_id": "tt0978032"
   },
   {
-    "name": "Bleach",
+    "name": "NCIS: Los Angeles",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt1378167"
   },
   {
     "name": "Sliders",
@@ -85,13 +85,13 @@
     "imdb_id": "tt0112167"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt1600194"
   },
   {
-    "name": "NCIS: Los Angeles",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt1378167"
+    "imdb_id": "tt0434665"
   }
 ]

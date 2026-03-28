@@ -25,14 +25,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "JoJo's Bizarre Adventure",
     "type": "series",
     "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "The Sandman",
@@ -55,6 +55,16 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "Beauty in Black",
     "type": "series",
     "imdb_id": "tt31260386"
@@ -65,29 +75,9 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Radioactive Emergency",
-    "type": "series",
-    "imdb_id": "tt37041021"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
   },
   {
     "name": "The Witcher",
@@ -95,8 +85,18 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Elite",
+    "name": "Marvel's Daredevil",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "Cobra Kai",
+    "type": "series",
+    "imdb_id": "tt7221388"
+  },
+  {
+    "name": "Detective Hole",
+    "type": "series",
+    "imdb_id": "tt31810018"
   }
 ]
