@@ -5,6 +5,11 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -15,24 +20,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Heartland",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "Family Matters",
-    "type": "series",
-    "imdb_id": "tt0096579"
+    "imdb_id": "tt0159881"
   },
   {
     "name": "3000 Leagues in Search of Mother",
@@ -40,14 +30,24 @@
     "imdb_id": "tt0074002"
   },
   {
-    "name": "Beni Affet",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt2247207"
+    "imdb_id": "tt1094229"
   },
   {
-    "name": "Blue Peter",
+    "name": "The Goldbergs",
     "type": "series",
-    "imdb_id": "tt0051257"
+    "imdb_id": "tt2712740"
+  },
+  {
+    "name": "The Red Skelton Show",
+    "type": "series",
+    "imdb_id": "tt0043224"
+  },
+  {
+    "name": "Family Matters",
+    "type": "series",
+    "imdb_id": "tt0096579"
   },
   {
     "name": "Young Sheldon",
@@ -55,14 +55,9 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Family Affair",
-    "type": "series",
-    "imdb_id": "tt0059982"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Dancing with the Stars",
@@ -70,14 +65,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Rugrats",
+    "name": "Beni Affet",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt2247207"
   },
   {
-    "name": "Melissa & Joey",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt1597420"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Phineas and Ferb",
@@ -85,13 +80,8 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Bionic Six",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt0092323"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt26997679"
   }
 ]

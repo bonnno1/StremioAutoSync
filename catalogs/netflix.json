@@ -10,14 +10,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Lucifer",
@@ -25,14 +25,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
   },
   {
     "name": "The Sandman",
@@ -55,19 +55,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Beauty in Black",
     "type": "series",
     "imdb_id": "tt31260386"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
   },
   {
     "name": "The Crown",
@@ -75,9 +70,19 @@
     "imdb_id": "tt4786824"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Something Very Bad is Going to Happen",
+    "type": "series",
+    "imdb_id": "tt32937780"
   },
   {
     "name": "The Witcher",
@@ -85,18 +90,13 @@
     "imdb_id": "tt5180504"
   },
   {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
-  },
-  {
-    "name": "Cobra Kai",
-    "type": "series",
-    "imdb_id": "tt7221388"
-  },
-  {
     "name": "Detective Hole",
     "type": "series",
     "imdb_id": "tt31810018"
+  },
+  {
+    "name": "Marvel's Daredevil",
+    "type": "series",
+    "imdb_id": "tt3322312"
   }
 ]

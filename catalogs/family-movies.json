@@ -35,11 +35,6 @@
     "imdb_id": "tt15678738"
   },
   {
-    "name": "Hannah Montana 20th Anniversary Special",
-    "type": "movie",
-    "imdb_id": "tt39389429"
-  },
-  {
     "name": "The SpongeBob Movie: Search for SquarePants",
     "type": "movie",
     "imdb_id": "tt23572848"
@@ -53,6 +48,11 @@
     "name": "Zootopia",
     "type": "movie",
     "imdb_id": "tt2948356"
+  },
+  {
+    "name": "Moana",
+    "type": "movie",
+    "imdb_id": "tt27419466"
   },
   {
     "name": "Come Dance with Me",
@@ -85,11 +85,6 @@
     "imdb_id": "tt7510222"
   },
   {
-    "name": "Moana",
-    "type": "movie",
-    "imdb_id": "tt27419466"
-  },
-  {
     "name": "Mooseltoe",
     "type": "movie",
     "imdb_id": "tt28277114"
@@ -98,5 +93,10 @@
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
+  },
+  {
+    "name": "O ľuďoch a čarodejníkoch",
+    "type": "movie",
+    "imdb_id": "tt0457982"
   }
 ]

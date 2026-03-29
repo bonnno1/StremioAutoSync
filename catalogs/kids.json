@@ -5,9 +5,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "X-Men",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt0103584"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "PAW Patrol",
@@ -15,39 +15,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Victorious",
-    "type": "series",
-    "imdb_id": "tt1604099"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Rugrats",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Austin & Ally",
-    "type": "series",
-    "imdb_id": "tt1830491"
-  },
-  {
-    "name": "Bionic Six",
-    "type": "series",
-    "imdb_id": "tt0092323"
+    "imdb_id": "tt8677202"
   },
   {
     "name": "Pokémon Horizons",
@@ -60,26 +35,6 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Transformers: Prime",
-    "type": "series",
-    "imdb_id": "tt1659175"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "GG Bond",
     "type": "series",
     "imdb_id": "tt24191416"
@@ -90,8 +45,43 @@
     "imdb_id": "tt8483276"
   },
   {
+    "name": "X-Men",
+    "type": "series",
+    "imdb_id": "tt0103584"
+  },
+  {
+    "name": "The Guardians of Carcosa",
+    "type": "series",
+    "imdb_id": "tt29729800"
+  },
+  {
     "name": "Chiikawa",
     "type": "series",
     "imdb_id": "tt26997679"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Victorious",
+    "type": "series",
+    "imdb_id": "tt1604099"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   }
 ]

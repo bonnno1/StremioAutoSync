@@ -40,14 +40,14 @@
     "imdb_id": "tt31050594"
   },
   {
-    "name": "Hellfire",
-    "type": "movie",
-    "imdb_id": "tt14507394"
-  },
-  {
     "name": "How to Make a Killing",
     "type": "movie",
     "imdb_id": "tt4357198"
+  },
+  {
+    "name": "Hellfire",
+    "type": "movie",
+    "imdb_id": "tt14507394"
   },
   {
     "name": "The Housemaid",
@@ -85,11 +85,6 @@
     "imdb_id": "tt33014583"
   },
   {
-    "name": "Lilly Lives Alone",
-    "type": "movie",
-    "imdb_id": "tt22169494"
-  },
-  {
     "name": "One Battle After Another",
     "type": "movie",
     "imdb_id": "tt30144839"
@@ -98,5 +93,10 @@
     "name": "Hunting Season",
     "type": "movie",
     "imdb_id": "tt32537226"
+  },
+  {
+    "name": "Sinners",
+    "type": "movie",
+    "imdb_id": "tt31193180"
   }
 ]
