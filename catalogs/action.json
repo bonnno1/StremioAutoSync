@@ -35,11 +35,6 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Maken-Ki! Battling Venus",
     "type": "series",
     "imdb_id": "tt3692198"
@@ -70,6 +65,11 @@
     "imdb_id": "tt0168366"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
@@ -80,6 +80,11 @@
     "imdb_id": "tt2193021"
   },
   {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
+  },
+  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
@@ -88,10 +93,5 @@
     "name": "3000 Leagues in Search of Mother",
     "type": "series",
     "imdb_id": "tt0074002"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
   }
 ]
