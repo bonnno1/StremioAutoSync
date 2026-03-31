@@ -20,19 +20,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
   },
   {
     "name": "The Mandalorian",
@@ -40,24 +30,19 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
     "name": "O11CE: New Generation",
     "type": "series",
     "imdb_id": "tt40526776"
-  },
-  {
-    "name": "Lucky Luke",
-    "type": "series",
-    "imdb_id": "tt33560536"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
   },
   {
     "name": "WandaVision",
@@ -65,29 +50,9 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Wonder Man",
-    "type": "series",
-    "imdb_id": "tt21066182"
   },
   {
     "name": "Hawkeye",
@@ -95,8 +60,43 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "X-Men '97",
+    "name": "Wonder Man",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt21066182"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Lucky Luke",
+    "type": "series",
+    "imdb_id": "tt33560536"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "The Book of Boba Fett",
+    "type": "series",
+    "imdb_id": "tt13668894"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   }
 ]

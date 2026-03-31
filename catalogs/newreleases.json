@@ -5,6 +5,11 @@
     "imdb_id": "tt0088512"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
@@ -15,24 +20,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "La Revuelta",
     "type": "series",
     "imdb_id": "tt33362276"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -40,24 +30,14 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Raw",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt3697842"
   },
   {
-    "name": "FBI",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Mayday",
-    "type": "series",
-    "imdb_id": "tt0386950"
-  },
-  {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Shopping Queen",
@@ -65,14 +45,9 @@
     "imdb_id": "tt2206845"
   },
   {
-    "name": "Hello Saturday",
+    "name": "Will Trent",
     "type": "series",
-    "imdb_id": "tt30985733"
-  },
-  {
-    "name": "Swallowed Star",
-    "type": "series",
-    "imdb_id": "tt17050076"
+    "imdb_id": "tt17543592"
   },
   {
     "name": "Binnelanders",
@@ -80,14 +55,9 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "Paradise",
+    "name": "Who's the Murderer",
     "type": "series",
-    "imdb_id": "tt27444205"
-  },
-  {
-    "name": "The Voice",
-    "type": "series",
-    "imdb_id": "tt1839337"
+    "imdb_id": "tt9332934"
   },
   {
     "name": "112 Vandaag",
@@ -95,8 +65,38 @@
     "imdb_id": "tt33080231"
   },
   {
-    "name": "Home and Away",
+    "name": "Shortland Street",
     "type": "series",
-    "imdb_id": "tt0094481"
+    "imdb_id": "tt0098911"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "High Potential",
+    "type": "series",
+    "imdb_id": "tt22091076"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "LIVE with Kelly and Mark",
+    "type": "series",
+    "imdb_id": "tt0096636"
+  },
+  {
+    "name": "Markus Lanz",
+    "type": "series",
+    "imdb_id": "tt1239083"
+  },
+  {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
   }
 ]

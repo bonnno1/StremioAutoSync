@@ -1,10 +1,5 @@
 [
   {
-    "name": "Peaky Blinders",
-    "type": "series",
-    "imdb_id": "tt2442560"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -15,14 +10,19 @@
     "imdb_id": "tt0185103"
   },
   {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
+  },
+  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -35,24 +35,29 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "The Sandman",
     "type": "series",
     "imdb_id": "tt1751634"
   },
   {
-    "name": "Orange Is the New Black",
+    "name": "Something Very Bad Is Going to Happen",
     "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt32937780"
   },
   {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   },
   {
     "name": "Designated Survivor",
@@ -65,29 +70,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Something Very Bad is Going to Happen",
-    "type": "series",
-    "imdb_id": "tt32937780"
   },
   {
     "name": "You",
@@ -95,8 +80,23 @@
     "imdb_id": "tt7335184"
   },
   {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
     "name": "Detective Hole",
     "type": "series",
     "imdb_id": "tt31810018"
+  },
+  {
+    "name": "Marvel's Daredevil",
+    "type": "series",
+    "imdb_id": "tt3322312"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   }
 ]
