@@ -10,14 +10,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
     "name": "3000 Leagues in Search of Mother",
     "type": "series",
     "imdb_id": "tt0074002"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
   },
   {
     "name": "The Chosen",
@@ -25,9 +25,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Heartland",
+    "name": "Kang's Family",
     "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt7803586"
   },
   {
     "name": "Dancing with the Stars",
@@ -35,24 +35,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "The Goldbergs",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt2712740"
+    "imdb_id": "tt0106004"
   },
   {
-    "name": "Jeopardy!",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Beni Affet",
-    "type": "series",
-    "imdb_id": "tt2247207"
-  },
-  {
-    "name": "Family Matters",
-    "type": "series",
-    "imdb_id": "tt0096579"
+    "imdb_id": "tt1094229"
   },
   {
     "name": "Young Sheldon",
@@ -60,19 +50,14 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
   },
   {
     "name": "Teen Titans Go!",
@@ -80,13 +65,33 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Doraemon",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0118375"
   },
   {
-    "name": "The Red Skelton Show",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0043224"
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Bewitched",
+    "type": "series",
+    "imdb_id": "tt0057733"
+  },
+  {
+    "name": "Family Matters",
+    "type": "series",
+    "imdb_id": "tt0096579"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
   }
 ]

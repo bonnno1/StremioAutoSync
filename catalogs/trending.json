@@ -1,18 +1,28 @@
 [
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
   },
   {
+    "name": "Classroom of the Elite",
+    "type": "series",
+    "imdb_id": "tt7263328"
+  },
+  {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
   },
   {
     "name": "Detective Hole",
@@ -30,39 +40,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
-  },
-  {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Paradise",
     "type": "series",
     "imdb_id": "tt27444205"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Pursuit of Jade",
-    "type": "series",
-    "imdb_id": "tt35316225"
-  },
-  {
-    "name": "Love Beyond the Grave",
-    "type": "series",
-    "imdb_id": "tt32330809"
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Scrubs",
@@ -70,33 +55,48 @@
     "imdb_id": "tt40197357"
   },
   {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
     "name": "The Pitt",
     "type": "series",
     "imdb_id": "tt31938062"
   },
   {
-    "name": "If It's Tuesday... It's Murder",
+    "name": "Dear Killer Nannies",
     "type": "series",
-    "imdb_id": "tt32474482"
+    "imdb_id": "tt32125946"
   },
   {
-    "name": "Hell's Paradise",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt13911284"
+    "imdb_id": "tt2359704"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Pursuit of Jade",
     "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "The Madison",
-    "type": "series",
-    "imdb_id": "tt33204276"
-  },
-  {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
+    "imdb_id": "tt35316225"
   }
 ]
