@@ -1,33 +1,13 @@
 [
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Game of Thrones",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Doctor Who",
@@ -35,9 +15,54 @@
     "imdb_id": "tt0436992"
   },
   {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "3000 Leagues in Search of Mother",
     "type": "series",
     "imdb_id": "tt0074002"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Maken-Ki! Battling Venus",
@@ -50,48 +75,23 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Star Trek: Voyager",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt0112178"
   },
   {
-    "name": "Invincible",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt8677202"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt1520211"
   }
 ]

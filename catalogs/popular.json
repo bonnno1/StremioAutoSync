@@ -1,5 +1,10 @@
 [
   {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
     "name": "EastEnders",
     "type": "series",
     "imdb_id": "tt0088512"
@@ -8,11 +13,6 @@
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
   },
   {
     "name": "NCIS",
@@ -25,6 +25,16 @@
     "imdb_id": "tt0460681"
   },
   {
+    "name": "Bones",
+    "type": "series",
+    "imdb_id": "tt0460627"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -35,39 +45,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Bones",
-    "type": "series",
-    "imdb_id": "tt0460627"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
-  },
-  {
-    "name": "Peaky Blinders",
-    "type": "series",
-    "imdb_id": "tt2442560"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
   },
   {
     "name": "The Daily Show",
@@ -80,18 +60,38 @@
     "imdb_id": "tt0247082"
   },
   {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Game of Thrones",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
   }
 ]
