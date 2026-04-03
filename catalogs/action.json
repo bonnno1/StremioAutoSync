@@ -10,6 +10,16 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
@@ -20,9 +30,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Smallville",
+    "name": "3000 Leagues in Search of Mother",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0074002"
   },
   {
     "name": "Game of Thrones",
@@ -30,9 +40,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "3000 Leagues in Search of Mother",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt0074002"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Doraemon",
@@ -43,11 +53,6 @@
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "Hawaii Five-0",
@@ -63,6 +68,11 @@
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Maken-Ki! Battling Venus",
@@ -83,15 +93,5 @@
     "name": "Star Trek: Voyager",
     "type": "series",
     "imdb_id": "tt0112178"
-  },
-  {
-    "name": "Pleasant Goat and Big Big Wolf",
-    "type": "series",
-    "imdb_id": "tt8677202"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   }
 ]

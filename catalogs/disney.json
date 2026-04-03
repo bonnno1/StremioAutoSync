@@ -10,6 +10,11 @@
     "imdb_id": "tt0463398"
   },
   {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
@@ -25,9 +30,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "The Mandalorian",
@@ -35,59 +40,29 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "What If...?",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt10168312"
+    "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Dear Killer Nannies",
+    "type": "series",
+    "imdb_id": "tt32125946"
+  },
+  {
+    "name": "If It's Tuesday, It's Murder",
+    "type": "series",
+    "imdb_id": "tt32474482"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Lucky Luke",
     "type": "series",
     "imdb_id": "tt33560536"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "If It's Tuesday... It's Murder",
-    "type": "series",
-    "imdb_id": "tt32474482"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "O11CE: New Generation",
-    "type": "series",
-    "imdb_id": "tt40526776"
-  },
-  {
-    "name": "Ironheart",
-    "type": "series",
-    "imdb_id": "tt13623126"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Wonder Man",
-    "type": "series",
-    "imdb_id": "tt21066182"
   },
   {
     "name": "Moving",
@@ -98,5 +73,30 @@
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   }
 ]

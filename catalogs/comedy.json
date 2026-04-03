@@ -1,5 +1,15 @@
 [
   {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -10,19 +20,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   },
   {
     "name": "Running Man",
@@ -33,6 +33,11 @@
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
+  },
+  {
+    "name": "XO, Kitty",
+    "type": "series",
+    "imdb_id": "tt14490706"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -50,14 +55,14 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "American Dad!",
@@ -83,10 +88,5 @@
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
   }
 ]
