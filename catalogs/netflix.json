@@ -10,14 +10,19 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt26315487"
   },
   {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
   },
   {
     "name": "Bridgerton",
@@ -40,54 +45,14 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Something Very Bad Is Going to Happen",
-    "type": "series",
-    "imdb_id": "tt32937780"
-  },
-  {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
-    "name": "Detective Hole",
-    "type": "series",
-    "imdb_id": "tt31810018"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Beauty in Black",
@@ -95,8 +60,43 @@
     "imdb_id": "tt31260386"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Something Very Bad Is Going to Happen",
+    "type": "series",
+    "imdb_id": "tt32937780"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   }
 ]

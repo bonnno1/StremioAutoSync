@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
@@ -8,11 +13,6 @@
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -60,11 +60,6 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
@@ -78,6 +73,11 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Peaky Blinders",
