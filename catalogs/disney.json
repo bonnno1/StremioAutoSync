@@ -15,6 +15,11 @@
     "imdb_id": "tt11147852"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
@@ -25,9 +30,9 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Andor",
+    "name": "Dear Killer Nannies",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt32125946"
   },
   {
     "name": "What If...?",
@@ -45,19 +50,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Dear Killer Nannies",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt32125946"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "If It's Tuesday, It's Murder",
     "type": "series",
     "imdb_id": "tt32474482"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "Lucky Luke",
@@ -75,9 +75,9 @@
     "imdb_id": "tt31867798"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Moon Knight",
@@ -85,18 +85,18 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
-  },
-  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   }
 ]

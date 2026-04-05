@@ -15,34 +15,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -50,9 +25,49 @@
     "imdb_id": "tt12343534"
   },
   {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Peaky Blinders",
+    "type": "series",
+    "imdb_id": "tt2442560"
+  },
+  {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Bones",
+    "type": "series",
+    "imdb_id": "tt0460627"
   },
   {
     "name": "Kamen Rider",
@@ -65,28 +80,13 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Bones",
-    "type": "series",
-    "imdb_id": "tt0460627"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Invincible",
+    "name": "XO, Kitty",
     "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "Peaky Blinders",
-    "type": "series",
-    "imdb_id": "tt2442560"
-  },
-  {
-    "name": "CSI: Crime Scene Investigation",
-    "type": "series",
-    "imdb_id": "tt0247082"
+    "imdb_id": "tt14490706"
   }
 ]

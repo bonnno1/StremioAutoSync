@@ -1,13 +1,13 @@
 [
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Invincible",
@@ -25,14 +25,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt26315487"
   },
   {
     "name": "Doctor Who",
@@ -88,10 +93,5 @@
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
   }
 ]
