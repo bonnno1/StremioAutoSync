@@ -20,19 +20,34 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
   },
   {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Imperfect Women",
+    "type": "series",
+    "imdb_id": "tt31937954"
   },
   {
     "name": "See",
@@ -43,21 +58,6 @@
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Imperfect Women",
-    "type": "series",
-    "imdb_id": "tt31937954"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Ted Lasso",
@@ -75,11 +75,6 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "The Hunt",
-    "type": "series",
-    "imdb_id": "tt33086602"
-  },
-  {
     "name": "Masters of the Air",
     "type": "series",
     "imdb_id": "tt2640044"
@@ -90,13 +85,18 @@
     "imdb_id": "tt26862142"
   },
   {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
+  },
+  {
     "name": "Schmigadoon!",
     "type": "series",
     "imdb_id": "tt11808942"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Pachinko",
     "type": "series",
-    "imdb_id": "tt8879940"
+    "imdb_id": "tt8888462"
   }
 ]
