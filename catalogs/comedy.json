@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -10,14 +15,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "XO, Kitty",
     "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt14490706"
   },
   {
     "name": "Family Guy",
@@ -25,9 +25,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt2185037"
   },
   {
     "name": "Doraemon",
@@ -35,19 +35,19 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
   },
   {
-    "name": "XO, Kitty",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt14490706"
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Friends",
@@ -65,9 +65,14 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "The Late Late Show with Craig Ferguson",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0437729"
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -75,14 +80,9 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Arli$$",
     "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt0115101"
   },
   {
     "name": "South Park",

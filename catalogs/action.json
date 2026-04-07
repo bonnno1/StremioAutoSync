@@ -1,8 +1,8 @@
 [
   {
-    "name": "Kamen Rider",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -10,14 +10,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "NCIS",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt26315487"
   },
   {
     "name": "Invincible",
@@ -25,14 +20,19 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
   },
   {
     "name": "Game of Thrones",
@@ -40,34 +40,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "The Boys",
@@ -75,9 +50,24 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Stargate SG-1",
@@ -85,13 +75,23 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
   }
 ]

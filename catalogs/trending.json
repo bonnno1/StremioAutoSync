@@ -1,18 +1,8 @@
 [
   {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
   },
   {
     "name": "Daredevil: Born Again",
@@ -20,14 +10,24 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Bloodhounds",
+    "type": "series",
+    "imdb_id": "tt26315487"
+  },
+  {
+    "name": "Star Wars: Maul - Shadow Lord",
+    "type": "series",
+    "imdb_id": "tt36594331"
+  },
+  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
   },
   {
     "name": "Invincible",
@@ -35,14 +35,24 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Boys",
+    "name": "ONE PIECE",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt11737520"
   },
   {
-    "name": "Dorohedoro",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt11147852"
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Witch Hat Atelier",
+    "type": "series",
+    "imdb_id": "tt32550889"
+  },
+  {
+    "name": "That Time I Got Reincarnated as a Slime",
+    "type": "series",
+    "imdb_id": "tt9054364"
   },
   {
     "name": "The Pitt",
@@ -50,34 +60,9 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "Paradise",
-    "type": "series",
-    "imdb_id": "tt27444205"
-  },
-  {
     "name": "XO, Kitty",
     "type": "series",
     "imdb_id": "tt14490706"
-  },
-  {
-    "name": "Daemons of the Shadow Realm",
-    "type": "series",
-    "imdb_id": "tt37532356"
-  },
-  {
-    "name": "ONE PIECE",
-    "type": "series",
-    "imdb_id": "tt11737520"
-  },
-  {
-    "name": "Agent from Above",
-    "type": "series",
-    "imdb_id": "tt23220752"
   },
   {
     "name": "Dr. STONE",
@@ -85,9 +70,24 @@
     "imdb_id": "tt9679542"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Daemons of the Shadow Realm",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt37532356"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
+    "name": "The Dark Romance",
+    "type": "series",
+    "imdb_id": "tt41150762"
   },
   {
     "name": "For All Mankind",
@@ -95,8 +95,8 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "That Time I Got Reincarnated as a Slime",
+    "name": "Agent from Above",
     "type": "series",
-    "imdb_id": "tt9054364"
+    "imdb_id": "tt23220752"
   }
 ]
