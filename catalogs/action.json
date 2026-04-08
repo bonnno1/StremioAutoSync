@@ -25,6 +25,11 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
@@ -43,11 +48,6 @@
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
   },
   {
     "name": "Lost",
@@ -85,13 +85,13 @@
     "imdb_id": "tt0168366"
   },
   {
+    "name": "Star Wars: Maul - Shadow Lord",
+    "type": "series",
+    "imdb_id": "tt36594331"
+  },
+  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
   }
 ]
