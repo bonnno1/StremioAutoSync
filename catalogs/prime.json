@@ -1,13 +1,13 @@
 [
   {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Invincible",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Vikings",
@@ -30,11 +30,6 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -43,6 +38,11 @@
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
   },
   {
     "name": "House of David",

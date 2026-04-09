@@ -1,5 +1,10 @@
 [
   {
+    "name": "3000 Leagues in Search of Mother",
+    "type": "series",
+    "imdb_id": "tt0074002"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -20,24 +25,14 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "3000 Leagues in Search of Mother",
-    "type": "series",
-    "imdb_id": "tt0074002"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Idol",
-    "type": "series",
-    "imdb_id": "tt1237844"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "PopPixie",
+    "type": "series",
+    "imdb_id": "tt1976263"
   },
   {
     "name": "King of the Hill",
@@ -45,19 +40,14 @@
     "imdb_id": "tt0118375"
   },
   {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   },
   {
     "name": "Golden Boy",
@@ -65,9 +55,19 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "The Nanny",
+    "name": "Idol",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt1237844"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Teen Titans Go!",
@@ -75,13 +75,23 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Chiikawa",
+    "name": "Diagnosis: Murder",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt0105986"
   },
   {
-    "name": "The Red Skelton Show",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt0043224"
+    "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   }
 ]

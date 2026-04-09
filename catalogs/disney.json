@@ -20,11 +20,6 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -33,6 +28,11 @@
     "name": "Dear Killer Nannies",
     "type": "series",
     "imdb_id": "tt32125946"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -70,11 +70,6 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Love Beyond the Grave",
-    "type": "series",
-    "imdb_id": "tt32330809"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
@@ -98,5 +93,10 @@
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   }
 ]

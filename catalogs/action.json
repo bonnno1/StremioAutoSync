@@ -1,13 +1,18 @@
 [
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
+    "name": "3000 Leagues in Search of Mother",
+    "type": "series",
+    "imdb_id": "tt0074002"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
   },
   {
     "name": "Bloodhounds",
@@ -20,24 +25,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Doraemon",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Game of Thrones",
@@ -50,24 +40,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Stargate SG-1",
@@ -80,18 +60,38 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Pokémon",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt0156214"
   },
   {
-    "name": "Star Wars: Maul - Shadow Lord",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt36594331"
+    "imdb_id": "tt0279600"
   },
   {
-    "name": "24",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
   }
 ]
