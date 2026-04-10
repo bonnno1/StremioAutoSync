@@ -15,24 +15,19 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
     "name": "Dear Killer Nannies",
     "type": "series",
     "imdb_id": "tt32125946"
-  },
-  {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -45,9 +40,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Hawkeye",
+    "name": "Dorohedoro",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt11147852"
   },
   {
     "name": "What If...?",
@@ -65,24 +60,14 @@
     "imdb_id": "tt31867798"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Lucky Luke",
-    "type": "series",
-    "imdb_id": "tt33560536"
-  },
-  {
-    "name": "If It's Tuesday, It's Murder",
-    "type": "series",
-    "imdb_id": "tt32474482"
   },
   {
     "name": "Moon Knight",
@@ -95,8 +80,23 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Lucky Luke",
+    "type": "series",
+    "imdb_id": "tt33560536"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
   }
 ]
