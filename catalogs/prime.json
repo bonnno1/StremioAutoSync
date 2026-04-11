@@ -45,24 +45,14 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "House of David",
     "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt30955673"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -70,23 +60,33 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
   },
   {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   }
 ]
