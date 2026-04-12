@@ -1,13 +1,13 @@
 [
   {
+    "name": "3000 Leagues in Search of Mother",
+    "type": "series",
+    "imdb_id": "tt0074002"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "PopPixie",
@@ -15,14 +15,19 @@
     "imdb_id": "tt1976263"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Doraemon",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0106080"
   },
   {
     "name": "Frasier",
@@ -35,44 +40,14 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
-    "name": "The Red Skelton Show",
-    "type": "series",
-    "imdb_id": "tt0043224"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Golden Boy",
-    "type": "series",
-    "imdb_id": "tt21105088"
   },
   {
     "name": "Deep In Love",
@@ -80,8 +55,43 @@
     "imdb_id": "tt38647499"
   },
   {
-    "name": "Jeopardy!",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0159881"
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Golden Boy",
+    "type": "series",
+    "imdb_id": "tt21105088"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "type": "series",
+    "imdb_id": "tt0071007"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Everwood",
+    "type": "series",
+    "imdb_id": "tt0318883"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
   }
 ]
