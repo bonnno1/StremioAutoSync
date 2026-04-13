@@ -1,5 +1,10 @@
 [
   {
+    "name": "De Fabeltjeskrant",
+    "type": "series",
+    "imdb_id": "tt0294075"
+  },
+  {
     "name": "PopPixie",
     "type": "series",
     "imdb_id": "tt1976263"
@@ -15,19 +20,14 @@
     "imdb_id": "tt2398674"
   },
   {
-    "name": "De Fabeltjeskrant",
-    "type": "series",
-    "imdb_id": "tt0294075"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Peppa Pig",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "PAW Patrol",
@@ -40,9 +40,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Pleasant Goat and Big Big Wolf",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt8677202"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Pokémon Horizons",
@@ -50,24 +50,14 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt8677202"
   },
   {
-    "name": "GG Bond",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "Super Wings",
@@ -75,14 +65,29 @@
     "imdb_id": "tt3600266"
   },
   {
-    "name": "The Guardians of Carcosa",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt29729800"
+    "imdb_id": "tt0069576"
   },
   {
-    "name": "3000 Whys of Blue Cat",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt8483276"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   },
   {
     "name": "Chiikawa",
@@ -90,8 +95,8 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Bluey",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0175058"
   }
 ]

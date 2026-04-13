@@ -5,29 +5,9 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "3000 Leagues in Search of Mother",
     "type": "series",
     "imdb_id": "tt0074002"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
   },
   {
     "name": "The Rookie",
@@ -35,19 +15,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "NCIS",
+    "name": "Grey's Anatomy",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0413573"
   },
   {
-    "name": "The Daily Show",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Malcolm in the Middle: Life's Still Unfair",
@@ -55,19 +30,24 @@
     "imdb_id": "tt35466672"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Family Guy",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0460681"
   },
   {
-    "name": "CSI: Crime Scene Investigation",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0247082"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Invincible",
@@ -75,9 +55,24 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Bones",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt0460627"
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Peaky Blinders",
+    "type": "series",
+    "imdb_id": "tt2442560"
   },
   {
     "name": "PopPixie",
@@ -85,13 +80,18 @@
     "imdb_id": "tt1976263"
   },
   {
-    "name": "Law & Order",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt0182576"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Bones",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0460627"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
   }
 ]

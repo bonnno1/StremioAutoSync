@@ -35,11 +35,6 @@
     "imdb_id": "tt2185037"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
@@ -58,6 +53,11 @@
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "XO, Kitty",
@@ -80,14 +80,14 @@
     "imdb_id": "tt39333617"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
   },
   {
     "name": "South Park",
