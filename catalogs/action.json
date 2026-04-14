@@ -55,11 +55,6 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
@@ -68,6 +63,11 @@
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Lost",
@@ -80,18 +80,18 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]

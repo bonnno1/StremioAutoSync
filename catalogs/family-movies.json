@@ -50,24 +50,24 @@
     "imdb_id": "tt27604215"
   },
   {
-    "name": "We Bare Bears: The Movie",
-    "type": "movie",
-    "imdb_id": "tt10474606"
-  },
-  {
     "name": "Kung Fu Panda 4",
     "type": "movie",
     "imdb_id": "tt21692408"
   },
   {
+    "name": "We Bare Bears: The Movie",
+    "type": "movie",
+    "imdb_id": "tt10474606"
+  },
+  {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
+  },
+  {
     "name": "Spirited Away",
     "type": "movie",
     "imdb_id": "tt0245429"
-  },
-  {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
   },
   {
     "name": "Despicable Me 4",
@@ -85,11 +85,6 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "Moana 2",
-    "type": "movie",
-    "imdb_id": "tt13622970"
-  },
-  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
@@ -98,5 +93,10 @@
     "name": "Coraline",
     "type": "movie",
     "imdb_id": "tt0327597"
+  },
+  {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
   }
 ]

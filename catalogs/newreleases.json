@@ -1,8 +1,13 @@
 [
   {
-    "name": "The Rookie",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "The Daily Show",
@@ -15,29 +20,14 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Veil of Shadows",
-    "type": "series",
-    "imdb_id": "tt35046984"
-  },
-  {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
-  },
-  {
-    "name": "Hello Saturday",
-    "type": "series",
-    "imdb_id": "tt30985733"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
   },
   {
-    "name": "FBI",
+    "name": "Veil of Shadows",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt35046984"
   },
   {
     "name": "Binnelanders",
@@ -45,9 +35,9 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "Raw",
+    "name": "Who's the Murderer",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt9332934"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -55,24 +45,9 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
     "name": "EastEnders",
     "type": "series",
     "imdb_id": "tt0088512"
-  },
-  {
-    "name": "Swallowed Star",
-    "type": "series",
-    "imdb_id": "tt17050076"
-  },
-  {
-    "name": "La promesa",
-    "type": "series",
-    "imdb_id": "tt22325164"
   },
   {
     "name": "Goede Tijden, Slechte Tijden",
@@ -80,23 +55,43 @@
     "imdb_id": "tt0096597"
   },
   {
-    "name": "Far Away",
+    "name": "Will Trent",
     "type": "series",
-    "imdb_id": "tt34063491"
+    "imdb_id": "tt17543592"
   },
   {
-    "name": "Murdoch Mysteries",
+    "name": "Chiikawa",
     "type": "series",
-    "imdb_id": "tt1091909"
-  },
-  {
-    "name": "HaHaHaHaHa",
-    "type": "series",
-    "imdb_id": "tt14098718"
+    "imdb_id": "tt26997679"
   },
   {
     "name": "The Voice",
     "type": "series",
     "imdb_id": "tt1839337"
+  },
+  {
+    "name": "Jimmy Kimmel Live!",
+    "type": "series",
+    "imdb_id": "tt0320037"
+  },
+  {
+    "name": "Shopping Queen",
+    "type": "series",
+    "imdb_id": "tt2206845"
+  },
+  {
+    "name": "Home and Away",
+    "type": "series",
+    "imdb_id": "tt0094481"
+  },
+  {
+    "name": "Tomorrow Is Ours",
+    "type": "series",
+    "imdb_id": "tt7124904"
+  },
+  {
+    "name": "Mehmed: Sultan of Conquests",
+    "type": "series",
+    "imdb_id": "tt31323988"
   }
 ]

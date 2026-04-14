@@ -5,6 +5,11 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
     "name": "3000 Leagues in Search of Mother",
     "type": "series",
     "imdb_id": "tt0074002"
@@ -13,6 +18,16 @@
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Malcolm in the Middle: Life's Still Unfair",
+    "type": "series",
+    "imdb_id": "tt35466672"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Grey's Anatomy",
@@ -25,11 +40,6 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Malcolm in the Middle: Life's Still Unfair",
-    "type": "series",
-    "imdb_id": "tt35466672"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -38,11 +48,6 @@
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
   },
   {
     "name": "NCIS",
@@ -55,14 +60,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "House",
+    "name": "Perfect Crown",
     "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt39333617"
   },
   {
     "name": "The Mentalist",
@@ -70,28 +70,23 @@
     "imdb_id": "tt1196946"
   },
   {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "De Fabeltjeskrant",
+    "type": "series",
+    "imdb_id": "tt0294075"
+  },
+  {
     "name": "Peaky Blinders",
     "type": "series",
     "imdb_id": "tt2442560"
   },
   {
-    "name": "PopPixie",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt1976263"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Bones",
-    "type": "series",
-    "imdb_id": "tt0460627"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt12343534"
   }
 ]
