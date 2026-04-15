@@ -30,14 +30,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -45,19 +45,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "House of David",
-    "type": "series",
-    "imdb_id": "tt30955673"
-  },
-  {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -65,14 +60,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Gen V",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Man in the High Castle",
@@ -83,6 +73,16 @@
     "name": "Dorohedoro",
     "type": "series",
     "imdb_id": "tt11147852"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Goliath",

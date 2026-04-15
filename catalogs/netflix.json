@@ -30,9 +30,14 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "Sesame Street",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
   },
   {
     "name": "Black Mirror",
@@ -45,24 +50,9 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
   },
   {
     "name": "Elite",
@@ -70,19 +60,24 @@
     "imdb_id": "tt7134908"
   },
   {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Bandi",
+    "type": "series",
+    "imdb_id": "tt37024175"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "3 Body Problem",
-    "type": "series",
-    "imdb_id": "tt13016388"
   },
   {
     "name": "Squid Game",
@@ -90,13 +85,18 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "3 Body Problem",
+    "type": "series",
+    "imdb_id": "tt13016388"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
   }
 ]

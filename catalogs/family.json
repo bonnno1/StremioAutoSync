@@ -1,10 +1,5 @@
 [
   {
-    "name": "3000 Leagues in Search of Mother",
-    "type": "series",
-    "imdb_id": "tt0074002"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -20,29 +15,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Jeopardy!",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt0071007"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0106080"
   },
   {
     "name": "Young Sheldon",
@@ -50,19 +30,24 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "3000 Leagues in Search of Mother",
+    "type": "series",
+    "imdb_id": "tt0074002"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "King of the Hill",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Everwood",
-    "type": "series",
-    "imdb_id": "tt0318883"
+    "imdb_id": "tt0077000"
   },
   {
     "name": "Deep In Love",
@@ -70,19 +55,34 @@
     "imdb_id": "tt38647499"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Little House on the Prairie",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0071007"
   },
   {
-    "name": "Doraemon",
+    "name": "Everwood",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0318883"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   },
   {
     "name": "Rugrats",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Forbidden Fruit",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt8045936"
   }
 ]
