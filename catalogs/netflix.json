@@ -30,19 +30,9 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Beauty in Black",
     "type": "series",
     "imdb_id": "tt31260386"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "You",
@@ -55,9 +45,19 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Wednesday",
@@ -85,14 +85,14 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "3 Body Problem",
-    "type": "series",
-    "imdb_id": "tt13016388"
-  },
-  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
+  },
+  {
+    "name": "3 Body Problem",
+    "type": "series",
+    "imdb_id": "tt13016388"
   },
   {
     "name": "The Witcher",

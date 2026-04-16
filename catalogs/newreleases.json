@@ -1,18 +1,23 @@
 [
   {
-    "name": "The Boys",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Invincible",
-    "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
+  },
+  {
+    "name": "The Pitt",
+    "type": "series",
+    "imdb_id": "tt31938062"
+  },
+  {
+    "name": "Who's the Murderer",
+    "type": "series",
+    "imdb_id": "tt9332934"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -25,29 +30,9 @@
     "imdb_id": "tt35046984"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
-  },
-  {
-    "name": "Esref's Dream",
-    "type": "series",
-    "imdb_id": "tt35069642"
-  },
-  {
-    "name": "Who's the Murderer",
-    "type": "series",
-    "imdb_id": "tt9332934"
-  },
-  {
-    "name": "Classroom of the Elite",
-    "type": "series",
-    "imdb_id": "tt7263328"
   },
   {
     "name": "Binnelanders",
@@ -55,14 +40,19 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "NOVA",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt0206501"
+    "imdb_id": "tt7772588"
   },
   {
-    "name": "The Testaments",
+    "name": "Your Friends & Neighbors",
     "type": "series",
-    "imdb_id": "tt10970762"
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Hacks",
+    "type": "series",
+    "imdb_id": "tt11815682"
   },
   {
     "name": "Jeopardy!",
@@ -70,14 +60,9 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "Survivor",
+    "name": "Ride the Wind",
     "type": "series",
-    "imdb_id": "tt0239195"
-  },
-  {
-    "name": "Throne of Seal",
-    "type": "series",
-    "imdb_id": "tt19902148"
+    "imdb_id": "tt21263056"
   },
   {
     "name": "Coronation Street",
@@ -90,8 +75,23 @@
     "imdb_id": "tt22325164"
   },
   {
+    "name": "Ghosts",
+    "type": "series",
+    "imdb_id": "tt11379026"
+  },
+  {
+    "name": "Tomorrow Is Ours",
+    "type": "series",
+    "imdb_id": "tt7124904"
+  },
+  {
     "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
     "imdb_id": "tt0103434"
+  },
+  {
+    "name": "EastEnders",
+    "type": "series",
+    "imdb_id": "tt0088512"
   }
 ]
