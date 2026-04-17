@@ -10,6 +10,11 @@
     "imdb_id": "tt36594331"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -18,11 +23,6 @@
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
   },
   {
     "name": "Dancing with the Stars",
@@ -45,19 +45,9 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Wizards Beyond Waverly Place",
     "type": "series",
     "imdb_id": "tt31867798"
-  },
-  {
-    "name": "Dear Killer Nannies",
-    "type": "series",
-    "imdb_id": "tt32125946"
   },
   {
     "name": "Loki",
@@ -65,9 +55,24 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Dear Killer Nannies",
+    "type": "series",
+    "imdb_id": "tt32125946"
+  },
+  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -80,23 +85,18 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Moon Knight",
+    "name": "Ahsoka",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt13622776"
   },
   {
-    "name": "The Falcon and the Winter Soldier",
+    "name": "The Artful Dodger",
     "type": "series",
-    "imdb_id": "tt9208876"
+    "imdb_id": "tt20285780"
   }
 ]

@@ -35,19 +35,14 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -55,29 +50,29 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Marvel's Agents of S.H.I.E.L.D.",
-    "type": "series",
-    "imdb_id": "tt2364582"
   },
   {
     "name": "Arrow",
@@ -93,5 +88,10 @@
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]

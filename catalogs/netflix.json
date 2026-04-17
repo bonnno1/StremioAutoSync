@@ -10,14 +10,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "XO, Kitty",
-    "type": "series",
-    "imdb_id": "tt14490706"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "XO, Kitty",
+    "type": "series",
+    "imdb_id": "tt14490706"
   },
   {
     "name": "ONE PIECE",
@@ -30,14 +30,9 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "Beauty in Black",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Weak Hero",
@@ -45,39 +40,24 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Elite",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Bandi",
-    "type": "series",
-    "imdb_id": "tt37024175"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Squid Game",
@@ -85,18 +65,38 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
   },
   {
-    "name": "3 Body Problem",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt13016388"
+    "imdb_id": "tt13443470"
   },
   {
-    "name": "The Witcher",
+    "name": "BEEF",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt14403178"
+  },
+  {
+    "name": "Bandi",
+    "type": "series",
+    "imdb_id": "tt37024175"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   }
 ]
