@@ -1,13 +1,18 @@
 [
   {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Euphoria",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt8772296"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "The Pitt",
@@ -15,9 +20,9 @@
     "imdb_id": "tt31938062"
   },
   {
-    "name": "One Piece",
+    "name": "BEEF",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt14403178"
   },
   {
     "name": "Malcolm in the Middle: Life's Still Unfair",
@@ -30,9 +35,19 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Frieren: Beyond Journey's End",
+    "type": "series",
+    "imdb_id": "tt22248376"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -40,9 +55,9 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "BEEF",
+    "name": "Perfect Crown",
     "type": "series",
-    "imdb_id": "tt14403178"
+    "imdb_id": "tt39333617"
   },
   {
     "name": "Star Wars: Maul - Shadow Lord",
@@ -55,39 +70,9 @@
     "imdb_id": "tt5607616"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Scrubs",
     "type": "series",
     "imdb_id": "tt40197357"
-  },
-  {
-    "name": "Perfect Crown",
-    "type": "series",
-    "imdb_id": "tt39333617"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
-  },
-  {
-    "name": "The Testaments",
-    "type": "series",
-    "imdb_id": "tt10970762"
-  },
-  {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
   },
   {
     "name": "The Rookie",
@@ -95,8 +80,23 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Bloodhounds",
+    "name": "FROM",
     "type": "series",
-    "imdb_id": "tt26315487"
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Margo's Got Money Troubles",
+    "type": "series",
+    "imdb_id": "tt31137273"
+  },
+  {
+    "name": "The Testaments",
+    "type": "series",
+    "imdb_id": "tt10970762"
+  },
+  {
+    "name": "Ascendance of a Bookworm",
+    "type": "series",
+    "imdb_id": "tt10885406"
   }
 ]

@@ -15,11 +15,6 @@
     "imdb_id": "tt6718170"
   },
   {
-    "name": "Avatar: Aang, The Last Airbender",
-    "type": "movie",
-    "imdb_id": "tt18259538"
-  },
-  {
     "name": "GOAT",
     "type": "movie",
     "imdb_id": "tt27613895"
@@ -55,11 +50,6 @@
     "imdb_id": "tt23572848"
   },
   {
-    "name": "Frozen II",
-    "type": "movie",
-    "imdb_id": "tt4520988"
-  },
-  {
     "name": "Spirited Away",
     "type": "movie",
     "imdb_id": "tt0245429"
@@ -70,14 +60,14 @@
     "imdb_id": "tt15678738"
   },
   {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
   },
   {
     "name": "Despicable Me 4",
@@ -85,9 +75,14 @@
     "imdb_id": "tt7510222"
   },
   {
-    "name": "A Minecraft Movie",
+    "name": "Frozen II",
     "type": "movie",
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt4520988"
+  },
+  {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
   },
   {
     "name": "The Lion King",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0110357"
   },
   {
-    "name": "Shrek",
+    "name": "A Minecraft Movie",
     "type": "movie",
-    "imdb_id": "tt0126029"
+    "imdb_id": "tt3566834"
+  },
+  {
+    "name": "Inside Out 2",
+    "type": "movie",
+    "imdb_id": "tt22022452"
   }
 ]
