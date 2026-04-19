@@ -10,6 +10,11 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
@@ -18,11 +23,6 @@
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "Game of Thrones",
@@ -40,19 +40,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -60,9 +55,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt0118480"
   },
   {
     "name": "The Walking Dead",
@@ -70,19 +65,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
   },
   {
-    "name": "Doraemon",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt22248376"
   },
   {
     "name": "Prison Break",
@@ -90,8 +80,18 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Frieren: Beyond Journey's End",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt22248376"
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
   }
 ]

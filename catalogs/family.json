@@ -15,11 +15,6 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
@@ -35,9 +30,19 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "PopPixie",
+    "name": "Deep In Love",
     "type": "series",
-    "imdb_id": "tt1976263"
+    "imdb_id": "tt38647499"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Frasier",
@@ -45,14 +50,19 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
+  },
+  {
+    "name": "The Epoch of Miyu",
+    "type": "series",
+    "imdb_id": "tt35288198"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Dallas",
@@ -65,14 +75,9 @@
     "imdb_id": "tt0318883"
   },
   {
-    "name": "Deep In Love",
+    "name": "Heartland",
     "type": "series",
-    "imdb_id": "tt38647499"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt0071007"
+    "imdb_id": "tt1094229"
   },
   {
     "name": "Lassie",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0046617"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Heartland",
+    "name": "Little House on the Prairie",
     "type": "series",
-    "imdb_id": "tt1094229"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0071007"
   }
 ]
