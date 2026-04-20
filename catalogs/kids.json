@@ -25,16 +25,6 @@
     "imdb_id": "tt27502465"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Super Wings",
     "type": "series",
     "imdb_id": "tt3600266"
@@ -45,9 +35,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Bluey",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Peppa Pig",
@@ -55,14 +50,14 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Aikatsu!",
-    "type": "series",
-    "imdb_id": "tt2398674"
   },
   {
     "name": "iCarly",
@@ -70,9 +65,9 @@
     "imdb_id": "tt0972534"
   },
   {
-    "name": "PopPixie",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt1976263"
+    "imdb_id": "tt0175058"
   },
   {
     "name": "We Baby Bears",
@@ -80,9 +75,14 @@
     "imdb_id": "tt13303478"
   },
   {
-    "name": "The Powerpuff Girls",
+    "name": "Mickey Mouse Clubhouse",
     "type": "series",
-    "imdb_id": "tt0175058"
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
   },
   {
     "name": "The Fairly OddParents",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Mickey Mouse Clubhouse",
+    "name": "Thomas & Friends",
     "type": "series",
-    "imdb_id": "tt0784896"
+    "imdb_id": "tt0086815"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
+    "name": "Henry Danger",
     "type": "series",
-    "imdb_id": "tt1877889"
+    "imdb_id": "tt3596174"
   }
 ]

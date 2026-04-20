@@ -1,23 +1,13 @@
 [
   {
-    "name": "Thrash",
-    "type": "movie",
-    "imdb_id": "tt32362890"
-  },
-  {
     "name": "The Mortuary Assistant",
     "type": "movie",
     "imdb_id": "tt36647890"
   },
   {
-    "name": "Lee Cronin's The Mummy",
+    "name": "Thrash",
     "type": "movie",
-    "imdb_id": "tt32612507"
-  },
-  {
-    "name": "Scream 7",
-    "type": "movie",
-    "imdb_id": "tt27047903"
+    "imdb_id": "tt32362890"
   },
   {
     "name": "Send Help",
@@ -25,14 +15,9 @@
     "imdb_id": "tt8036976"
   },
   {
-    "name": "Mudborn",
+    "name": "Lee Cronin's The Mummy",
     "type": "movie",
-    "imdb_id": "tt38365045"
-  },
-  {
-    "name": "Return to Silent Hill",
-    "type": "movie",
-    "imdb_id": "tt22868010"
+    "imdb_id": "tt32612507"
   },
   {
     "name": "The Strangers: Chapter 3",
@@ -45,19 +30,24 @@
     "imdb_id": "tt35892608"
   },
   {
+    "name": "Scream 7",
+    "type": "movie",
+    "imdb_id": "tt27047903"
+  },
+  {
+    "name": "Return to Silent Hill",
+    "type": "movie",
+    "imdb_id": "tt22868010"
+  },
+  {
     "name": "Whistle",
     "type": "movie",
     "imdb_id": "tt29550683"
   },
   {
-    "name": "Pretty Lethal",
+    "name": "The Crucifix: Blood of the Exorcist",
     "type": "movie",
-    "imdb_id": "tt26678938"
-  },
-  {
-    "name": "The Bride!",
-    "type": "movie",
-    "imdb_id": "tt30851137"
+    "imdb_id": "tt32059878"
   },
   {
     "name": "The Yeti",
@@ -65,14 +55,29 @@
     "imdb_id": "tt14500286"
   },
   {
-    "name": "Ready or Not: Here I Come",
+    "name": "Mudborn",
     "type": "movie",
-    "imdb_id": "tt33978029"
+    "imdb_id": "tt38365045"
+  },
+  {
+    "name": "The Bride!",
+    "type": "movie",
+    "imdb_id": "tt30851137"
+  },
+  {
+    "name": "Pretty Lethal",
+    "type": "movie",
+    "imdb_id": "tt26678938"
   },
   {
     "name": "Anaconda",
     "type": "movie",
     "imdb_id": "tt33244668"
+  },
+  {
+    "name": "Ready or Not: Here I Come",
+    "type": "movie",
+    "imdb_id": "tt33978029"
   },
   {
     "name": "The House on Haunted Grounds",
@@ -85,18 +90,13 @@
     "imdb_id": "tt32141377"
   },
   {
-    "name": "The Deadly Little Mermaid",
+    "name": "Lola's Secret",
     "type": "movie",
-    "imdb_id": "tt37455571"
+    "imdb_id": "tt0089790"
   },
   {
     "name": "Kraken",
     "type": "movie",
     "imdb_id": "tt19838566"
-  },
-  {
-    "name": "Lola's Secret",
-    "type": "movie",
-    "imdb_id": "tt0089790"
   }
 ]

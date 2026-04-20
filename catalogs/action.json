@@ -10,16 +10,6 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
-  },
-  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -28,6 +18,16 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Bloodhounds",
+    "type": "series",
+    "imdb_id": "tt26315487"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Smallville",
@@ -45,14 +45,19 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Stargate SG-1",
@@ -65,9 +70,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Arrow",
+    "name": "KinnPorsche: The Series",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt19370256"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Frieren: Beyond Journey's End",
@@ -80,18 +90,8 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt2193021"
   }
 ]

@@ -5,6 +5,11 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
     "name": "Euphoria",
     "type": "series",
     "imdb_id": "tt8772296"
@@ -20,14 +25,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "De Fabeltjeskrant",
-    "type": "series",
-    "imdb_id": "tt0294075"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
+  },
+  {
+    "name": "De Fabeltjeskrant",
+    "type": "series",
+    "imdb_id": "tt0294075"
   },
   {
     "name": "Grey's Anatomy",
@@ -40,16 +45,6 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Malcolm in the Middle: Life's Still Unfair",
-    "type": "series",
-    "imdb_id": "tt35466672"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
@@ -60,19 +55,9 @@
     "imdb_id": "tt2442560"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -90,8 +75,23 @@
     "imdb_id": "tt39333617"
   },
   {
-    "name": "The Pitt",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt31938062"
+    "imdb_id": "tt26315487"
+  },
+  {
+    "name": "Bones",
+    "type": "series",
+    "imdb_id": "tt0460627"
+  },
+  {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
+    "name": "Malcolm in the Middle: Life's Still Unfair",
+    "type": "series",
+    "imdb_id": "tt35466672"
   }
 ]

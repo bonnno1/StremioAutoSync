@@ -40,24 +40,14 @@
     "imdb_id": "tt21692408"
   },
   {
-    "name": "The SpongeBob Movie: Search for SquarePants",
+    "name": "David",
     "type": "movie",
-    "imdb_id": "tt23572848"
+    "imdb_id": "tt15678738"
   },
   {
     "name": "We Bare Bears: The Movie",
     "type": "movie",
     "imdb_id": "tt10474606"
-  },
-  {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
-    "name": "David",
-    "type": "movie",
-    "imdb_id": "tt15678738"
   },
   {
     "name": "Coraline",
@@ -70,24 +60,9 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "The Wild Robot",
+    "name": "Spirited Away",
     "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
-  },
-  {
-    "name": "The Lion King",
-    "type": "movie",
-    "imdb_id": "tt0110357"
-  },
-  {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
+    "imdb_id": "tt0245429"
   },
   {
     "name": "Inside Out 2",
@@ -95,8 +70,33 @@
     "imdb_id": "tt22022452"
   },
   {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
+  },
+  {
     "name": "Turning Red",
     "type": "movie",
     "imdb_id": "tt8097030"
+  },
+  {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
+  },
+  {
+    "name": "The SpongeBob Movie: Search for SquarePants",
+    "type": "movie",
+    "imdb_id": "tt23572848"
+  },
+  {
+    "name": "Toy Story",
+    "type": "movie",
+    "imdb_id": "tt0114709"
+  },
+  {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
   }
 ]
