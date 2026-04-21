@@ -15,14 +15,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "La nena",
     "type": "series",
     "imdb_id": "tt41057629"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -55,9 +55,19 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
     "name": "Dear Killer Nannies",
     "type": "series",
     "imdb_id": "tt32125946"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Moving",
@@ -65,14 +75,9 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "What If...?",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Hawkeye",
@@ -85,18 +90,13 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
     "name": "The Artful Dodger",
     "type": "series",
     "imdb_id": "tt20285780"
   },
   {
-    "name": "WandaVision",
+    "name": "X-Men '97",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt16026746"
   }
 ]

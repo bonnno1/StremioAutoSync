@@ -15,6 +15,11 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "Unchosen",
+    "type": "series",
+    "imdb_id": "tt31631142"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
@@ -25,19 +30,19 @@
     "imdb_id": "tt31938062"
   },
   {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "BEEF",
     "type": "series",
     "imdb_id": "tt14403178"
   },
   {
-    "name": "Star Wars: Maul - Shadow Lord",
+    "name": "Fist of the North Star: HOKUTO NO KEN",
     "type": "series",
-    "imdb_id": "tt36594331"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt29106483"
   },
   {
     "name": "Daredevil: Born Again",
@@ -50,34 +55,19 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Malcolm in the Middle: Life's Still Unfair",
-    "type": "series",
-    "imdb_id": "tt35466672"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
   },
   {
-    "name": "Margo's Got Money Troubles",
+    "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
-    "imdb_id": "tt31137273"
+    "imdb_id": "tt36594331"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Perfect Crown",
@@ -85,18 +75,28 @@
     "imdb_id": "tt39333617"
   },
   {
-    "name": "We Are All Trying Here",
+    "name": "Margo's Got Money Troubles",
     "type": "series",
-    "imdb_id": "tt36732944"
+    "imdb_id": "tt31137273"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Malcolm in the Middle: Life's Still Unfair",
+    "type": "series",
+    "imdb_id": "tt35466672"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Scrubs",
     "type": "series",
     "imdb_id": "tt40197357"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
   }
 ]
