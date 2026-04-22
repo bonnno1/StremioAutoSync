@@ -10,9 +10,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lucifer",
+    "name": "Unchosen",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt31631142"
   },
   {
     "name": "Fake Profile",
@@ -20,14 +20,19 @@
     "imdb_id": "tt14494938"
   },
   {
-    "name": "ONE PIECE",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt11737520"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "ONE PIECE",
+    "type": "series",
+    "imdb_id": "tt11737520"
   },
   {
     "name": "XO, Kitty",
@@ -40,29 +45,14 @@
     "imdb_id": "tt14403178"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Elite",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Black Mirror",
@@ -70,19 +60,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt7134908"
   },
   {
     "name": "Wednesday",
@@ -90,13 +70,33 @@
     "imdb_id": "tt13443470"
   },
   {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   }
 ]
