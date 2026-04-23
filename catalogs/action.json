@@ -30,19 +30,24 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Bloodhounds",
+    "type": "series",
+    "imdb_id": "tt26315487"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -55,19 +60,9 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
   },
   {
     "name": "Prison Break",
@@ -75,14 +70,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Reacher",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "KinnPorsche: The Series",
@@ -90,8 +80,18 @@
     "imdb_id": "tt19370256"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
   }
 ]
