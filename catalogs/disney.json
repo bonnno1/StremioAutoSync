@@ -15,6 +15,21 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
@@ -23,21 +38,6 @@
     "name": "La nena",
     "type": "series",
     "imdb_id": "tt41057629"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
   },
   {
     "name": "What If...?",
@@ -65,11 +65,6 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Dear Killer Nannies",
-    "type": "series",
-    "imdb_id": "tt32125946"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
@@ -85,18 +80,23 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "The Book of Boba Fett",
+    "name": "The Manipulated",
     "type": "series",
-    "imdb_id": "tt13668894"
+    "imdb_id": "tt36188448"
   },
   {
-    "name": "The Artful Dodger",
+    "name": "Dear Killer Nannies",
     "type": "series",
-    "imdb_id": "tt20285780"
+    "imdb_id": "tt32125946"
   },
   {
-    "name": "X-Men '97",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Wonder Man",
+    "type": "series",
+    "imdb_id": "tt21066182"
   }
 ]

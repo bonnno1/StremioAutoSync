@@ -20,16 +20,6 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -40,9 +30,9 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "The Nanny",
@@ -50,19 +40,14 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Deep In Love",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt38647499"
+    "imdb_id": "tt0852863"
   },
   {
-    "name": "The Epoch of Miyu",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt35288198"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Heartland",
@@ -70,19 +55,14 @@
     "imdb_id": "tt1094229"
   },
   {
+    "name": "Deep In Love",
+    "type": "series",
+    "imdb_id": "tt38647499"
+  },
+  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Everwood",
-    "type": "series",
-    "imdb_id": "tt0318883"
   },
   {
     "name": "Far Away",
@@ -90,8 +70,28 @@
     "imdb_id": "tt34063491"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
+    "name": "The Epoch of Miyu",
+    "type": "series",
+    "imdb_id": "tt35288198"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
+  },
+  {
+    "name": "Everwood",
+    "type": "series",
+    "imdb_id": "tt0318883"
   }
 ]
