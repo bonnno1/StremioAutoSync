@@ -35,19 +35,24 @@
     "imdb_id": "tt3502248"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -60,14 +65,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "Matka King",
+    "type": "series",
+    "imdb_id": "tt16997004"
   },
   {
     "name": "The Wheel of Time",
@@ -88,10 +93,5 @@
     "name": "Dorohedoro",
     "type": "series",
     "imdb_id": "tt11147852"
-  },
-  {
-    "name": "Matka King",
-    "type": "series",
-    "imdb_id": "tt16997004"
   }
 ]

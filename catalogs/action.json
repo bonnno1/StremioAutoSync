@@ -20,14 +20,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Stranger Things",
@@ -35,9 +35,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Bloodhounds",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt26315487"
+    "imdb_id": "tt6111130"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -48,6 +48,11 @@
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Bloodhounds",
+    "type": "series",
+    "imdb_id": "tt26315487"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -80,18 +85,13 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "KinnPorsche: The Series",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt19370256"
+    "imdb_id": "tt7491982"
   },
   {
-    "name": "Reacher",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt0285331"
   }
 ]
