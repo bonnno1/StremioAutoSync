@@ -15,14 +15,14 @@
     "imdb_id": "tt32059878"
   },
   {
-    "name": "Lee Cronin's The Mummy",
-    "type": "movie",
-    "imdb_id": "tt32612507"
-  },
-  {
     "name": "Thrash",
     "type": "movie",
     "imdb_id": "tt32362890"
+  },
+  {
+    "name": "Lee Cronin's The Mummy",
+    "type": "movie",
+    "imdb_id": "tt32612507"
   },
   {
     "name": "The Strangers: Chapter 3",
@@ -30,14 +30,19 @@
     "imdb_id": "tt28682323"
   },
   {
+    "name": "Scream 7",
+    "type": "movie",
+    "imdb_id": "tt27047903"
+  },
+  {
     "name": "undertone",
     "type": "movie",
     "imdb_id": "tt35892608"
   },
   {
-    "name": "Scream 7",
+    "name": "Psycho Killer",
     "type": "movie",
-    "imdb_id": "tt27047903"
+    "imdb_id": "tt1764551"
   },
   {
     "name": "Whistle",
@@ -50,19 +55,14 @@
     "imdb_id": "tt33244668"
   },
   {
-    "name": "Return to Silent Hill",
-    "type": "movie",
-    "imdb_id": "tt22868010"
-  },
-  {
-    "name": "Psycho Killer",
-    "type": "movie",
-    "imdb_id": "tt1764551"
-  },
-  {
     "name": "The Yeti",
     "type": "movie",
     "imdb_id": "tt14500286"
+  },
+  {
+    "name": "Return to Silent Hill",
+    "type": "movie",
+    "imdb_id": "tt22868010"
   },
   {
     "name": "Pretty Lethal",
@@ -70,19 +70,14 @@
     "imdb_id": "tt26678938"
   },
   {
-    "name": "Mudborn",
-    "type": "movie",
-    "imdb_id": "tt38365045"
-  },
-  {
     "name": "The Bride!",
     "type": "movie",
     "imdb_id": "tt30851137"
   },
   {
-    "name": "Lola's Secret",
+    "name": "Mudborn",
     "type": "movie",
-    "imdb_id": "tt0089790"
+    "imdb_id": "tt38365045"
   },
   {
     "name": "28 Years Later: The Bone Temple",
@@ -90,13 +85,18 @@
     "imdb_id": "tt32141377"
   },
   {
+    "name": "Lola's Secret",
+    "type": "movie",
+    "imdb_id": "tt0089790"
+  },
+  {
+    "name": "The Conjuring: Last Rites",
+    "type": "movie",
+    "imdb_id": "tt22898462"
+  },
+  {
     "name": "Ready or Not 2: Here I Come",
     "type": "movie",
     "imdb_id": "tt33978029"
-  },
-  {
-    "name": "Kraken",
-    "type": "movie",
-    "imdb_id": "tt19838566"
   }
 ]

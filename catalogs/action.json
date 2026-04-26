@@ -20,6 +20,11 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
@@ -30,24 +35,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
   },
   {
     "name": "Bloodhounds",
@@ -55,9 +45,9 @@
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Stranger Things: Tales from '85",
@@ -65,9 +55,19 @@
     "imdb_id": "tt27486290"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
   },
   {
     "name": "The Walking Dead",
@@ -80,9 +80,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Vikings",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0285331"
   },
   {
     "name": "FBI",
@@ -90,8 +90,13 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "24",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   }
 ]

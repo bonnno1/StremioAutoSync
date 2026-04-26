@@ -5,24 +5,24 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
+  },
+  {
+    "name": "Margo's Got Money Troubles",
+    "type": "series",
+    "imdb_id": "tt31137273"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
   },
   {
     "name": "Silo",
@@ -40,14 +40,14 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Hijack",
@@ -60,34 +60,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Imperfect Women",
-    "type": "series",
-    "imdb_id": "tt31937954"
-  },
-  {
-    "name": "Criminal Record",
-    "type": "series",
-    "imdb_id": "tt21088136"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Schmigadoon!",
-    "type": "series",
-    "imdb_id": "tt11808942"
   },
   {
     "name": "Bad Sisters",
@@ -95,8 +70,33 @@
     "imdb_id": "tt15469618"
   },
   {
-    "name": "The Studio",
+    "name": "Imperfect Women",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt31937954"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Criminal Record",
+    "type": "series",
+    "imdb_id": "tt21088136"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Schmigadoon!",
+    "type": "series",
+    "imdb_id": "tt11808942"
+  },
+  {
+    "name": "Chief of War",
+    "type": "series",
+    "imdb_id": "tt19381692"
   }
 ]
