@@ -20,14 +20,14 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -40,9 +40,9 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Bloodhounds",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt26315487"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Daredevil: Born Again",
@@ -50,14 +50,19 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Stranger Things: Tales from '85",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt27486290"
+    "imdb_id": "tt26315487"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Stargate SG-1",
@@ -70,16 +75,6 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
@@ -90,13 +85,13 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "Vikings",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0455275"
   },
   {
-    "name": "Bleach",
+    "name": "Stranger Things: Tales from '85",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt27486290"
   }
 ]
