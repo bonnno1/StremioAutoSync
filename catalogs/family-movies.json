@@ -30,11 +30,6 @@
     "imdb_id": "tt14993250"
   },
   {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
     "name": "Spirited Away",
     "type": "movie",
     "imdb_id": "tt0245429"
@@ -45,9 +40,9 @@
     "imdb_id": "tt21692408"
   },
   {
-    "name": "The SpongeBob Movie: Search for SquarePants",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt23572848"
+    "imdb_id": "tt0327597"
   },
   {
     "name": "A Minecraft Movie",
@@ -55,34 +50,19 @@
     "imdb_id": "tt3566834"
   },
   {
-    "name": "David",
-    "type": "movie",
-    "imdb_id": "tt15678738"
-  },
-  {
-    "name": "The Little Mermaid",
-    "type": "movie",
-    "imdb_id": "tt0097757"
-  },
-  {
-    "name": "The Wild Robot",
-    "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
   },
   {
-    "name": "Moana 2",
+    "name": "The SpongeBob Movie: Search for SquarePants",
     "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt23572848"
   },
   {
-    "name": "Lilo & Stitch",
+    "name": "David",
     "type": "movie",
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt15678738"
   },
   {
     "name": "Shrek",
@@ -90,13 +70,33 @@
     "imdb_id": "tt0126029"
   },
   {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
+  },
+  {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Despicable Me 4",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt7510222"
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Sonic the Hedgehog 3",
+    "type": "movie",
+    "imdb_id": "tt18259086"
+  },
+  {
+    "name": "Zootopia",
+    "type": "movie",
+    "imdb_id": "tt2948356"
+  },
+  {
+    "name": "The Lion King",
+    "type": "movie",
+    "imdb_id": "tt0110357"
   }
 ]

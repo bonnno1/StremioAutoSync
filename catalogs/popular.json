@@ -10,6 +10,11 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -20,19 +25,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Euphoria",
-    "type": "series",
-    "imdb_id": "tt8772296"
-  },
-  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "NCIS",
@@ -43,6 +38,11 @@
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Criminal Minds",
@@ -70,14 +70,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
     "name": "Bones",
     "type": "series",
     "imdb_id": "tt0460627"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Midsomer Murders",

@@ -5,14 +5,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -20,19 +20,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
     "imdb_id": "tt36594331"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Star Wars: Visions",
@@ -50,9 +45,19 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Dorohedoro",
@@ -60,9 +65,9 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt20674124"
   },
   {
     "name": "Moon Knight",
@@ -75,28 +80,23 @@
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Viña del Mar International Song Festival",
-    "type": "series",
-    "imdb_id": "tt2062574"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
   },
   {
-    "name": "Dear Killer Nannies",
+    "name": "The Artful Dodger",
     "type": "series",
-    "imdb_id": "tt32125946"
+    "imdb_id": "tt20285780"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   }
 ]
