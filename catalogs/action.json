@@ -20,6 +20,16 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
@@ -28,11 +38,6 @@
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -50,14 +55,24 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Doraemon",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Doctor Who",
@@ -70,16 +85,6 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
@@ -88,10 +93,5 @@
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Stranger Things: Tales from '85",
-    "type": "series",
-    "imdb_id": "tt27486290"
   }
 ]

@@ -10,6 +10,11 @@
     "imdb_id": "tt0463398"
   },
   {
+    "name": "Star Wars: Maul - Shadow Lord",
+    "type": "series",
+    "imdb_id": "tt36594331"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
@@ -18,11 +23,6 @@
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
   },
   {
     "name": "Andor",
@@ -35,14 +35,14 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "La nena",
-    "type": "series",
-    "imdb_id": "tt41057629"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "La nena",
+    "type": "series",
+    "imdb_id": "tt41057629"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -65,29 +65,14 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Monsters at Work",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt8610082"
-  },
-  {
-    "name": "The Artful Dodger",
-    "type": "series",
-    "imdb_id": "tt20285780"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Soy Luna",
@@ -98,5 +83,20 @@
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Monsters at Work",
+    "type": "series",
+    "imdb_id": "tt8610082"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   }
 ]

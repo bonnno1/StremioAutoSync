@@ -5,14 +5,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Shameless",
@@ -20,14 +20,19 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt0397306"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -50,19 +55,14 @@
     "imdb_id": "tt39333617"
   },
   {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
   },
   {
-    "name": "American Dad!",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt3513388"
   },
   {
     "name": "Friends",
