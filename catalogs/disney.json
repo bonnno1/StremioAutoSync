@@ -5,14 +5,14 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
   },
   {
     "name": "The Mandalorian",
@@ -20,14 +20,19 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Star Wars: Maul - Shadow Lord",
+    "type": "series",
+    "imdb_id": "tt36594331"
+  },
+  {
+    "name": "Gold Land",
+    "type": "series",
+    "imdb_id": "tt37253311"
   },
   {
     "name": "Star Wars: Visions",
@@ -40,9 +45,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "La nena",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt41057629"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -50,14 +55,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Loki",
+    "name": "La nena",
     "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt41057629"
   },
   {
     "name": "Dorohedoro",
@@ -65,9 +65,9 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "Moving",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Moon Knight",
@@ -75,28 +75,28 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "The Artful Dodger",
+    "type": "series",
+    "imdb_id": "tt20285780"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   }
 ]

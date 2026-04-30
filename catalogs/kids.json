@@ -1,5 +1,10 @@
 [
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
@@ -8,11 +13,6 @@
     "name": "De Fabeltjeskrant",
     "type": "series",
     "imdb_id": "tt0294075"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "PAW Patrol",
@@ -50,29 +50,14 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
   },
   {
-    "name": "We Bare Bears",
+    "name": "iCarly",
     "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0972534"
   },
   {
     "name": "Henry Danger",
@@ -80,9 +65,9 @@
     "imdb_id": "tt3596174"
   },
   {
-    "name": "Rugrats",
+    "name": "Beyblade X",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt27865962"
   },
   {
     "name": "Doraemon",
@@ -90,8 +75,28 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "iCarly",
+    "name": "Garfield and Friends",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt0094469"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   }
 ]

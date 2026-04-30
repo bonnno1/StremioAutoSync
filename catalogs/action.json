@@ -40,6 +40,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
@@ -50,9 +55,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "24",
@@ -70,11 +75,6 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
@@ -85,13 +85,13 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]
