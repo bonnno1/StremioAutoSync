@@ -25,6 +25,11 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -50,11 +55,6 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
@@ -75,21 +75,6 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
-  },
-  {
-    "name": "Perfect Crown",
-    "type": "series",
-    "imdb_id": "tt39333617"
-  },
-  {
-    "name": "Desperate Housewives",
-    "type": "series",
-    "imdb_id": "tt0410975"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
@@ -98,5 +83,20 @@
     "name": "Widow's Bay",
     "type": "series",
     "imdb_id": "tt33332385"
+  },
+  {
+    "name": "Seinfeld",
+    "type": "series",
+    "imdb_id": "tt0098904"
+  },
+  {
+    "name": "Desperate Housewives",
+    "type": "series",
+    "imdb_id": "tt0410975"
+  },
+  {
+    "name": "Perfect Crown",
+    "type": "series",
+    "imdb_id": "tt39333617"
   }
 ]
