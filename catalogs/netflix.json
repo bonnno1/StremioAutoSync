@@ -5,9 +5,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Bloodhounds",
+    "name": "Man on Fire",
     "type": "series",
-    "imdb_id": "tt26315487"
+    "imdb_id": "tt27331527"
   },
   {
     "name": "Lucifer",
@@ -15,19 +15,14 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "Bloodhounds",
+    "type": "series",
+    "imdb_id": "tt26315487"
+  },
+  {
     "name": "If Wishes Could Kill",
     "type": "series",
     "imdb_id": "tt36104233"
-  },
-  {
-    "name": "Stranger Things: Tales from '85",
-    "type": "series",
-    "imdb_id": "tt27486290"
-  },
-  {
-    "name": "Man on Fire",
-    "type": "series",
-    "imdb_id": "tt27331527"
   },
   {
     "name": "Black Mirror",
@@ -38,6 +33,11 @@
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "XO, Kitty",
@@ -55,9 +55,19 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Orange Is the New Black",
+    "name": "Stranger Things: Tales from '85",
     "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt27486290"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
+    "name": "aka Charlie Sheen",
+    "type": "series",
+    "imdb_id": "tt37898320"
   },
   {
     "name": "Sesame Street",
@@ -65,24 +75,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Weak Hero",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
-    "name": "Fake Profile",
-    "type": "series",
-    "imdb_id": "tt14494938"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "The Crown",
@@ -90,13 +85,18 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Unchosen",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt31631142"
+    "imdb_id": "tt7134908"
   },
   {
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   }
 ]

@@ -5,6 +5,11 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "The Mighty Ducks: Game Changers",
+    "type": "series",
+    "imdb_id": "tt7939768"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -13,11 +18,6 @@
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Gold Land",
-    "type": "series",
-    "imdb_id": "tt37253311"
   },
   {
     "name": "The Mandalorian",
@@ -35,6 +35,11 @@
     "imdb_id": "tt36594331"
   },
   {
+    "name": "Gold Land",
+    "type": "series",
+    "imdb_id": "tt37253311"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
@@ -45,19 +50,24 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "La nena",
     "type": "series",
     "imdb_id": "tt41057629"
+  },
+  {
+    "name": "Impure",
+    "type": "series",
+    "imdb_id": "tt9070896"
   },
   {
     "name": "Dorohedoro",
@@ -70,6 +80,16 @@
     "imdb_id": "tt10160804"
   },
   {
+    "name": "The Boss",
+    "type": "series",
+    "imdb_id": "tt14362262"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
@@ -78,25 +98,5 @@
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "The Artful Dodger",
-    "type": "series",
-    "imdb_id": "tt20285780"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   }
 ]

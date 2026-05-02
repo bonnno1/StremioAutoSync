@@ -25,19 +25,24 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   },
   {
     "name": "The Fairly OddParents",
@@ -48,11 +53,6 @@
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
   },
   {
     "name": "iCarly",
@@ -93,10 +93,5 @@
     "name": "We Bare Bears",
     "type": "series",
     "imdb_id": "tt4839610"
-  },
-  {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
   }
 ]
