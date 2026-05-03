@@ -20,6 +20,11 @@
     "imdb_id": "tt36647890"
   },
   {
+    "name": "Bodycam",
+    "type": "movie",
+    "imdb_id": "tt37538172"
+  },
+  {
     "name": "Monster on a Plane",
     "type": "movie",
     "imdb_id": "tt27811009"
@@ -30,29 +35,24 @@
     "imdb_id": "tt36332085"
   },
   {
-    "name": "Thrash",
-    "type": "movie",
-    "imdb_id": "tt32362890"
-  },
-  {
     "name": "Scream 7",
     "type": "movie",
     "imdb_id": "tt27047903"
   },
   {
-    "name": "Bodycam",
+    "name": "Thrash",
     "type": "movie",
-    "imdb_id": "tt37538172"
-  },
-  {
-    "name": "Lee Cronin's The Mummy",
-    "type": "movie",
-    "imdb_id": "tt32612507"
+    "imdb_id": "tt32362890"
   },
   {
     "name": "Anaconda",
     "type": "movie",
     "imdb_id": "tt33244668"
+  },
+  {
+    "name": "Lee Cronin's The Mummy",
+    "type": "movie",
+    "imdb_id": "tt32612507"
   },
   {
     "name": "The Strangers: Chapter 3",
@@ -65,29 +65,9 @@
     "imdb_id": "tt32323148"
   },
   {
-    "name": "Whistle",
+    "name": "Ko Ga Loak Village",
     "type": "movie",
-    "imdb_id": "tt29550683"
-  },
-  {
-    "name": "The Conjuring: Last Rites",
-    "type": "movie",
-    "imdb_id": "tt22898462"
-  },
-  {
-    "name": "Kraken",
-    "type": "movie",
-    "imdb_id": "tt19838566"
-  },
-  {
-    "name": "28 Years Later: The Bone Temple",
-    "type": "movie",
-    "imdb_id": "tt32141377"
-  },
-  {
-    "name": "Psycho Killer",
-    "type": "movie",
-    "imdb_id": "tt1764551"
+    "imdb_id": "tt35020020"
   },
   {
     "name": "Slaughterhouse On The Hill",
@@ -95,8 +75,28 @@
     "imdb_id": "tt31323350"
   },
   {
-    "name": "undertone",
+    "name": "Whistle",
     "type": "movie",
-    "imdb_id": "tt35892608"
+    "imdb_id": "tt29550683"
+  },
+  {
+    "name": "Kraken",
+    "type": "movie",
+    "imdb_id": "tt19838566"
+  },
+  {
+    "name": "Hokum",
+    "type": "movie",
+    "imdb_id": "tt35672862"
+  },
+  {
+    "name": "Pretty Lethal",
+    "type": "movie",
+    "imdb_id": "tt26678938"
+  },
+  {
+    "name": "The Conjuring: Last Rites",
+    "type": "movie",
+    "imdb_id": "tt22898462"
   }
 ]

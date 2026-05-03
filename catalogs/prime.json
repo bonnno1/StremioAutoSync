@@ -45,19 +45,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "Tom Clancy's Jack Ryan",
     "type": "series",
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "The Man in the High Castle",
@@ -65,14 +60,14 @@
     "imdb_id": "tt1740299"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -80,18 +75,23 @@
     "imdb_id": "tt11247158"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "House of David",
+    "type": "series",
+    "imdb_id": "tt30955673"
+  },
+  {
     "name": "Absentia",
     "type": "series",
     "imdb_id": "tt6794990"
-  },
-  {
-    "name": "The House of the Spirits",
-    "type": "series",
-    "imdb_id": "tt33022938"
-  },
-  {
-    "name": "Matka King",
-    "type": "series",
-    "imdb_id": "tt16997004"
   }
 ]

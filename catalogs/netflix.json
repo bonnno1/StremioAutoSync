@@ -35,14 +35,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "XO, Kitty",
     "type": "series",
     "imdb_id": "tt14490706"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "You",
@@ -55,16 +55,6 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Stranger Things: Tales from '85",
-    "type": "series",
-    "imdb_id": "tt27486290"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "aka Charlie Sheen",
     "type": "series",
     "imdb_id": "tt37898320"
@@ -73,6 +63,11 @@
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -98,5 +93,10 @@
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
+  },
+  {
+    "name": "Stranger Things: Tales from '85",
+    "type": "series",
+    "imdb_id": "tt27486290"
   }
 ]
