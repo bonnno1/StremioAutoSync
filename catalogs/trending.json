@@ -1,10 +1,5 @@
 [
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Euphoria",
     "type": "series",
     "imdb_id": "tt8772296"
@@ -15,44 +10,9 @@
     "imdb_id": "tt9813792"
   },
   {
-    "name": "One Piece",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
-    "name": "If Wishes Could Kill",
-    "type": "series",
-    "imdb_id": "tt36104233"
-  },
-  {
-    "name": "Man on Fire",
-    "type": "series",
-    "imdb_id": "tt27331527"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "Gold Land",
-    "type": "series",
-    "imdb_id": "tt37253311"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Star Wars: Maul - Shadow Lord",
@@ -60,9 +20,39 @@
     "imdb_id": "tt36594331"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "If Wishes Could Kill",
+    "type": "series",
+    "imdb_id": "tt36104233"
+  },
+  {
+    "name": "Born with Luck",
+    "type": "series",
+    "imdb_id": "tt32592348"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Rookie",
@@ -70,33 +60,43 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Man on Fire",
+    "type": "series",
+    "imdb_id": "tt27331527"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "Gold Land",
+    "type": "series",
+    "imdb_id": "tt37253311"
+  },
+  {
+    "name": "Secret Service",
+    "type": "series",
+    "imdb_id": "tt32477632"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Witch Hat Atelier",
+    "type": "series",
+    "imdb_id": "tt32550889"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Frieren: Beyond Journey's End",
     "type": "series",
     "imdb_id": "tt22248376"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Half Man",
-    "type": "series",
-    "imdb_id": "tt32767294"
-  },
-  {
-    "name": "Perfect Crown",
-    "type": "series",
-    "imdb_id": "tt39333617"
-  },
-  {
-    "name": "My Hero Academia",
-    "type": "series",
-    "imdb_id": "tt5626028"
-  },
-  {
-    "name": "Light to the Night",
-    "type": "series",
-    "imdb_id": "tt31701210"
   }
 ]
