@@ -5,6 +5,11 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Star Wars: Maul - Shadow Lord",
+    "type": "series",
+    "imdb_id": "tt36594331"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -15,24 +20,19 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Star Wars: Maul - Shadow Lord",
+    "name": "The Boss",
     "type": "series",
-    "imdb_id": "tt36594331"
+    "imdb_id": "tt14362262"
   },
   {
-    "name": "Gold Land",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt37253311"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Star Wars: Visions",
@@ -40,9 +40,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "The Mighty Ducks: Game Changers",
+    "name": "Gold Land",
     "type": "series",
-    "imdb_id": "tt7939768"
+    "imdb_id": "tt37253311"
   },
   {
     "name": "What If...?",
@@ -55,9 +55,9 @@
     "imdb_id": "tt9070896"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "The Mighty Ducks: Game Changers",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt7939768"
   },
   {
     "name": "Loki",
@@ -65,19 +65,29 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "La nena",
+    "type": "series",
+    "imdb_id": "tt41057629"
+  },
+  {
     "name": "Dorohedoro",
     "type": "series",
     "imdb_id": "tt11147852"
   },
   {
-    "name": "The Boss",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt14362262"
+    "imdb_id": "tt12324366"
   },
   {
-    "name": "La nena",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt41057629"
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Hawkeye",
@@ -88,15 +98,5 @@
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
   }
 ]

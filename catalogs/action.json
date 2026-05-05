@@ -10,14 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Smallville",
@@ -35,19 +35,14 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Man on Fire",
@@ -60,11 +55,6 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "9-1-1",
     "type": "series",
     "imdb_id": "tt7235466"
@@ -75,19 +65,19 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Stargate SG-1",
@@ -95,8 +85,18 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "FBI",
+    "name": "24",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
   }
 ]

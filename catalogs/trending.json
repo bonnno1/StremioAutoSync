@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Euphoria",
     "type": "series",
     "imdb_id": "tt8772296"
@@ -10,9 +15,9 @@
     "imdb_id": "tt9813792"
   },
   {
-    "name": "The Boys",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Star Wars: Maul - Shadow Lord",
@@ -20,19 +25,14 @@
     "imdb_id": "tt36594331"
   },
   {
+    "name": "Man on Fire",
+    "type": "series",
+    "imdb_id": "tt27331527"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -40,19 +40,19 @@
     "imdb_id": "tt17220216"
   },
   {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
+  },
+  {
     "name": "If Wishes Could Kill",
     "type": "series",
     "imdb_id": "tt36104233"
-  },
-  {
-    "name": "Born with Luck",
-    "type": "series",
-    "imdb_id": "tt32592348"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "The Rookie",
@@ -60,14 +60,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Man on Fire",
+    "name": "Born with Luck",
     "type": "series",
-    "imdb_id": "tt27331527"
+    "imdb_id": "tt32592348"
   },
   {
-    "name": "Marshals",
+    "name": "Frieren: Beyond Journey's End",
     "type": "series",
-    "imdb_id": "tt36849871"
+    "imdb_id": "tt22248376"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Gold Land",
@@ -75,9 +80,14 @@
     "imdb_id": "tt37253311"
   },
   {
-    "name": "Secret Service",
+    "name": "Perfect Crown",
     "type": "series",
-    "imdb_id": "tt32477632"
+    "imdb_id": "tt39333617"
+  },
+  {
+    "name": "Bloom Life",
+    "type": "series",
+    "imdb_id": "tt34992884"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -88,15 +98,5 @@
     "name": "Witch Hat Atelier",
     "type": "series",
     "imdb_id": "tt32550889"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "type": "series",
-    "imdb_id": "tt22248376"
   }
 ]
