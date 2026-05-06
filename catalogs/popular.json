@@ -10,14 +10,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Euphoria",
     "type": "series",
     "imdb_id": "tt8772296"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -25,19 +25,9 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "Supernatural",
@@ -45,19 +35,19 @@
     "imdb_id": "tt0460681"
   },
   {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Sweet Punishment: I'm the Guard's Personal Pet",
-    "type": "series",
-    "imdb_id": "tt28277325"
   },
   {
     "name": "Overflow",
@@ -65,9 +55,9 @@
     "imdb_id": "tt14962432"
   },
   {
-    "name": "Family Guy",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Game of Thrones",
@@ -75,9 +65,19 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Midsomer Murders",
+    "type": "series",
+    "imdb_id": "tt0118401"
   },
   {
     "name": "INVINCIBLE",
@@ -85,18 +85,13 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Criminal Minds",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0115147"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Midsomer Murders",
-    "type": "series",
-    "imdb_id": "tt0118401"
   }
 ]

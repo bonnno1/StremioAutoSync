@@ -1,18 +1,18 @@
 [
   {
-    "name": "NCIS",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
+  },
+  {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -25,9 +25,14 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Chicago Fire",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Chicago P.D.",
+    "type": "series",
+    "imdb_id": "tt2805096"
   },
   {
     "name": "Binnelanders",
@@ -35,9 +40,19 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "Widow's Bay",
+    "name": "Chicago Med",
     "type": "series",
-    "imdb_id": "tt33332385"
+    "imdb_id": "tt4655480"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Eshref Ruya",
+    "type": "series",
+    "imdb_id": "tt35069642"
   },
   {
     "name": "EastEnders",
@@ -45,19 +60,14 @@
     "imdb_id": "tt0088512"
   },
   {
-    "name": "Who's the Murderer",
-    "type": "series",
-    "imdb_id": "tt9332934"
-  },
-  {
     "name": "Coronation Street",
     "type": "series",
     "imdb_id": "tt0053494"
   },
   {
-    "name": "Jimmy Kimmel Live!",
+    "name": "Who's the Murderer",
     "type": "series",
-    "imdb_id": "tt0320037"
+    "imdb_id": "tt9332934"
   },
   {
     "name": "Super Wings",
@@ -65,28 +75,23 @@
     "imdb_id": "tt3600266"
   },
   {
-    "name": "Goede Tijden, Slechte Tijden",
-    "type": "series",
-    "imdb_id": "tt0096597"
-  },
-  {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
-  },
-  {
     "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Will Trent",
+    "name": "Survivor",
     "type": "series",
-    "imdb_id": "tt17543592"
+    "imdb_id": "tt0239195"
   },
   {
-    "name": "Margo's Got Money Troubles",
+    "name": "Classroom of the Elite",
     "type": "series",
-    "imdb_id": "tt31137273"
+    "imdb_id": "tt7263328"
+  },
+  {
+    "name": "Goede Tijden, Slechte Tijden",
+    "type": "series",
+    "imdb_id": "tt0096597"
   }
 ]
