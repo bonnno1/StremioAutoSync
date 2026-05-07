@@ -10,19 +10,19 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Ted Lasso",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt7772588"
+  },
+  {
+    "name": "Margo's Got Money Troubles",
+    "type": "series",
+    "imdb_id": "tt31137273"
   },
   {
     "name": "Silo",
@@ -35,14 +35,24 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Margo's Got Money Troubles",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt31137273"
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   },
   {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   },
   {
     "name": "Severance",
@@ -55,29 +65,19 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
   },
   {
     "name": "Imperfect Women",
@@ -90,13 +90,13 @@
     "imdb_id": "tt22202452"
   },
   {
+    "name": "Black Bird",
+    "type": "series",
+    "imdb_id": "tt4301160"
+  },
+  {
     "name": "Truth Be Told",
     "type": "series",
     "imdb_id": "tt7821582"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
   }
 ]
