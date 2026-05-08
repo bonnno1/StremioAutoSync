@@ -5,14 +5,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "The Chosen",
@@ -20,24 +20,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "The One I Love",
@@ -45,19 +35,14 @@
     "imdb_id": "tt38987259"
   },
   {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
   },
   {
     "name": "Golden Boy",
@@ -65,14 +50,24 @@
     "imdb_id": "tt21105088"
   },
   {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Deep In Love",
-    "type": "series",
-    "imdb_id": "tt38647499"
   },
   {
     "name": "Diagnosis: Murder",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Bewitched",
+    "name": "Deep In Love",
     "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt38647499"
   },
   {
     "name": "Lassie",
     "type": "series",
     "imdb_id": "tt0046617"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
   }
 ]

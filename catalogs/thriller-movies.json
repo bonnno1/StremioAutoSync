@@ -35,14 +35,14 @@
     "imdb_id": "tt13186306"
   },
   {
-    "name": "The Shadow's Edge",
-    "type": "movie",
-    "imdb_id": "tt34610311"
-  },
-  {
     "name": "The Housemaid",
     "type": "movie",
     "imdb_id": "tt27543632"
+  },
+  {
+    "name": "The Shadow's Edge",
+    "type": "movie",
+    "imdb_id": "tt34610311"
   },
   {
     "name": "xXx",
@@ -75,19 +75,9 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Thrash",
-    "type": "movie",
-    "imdb_id": "tt32362890"
-  },
-  {
     "name": "Pretty Lethal",
     "type": "movie",
     "imdb_id": "tt26678938"
-  },
-  {
-    "name": "The Strangers: Chapter 3",
-    "type": "movie",
-    "imdb_id": "tt28682323"
   },
   {
     "name": "My Fault",
@@ -95,8 +85,18 @@
     "imdb_id": "tt21909764"
   },
   {
+    "name": "Wellwood",
+    "type": "movie",
+    "imdb_id": "tt7945270"
+  },
+  {
     "name": "Influencers",
     "type": "movie",
     "imdb_id": "tt36833584"
+  },
+  {
+    "name": "Parasite",
+    "type": "movie",
+    "imdb_id": "tt6751668"
   }
 ]
