@@ -15,14 +15,14 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Euphoria",
-    "type": "series",
-    "imdb_id": "tt8772296"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
   },
   {
     "name": "Grey's Anatomy",
@@ -40,11 +40,6 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
@@ -53,6 +48,11 @@
     "name": "Overflow",
     "type": "series",
     "imdb_id": "tt14962432"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Game of Thrones",
@@ -85,11 +85,6 @@
     "imdb_id": "tt0460627"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
@@ -98,5 +93,10 @@
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   }
 ]

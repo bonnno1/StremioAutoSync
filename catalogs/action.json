@@ -15,9 +15,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Stranger Things",
@@ -30,14 +30,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "INVINCIBLE",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -45,9 +40,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Citadel",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt9794044"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "The Walking Dead",
@@ -55,14 +50,19 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt12343534"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "FBI",
@@ -75,28 +75,28 @@
     "imdb_id": "tt7235466"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
   },
   {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
   }
 ]
