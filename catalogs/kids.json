@@ -5,14 +5,19 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
+    "name": "9-1-1",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt7235466"
   },
   {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Super Wings",
@@ -25,6 +30,11 @@
     "imdb_id": "tt26692417"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -33,11 +43,6 @@
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -50,24 +55,14 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Kim Possible",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt0278866"
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Sailor Moon",
@@ -75,23 +70,28 @@
     "imdb_id": "tt0103369"
   },
   {
+    "name": "Kim Possible",
+    "type": "series",
+    "imdb_id": "tt0278866"
+  },
+  {
     "name": "Mickey Mouse Clubhouse",
     "type": "series",
     "imdb_id": "tt0784896"
   },
   {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
     "name": "The Smurfs",
     "type": "series",
     "imdb_id": "tt0081933"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
   }
 ]
