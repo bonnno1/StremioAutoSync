@@ -5,11 +5,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
@@ -25,19 +20,9 @@
     "imdb_id": "tt3600266"
   },
   {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Peppa Pig",
@@ -50,14 +35,19 @@
     "imdb_id": "tt27502465"
   },
   {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
   },
   {
     "name": "The Fairly OddParents",
@@ -65,14 +55,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Sailor Moon",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
-    "name": "Kim Possible",
-    "type": "series",
-    "imdb_id": "tt0278866"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Mickey Mouse Clubhouse",
@@ -80,9 +65,14 @@
     "imdb_id": "tt0784896"
   },
   {
-    "name": "iCarly",
+    "name": "Sailor Moon",
     "type": "series",
-    "imdb_id": "tt0972534"
+    "imdb_id": "tt0103369"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -90,8 +80,18 @@
     "imdb_id": "tt3559124"
   },
   {
+    "name": "iCarly",
+    "type": "series",
+    "imdb_id": "tt0972534"
+  },
+  {
     "name": "The Smurfs",
     "type": "series",
     "imdb_id": "tt0081933"
+  },
+  {
+    "name": "Kim Possible",
+    "type": "series",
+    "imdb_id": "tt0278866"
   }
 ]
