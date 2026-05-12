@@ -10,11 +10,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Dear Sister",
-    "type": "series",
-    "imdb_id": "tt4005920"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
@@ -25,24 +20,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The One I Love",
-    "type": "series",
-    "imdb_id": "tt38987259"
-  },
-  {
     "name": "Golden Boy",
     "type": "series",
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Frasier",
+    "name": "The One I Love",
     "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt38987259"
   },
   {
     "name": "Phineas and Ferb",
@@ -50,9 +35,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Dallas",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Deep In Love",
@@ -60,24 +45,14 @@
     "imdb_id": "tt38647499"
   },
   {
-    "name": "King of the Hill",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0077000"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
+    "imdb_id": "tt0106080"
   },
   {
     "name": "Far Away",
@@ -85,13 +60,38 @@
     "imdb_id": "tt34063491"
   },
   {
-    "name": "Bluey",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0052451"
   },
   {
-    "name": "Forbidden Fruit",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt8045936"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Dear Sister",
+    "type": "series",
+    "imdb_id": "tt4005920"
+  },
+  {
+    "name": "The Epoch of Miyu",
+    "type": "series",
+    "imdb_id": "tt35288198"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
   }
 ]

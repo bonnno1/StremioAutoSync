@@ -5,14 +5,19 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Legends",
+    "type": "series",
+    "imdb_id": "tt33265765"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "You",
@@ -30,9 +35,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Weak Hero",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "XO, Kitty",
@@ -40,14 +45,14 @@
     "imdb_id": "tt14490706"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "The Chestnut Man",
     "type": "series",
     "imdb_id": "tt10834220"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   },
   {
     "name": "Black Mirror",
@@ -55,19 +60,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Legends",
-    "type": "series",
-    "imdb_id": "tt33265765"
-  },
-  {
     "name": "If Wishes Could Kill",
     "type": "series",
     "imdb_id": "tt36104233"
-  },
-  {
-    "name": "Man on Fire",
-    "type": "series",
-    "imdb_id": "tt27331527"
   },
   {
     "name": "Elite",
@@ -75,9 +70,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Man on Fire",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt27331527"
   },
   {
     "name": "Wednesday",
@@ -85,18 +80,23 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Crown",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Marvel's Daredevil",
     "type": "series",
     "imdb_id": "tt3322312"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
   }
 ]

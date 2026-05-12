@@ -30,24 +30,19 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Tatsuki Fujimoto 17-26",
-    "type": "series",
-    "imdb_id": "tt38491451"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -60,29 +55,14 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Sapne vs Everyone",
-    "type": "series",
-    "imdb_id": "tt30263074"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt1740299"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Gen V",
@@ -90,8 +70,28 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "56 Days",
+    "name": "Tatsuki Fujimoto 17-26",
     "type": "series",
-    "imdb_id": "tt30412869"
+    "imdb_id": "tt38491451"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
+  },
+  {
+    "name": "Sapne vs Everyone",
+    "type": "series",
+    "imdb_id": "tt30263074"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
   }
 ]

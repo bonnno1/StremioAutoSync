@@ -5,9 +5,9 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Euphoria",
+    "name": "Devil May Cry",
     "type": "series",
-    "imdb_id": "tt8772296"
+    "imdb_id": "tt15716776"
   },
   {
     "name": "FROM",
@@ -15,14 +15,9 @@
     "imdb_id": "tt9813792"
   },
   {
-    "name": "One Piece",
+    "name": "Euphoria",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Citadel",
-    "type": "series",
-    "imdb_id": "tt9794044"
+    "imdb_id": "tt8772296"
   },
   {
     "name": "Daredevil: Born Again",
@@ -30,19 +25,19 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Legends",
     "type": "series",
     "imdb_id": "tt33265765"
-  },
-  {
-    "name": "The Chestnut Man",
-    "type": "series",
-    "imdb_id": "tt10834220"
-  },
-  {
-    "name": "Rooster",
-    "type": "series",
-    "imdb_id": "tt32420734"
   },
   {
     "name": "Born with Luck",
@@ -50,39 +45,9 @@
     "imdb_id": "tt32592348"
   },
   {
-    "name": "The Bear",
+    "name": "The Chestnut Man",
     "type": "series",
-    "imdb_id": "tt14452776"
-  },
-  {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
-  },
-  {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "The Legend of Kitchen Soldier",
-    "type": "series",
-    "imdb_id": "tt38626513"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "My Royal Nemesis",
-    "type": "series",
-    "imdb_id": "tt38828946"
-  },
-  {
-    "name": "Perfect Crown",
-    "type": "series",
-    "imdb_id": "tt39333617"
+    "imdb_id": "tt10834220"
   },
   {
     "name": "M.I.A.",
@@ -90,13 +55,48 @@
     "imdb_id": "tt33253070"
   },
   {
-    "name": "The Rookie",
+    "name": "The Bear",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt14452776"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
+  },
+  {
+    "name": "Perfect Crown",
+    "type": "series",
+    "imdb_id": "tt39333617"
+  },
+  {
+    "name": "Star Wars: Maul - Shadow Lord",
+    "type": "series",
+    "imdb_id": "tt36594331"
+  },
+  {
+    "name": "The Legend of Kitchen Soldier",
+    "type": "series",
+    "imdb_id": "tt38626513"
+  },
+  {
+    "name": "My Royal Nemesis",
+    "type": "series",
+    "imdb_id": "tt38828946"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
   }
 ]
