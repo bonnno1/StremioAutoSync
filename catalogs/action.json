@@ -20,14 +20,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Daredevil: Born Again",
@@ -45,14 +45,14 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Citadel",
-    "type": "series",
-    "imdb_id": "tt9794044"
   },
   {
     "name": "Prison Break",
@@ -60,24 +60,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
-  },
-  {
-    "name": "9-1-1",
-    "type": "series",
-    "imdb_id": "tt7235466"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
   },
   {
     "name": "24",
@@ -90,13 +75,28 @@
     "imdb_id": "tt0118480"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
   },
   {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Regular Show",
+    "type": "series",
+    "imdb_id": "tt1710308"
   }
 ]

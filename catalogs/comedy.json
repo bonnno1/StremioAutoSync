@@ -25,39 +25,9 @@
     "imdb_id": "tt39333617"
   },
   {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
   },
   {
     "name": "Modern Family",
@@ -65,14 +35,34 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Two and a Half Men",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt0369179"
+    "imdb_id": "tt2057880"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   },
   {
     "name": "Desperate Housewives",
@@ -80,14 +70,19 @@
     "imdb_id": "tt0410975"
   },
   {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
+    "name": "Regular Show",
+    "type": "series",
+    "imdb_id": "tt1710308"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
   },
   {
     "name": "Doraemon",
@@ -95,8 +90,13 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Girlfriend, Girlfriend",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt13463778"
+    "imdb_id": "tt3697842"
+  },
+  {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
   }
 ]

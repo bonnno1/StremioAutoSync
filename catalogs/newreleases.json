@@ -1,13 +1,8 @@
 [
   {
-    "name": "NCIS",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -15,9 +10,24 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Chicago P.D.",
+    "type": "series",
+    "imdb_id": "tt2805096"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -25,9 +35,39 @@
     "imdb_id": "tt3697842"
   },
   {
+    "name": "Late Night with Seth Meyers",
+    "type": "series",
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Keep Running",
+    "type": "series",
+    "imdb_id": "tt4325992"
+  },
+  {
+    "name": "Chicago Med",
+    "type": "series",
+    "imdb_id": "tt4655480"
+  },
+  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Who's the Murderer",
+    "type": "series",
+    "imdb_id": "tt9332934"
+  },
+  {
+    "name": "Eshref Ruya",
+    "type": "series",
+    "imdb_id": "tt35069642"
   },
   {
     "name": "Born with Luck",
@@ -40,58 +80,18 @@
     "imdb_id": "tt0053494"
   },
   {
-    "name": "Widow's Bay",
+    "name": "Underground",
     "type": "series",
-    "imdb_id": "tt33332385"
+    "imdb_id": "tt39222526"
   },
   {
-    "name": "Margo's Got Money Troubles",
+    "name": "Classroom of the Elite",
     "type": "series",
-    "imdb_id": "tt31137273"
-  },
-  {
-    "name": "Mehmed: Sultan of Conquests",
-    "type": "series",
-    "imdb_id": "tt31323988"
-  },
-  {
-    "name": "EastEnders",
-    "type": "series",
-    "imdb_id": "tt0088512"
-  },
-  {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt7263328"
   },
   {
     "name": "Regular Show: The Lost Tapes",
     "type": "series",
     "imdb_id": "tt32604054"
-  },
-  {
-    "name": "Dreams of Freedom",
-    "type": "series",
-    "imdb_id": "tt30002038"
-  },
-  {
-    "name": "Half Man",
-    "type": "series",
-    "imdb_id": "tt32767294"
-  },
-  {
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "type": "series",
-    "imdb_id": "tt0103434"
-  },
-  {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
-  },
-  {
-    "name": "Lady Liberty",
-    "type": "series",
-    "imdb_id": "tt32740239"
   }
 ]
