@@ -10,6 +10,11 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "Devil May Cry",
+    "type": "series",
+    "imdb_id": "tt15716776"
+  },
+  {
     "name": "Legends",
     "type": "series",
     "imdb_id": "tt33265765"
@@ -25,19 +30,24 @@
     "imdb_id": "tt7335184"
   },
   {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Marvel's The Punisher",
+    "type": "series",
+    "imdb_id": "tt5675620"
   },
   {
     "name": "XO, Kitty",
@@ -50,9 +60,9 @@
     "imdb_id": "tt10834220"
   },
   {
-    "name": "Weak Hero",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Black Mirror",
@@ -60,24 +70,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "If Wishes Could Kill",
-    "type": "series",
-    "imdb_id": "tt36104233"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Man on Fire",
-    "type": "series",
-    "imdb_id": "tt27331527"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -85,14 +80,19 @@
     "imdb_id": "tt2359704"
   },
   {
+    "name": "If Wishes Could Kill",
+    "type": "series",
+    "imdb_id": "tt36104233"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
     "name": "Marvel's Daredevil",
     "type": "series",
     "imdb_id": "tt3322312"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
   },
   {
     "name": "The Witcher",

@@ -1,13 +1,13 @@
 [
   {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
   },
   {
     "name": "The Jacksons: An American Dream",
@@ -15,14 +15,14 @@
     "imdb_id": "tt0104541"
   },
   {
-    "name": "Euphoria",
-    "type": "series",
-    "imdb_id": "tt8772296"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
   },
   {
     "name": "Supernatural",
@@ -50,14 +50,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Overflow",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt14962432"
-  },
-  {
-    "name": "Midsomer Murders",
-    "type": "series",
-    "imdb_id": "tt0118401"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Game of Thrones",
@@ -65,14 +60,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "The Simpsons",
+    "name": "Overflow",
     "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt14962432"
   },
   {
     "name": "House",
@@ -80,14 +70,24 @@
     "imdb_id": "tt0412142"
   },
   {
+    "name": "Midsomer Murders",
+    "type": "series",
+    "imdb_id": "tt0118401"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Bones",
+    "type": "series",
+    "imdb_id": "tt0460627"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "Criminal Minds",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Bones",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt0460627"
+    "imdb_id": "tt4574334"
   }
 ]
