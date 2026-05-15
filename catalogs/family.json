@@ -30,9 +30,9 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Far Away",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt34063491"
+    "imdb_id": "tt0077000"
   },
   {
     "name": "Frasier",
@@ -45,14 +45,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Dallas",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Deep In Love",
-    "type": "series",
-    "imdb_id": "tt38647499"
+    "imdb_id": "tt0052451"
   },
   {
     "name": "The Nanny",
@@ -60,14 +55,9 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Bonanza",
+    "name": "Far Away",
     "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt34063491"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -75,14 +65,9 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Rugrats",
+    "name": "Deep In Love",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Epoch of Miyu",
-    "type": "series",
-    "imdb_id": "tt35288198"
+    "imdb_id": "tt38647499"
   },
   {
     "name": "Heartland",
@@ -90,8 +75,23 @@
     "imdb_id": "tt1094229"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Epoch of Miyu",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt35288198"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   }
 ]
