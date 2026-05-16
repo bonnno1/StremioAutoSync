@@ -5,6 +5,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Berlin and the Lady with an Ermine",
+    "type": "series",
+    "imdb_id": "tt42178219"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
@@ -13,6 +18,11 @@
     "name": "Devil May Cry",
     "type": "series",
     "imdb_id": "tt15716776"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Legends",
@@ -25,9 +35,9 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "You",
+    "name": "Marvel's The Punisher",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt5675620"
   },
   {
     "name": "Weak Hero",
@@ -35,24 +45,14 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
   },
   {
-    "name": "Marvel's The Punisher",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt5675620"
-  },
-  {
-    "name": "XO, Kitty",
-    "type": "series",
-    "imdb_id": "tt14490706"
+    "imdb_id": "tt26315487"
   },
   {
     "name": "Squid Game",
@@ -65,29 +65,24 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "XO, Kitty",
+    "type": "series",
+    "imdb_id": "tt14490706"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
+    "name": "The WONDERfools",
+    "type": "series",
+    "imdb_id": "tt34440854"
+  },
+  {
     "name": "The Chestnut Man",
     "type": "series",
     "imdb_id": "tt10834220"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "If Wishes Could Kill",
-    "type": "series",
-    "imdb_id": "tt36104233"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
   },
   {
     "name": "Marvel's Daredevil",
@@ -98,5 +93,10 @@
     "name": "The Witcher",
     "type": "series",
     "imdb_id": "tt5180504"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
   }
 ]
