@@ -5,11 +5,6 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
@@ -20,9 +15,9 @@
     "imdb_id": "tt42178219"
   },
   {
-    "name": "The WONDERfools",
+    "name": "FROM",
     "type": "series",
-    "imdb_id": "tt34440854"
+    "imdb_id": "tt9813792"
   },
   {
     "name": "Dutton Ranch",
@@ -30,14 +25,9 @@
     "imdb_id": "tt34991493"
   },
   {
-    "name": "Euphoria",
+    "name": "The WONDERfools",
     "type": "series",
-    "imdb_id": "tt8772296"
-  },
-  {
-    "name": "Devil May Cry",
-    "type": "series",
-    "imdb_id": "tt15716776"
+    "imdb_id": "tt34440854"
   },
   {
     "name": "Good Omens",
@@ -45,9 +35,9 @@
     "imdb_id": "tt1869454"
   },
   {
-    "name": "Nemesis",
+    "name": "Euphoria",
     "type": "series",
-    "imdb_id": "tt36022742"
+    "imdb_id": "tt8772296"
   },
   {
     "name": "One Piece",
@@ -65,14 +55,19 @@
     "imdb_id": "tt39333617"
   },
   {
+    "name": "Nemesis",
+    "type": "series",
+    "imdb_id": "tt36022742"
+  },
+  {
+    "name": "Devil May Cry",
+    "type": "series",
+    "imdb_id": "tt15716776"
+  },
+  {
     "name": "Born with Luck",
     "type": "series",
     "imdb_id": "tt32592348"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -80,23 +75,28 @@
     "imdb_id": "tt5607616"
   },
   {
+    "name": "The Heir",
+    "type": "series",
+    "imdb_id": "tt34133054"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Outlander",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt3006802"
   },
   {
-    "name": "Citadel",
+    "name": "My Royal Nemesis",
     "type": "series",
-    "imdb_id": "tt9794044"
+    "imdb_id": "tt38828946"
   },
   {
-    "name": "Legends",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt33265765"
+    "imdb_id": "tt21906238"
   }
 ]

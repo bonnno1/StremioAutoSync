@@ -15,14 +15,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Citadel",
@@ -60,6 +60,11 @@
     "imdb_id": "tt14016500"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
@@ -75,6 +80,11 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
@@ -83,15 +93,5 @@
     "name": "The House of the Spirits",
     "type": "series",
     "imdb_id": "tt33022938"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
   }
 ]

@@ -1,13 +1,18 @@
 [
   {
+    "name": "Berlin and the Lady with an Ermine",
+    "type": "series",
+    "imdb_id": "tt42178219"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
+    "name": "The WONDERfools",
     "type": "series",
-    "imdb_id": "tt42178219"
+    "imdb_id": "tt34440854"
   },
   {
     "name": "Lucifer",
@@ -20,19 +25,19 @@
     "imdb_id": "tt15716776"
   },
   {
-    "name": "You",
+    "name": "Berlin",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt16288804"
   },
   {
-    "name": "Legends",
+    "name": "Nemesis",
     "type": "series",
-    "imdb_id": "tt33265765"
+    "imdb_id": "tt36022742"
   },
   {
-    "name": "Raw",
+    "name": "Weak Hero",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt20234568"
   },
   {
     "name": "Marvel's The Punisher",
@@ -40,9 +45,24 @@
     "imdb_id": "tt5675620"
   },
   {
-    "name": "Weak Hero",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt20234568"
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Bridgerton",
@@ -55,19 +75,14 @@
     "imdb_id": "tt26315487"
   },
   {
+    "name": "Legends",
+    "type": "series",
+    "imdb_id": "tt33265765"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "XO, Kitty",
-    "type": "series",
-    "imdb_id": "tt14490706"
   },
   {
     "name": "Elite",
@@ -75,24 +90,9 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "The WONDERfools",
+    "name": "XO, Kitty",
     "type": "series",
-    "imdb_id": "tt34440854"
-  },
-  {
-    "name": "The Chestnut Man",
-    "type": "series",
-    "imdb_id": "tt10834220"
-  },
-  {
-    "name": "Marvel's Daredevil",
-    "type": "series",
-    "imdb_id": "tt3322312"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt14490706"
   },
   {
     "name": "Wednesday",
