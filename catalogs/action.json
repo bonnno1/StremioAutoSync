@@ -10,14 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "The WONDERfools",
-    "type": "series",
-    "imdb_id": "tt34440854"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "The WONDERfools",
+    "type": "series",
+    "imdb_id": "tt34440854"
   },
   {
     "name": "Stranger Things",
@@ -25,24 +25,24 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt27432264"
   },
   {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
   },
   {
     "name": "The Walking Dead",
@@ -55,14 +55,19 @@
     "imdb_id": "tt2193021"
   },
   {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
   },
   {
     "name": "Stargate SG-1",
@@ -75,6 +80,16 @@
     "imdb_id": "tt15716776"
   },
   {
+    "name": "Berlin",
+    "type": "series",
+    "imdb_id": "tt16288804"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
@@ -83,20 +98,5 @@
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
-  },
-  {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "Berlin",
-    "type": "series",
-    "imdb_id": "tt16288804"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
   }
 ]

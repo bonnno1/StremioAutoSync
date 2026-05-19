@@ -30,11 +30,6 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -43,6 +38,11 @@
     "name": "Margo's Got Money Troubles",
     "type": "series",
     "imdb_id": "tt31137273"
+  },
+  {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
   },
   {
     "name": "Slow Horses",
@@ -75,19 +75,19 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Imperfect Women",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt31937954"
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
   },
   {
     "name": "Mythic Quest",
@@ -95,8 +95,8 @@
     "imdb_id": "tt8879940"
   },
   {
-    "name": "Masters of the Air",
+    "name": "Imperfect Women",
     "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt31937954"
   }
 ]

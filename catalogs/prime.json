@@ -25,24 +25,24 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Good Omens",
-    "type": "series",
-    "imdb_id": "tt1869454"
-  },
-  {
-    "name": "Citadel",
-    "type": "series",
-    "imdb_id": "tt9794044"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
   },
   {
+    "name": "Good Omens",
+    "type": "series",
+    "imdb_id": "tt1869454"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
   },
   {
     "name": "The Chosen",
@@ -60,11 +60,6 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
@@ -75,14 +70,19 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
-  },
-  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   },
   {
     "name": "The Man in the High Castle",

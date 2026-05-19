@@ -25,11 +25,6 @@
     "imdb_id": "tt16288804"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "Marvel's The Punisher",
     "type": "series",
     "imdb_id": "tt5675620"
@@ -40,19 +35,14 @@
     "imdb_id": "tt36022742"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
   },
   {
     "name": "You",
@@ -60,14 +50,19 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Bloodhounds",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt26315487"
+    "imdb_id": "tt8740790"
   },
   {
-    "name": "Squid Game",
+    "name": "Burn the House Down",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "A Controversial Entertainer",
+    "type": "series",
+    "imdb_id": "tt42206024"
   },
   {
     "name": "Raw",
@@ -75,9 +70,9 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Legends",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt33265765"
+    "imdb_id": "tt26315487"
   },
   {
     "name": "Black Mirror",
@@ -85,9 +80,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Elite",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -95,8 +90,13 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "XO, Kitty",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt14490706"
+    "imdb_id": "tt7134908"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   }
 ]
