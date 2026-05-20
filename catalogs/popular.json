@@ -10,6 +10,11 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -23,11 +28,6 @@
     "name": "Euphoria",
     "type": "series",
     "imdb_id": "tt8772296"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
   },
   {
     "name": "Grey's Anatomy",
@@ -80,6 +80,11 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "The WONDERfools",
+    "type": "series",
+    "imdb_id": "tt34440854"
+  },
+  {
     "name": "Midsomer Murders",
     "type": "series",
     "imdb_id": "tt0118401"
@@ -88,15 +93,5 @@
     "name": "Shameless",
     "type": "series",
     "imdb_id": "tt1586680"
-  },
-  {
-    "name": "Bones",
-    "type": "series",
-    "imdb_id": "tt0460627"
-  },
-  {
-    "name": "The WONDERfools",
-    "type": "series",
-    "imdb_id": "tt34440854"
   }
 ]

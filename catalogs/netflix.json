@@ -15,14 +15,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Devil May Cry",
-    "type": "series",
-    "imdb_id": "tt15716776"
-  },
-  {
     "name": "Berlin",
     "type": "series",
     "imdb_id": "tt16288804"
+  },
+  {
+    "name": "Devil May Cry",
+    "type": "series",
+    "imdb_id": "tt15716776"
   },
   {
     "name": "Marvel's The Punisher",
@@ -30,14 +30,24 @@
     "imdb_id": "tt5675620"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "Nemesis",
     "type": "series",
     "imdb_id": "tt36022742"
   },
   {
-    "name": "Lucifer",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Weak Hero",
@@ -45,24 +55,24 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
     "name": "Burn the House Down",
     "type": "series",
     "imdb_id": "tt21327000"
   },
   {
-    "name": "A Controversial Entertainer",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt42206024"
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Raw",
@@ -75,28 +85,18 @@
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
-    "name": "Sesame Street",
+    "name": "A Controversial Entertainer",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt42206024"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   }
 ]

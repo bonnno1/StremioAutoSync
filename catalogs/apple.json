@@ -1,5 +1,10 @@
 [
   {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
@@ -10,14 +15,14 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
   },
   {
     "name": "Silo",
@@ -35,24 +40,19 @@
     "imdb_id": "tt11280740"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
     "name": "Margo's Got Money Troubles",
     "type": "series",
     "imdb_id": "tt31137273"
   },
   {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "See",
@@ -65,11 +65,6 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
@@ -80,14 +75,19 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
+  },
+  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
   },
   {
-    "name": "Masters of the Air",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt23649128"
   },
   {
     "name": "Mythic Quest",
@@ -95,8 +95,8 @@
     "imdb_id": "tt8879940"
   },
   {
-    "name": "Imperfect Women",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt31937954"
+    "imdb_id": "tt2640044"
   }
 ]

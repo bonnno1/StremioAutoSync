@@ -30,19 +30,14 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Good Omens",
-    "type": "series",
-    "imdb_id": "tt1869454"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Citadel",
+    "name": "Good Omens",
     "type": "series",
-    "imdb_id": "tt9794044"
+    "imdb_id": "tt1869454"
   },
   {
     "name": "The Chosen",
@@ -55,14 +50,14 @@
     "imdb_id": "tt5057054"
   },
   {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -70,14 +65,14 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "The Wheel of Time",
     "type": "series",
     "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
   },
   {
     "name": "Fallout",
@@ -90,8 +85,13 @@
     "imdb_id": "tt1740299"
   },
   {
-    "name": "The House of the Spirits",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt33022938"
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
   }
 ]

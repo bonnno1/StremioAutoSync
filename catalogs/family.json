@@ -10,11 +10,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
     "name": "Love Stories in the Countryside",
     "type": "series",
     "imdb_id": "tt1395015"
@@ -30,9 +25,9 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "I Love Lucy",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0043208"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Bonanza",
@@ -40,19 +35,14 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Golden Boy",
-    "type": "series",
-    "imdb_id": "tt21105088"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Phineas and Ferb",
@@ -60,24 +50,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Deep In Love",
+    "name": "Golden Boy",
     "type": "series",
-    "imdb_id": "tt38647499"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
-    "name": "The One I Love",
-    "type": "series",
-    "imdb_id": "tt38987259"
+    "imdb_id": "tt21105088"
   },
   {
     "name": "Far Away",
@@ -85,13 +60,38 @@
     "imdb_id": "tt34063491"
   },
   {
-    "name": "Lassie",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt0159881"
   },
   {
-    "name": "The Amazing World of Gumball",
+    "name": "Diagnosis: Murder",
     "type": "series",
-    "imdb_id": "tt1942683"
+    "imdb_id": "tt0105986"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "I Love Lucy",
+    "type": "series",
+    "imdb_id": "tt0043208"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Deep In Love",
+    "type": "series",
+    "imdb_id": "tt38647499"
   }
 ]
