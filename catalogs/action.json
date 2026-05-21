@@ -20,6 +20,11 @@
     "imdb_id": "tt34440854"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -30,29 +35,14 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Marshals",
-    "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt27432264"
   },
   {
     "name": "Arrow",
@@ -60,34 +50,19 @@
     "imdb_id": "tt2193021"
   },
   {
-    "name": "Berlin",
-    "type": "series",
-    "imdb_id": "tt16288804"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Prison Break",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt1520211"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Berlin",
     "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt16288804"
   },
   {
     "name": "FBI",
@@ -95,8 +70,33 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "24",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
   }
 ]

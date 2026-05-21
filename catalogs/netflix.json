@@ -20,11 +20,6 @@
     "imdb_id": "tt16288804"
   },
   {
-    "name": "Devil May Cry",
-    "type": "series",
-    "imdb_id": "tt15716776"
-  },
-  {
     "name": "Marvel's The Punisher",
     "type": "series",
     "imdb_id": "tt5675620"
@@ -35,24 +30,14 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "Devil May Cry",
+    "type": "series",
+    "imdb_id": "tt15716776"
+  },
+  {
     "name": "Nemesis",
     "type": "series",
     "imdb_id": "tt36022742"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
   },
   {
     "name": "Burn the House Down",
@@ -60,9 +45,9 @@
     "imdb_id": "tt21327000"
   },
   {
-    "name": "You",
+    "name": "Weak Hero",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt20234568"
   },
   {
     "name": "Black Mirror",
@@ -70,14 +55,19 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
   },
   {
     "name": "Bloodhounds",
@@ -85,18 +75,28 @@
     "imdb_id": "tt26315487"
   },
   {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
   },
   {
-    "name": "A Controversial Entertainer",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt42206024"
+    "imdb_id": "tt13443470"
   },
   {
-    "name": "The Crown",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt0063951"
   }
 ]
