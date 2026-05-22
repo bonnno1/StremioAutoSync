@@ -20,14 +20,14 @@
     "imdb_id": "tt16288804"
   },
   {
-    "name": "Marvel's The Punisher",
-    "type": "series",
-    "imdb_id": "tt5675620"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Marvel's The Punisher",
+    "type": "series",
+    "imdb_id": "tt5675620"
   },
   {
     "name": "Devil May Cry",
@@ -35,14 +35,19 @@
     "imdb_id": "tt15716776"
   },
   {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "Nemesis",
     "type": "series",
     "imdb_id": "tt36022742"
   },
   {
-    "name": "Burn the House Down",
+    "name": "The Boroughs",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt27557289"
   },
   {
     "name": "Weak Hero",
@@ -50,9 +55,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Black Mirror",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Squid Game",
@@ -60,14 +65,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Burn the House Down",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt21327000"
   },
   {
     "name": "Bloodhounds",
@@ -75,9 +75,9 @@
     "imdb_id": "tt26315487"
   },
   {
-    "name": "You",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Raw",
@@ -85,18 +85,18 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Elite",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Two Husbands One Wife",
+    "type": "series",
+    "imdb_id": "tt36351405"
   }
 ]

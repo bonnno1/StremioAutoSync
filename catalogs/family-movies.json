@@ -50,19 +50,14 @@
     "imdb_id": "tt6718170"
   },
   {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
-  },
-  {
     "name": "Spirited Away",
     "type": "movie",
     "imdb_id": "tt0245429"
   },
   {
-    "name": "Coraline",
+    "name": "Shrek",
     "type": "movie",
-    "imdb_id": "tt0327597"
+    "imdb_id": "tt0126029"
   },
   {
     "name": "The Wild Robot",
@@ -75,9 +70,9 @@
     "imdb_id": "tt22022452"
   },
   {
-    "name": "Zootopia",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt2948356"
+    "imdb_id": "tt0327597"
   },
   {
     "name": "Moana 2",
@@ -85,18 +80,23 @@
     "imdb_id": "tt13622970"
   },
   {
-    "name": "Toy Story",
+    "name": "Zootopia",
     "type": "movie",
-    "imdb_id": "tt0114709"
-  },
-  {
-    "name": "Kung Fu Panda 4",
-    "type": "movie",
-    "imdb_id": "tt21692408"
+    "imdb_id": "tt2948356"
   },
   {
     "name": "The Magic Faraway Tree",
     "type": "movie",
     "imdb_id": "tt7734244"
+  },
+  {
+    "name": "Toy Story",
+    "type": "movie",
+    "imdb_id": "tt0114709"
+  },
+  {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
   }
 ]

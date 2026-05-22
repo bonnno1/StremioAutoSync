@@ -1,13 +1,13 @@
 [
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Dancing with the Stars",
@@ -30,11 +30,6 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "Dorohedoro",
     "type": "series",
     "imdb_id": "tt11147852"
@@ -45,24 +40,14 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Gold Land",
-    "type": "series",
-    "imdb_id": "tt37253311"
-  },
-  {
-    "name": "The Boss",
-    "type": "series",
-    "imdb_id": "tt14362262"
   },
   {
     "name": "Moving",
@@ -70,14 +55,24 @@
     "imdb_id": "tt24640580"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "The Boss",
+    "type": "series",
+    "imdb_id": "tt14362262"
+  },
+  {
+    "name": "Gold Land",
+    "type": "series",
+    "imdb_id": "tt37253311"
+  },
+  {
     "name": "La nena",
     "type": "series",
     "imdb_id": "tt41057629"
-  },
-  {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
   },
   {
     "name": "Hawkeye",
@@ -85,9 +80,9 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt36594331"
   },
   {
     "name": "WandaVision",
@@ -98,5 +93,10 @@
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   }
 ]

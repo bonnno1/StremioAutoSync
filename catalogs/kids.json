@@ -35,11 +35,6 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "iCarly",
-    "type": "series",
-    "imdb_id": "tt0972534"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
@@ -93,5 +88,10 @@
     "name": "Mickey Mouse Clubhouse",
     "type": "series",
     "imdb_id": "tt0784896"
+  },
+  {
+    "name": "Masha and the Bear",
+    "type": "series",
+    "imdb_id": "tt1884856"
   }
 ]
