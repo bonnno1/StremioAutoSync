@@ -1,10 +1,5 @@
 [
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
@@ -15,9 +10,19 @@
     "imdb_id": "tt17220216"
   },
   {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
+  },
+  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
   },
   {
     "name": "Margo's Got Money Troubles",
@@ -30,24 +35,19 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Maximum Pleasure Guaranteed",
-    "type": "series",
-    "imdb_id": "tt35946742"
-  },
-  {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
   },
   {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Ted Lasso",
@@ -70,11 +70,6 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
@@ -83,6 +78,11 @@
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   },
   {
     "name": "Pluribus",
