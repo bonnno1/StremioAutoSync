@@ -15,19 +15,29 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
-    "type": "series",
-    "imdb_id": "tt42178219"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Berlin and the Lady with an Ermine",
+    "type": "series",
+    "imdb_id": "tt42178219"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Grey's Anatomy",
@@ -40,19 +50,9 @@
     "imdb_id": "tt8772296"
   },
   {
-    "name": "Law & Order",
-    "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
   },
   {
     "name": "NCIS",
@@ -60,9 +60,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Game of Thrones",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt1196946"
   },
   {
     "name": "The Simpsons",
@@ -70,28 +70,28 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Running Man",
     "type": "series",
     "imdb_id": "tt2185037"
   },
   {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "Gaatchora",
+    "type": "series",
+    "imdb_id": "tt21907668"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "The WONDERfools",
-    "type": "series",
-    "imdb_id": "tt34440854"
-  },
-  {
-    "name": "CSI: Crime Scene Investigation",
-    "type": "series",
-    "imdb_id": "tt0247082"
-  },
-  {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
   }
 ]

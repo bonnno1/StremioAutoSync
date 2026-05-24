@@ -45,24 +45,14 @@
     "imdb_id": "tt36351405"
   },
   {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Devil May Cry",
-    "type": "series",
-    "imdb_id": "tt15716776"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   },
   {
     "name": "Burn the House Down",
@@ -70,9 +60,9 @@
     "imdb_id": "tt21327000"
   },
   {
-    "name": "You",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Black Mirror",
@@ -80,9 +70,24 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
+  },
+  {
+    "name": "Devil May Cry",
+    "type": "series",
+    "imdb_id": "tt15716776"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Nemesis",
@@ -93,10 +98,5 @@
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
   }
 ]
