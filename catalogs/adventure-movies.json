@@ -1,13 +1,13 @@
 [
   {
-    "name": "Project Hail Mary",
-    "type": "movie",
-    "imdb_id": "tt12042730"
-  },
-  {
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
+  },
+  {
+    "name": "Project Hail Mary",
+    "type": "movie",
+    "imdb_id": "tt12042730"
   },
   {
     "name": "Swapped",
@@ -20,14 +20,14 @@
     "imdb_id": "tt17490712"
   },
   {
-    "name": "Mortal Kombat",
-    "type": "movie",
-    "imdb_id": "tt0293429"
-  },
-  {
     "name": "Star Wars: The Mandalorian and Grogu",
     "type": "movie",
     "imdb_id": "tt30825738"
+  },
+  {
+    "name": "Mortal Kombat",
+    "type": "movie",
+    "imdb_id": "tt0293429"
   },
   {
     "name": "Avatar: Fire and Ash",
@@ -58,6 +58,11 @@
     "name": "Interstellar",
     "type": "movie",
     "imdb_id": "tt0816692"
+  },
+  {
+    "name": "Ne Zha 2",
+    "type": "movie",
+    "imdb_id": "tt34956443"
   },
   {
     "name": "The Mummy Returns",
@@ -93,10 +98,5 @@
     "name": "Avengers: Infinity War",
     "type": "movie",
     "imdb_id": "tt4154756"
-  },
-  {
-    "name": "xXx",
-    "type": "movie",
-    "imdb_id": "tt0295701"
   }
 ]

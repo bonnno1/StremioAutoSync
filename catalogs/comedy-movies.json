@@ -10,11 +10,6 @@
     "imdb_id": "tt0458352"
   },
   {
-    "name": "Ladies First",
-    "type": "movie",
-    "imdb_id": "tt34611082"
-  },
-  {
     "name": "Pati Patni Aur Woh Do",
     "type": "movie",
     "imdb_id": "tt33054858"
@@ -23,6 +18,11 @@
     "name": "Hoppers",
     "type": "movie",
     "imdb_id": "tt26443616"
+  },
+  {
+    "name": "Ladies First",
+    "type": "movie",
+    "imdb_id": "tt34611082"
   },
   {
     "name": "GOAT",
@@ -60,24 +60,14 @@
     "imdb_id": "tt33612209"
   },
   {
+    "name": "Bhooth Bangla",
+    "type": "movie",
+    "imdb_id": "tt29540862"
+  },
+  {
     "name": "Send Help",
     "type": "movie",
     "imdb_id": "tt8036976"
-  },
-  {
-    "name": "Bride of the Year",
-    "type": "movie",
-    "imdb_id": "tt42192201"
-  },
-  {
-    "name": "Indian Institute of Zombies",
-    "type": "movie",
-    "imdb_id": "tt41113860"
-  },
-  {
-    "name": "The Super Mario Bros. Movie",
-    "type": "movie",
-    "imdb_id": "tt6718170"
   },
   {
     "name": "TN 2026",
@@ -85,18 +75,28 @@
     "imdb_id": "tt38489752"
   },
   {
+    "name": "Indian Institute of Zombies",
+    "type": "movie",
+    "imdb_id": "tt41113860"
+  },
+  {
+    "name": "Bride of the Year",
+    "type": "movie",
+    "imdb_id": "tt42192201"
+  },
+  {
     "name": "Vaazha II",
     "type": "movie",
     "imdb_id": "tt33245761"
   },
   {
+    "name": "The Super Mario Bros. Movie",
+    "type": "movie",
+    "imdb_id": "tt6718170"
+  },
+  {
     "name": "KPop Demon Hunters",
     "type": "movie",
     "imdb_id": "tt14205554"
-  },
-  {
-    "name": "Parasite",
-    "type": "movie",
-    "imdb_id": "tt6751668"
   }
 ]

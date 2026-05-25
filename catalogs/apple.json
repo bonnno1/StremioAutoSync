@@ -5,19 +5,14 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Foundation",
+    "name": "Margo's Got Money Troubles",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt31137273"
   },
   {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
   },
   {
     "name": "Widow's Bay",
@@ -28,6 +23,11 @@
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Bad Sisters",
@@ -45,19 +45,14 @@
     "imdb_id": "tt35946742"
   },
   {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Slow Horses",
+    "name": "Severance",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt11280740"
   },
   {
     "name": "See",
@@ -65,9 +60,19 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   },
   {
     "name": "Invasion",
@@ -75,9 +80,14 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "The Morning Show",
+    "name": "Pachinko",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt8888462"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
   },
   {
     "name": "Hijack",
@@ -88,15 +98,5 @@
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
-  },
-  {
-    "name": "Pachinko",
-    "type": "series",
-    "imdb_id": "tt8888462"
   }
 ]

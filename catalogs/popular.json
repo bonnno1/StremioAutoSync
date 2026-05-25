@@ -25,6 +25,11 @@
     "imdb_id": "tt42178219"
   },
   {
+    "name": "The Apothecary Diaries",
+    "type": "series",
+    "imdb_id": "tt26743760"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -35,14 +40,14 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Euphoria",
@@ -50,9 +55,9 @@
     "imdb_id": "tt8772296"
   },
   {
-    "name": "Supernatural",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "NCIS",
@@ -65,19 +70,14 @@
     "imdb_id": "tt1196946"
   },
   {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
   },
   {
     "name": "Criminal Minds",
@@ -85,9 +85,9 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Gaatchora",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt21907668"
+    "imdb_id": "tt2185037"
   },
   {
     "name": "Family Guy",
