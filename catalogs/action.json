@@ -20,6 +20,11 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -45,14 +50,19 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "Hunter x Hunter",
+    "type": "series",
+    "imdb_id": "tt0426719"
   },
   {
     "name": "S.W.A.T.",
@@ -65,6 +75,16 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
@@ -75,28 +95,8 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
   }
 ]

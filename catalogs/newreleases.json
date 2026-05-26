@@ -1,28 +1,13 @@
 [
   {
-    "name": "The Rookie",
+    "name": "The Bold and the Beautiful",
     "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Keep Running",
-    "type": "series",
-    "imdb_id": "tt4325992"
+    "imdb_id": "tt0092325"
   },
   {
     "name": "Wonderland",
     "type": "series",
     "imdb_id": "tt30461027"
-  },
-  {
-    "name": "HaHaHaHaHa",
-    "type": "series",
-    "imdb_id": "tt14098718"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
   },
   {
     "name": "Zhan Zhao Adventures",
@@ -40,14 +25,19 @@
     "imdb_id": "tt0053494"
   },
   {
-    "name": "Swallowed Star",
-    "type": "series",
-    "imdb_id": "tt17050076"
-  },
-  {
     "name": "EastEnders",
     "type": "series",
     "imdb_id": "tt0088512"
+  },
+  {
+    "name": "Gute Zeiten, schlechte Zeiten",
+    "type": "series",
+    "imdb_id": "tt0103434"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Tomorrow Is Ours",
@@ -55,14 +45,29 @@
     "imdb_id": "tt7124904"
   },
   {
-    "name": "Ride the Wind",
+    "name": "Frontline",
     "type": "series",
-    "imdb_id": "tt21263056"
+    "imdb_id": "tt0133302"
+  },
+  {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
+  },
+  {
+    "name": "Jimmy Kimmel Live!",
+    "type": "series",
+    "imdb_id": "tt0320037"
   },
   {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
+  },
+  {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
   },
   {
     "name": "Goede Tijden, Slechte Tijden",
@@ -78,15 +83,5 @@
     "name": "Dreams of Freedom",
     "type": "series",
     "imdb_id": "tt30002038"
-  },
-  {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
-  },
-  {
-    "name": "Suidooster",
-    "type": "series",
-    "imdb_id": "tt5467444"
   }
 ]

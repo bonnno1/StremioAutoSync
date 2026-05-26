@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Super Mario Galaxy Movie",
-    "type": "movie",
-    "imdb_id": "tt28650488"
-  },
-  {
     "name": "Project Hail Mary",
     "type": "movie",
     "imdb_id": "tt12042730"
+  },
+  {
+    "name": "The Super Mario Galaxy Movie",
+    "type": "movie",
+    "imdb_id": "tt28650488"
   },
   {
     "name": "Swapped",
@@ -20,7 +20,7 @@
     "imdb_id": "tt17490712"
   },
   {
-    "name": "Star Wars: The Mandalorian and Grogu",
+    "name": "The Mandalorian and Grogu",
     "type": "movie",
     "imdb_id": "tt30825738"
   },
@@ -65,9 +65,9 @@
     "imdb_id": "tt34956443"
   },
   {
-    "name": "The Mummy Returns",
+    "name": "Greenland 2: Migration",
     "type": "movie",
-    "imdb_id": "tt0209163"
+    "imdb_id": "tt14850054"
   },
   {
     "name": "Predator: Badlands",
@@ -75,9 +75,14 @@
     "imdb_id": "tt31227572"
   },
   {
-    "name": "Greenland 2: Migration",
+    "name": "Krishnavataram Part 1: The Heart (Hridayam)",
     "type": "movie",
-    "imdb_id": "tt14850054"
+    "imdb_id": "tt41804839"
+  },
+  {
+    "name": "The Mummy Returns",
+    "type": "movie",
+    "imdb_id": "tt0209163"
   },
   {
     "name": "The Avengers",
@@ -88,11 +93,6 @@
     "name": "Wormtown",
     "type": "movie",
     "imdb_id": "tt27040807"
-  },
-  {
-    "name": "Krishnavataram Part 1: The Heart (Hridayam)",
-    "type": "movie",
-    "imdb_id": "tt41804839"
   },
   {
     "name": "Avengers: Infinity War",

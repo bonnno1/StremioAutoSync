@@ -15,6 +15,11 @@
     "imdb_id": "tt33546863"
   },
   {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -23,11 +28,6 @@
     "name": "Berlin and the Lady with an Ermine",
     "type": "series",
     "imdb_id": "tt42178219"
-  },
-  {
-    "name": "The Apothecary Diaries",
-    "type": "series",
-    "imdb_id": "tt26743760"
   },
   {
     "name": "The Rookie",
@@ -50,9 +50,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Euphoria",
+    "name": "The Apothecary Diaries",
     "type": "series",
-    "imdb_id": "tt8772296"
+    "imdb_id": "tt26743760"
   },
   {
     "name": "Game of Thrones",
@@ -80,14 +80,19 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "Criminal Minds",
     "type": "series",
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Running Man",
+    "name": "Yellowstone",
     "type": "series",
-    "imdb_id": "tt2185037"
+    "imdb_id": "tt4236770"
   },
   {
     "name": "Family Guy",
