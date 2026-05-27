@@ -25,6 +25,11 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
@@ -35,9 +40,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "The WONDERfools",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt34440854"
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Kamen Rider",
@@ -45,9 +55,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Smallville",
+    "name": "The WONDERfools",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt34440854"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -60,29 +70,19 @@
     "imdb_id": "tt36849871"
   },
   {
-    "name": "Hunter x Hunter",
-    "type": "series",
-    "imdb_id": "tt0426719"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "Hunter x Hunter",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt0426719"
   },
   {
-    "name": "Prison Break",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Doctor Who",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Bleach",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Stargate SG-1",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0455275"
   }
 ]

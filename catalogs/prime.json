@@ -10,11 +10,6 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -25,19 +20,24 @@
     "imdb_id": "tt5057054"
   },
   {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Seeking Persephone",
+    "type": "series",
+    "imdb_id": "tt29666911"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
   },
   {
     "name": "Sapne vs Everyone",
@@ -60,24 +60,14 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
-  },
-  {
-    "name": "Matka King",
-    "type": "series",
-    "imdb_id": "tt16997004"
-  },
-  {
-    "name": "Citadel",
-    "type": "series",
-    "imdb_id": "tt9794044"
-  },
-  {
-    "name": "Mirzapur",
-    "type": "series",
-    "imdb_id": "tt6473300"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -85,13 +75,23 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Matka King",
+    "type": "series",
+    "imdb_id": "tt16997004"
+  },
+  {
+    "name": "Mirzapur",
+    "type": "series",
+    "imdb_id": "tt6473300"
+  },
+  {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
+  },
+  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
   }
 ]
