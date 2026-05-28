@@ -15,19 +15,9 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "A Good Girl's Guide to Murder",
-    "type": "series",
-    "imdb_id": "tt28118211"
-  },
-  {
     "name": "Euphoria",
     "type": "series",
     "imdb_id": "tt8772296"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
   },
   {
     "name": "The Boroughs",
@@ -35,14 +25,9 @@
     "imdb_id": "tt27557289"
   },
   {
-    "name": "Widow's Bay",
+    "name": "FROM",
     "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt9813792"
   },
   {
     "name": "One Piece",
@@ -50,9 +35,24 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Dutton Ranch",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt34991493"
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "A Good Girl's Guide to Murder",
+    "type": "series",
+    "imdb_id": "tt28118211"
+  },
+  {
+    "name": "The Four Seasons",
+    "type": "series",
+    "imdb_id": "tt30826447"
+  },
+  {
+    "name": "Murder Mindfully",
+    "type": "series",
+    "imdb_id": "tt30217222"
   },
   {
     "name": "The Testaments",
@@ -60,14 +60,9 @@
     "imdb_id": "tt10970762"
   },
   {
-    "name": "Marshals",
+    "name": "Dutton Ranch",
     "type": "series",
-    "imdb_id": "tt36849871"
-  },
-  {
-    "name": "Gold Land",
-    "type": "series",
-    "imdb_id": "tt37253311"
+    "imdb_id": "tt34991493"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -75,19 +70,19 @@
     "imdb_id": "tt5607616"
   },
   {
-    "name": "Maximum Pleasure Guaranteed",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt35946742"
+    "imdb_id": "tt33332385"
   },
   {
-    "name": "The Lead",
+    "name": "Gold Land",
     "type": "series",
-    "imdb_id": "tt35955279"
+    "imdb_id": "tt37253311"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt42178219"
+    "imdb_id": "tt0452046"
   },
   {
     "name": "The WONDERfools",
@@ -95,8 +90,13 @@
     "imdb_id": "tt34440854"
   },
   {
-    "name": "My 2 Cents",
+    "name": "Marshals",
     "type": "series",
-    "imdb_id": "tt38821531"
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "The Lead",
+    "type": "series",
+    "imdb_id": "tt35955279"
   }
 ]

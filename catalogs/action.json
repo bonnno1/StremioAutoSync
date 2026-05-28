@@ -10,24 +10,19 @@
     "imdb_id": "tt42178219"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -40,14 +35,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
   },
   {
     "name": "Kamen Rider",
@@ -55,19 +50,14 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "The WONDERfools",
-    "type": "series",
-    "imdb_id": "tt34440854"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Marshals",
+    "name": "The WONDERfools",
     "type": "series",
-    "imdb_id": "tt36849871"
+    "imdb_id": "tt34440854"
   },
   {
     "name": "The Walking Dead",
@@ -75,14 +65,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Hunter x Hunter",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt0426719"
+    "imdb_id": "tt0434665"
   },
   {
-    "name": "Vikings",
+    "name": "Marshals",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt36849871"
   },
   {
     "name": "Doctor Who",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
   }
 ]
