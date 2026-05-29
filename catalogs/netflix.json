@@ -20,9 +20,9 @@
     "imdb_id": "tt34440854"
   },
   {
-    "name": "Two Husbands One Wife",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt36351405"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Lucifer",
@@ -30,19 +30,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "Marvel's The Punisher",
     "type": "series",
     "imdb_id": "tt5675620"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
   },
   {
     "name": "Weak Hero",
@@ -50,14 +40,19 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Two Husbands One Wife",
+    "type": "series",
+    "imdb_id": "tt36351405"
+  },
+  {
     "name": "Berlin",
     "type": "series",
     "imdb_id": "tt16288804"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "Bloodhounds",
@@ -65,14 +60,14 @@
     "imdb_id": "tt26315487"
   },
   {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -80,14 +75,14 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
   },
   {
     "name": "Money Heist",
@@ -98,5 +93,10 @@
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
   }
 ]

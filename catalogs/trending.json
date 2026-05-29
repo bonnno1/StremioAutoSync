@@ -5,6 +5,11 @@
     "imdb_id": "tt30460310"
   },
   {
+    "name": "Star City",
+    "type": "series",
+    "imdb_id": "tt32140872"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
@@ -15,14 +20,9 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "Euphoria",
+    "name": "Dutton Ranch",
     "type": "series",
-    "imdb_id": "tt8772296"
-  },
-  {
-    "name": "The Boroughs",
-    "type": "series",
-    "imdb_id": "tt27557289"
+    "imdb_id": "tt34991493"
   },
   {
     "name": "FROM",
@@ -30,9 +30,19 @@
     "imdb_id": "tt9813792"
   },
   {
-    "name": "One Piece",
+    "name": "Euphoria",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt8772296"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
+    "name": "The Boroughs",
+    "type": "series",
+    "imdb_id": "tt27557289"
   },
   {
     "name": "Rick and Morty",
@@ -40,34 +50,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "A Good Girl's Guide to Murder",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt28118211"
-  },
-  {
-    "name": "The Four Seasons",
-    "type": "series",
-    "imdb_id": "tt30826447"
-  },
-  {
-    "name": "Murder Mindfully",
-    "type": "series",
-    "imdb_id": "tt30217222"
-  },
-  {
-    "name": "The Testaments",
-    "type": "series",
-    "imdb_id": "tt10970762"
-  },
-  {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Widow's Bay",
@@ -75,28 +60,43 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "Gold Land",
+    "name": "Brazil '70: The Third Star",
     "type": "series",
-    "imdb_id": "tt37253311"
+    "imdb_id": "tt37041010"
   },
   {
-    "name": "Criminal Minds",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt11198330"
   },
   {
-    "name": "The WONDERfools",
+    "name": "The Testaments",
     "type": "series",
-    "imdb_id": "tt34440854"
+    "imdb_id": "tt10970762"
+  },
+  {
+    "name": "Hacks",
+    "type": "series",
+    "imdb_id": "tt11815682"
+  },
+  {
+    "name": "Half Man",
+    "type": "series",
+    "imdb_id": "tt32767294"
+  },
+  {
+    "name": "The Four Seasons",
+    "type": "series",
+    "imdb_id": "tt30826447"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
   },
   {
     "name": "Marshals",
     "type": "series",
     "imdb_id": "tt36849871"
-  },
-  {
-    "name": "The Lead",
-    "type": "series",
-    "imdb_id": "tt35955279"
   }
 ]

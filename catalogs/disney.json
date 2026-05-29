@@ -30,14 +30,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Dorohedoro",
@@ -45,19 +45,14 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
     "name": "Gold Land",
     "type": "series",
     "imdb_id": "tt37253311"
   },
   {
-    "name": "Rivals",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt21906238"
+    "imdb_id": "tt24640580"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -65,19 +60,24 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -90,13 +90,13 @@
     "imdb_id": "tt41057629"
   },
   {
-    "name": "X-Men '97",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt13650480"
   },
   {
-    "name": "The Boss",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt14362262"
+    "imdb_id": "tt9140560"
   }
 ]

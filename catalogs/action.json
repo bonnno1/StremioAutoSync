@@ -25,24 +25,24 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Smallville",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Kamen Rider",
@@ -55,9 +55,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "The WONDERfools",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt34440854"
+    "imdb_id": "tt0455275"
   },
   {
     "name": "The Walking Dead",
@@ -65,9 +65,14 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Bleach",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "The WONDERfools",
+    "type": "series",
+    "imdb_id": "tt34440854"
   },
   {
     "name": "Marshals",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
     "name": "Renegade Immortal",
     "type": "series",
     "imdb_id": "tt27432264"
   },
   {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
   }
 ]

@@ -15,14 +15,14 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Margo's Got Money Troubles",
@@ -35,11 +35,6 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
@@ -50,9 +45,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Slow Horses",
+    "name": "Bad Sisters",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt15469618"
   },
   {
     "name": "See",
@@ -60,9 +55,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Maximum Pleasure Guaranteed",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt35946742"
+    "imdb_id": "tt5875444"
   },
   {
     "name": "The Morning Show",
@@ -75,9 +70,19 @@
     "imdb_id": "tt15677150"
   },
   {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Mythic Quest",
+    "type": "series",
+    "imdb_id": "tt8879940"
   },
   {
     "name": "Truth Be Told",
@@ -88,11 +93,6 @@
     "name": "Servant",
     "type": "series",
     "imdb_id": "tt8068860"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
   },
   {
     "name": "The Last Frontier",
