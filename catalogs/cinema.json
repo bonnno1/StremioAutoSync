@@ -5,6 +5,11 @@
     "imdb_id": "tt37287335"
   },
   {
+    "name": "Backrooms",
+    "type": "movie",
+    "imdb_id": "tt26657236"
+  },
+  {
     "name": "Mortal Kombat II",
     "type": "movie",
     "imdb_id": "tt17490712"
@@ -13,11 +18,6 @@
     "name": "The Mandalorian and Grogu",
     "type": "movie",
     "imdb_id": "tt30825738"
-  },
-  {
-    "name": "Backrooms",
-    "type": "movie",
-    "imdb_id": "tt26657236"
   },
   {
     "name": "Michael",
@@ -70,6 +70,11 @@
     "imdb_id": "tt39833109"
   },
   {
+    "name": "Kattalan",
+    "type": "movie",
+    "imdb_id": "tt35668756"
+  },
+  {
     "name": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
     "type": "movie",
     "imdb_id": "tt39018643"
@@ -93,10 +98,5 @@
     "name": "A Private Life",
     "type": "movie",
     "imdb_id": "tt33852162"
-  },
-  {
-    "name": "Vanishing Point",
-    "type": "movie",
-    "imdb_id": "tt34885279"
   }
 ]

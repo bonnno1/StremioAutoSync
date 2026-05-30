@@ -40,11 +40,6 @@
     "imdb_id": "tt1757678"
   },
   {
-    "name": "Ne Zha 2",
-    "type": "movie",
-    "imdb_id": "tt34956443"
-  },
-  {
     "name": "Zootopia 2",
     "type": "movie",
     "imdb_id": "tt26443597"
@@ -55,19 +50,14 @@
     "imdb_id": "tt0816692"
   },
   {
+    "name": "Ne Zha 2",
+    "type": "movie",
+    "imdb_id": "tt34956443"
+  },
+  {
     "name": "Avatar Aang: The Last Airbender",
     "type": "movie",
     "imdb_id": "tt18259538"
-  },
-  {
-    "name": "Krishnavataram Part 1: The Heart (Hridayam)",
-    "type": "movie",
-    "imdb_id": "tt41804839"
-  },
-  {
-    "name": "Predator: Badlands",
-    "type": "movie",
-    "imdb_id": "tt31227572"
   },
   {
     "name": "Greenland 2: Migration",
@@ -75,14 +65,19 @@
     "imdb_id": "tt14850054"
   },
   {
+    "name": "Predator: Badlands",
+    "type": "movie",
+    "imdb_id": "tt31227572"
+  },
+  {
+    "name": "Krishnavataram Part 1: The Heart (Hridayam)",
+    "type": "movie",
+    "imdb_id": "tt41804839"
+  },
+  {
     "name": "The Avengers",
     "type": "movie",
     "imdb_id": "tt0848228"
-  },
-  {
-    "name": "The Mummy",
-    "type": "movie",
-    "imdb_id": "tt0120616"
   },
   {
     "name": "Avengers: Infinity War",
@@ -98,5 +93,10 @@
     "name": "Spider-Man: No Way Home",
     "type": "movie",
     "imdb_id": "tt10872600"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "movie",
+    "imdb_id": "tt0120737"
   }
 ]
