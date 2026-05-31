@@ -1,5 +1,40 @@
 [
   {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Wonderland",
+    "type": "series",
+    "imdb_id": "tt30461027"
+  },
+  {
     "name": "HaHaHaHaHa",
     "type": "series",
     "imdb_id": "tt14098718"
@@ -10,44 +45,34 @@
     "imdb_id": "tt30985733"
   },
   {
-    "name": "Fights Break Sphere",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "Zhan Zhao Adventures",
+    "name": "Ace of the Diamond",
     "type": "series",
-    "imdb_id": "tt31887969"
+    "imdb_id": "tt3105422"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Last Week Tonight with John Oliver",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt3530232"
   },
   {
-    "name": "Amazing Saturday",
+    "name": "2 Days and 1 Night",
     "type": "series",
-    "imdb_id": "tt10160132"
+    "imdb_id": "tt3247300"
   },
   {
-    "name": "Casualty",
+    "name": "My Little Old Boy",
     "type": "series",
-    "imdb_id": "tt0096555"
+    "imdb_id": "tt33336849"
   },
   {
-    "name": "Detective Conan",
+    "name": "Wistoria: Wand and Sword",
     "type": "series",
-    "imdb_id": "tt0131179"
-  },
-  {
-    "name": "How Do You Play?",
-    "type": "series",
-    "imdb_id": "tt15334046"
-  },
-  {
-    "name": "Rent-a-Girlfriend",
-    "type": "series",
-    "imdb_id": "tt11448214"
+    "imdb_id": "tt31889371"
   },
   {
     "name": "Ride the Wind",
@@ -60,28 +85,8 @@
     "imdb_id": "tt39010903"
   },
   {
-    "name": "Sins and Roses",
+    "name": "The Chi",
     "type": "series",
-    "imdb_id": "tt38074086"
-  },
-  {
-    "name": "My Royal Nemesis",
-    "type": "series",
-    "imdb_id": "tt38828946"
-  },
-  {
-    "name": "Double Helix",
-    "type": "series",
-    "imdb_id": "tt42152890"
-  },
-  {
-    "name": "Welcome to Demon School! Iruma-kun",
-    "type": "series",
-    "imdb_id": "tt11034066"
-  },
-  {
-    "name": "The Manager",
-    "type": "series",
-    "imdb_id": "tt15340934"
+    "imdb_id": "tt6294706"
   }
 ]

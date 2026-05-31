@@ -15,9 +15,24 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Deep In Love",
+    "type": "series",
+    "imdb_id": "tt38647499"
   },
   {
     "name": "King of the Hill",
@@ -30,29 +45,9 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Bonanza",
     "type": "series",
     "imdb_id": "tt0052451"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
-    "name": "The One I Love",
-    "type": "series",
-    "imdb_id": "tt38987259"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "Phineas and Ferb",
@@ -60,9 +55,19 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Rugrats",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "The One I Love",
+    "type": "series",
+    "imdb_id": "tt38987259"
   },
   {
     "name": "Diagnosis: Murder",
@@ -70,28 +75,23 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Deep In Love",
+    "name": "The Amazing World of Gumball",
     "type": "series",
-    "imdb_id": "tt38647499"
+    "imdb_id": "tt1942683"
   },
   {
-    "name": "The Nanny",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "The Chosen",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt0159881"
   },
   {
-    "name": "The Rifleman",
+    "name": "Gravity Falls",
     "type": "series",
-    "imdb_id": "tt0051308"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
+    "imdb_id": "tt1865718"
   }
 ]

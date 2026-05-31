@@ -20,11 +20,6 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -45,14 +40,19 @@
     "imdb_id": "tt30263074"
   },
   {
-    "name": "Seeking Persephone",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt29666911"
+    "imdb_id": "tt11247158"
   },
   {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Seeking Persephone",
+    "type": "series",
+    "imdb_id": "tt29666911"
   },
   {
     "name": "The Chosen",
@@ -65,14 +65,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Mirzapur",
     "type": "series",
     "imdb_id": "tt6473300"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -85,13 +85,13 @@
     "imdb_id": "tt13159924"
   },
   {
-    "name": "Matka King",
-    "type": "series",
-    "imdb_id": "tt16997004"
-  },
-  {
     "name": "Citadel",
     "type": "series",
     "imdb_id": "tt9794044"
+  },
+  {
+    "name": "Matka King",
+    "type": "series",
+    "imdb_id": "tt16997004"
   }
 ]

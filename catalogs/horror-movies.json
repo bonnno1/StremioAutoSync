@@ -45,6 +45,11 @@
     "imdb_id": "tt38782528"
   },
   {
+    "name": "Iron Lung",
+    "type": "movie",
+    "imdb_id": "tt27564844"
+  },
+  {
     "name": "Night Silence",
     "type": "movie",
     "imdb_id": "tt33029349"
@@ -93,10 +98,5 @@
     "name": "The Conjuring: Last Rites",
     "type": "movie",
     "imdb_id": "tt22898462"
-  },
-  {
-    "name": "Lola's Secret",
-    "type": "movie",
-    "imdb_id": "tt0089790"
   }
 ]
