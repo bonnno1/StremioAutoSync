@@ -30,14 +30,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
   },
   {
     "name": "Sapne vs Everyone",
@@ -45,19 +45,14 @@
     "imdb_id": "tt30263074"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Chosen",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt11247158"
   },
   {
     "name": "Mirzapur",
@@ -65,9 +60,9 @@
     "imdb_id": "tt6473300"
   },
   {
-    "name": "Seeking Persephone",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt29666911"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -75,14 +70,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
   },
   {
     "name": "Matka King",
@@ -93,5 +88,10 @@
     "name": "Citadel",
     "type": "series",
     "imdb_id": "tt9794044"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   }
 ]

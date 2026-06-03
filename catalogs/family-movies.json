@@ -35,6 +35,11 @@
     "imdb_id": "tt32565993"
   },
   {
+    "name": "Blast",
+    "type": "movie",
+    "imdb_id": "tt37971394"
+  },
+  {
     "name": "Toy Story 5",
     "type": "movie",
     "imdb_id": "tt29355505"
@@ -45,19 +50,9 @@
     "imdb_id": "tt41367695"
   },
   {
-    "name": "Blast",
-    "type": "movie",
-    "imdb_id": "tt37971394"
-  },
-  {
     "name": "Spirited Away",
     "type": "movie",
     "imdb_id": "tt0245429"
-  },
-  {
-    "name": "The Super Mario Bros. Movie",
-    "type": "movie",
-    "imdb_id": "tt6718170"
   },
   {
     "name": "Coraline",
@@ -65,14 +60,9 @@
     "imdb_id": "tt0327597"
   },
   {
-    "name": "Animal Farm",
+    "name": "The Super Mario Bros. Movie",
     "type": "movie",
-    "imdb_id": "tt2467700"
-  },
-  {
-    "name": "Shrek",
-    "type": "movie",
-    "imdb_id": "tt0126029"
+    "imdb_id": "tt6718170"
   },
   {
     "name": "The Wild Robot",
@@ -80,9 +70,24 @@
     "imdb_id": "tt29623480"
   },
   {
+    "name": "Toy Story",
+    "type": "movie",
+    "imdb_id": "tt0114709"
+  },
+  {
+    "name": "Shrek",
+    "type": "movie",
+    "imdb_id": "tt0126029"
+  },
+  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
+  },
+  {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
   },
   {
     "name": "The Lion King",
@@ -90,13 +95,8 @@
     "imdb_id": "tt0110357"
   },
   {
-    "name": "Toy Story",
+    "name": "Sonic the Hedgehog 3",
     "type": "movie",
-    "imdb_id": "tt0114709"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt18259086"
   }
 ]

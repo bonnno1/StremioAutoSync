@@ -25,6 +25,11 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
@@ -35,19 +40,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Dorohedoro",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt11147852"
   },
   {
     "name": "Gold Land",
@@ -70,6 +70,11 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
@@ -80,18 +85,13 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Moon Knight",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Marvel Studios Legends",
     "type": "series",
     "imdb_id": "tt13650480"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   }
 ]
