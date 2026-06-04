@@ -30,11 +30,6 @@
     "imdb_id": "tt8772296"
   },
   {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -50,6 +45,11 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Home and Away",
+    "type": "series",
+    "imdb_id": "tt0094481"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
@@ -60,14 +60,14 @@
     "imdb_id": "tt0246393"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Criminal Minds",

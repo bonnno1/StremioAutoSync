@@ -25,9 +25,14 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Deep In Love",
+    "type": "series",
+    "imdb_id": "tt38647499"
   },
   {
     "name": "Dancing with the Stars",
@@ -45,24 +50,9 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "King of the Hill",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Deep In Love",
-    "type": "series",
-    "imdb_id": "tt38647499"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "The Andy Griffith Show",
@@ -70,9 +60,9 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "Jeopardy!",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0159881"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Diagnosis: Murder",
@@ -80,9 +70,14 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "The Bullwinkle Show",
+    "name": "Jeopardy!",
     "type": "series",
-    "imdb_id": "tt0052507"
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
   },
   {
     "name": "Rugrats",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Golden Boy",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt21105088"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
   }
 ]

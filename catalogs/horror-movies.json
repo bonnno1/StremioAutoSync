@@ -15,14 +15,14 @@
     "imdb_id": "tt26657236"
   },
   {
-    "name": "Iron Lung",
-    "type": "movie",
-    "imdb_id": "tt27564844"
-  },
-  {
     "name": "Hokum",
     "type": "movie",
     "imdb_id": "tt35672862"
+  },
+  {
+    "name": "Iron Lung",
+    "type": "movie",
+    "imdb_id": "tt27564844"
   },
   {
     "name": "Bhooth Bangla",
@@ -30,14 +30,14 @@
     "imdb_id": "tt29540862"
   },
   {
-    "name": "Disforia",
-    "type": "movie",
-    "imdb_id": "tt32601650"
-  },
-  {
     "name": "The Photographer",
     "type": "movie",
     "imdb_id": "tt34437490"
+  },
+  {
+    "name": "Disforia",
+    "type": "movie",
+    "imdb_id": "tt32601650"
   },
   {
     "name": "Mortal Game",
@@ -60,14 +60,9 @@
     "imdb_id": "tt32205214"
   },
   {
-    "name": "Scary Movie",
+    "name": "Send Help",
     "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
-    "name": "Worldbreaker",
-    "type": "movie",
-    "imdb_id": "tt14264694"
+    "imdb_id": "tt8036976"
   },
   {
     "name": "Ready or Not: Here I Come",
@@ -75,19 +70,19 @@
     "imdb_id": "tt33978029"
   },
   {
-    "name": "Send Help",
-    "type": "movie",
-    "imdb_id": "tt8036976"
-  },
-  {
     "name": "Dracula",
     "type": "movie",
     "imdb_id": "tt31434030"
   },
   {
-    "name": "Night Silence",
+    "name": "Worldbreaker",
     "type": "movie",
-    "imdb_id": "tt33029349"
+    "imdb_id": "tt14264694"
+  },
+  {
+    "name": "Kraken",
+    "type": "movie",
+    "imdb_id": "tt19838566"
   },
   {
     "name": "They Will Kill You",
@@ -95,8 +90,13 @@
     "imdb_id": "tt31728330"
   },
   {
-    "name": "Kraken",
+    "name": "Night Silence",
     "type": "movie",
-    "imdb_id": "tt19838566"
+    "imdb_id": "tt33029349"
+  },
+  {
+    "name": "Scream 7",
+    "type": "movie",
+    "imdb_id": "tt27047903"
   }
 ]
