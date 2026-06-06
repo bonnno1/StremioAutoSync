@@ -15,19 +15,19 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Deep In Love",
+    "name": "Among Friends",
     "type": "series",
-    "imdb_id": "tt38647499"
+    "imdb_id": "tt0175383"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
   },
   {
     "name": "King of the Hill",
@@ -45,29 +45,9 @@
     "imdb_id": "tt0052451"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Deep In Love",
     "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
-  },
-  {
-    "name": "Diagnosis: Murder",
-    "type": "series",
-    "imdb_id": "tt0105986"
+    "imdb_id": "tt38647499"
   },
   {
     "name": "Lassie",
@@ -75,9 +55,9 @@
     "imdb_id": "tt0046617"
   },
   {
-    "name": "Jeopardy!",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0159881"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Golden Boy",
@@ -85,14 +65,34 @@
     "imdb_id": "tt21105088"
   },
   {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
+  },
+  {
     "name": "Everwood",
     "type": "series",
     "imdb_id": "tt0318883"
-  },
-  {
-    "name": "Bewitched",
-    "type": "series",
-    "imdb_id": "tt0057733"
   },
   {
     "name": "The One I Love",

@@ -15,24 +15,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "The Big Game",
-    "type": "series",
-    "imdb_id": "tt13144490"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Smallville",
@@ -40,9 +30,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
+    "name": "The Big Game",
     "type": "series",
-    "imdb_id": "tt42178219"
+    "imdb_id": "tt13144490"
   },
   {
     "name": "S.W.A.T.",
@@ -50,19 +40,24 @@
     "imdb_id": "tt6111130"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "Hawaii Five-0",
     "type": "series",
     "imdb_id": "tt1600194"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Berlin and the Lady with an Ermine",
+    "type": "series",
+    "imdb_id": "tt42178219"
   },
   {
     "name": "Prison Break",
@@ -80,11 +75,6 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
@@ -93,5 +83,15 @@
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   }
 ]

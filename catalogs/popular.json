@@ -45,19 +45,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
   },
   {
     "name": "Game of Thrones",
@@ -65,9 +55,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "Criminal Minds",
@@ -75,28 +75,28 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
-    "name": "The Tonight Show Starring Johnny Carson",
-    "type": "series",
-    "imdb_id": "tt0055708"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Family Guy",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt1196946"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "Tagesschau",
     "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt0246393"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Yellowstone",
+    "type": "series",
+    "imdb_id": "tt4236770"
   }
 ]
