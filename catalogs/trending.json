@@ -5,24 +5,24 @@
     "imdb_id": "tt30460310"
   },
   {
-    "name": "Euphoria",
-    "type": "series",
-    "imdb_id": "tt8772296"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Euphoria",
+    "type": "series",
+    "imdb_id": "tt8772296"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   },
   {
     "name": "The Boys",
@@ -35,19 +35,9 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "Widow's Bay",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Dutton Ranch",
@@ -55,34 +45,34 @@
     "imdb_id": "tt34991493"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "Your Friends & Neighbors",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt33332385"
   },
   {
-    "name": "Not Suitable for Work",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt35823838"
+    "imdb_id": "tt32140872"
   },
   {
-    "name": "The Lead",
+    "name": "The Witness",
     "type": "series",
-    "imdb_id": "tt35955279"
+    "imdb_id": "tt31631015"
+  },
+  {
+    "name": "Love Island USA",
+    "type": "series",
+    "imdb_id": "tt8819906"
   },
   {
     "name": "Michael Jackson: The Verdict",
@@ -90,8 +80,13 @@
     "imdb_id": "tt42873612"
   },
   {
-    "name": "Love Island USA",
+    "name": "The Lead",
     "type": "series",
-    "imdb_id": "tt8819906"
+    "imdb_id": "tt35955279"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
   }
 ]
