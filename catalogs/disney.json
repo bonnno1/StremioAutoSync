@@ -20,6 +20,11 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
@@ -28,11 +33,6 @@
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "Star Wars: Visions",
@@ -60,6 +60,11 @@
     "imdb_id": "tt36594331"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
@@ -70,14 +75,9 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Marvel Studios Legends",
     "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt13650480"
   },
   {
     "name": "Moon Knight",
@@ -85,13 +85,13 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Your Friendly Neighborhood Spider-Man",
-    "type": "series",
-    "imdb_id": "tt16027074"
   }
 ]

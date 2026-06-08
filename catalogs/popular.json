@@ -10,24 +10,24 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "Spider-Noir",
-    "type": "series",
-    "imdb_id": "tt30460310"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Chronicles of the Sun",
+    "name": "Spider-Noir",
     "type": "series",
-    "imdb_id": "tt8883922"
+    "imdb_id": "tt30460310"
   },
   {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
   },
   {
     "name": "Euphoria",
@@ -50,6 +50,11 @@
     "imdb_id": "tt0413573"
   },
   {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
@@ -65,24 +70,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt2185037"
   },
   {
     "name": "Family Guy",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Tagesschau",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt0246393"
+    "imdb_id": "tt0452046"
   },
   {
-    "name": "Yellowstone",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt4236770"
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   }
 ]
