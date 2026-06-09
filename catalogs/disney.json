@@ -30,34 +30,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Dorohedoro",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
-  },
-  {
-    "name": "Star Wars: Maul - Shadow Lord",
-    "type": "series",
-    "imdb_id": "tt36594331"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -65,19 +45,24 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
   },
   {
     "name": "Moon Knight",
@@ -85,13 +70,33 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt36594331"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Alice and Steve",
+    "type": "series",
+    "imdb_id": "tt35728748"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
   }
 ]

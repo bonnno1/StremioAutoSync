@@ -10,9 +10,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt42178219"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Lucifer",
@@ -20,9 +20,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Raw",
+    "name": "Berlin and the Lady with an Ermine",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt42178219"
   },
   {
     "name": "Valeria",
@@ -35,24 +35,9 @@
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Burn the House Down",
-    "type": "series",
-    "imdb_id": "tt21327000"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "Marvel's The Punisher",
@@ -60,14 +45,34 @@
     "imdb_id": "tt5675620"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "The Amazing Digital Circus",
     "type": "series",
     "imdb_id": "tt27610198"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "The Witness",
+    "type": "series",
+    "imdb_id": "tt31631015"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   },
   {
     "name": "The WONDERfools",
@@ -80,16 +85,6 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "The Witness",
-    "type": "series",
-    "imdb_id": "tt31631015"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -98,5 +93,10 @@
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   }
 ]

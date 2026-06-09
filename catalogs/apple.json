@@ -15,11 +15,6 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
@@ -28,6 +23,11 @@
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Star City",
+    "type": "series",
+    "imdb_id": "tt32140872"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -65,11 +65,6 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
     "name": "Margo's Got Money Troubles",
     "type": "series",
     "imdb_id": "tt31137273"
@@ -85,18 +80,23 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "The Last Frontier",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt22202452"
   },
   {
-    "name": "Maximum Pleasure Guaranteed",
+    "name": "Hijack",
     "type": "series",
-    "imdb_id": "tt35946742"
+    "imdb_id": "tt19854762"
   },
   {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
+  },
+  {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
   }
 ]

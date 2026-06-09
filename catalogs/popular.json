@@ -15,24 +15,24 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Spider-Noir",
-    "type": "series",
-    "imdb_id": "tt30460310"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Chronicles of the Sun",
+    "name": "Spider-Noir",
     "type": "series",
-    "imdb_id": "tt8883922"
+    "imdb_id": "tt30460310"
   },
   {
-    "name": "Euphoria",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt8772296"
+    "imdb_id": "tt34809853"
+  },
+  {
+    "name": "Egoli: Place of Gold",
+    "type": "series",
+    "imdb_id": "tt0128176"
   },
   {
     "name": "The Rookie",
@@ -40,9 +40,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Law & Order",
+    "name": "Euphoria",
     "type": "series",
-    "imdb_id": "tt0098844"
+    "imdb_id": "tt8772296"
   },
   {
     "name": "Grey's Anatomy",
@@ -50,9 +50,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Teach You a Lesson",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt34809853"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Supernatural",
@@ -70,14 +70,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Running Man",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt1196946"
   },
   {
     "name": "Criminal Minds",
@@ -85,9 +80,9 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "The Mentalist",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Simpsons",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Breaking Bad",
+    "name": "Chronicles of the Sun",
     "type": "series",
-    "imdb_id": "tt0903747"
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Yellowstone",
+    "type": "series",
+    "imdb_id": "tt4236770"
   }
 ]
