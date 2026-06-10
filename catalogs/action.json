@@ -25,19 +25,24 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -60,11 +65,6 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
@@ -80,18 +80,18 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt42178219"
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   }
 ]

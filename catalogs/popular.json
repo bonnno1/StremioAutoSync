@@ -5,9 +5,19 @@
     "imdb_id": "tt9813792"
   },
   {
+    "name": "El cor de la ciutat",
+    "type": "series",
+    "imdb_id": "tt0338590"
+  },
+  {
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
+  },
+  {
+    "name": "Pirimi Lamai",
+    "type": "series",
+    "imdb_id": "tt36545064"
   },
   {
     "name": "The Boys",
@@ -15,19 +25,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Spider-Noir",
-    "type": "series",
-    "imdb_id": "tt30460310"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Egoli: Place of Gold",
@@ -35,14 +40,14 @@
     "imdb_id": "tt0128176"
   },
   {
+    "name": "Spider-Noir",
+    "type": "series",
+    "imdb_id": "tt30460310"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Euphoria",
-    "type": "series",
-    "imdb_id": "tt8772296"
   },
   {
     "name": "Grey's Anatomy",
@@ -55,14 +60,24 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Supernatural",
+    "name": "Euphoria",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt8772296"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "NCIS",
@@ -80,23 +95,8 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Chronicles of the Sun",
     "type": "series",
     "imdb_id": "tt8883922"
-  },
-  {
-    "name": "Yellowstone",
-    "type": "series",
-    "imdb_id": "tt4236770"
   }
 ]
