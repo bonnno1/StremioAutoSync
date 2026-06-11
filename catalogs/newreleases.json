@@ -1,8 +1,18 @@
 [
   {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
+  },
+  {
     "name": "Chronicles of the Sun",
     "type": "series",
     "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Wonderland",
+    "type": "series",
+    "imdb_id": "tt30461027"
   },
   {
     "name": "The Daily Show",
@@ -15,29 +25,19 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   },
   {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
-  },
-  {
-    "name": "Eshref Ruya",
-    "type": "series",
-    "imdb_id": "tt35069642"
-  },
-  {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Clarkson's Farm",
-    "type": "series",
-    "imdb_id": "tt10541088"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -55,9 +55,19 @@
     "imdb_id": "tt0123366"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "Perfect World",
     "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt14986786"
+  },
+  {
+    "name": "Star City",
+    "type": "series",
+    "imdb_id": "tt32140872"
+  },
+  {
+    "name": "Hot Ones",
+    "type": "series",
+    "imdb_id": "tt6556992"
   },
   {
     "name": "Jeopardy!",
@@ -65,24 +75,14 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "All Elite Wrestling: Dynamite",
-    "type": "series",
-    "imdb_id": "tt10691888"
-  },
-  {
-    "name": "Classroom of the Elite",
-    "type": "series",
-    "imdb_id": "tt7263328"
-  },
-  {
-    "name": "Markus Lanz",
-    "type": "series",
-    "imdb_id": "tt1239083"
-  },
-  {
     "name": "LIVE with Kelly and Mark",
     "type": "series",
     "imdb_id": "tt0096636"
+  },
+  {
+    "name": "Ride the Wind",
+    "type": "series",
+    "imdb_id": "tt21263056"
   },
   {
     "name": "Jimmy Kimmel Live!",
@@ -90,9 +90,9 @@
     "imdb_id": "tt0320037"
   },
   {
-    "name": "Full-Time Magister",
+    "name": "Markus Lanz",
     "type": "series",
-    "imdb_id": "tt11317074"
+    "imdb_id": "tt1239083"
   },
   {
     "name": "Tomorrow Is Ours",

@@ -25,6 +25,16 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "The Big Game",
+    "type": "series",
+    "imdb_id": "tt13144490"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -40,29 +50,14 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "The Big Game",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt13144490"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt12343534"
   },
   {
     "name": "The Walking Dead",
@@ -75,23 +70,33 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Lost",
     "type": "series",
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
   }
 ]

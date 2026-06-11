@@ -5,6 +5,11 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Deweni Inima",
+    "type": "series",
+    "imdb_id": "tt8943942"
+  },
+  {
     "name": "Gullak",
     "type": "series",
     "imdb_id": "tt10530900"
@@ -13,11 +18,6 @@
     "name": "Boku no Nee-chan",
     "type": "series",
     "imdb_id": "tt16274286"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "The Goldbergs",
@@ -30,14 +30,14 @@
     "imdb_id": "tt6226232"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Everwood",
-    "type": "series",
-    "imdb_id": "tt0318883"
   },
   {
     "name": "Bonanza",
@@ -48,6 +48,11 @@
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Everwood",
+    "type": "series",
+    "imdb_id": "tt0318883"
   },
   {
     "name": "King of the Hill",
@@ -93,10 +98,5 @@
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
   }
 ]

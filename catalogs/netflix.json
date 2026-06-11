@@ -10,14 +10,19 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Lucifer",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Berlin and the Lady with an Ermine",
@@ -25,9 +30,9 @@
     "imdb_id": "tt42178219"
   },
   {
-    "name": "Valeria",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt9731288"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Bloodhounds",
@@ -35,19 +40,34 @@
     "imdb_id": "tt26315487"
   },
   {
+    "name": "The Amazing Digital Circus",
+    "type": "series",
+    "imdb_id": "tt27610198"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Squid Game",
+    "name": "Rosario Tijeras (Mexico)",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt6340304"
   },
   {
-    "name": "You",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Valeria",
+    "type": "series",
+    "imdb_id": "tt9731288"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Marvel's The Punisher",
@@ -60,14 +80,14 @@
     "imdb_id": "tt21327000"
   },
   {
-    "name": "The Amazing Digital Circus",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt27610198"
+    "imdb_id": "tt4786824"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt13443470"
   },
   {
     "name": "The Witness",
@@ -78,25 +98,5 @@
     "name": "The WONDERfools",
     "type": "series",
     "imdb_id": "tt34440854"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "XO, Kitty",
-    "type": "series",
-    "imdb_id": "tt14490706"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
   }
 ]
