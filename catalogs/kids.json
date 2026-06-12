@@ -5,24 +5,24 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Sesame Street",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Rugrats",
@@ -35,14 +35,29 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Super Wings",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt7678620"
   },
   {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Sailor Moon",
+    "type": "series",
+    "imdb_id": "tt0103369"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -60,38 +75,23 @@
     "imdb_id": "tt3342514"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
-  },
-  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Bluey",
+    "name": "Mickey Mouse Clubhouse",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "Kim Possible",
+    "type": "series",
+    "imdb_id": "tt0278866"
   },
   {
     "name": "The Smurfs",
     "type": "series",
     "imdb_id": "tt0081933"
-  },
-  {
-    "name": "Garfield and Friends",
-    "type": "series",
-    "imdb_id": "tt0094469"
-  },
-  {
-    "name": "Blaze and the Monster Machines",
-    "type": "series",
-    "imdb_id": "tt4458594"
   }
 ]

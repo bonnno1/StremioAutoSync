@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Game of Thrones",
@@ -25,16 +25,6 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Big Game",
-    "type": "series",
-    "imdb_id": "tt13144490"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -50,9 +40,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -60,9 +50,19 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "The Walking Dead",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Big Game",
+    "type": "series",
+    "imdb_id": "tt13144490"
   },
   {
     "name": "Prison Break",
@@ -70,19 +70,14 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
   },
   {
     "name": "Hawaii Five-0",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt0411008"
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
   }
 ]
