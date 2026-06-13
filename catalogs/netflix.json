@@ -20,16 +20,6 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
-    "type": "series",
-    "imdb_id": "tt42178219"
-  },
-  {
-    "name": "The Amazing Digital Circus",
-    "type": "series",
-    "imdb_id": "tt27610198"
-  },
-  {
     "name": "Rosario Tijeras (Mexico)",
     "type": "series",
     "imdb_id": "tt6340304"
@@ -40,14 +30,24 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Bloodhounds",
-    "type": "series",
-    "imdb_id": "tt26315487"
-  },
-  {
     "name": "Burn the House Down",
     "type": "series",
     "imdb_id": "tt21327000"
+  },
+  {
+    "name": "The Amazing Digital Circus",
+    "type": "series",
+    "imdb_id": "tt27610198"
+  },
+  {
+    "name": "Berlin and the Lady with an Ermine",
+    "type": "series",
+    "imdb_id": "tt42178219"
+  },
+  {
+    "name": "Bloodhounds",
+    "type": "series",
+    "imdb_id": "tt26315487"
   },
   {
     "name": "You",
@@ -60,9 +60,9 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Valeria",
+    "name": "XO, Kitty",
     "type": "series",
-    "imdb_id": "tt9731288"
+    "imdb_id": "tt14490706"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -70,24 +70,9 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "XO, Kitty",
+    "name": "Marvel's The Punisher",
     "type": "series",
-    "imdb_id": "tt14490706"
-  },
-  {
-    "name": "The WONDERfools",
-    "type": "series",
-    "imdb_id": "tt34440854"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt5675620"
   },
   {
     "name": "The Crown",
@@ -95,8 +80,23 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Marvel's The Punisher",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt5675620"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "The WONDERfools",
+    "type": "series",
+    "imdb_id": "tt34440854"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "Elif",
+    "type": "series",
+    "imdb_id": "tt4745726"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -10,14 +15,19 @@
     "imdb_id": "tt8943942"
   },
   {
+    "name": "Gullak",
+    "type": "series",
+    "imdb_id": "tt10530900"
+  },
+  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Gullak",
+    "name": "The Promise",
     "type": "series",
-    "imdb_id": "tt10530900"
+    "imdb_id": "tt9826628"
   },
   {
     "name": "Doraemon",
@@ -25,34 +35,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Everwood",
     "type": "series",
     "imdb_id": "tt0318883"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "Boku no Nee-chan",
@@ -60,9 +45,29 @@
     "imdb_id": "tt16274286"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "The Goldbergs",
+    "type": "series",
+    "imdb_id": "tt2712740"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Yalı Çapkını",
@@ -70,24 +75,19 @@
     "imdb_id": "tt21105088"
   },
   {
-    "name": "Deep In Love",
-    "type": "series",
-    "imdb_id": "tt38647499"
-  },
-  {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Rugrats",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0852863"
   },
   {
-    "name": "Gravity Falls",
+    "name": "Deep In Love",
     "type": "series",
-    "imdb_id": "tt1865718"
+    "imdb_id": "tt38647499"
   },
   {
     "name": "The Andy Griffith Show",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "Heartland",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt1094229"
+    "imdb_id": "tt1871731"
   }
 ]
