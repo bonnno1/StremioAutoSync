@@ -5,14 +5,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Daredevil: Born Again",
@@ -25,9 +25,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Rivals",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt21906238"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Loki",
@@ -35,14 +35,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "What If...?",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt21906238"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -50,14 +45,14 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
-  },
-  {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
   },
   {
     "name": "Soy Luna",
@@ -70,9 +65,9 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Alice and Steve",
+    "name": "Dorohedoro",
     "type": "series",
-    "imdb_id": "tt35728748"
+    "imdb_id": "tt11147852"
   },
   {
     "name": "Hawkeye",
@@ -80,9 +75,9 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "WandaVision",
+    "name": "Alice and Steve",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt35728748"
   },
   {
     "name": "Star Wars: Maul - Shadow Lord",
@@ -90,13 +85,18 @@
     "imdb_id": "tt36594331"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Ahsoka",
-    "type": "series",
-    "imdb_id": "tt13622776"
   }
 ]

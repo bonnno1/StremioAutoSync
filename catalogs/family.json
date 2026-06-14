@@ -1,18 +1,8 @@
 [
   {
-    "name": "Elif",
-    "type": "series",
-    "imdb_id": "tt4745726"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Deweni Inima",
-    "type": "series",
-    "imdb_id": "tt8943942"
   },
   {
     "name": "Gullak",
@@ -25,9 +15,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "The Promise",
+    "name": "Deweni Inima",
     "type": "series",
-    "imdb_id": "tt9826628"
+    "imdb_id": "tt8943942"
+  },
+  {
+    "name": "Elif",
+    "type": "series",
+    "imdb_id": "tt4745726"
   },
   {
     "name": "Doraemon",
@@ -40,29 +35,9 @@
     "imdb_id": "tt0318883"
   },
   {
-    "name": "Boku no Nee-chan",
-    "type": "series",
-    "imdb_id": "tt16274286"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "The Goldbergs",
-    "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
   },
   {
     "name": "King of the Hill",
@@ -70,9 +45,14 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Yalı Çapkını",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt21105088"
+    "imdb_id": "tt0052451"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Dallas",
@@ -80,9 +60,29 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "The Promise",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt9826628"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Boku no Nee-chan",
+    "type": "series",
+    "imdb_id": "tt16274286"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Yalı Çapkını",
+    "type": "series",
+    "imdb_id": "tt21105088"
   },
   {
     "name": "Deep In Love",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0852863"
   }
 ]

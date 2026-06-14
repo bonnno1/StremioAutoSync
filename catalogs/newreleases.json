@@ -1,18 +1,38 @@
 [
   {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
     "name": "Wonderland",
     "type": "series",
     "imdb_id": "tt30461027"
   },
   {
-    "name": "BYU Baseball",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt36210442"
+    "imdb_id": "tt0156214"
   },
   {
-    "name": "Fights Break Sphere",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt27432264"
   },
   {
     "name": "HaHaHaHaHa",
@@ -20,24 +40,9 @@
     "imdb_id": "tt14098718"
   },
   {
-    "name": "My Royal Nemesis",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt38828946"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Hello Saturday",
-    "type": "series",
-    "imdb_id": "tt30985733"
-  },
-  {
-    "name": "Woroud Wa Thonoub",
-    "type": "series",
-    "imdb_id": "tt38074086"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Archives: The Nanyang Mystery",
@@ -45,29 +50,19 @@
     "imdb_id": "tt34959993"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Hello Saturday",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt30985733"
   },
   {
-    "name": "Detective Conan",
+    "name": "Torn Apart",
     "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt42764103"
   },
   {
-    "name": "Double Helix",
+    "name": "Wistoria: Wand and Sword",
     "type": "series",
-    "imdb_id": "tt42152890"
-  },
-  {
-    "name": "Casualty",
-    "type": "series",
-    "imdb_id": "tt0096555"
-  },
-  {
-    "name": "Crazy Love, Moo-Moo!",
-    "type": "series",
-    "imdb_id": "tt39893694"
+    "imdb_id": "tt31889371"
   },
   {
     "name": "The First Jasmine",
@@ -75,28 +70,28 @@
     "imdb_id": "tt37096911"
   },
   {
-    "name": "Rent-a-Girlfriend",
-    "type": "series",
-    "imdb_id": "tt11448214"
-  },
-  {
     "name": "Laughter Chefs Unlimited Entertainment",
     "type": "series",
     "imdb_id": "tt32590226"
   },
   {
+    "name": "The Chi",
+    "type": "series",
+    "imdb_id": "tt6294706"
+  },
+  {
+    "name": "Great Performances",
+    "type": "series",
+    "imdb_id": "tt0159876"
+  },
+  {
+    "name": "Last Week Tonight with John Oliver",
+    "type": "series",
+    "imdb_id": "tt3530232"
+  },
+  {
     "name": "Love Island USA",
     "type": "series",
     "imdb_id": "tt8819906"
-  },
-  {
-    "name": "How Do You Play?",
-    "type": "series",
-    "imdb_id": "tt15334046"
-  },
-  {
-    "name": "Ride the Wind",
-    "type": "series",
-    "imdb_id": "tt21263056"
   }
 ]
