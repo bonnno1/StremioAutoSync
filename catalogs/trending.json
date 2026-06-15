@@ -1,13 +1,18 @@
 [
   {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
+  },
+  {
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
   },
   {
-    "name": "Teach You a Lesson",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt34809853"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Spider-Noir",
@@ -20,14 +25,14 @@
     "imdb_id": "tt33055254"
   },
   {
-    "name": "Cape Fear",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Love Has Fireworks",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt28131816"
   },
   {
     "name": "Widow's Bay",
@@ -35,19 +40,14 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
     "name": "The Polygamist",
     "type": "series",
     "imdb_id": "tt42543947"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   },
   {
     "name": "The Boys",
@@ -55,19 +55,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "My Adventures with Superman",
+    "name": "Witch Hat Atelier",
     "type": "series",
-    "imdb_id": "tt14681924"
+    "imdb_id": "tt32550889"
   },
   {
-    "name": "Viral Hit",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt39400589"
-  },
-  {
-    "name": "Euphoria",
-    "type": "series",
-    "imdb_id": "tt8772296"
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Off Campus",
@@ -75,23 +70,28 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "Smoking Behind the Supermarket with You",
+    "name": "Euphoria",
     "type": "series",
-    "imdb_id": "tt37614297"
+    "imdb_id": "tt8772296"
   },
   {
-    "name": "Dutton Ranch",
+    "name": "My Adventures with Superman",
     "type": "series",
-    "imdb_id": "tt34991493"
+    "imdb_id": "tt14681924"
   },
   {
-    "name": "Archives: The Nanyang Mystery",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt34959993"
+    "imdb_id": "tt12879782"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Viral Hit",
+    "type": "series",
+    "imdb_id": "tt39400589"
   }
 ]

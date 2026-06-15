@@ -10,14 +10,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Peppa Pig",
@@ -25,34 +25,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
   },
   {
     "name": "Super Wings",
@@ -60,9 +35,24 @@
     "imdb_id": "tt3600266"
   },
   {
-    "name": "Mickey Mouse Clubhouse",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt0784896"
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   },
   {
     "name": "Sailor Moon",
@@ -70,9 +60,24 @@
     "imdb_id": "tt0103369"
   },
   {
-    "name": "We Bare Bears",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4839610"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
   },
   {
     "name": "Henry Danger",
@@ -80,18 +85,13 @@
     "imdb_id": "tt3596174"
   },
   {
-    "name": "Doraemon",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0175058"
   },
   {
-    "name": "Blaze and the Monster Machines",
+    "name": "Kim Possible",
     "type": "series",
-    "imdb_id": "tt4458594"
-  },
-  {
-    "name": "Animaniacs",
-    "type": "series",
-    "imdb_id": "tt0105941"
+    "imdb_id": "tt0278866"
   }
 ]

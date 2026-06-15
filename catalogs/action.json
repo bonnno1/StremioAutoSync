@@ -10,9 +10,9 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Game of Thrones",
@@ -20,14 +20,19 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "NCIS",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
   },
   {
     "name": "Stranger Things",
@@ -40,19 +45,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt2193021"
   },
   {
     "name": "S.W.A.T.",
@@ -60,24 +55,19 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Vikings",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0279600"
   },
   {
-    "name": "Prison Break",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt1520211"
   },
   {
-    "name": "Lost",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -85,18 +75,28 @@
     "imdb_id": "tt5607616"
   },
   {
-    "name": "INVINCIBLE",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt6741278"
+    "imdb_id": "tt1600194"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt2306299"
   },
   {
-    "name": "Soul Land 2: The Peerless Tang Clan",
+    "name": "Fights Break Sphere",
     "type": "series",
-    "imdb_id": "tt28022382"
+    "imdb_id": "tt12409194"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
   }
 ]
