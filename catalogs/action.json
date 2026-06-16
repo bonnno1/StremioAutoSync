@@ -1,23 +1,23 @@
 [
   {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
-    "name": "NCIS",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt34809853"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "A Record of a Mortal's Journey to Immortality",
@@ -30,29 +30,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
   },
   {
     "name": "Smallville",
@@ -60,19 +40,34 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt2193021"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Sword of Coming",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt33132245"
   },
   {
     "name": "Hawaii Five-0",
@@ -80,19 +75,24 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "Vikings",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Fights Break Sphere",
-    "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Stargate SG-1",
     "type": "series",
     "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Prison Break",
