@@ -70,14 +70,19 @@
     "imdb_id": "tt33132245"
   },
   {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
     "name": "Hawaii Five-0",
     "type": "series",
     "imdb_id": "tt1600194"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt0455275"
   },
   {
     "name": "Stargate SG-1",
@@ -90,13 +95,8 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Lost",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt0156214"
   }
 ]

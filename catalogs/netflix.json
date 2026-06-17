@@ -15,19 +15,14 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Burn the House Down",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Weak Hero",
@@ -40,9 +35,14 @@
     "imdb_id": "tt6340304"
   },
   {
-    "name": "Squid Game",
+    "name": "Burn the House Down",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "The Amazing Digital Circus",
@@ -50,9 +50,14 @@
     "imdb_id": "tt27610198"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Viral Hit",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt39400589"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "You",
@@ -65,9 +70,9 @@
     "imdb_id": "tt26315487"
   },
   {
-    "name": "Sesame Street",
+    "name": "XO, Kitty",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt14490706"
   },
   {
     "name": "Berlin and the Lady with an Ermine",
@@ -75,19 +80,9 @@
     "imdb_id": "tt42178219"
   },
   {
-    "name": "Viral Hit",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt39400589"
-  },
-  {
-    "name": "XO, Kitty",
-    "type": "series",
-    "imdb_id": "tt14490706"
-  },
-  {
-    "name": "Sweet Home",
-    "type": "series",
-    "imdb_id": "tt11612120"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Black Mirror",
@@ -95,8 +90,13 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Wednesday",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt13443470"
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Sweet Home",
+    "type": "series",
+    "imdb_id": "tt11612120"
   }
 ]
