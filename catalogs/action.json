@@ -10,19 +10,14 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Rick and Morty",
@@ -30,19 +25,29 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -55,29 +60,19 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Sword of Coming",
-    "type": "series",
-    "imdb_id": "tt33132245"
-  },
-  {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
   },
   {
     "name": "Prison Break",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Stargate SG-1",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "Soul Land",
+    "type": "series",
+    "imdb_id": "tt8948436"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
   }
 ]

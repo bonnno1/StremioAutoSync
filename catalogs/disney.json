@@ -30,11 +30,6 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
@@ -45,9 +40,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "X-Men '97",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt21906238"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -55,14 +50,29 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
   },
   {
     "name": "Moon Knight",
@@ -75,24 +85,14 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
     "imdb_id": "tt36594331"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "The Manipulated",

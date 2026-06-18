@@ -1,10 +1,5 @@
 [
   {
-    "name": "Raakh",
-    "type": "series",
-    "imdb_id": "tt35870921"
-  },
-  {
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
@@ -40,14 +35,14 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Mirzapur",
-    "type": "series",
-    "imdb_id": "tt6473300"
-  },
-  {
     "name": "Clarkson's Farm",
     "type": "series",
     "imdb_id": "tt10541088"
+  },
+  {
+    "name": "Mirzapur",
+    "type": "series",
+    "imdb_id": "tt6473300"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -65,14 +60,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Sapne vs Everyone",
@@ -80,18 +75,18 @@
     "imdb_id": "tt30263074"
   },
   {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Man in the High Castle",
+    "name": "The Wheel of Time",
     "type": "series",
-    "imdb_id": "tt1740299"
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Citadel",
+    "type": "series",
+    "imdb_id": "tt9794044"
   }
 ]

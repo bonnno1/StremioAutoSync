@@ -5,6 +5,11 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -15,9 +20,9 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Peppa Pig",
@@ -25,34 +30,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
   },
   {
     "name": "WWE Metal",
@@ -60,9 +40,19 @@
     "imdb_id": "tt0287897"
   },
   {
-    "name": "We Bare Bears",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4839610"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   },
   {
     "name": "New Looney Tunes",
@@ -70,9 +60,34 @@
     "imdb_id": "tt4558858"
   },
   {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "The Smurfs",
+    "type": "series",
+    "imdb_id": "tt0081933"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "Animaniacs",
+    "type": "series",
+    "imdb_id": "tt0105941"
   },
   {
     "name": "Kim Possible",
@@ -83,15 +98,5 @@
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
-  },
-  {
-    "name": "Animaniacs",
-    "type": "series",
-    "imdb_id": "tt0105941"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
   }
 ]

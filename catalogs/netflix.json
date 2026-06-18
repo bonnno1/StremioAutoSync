@@ -5,14 +5,14 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "The Polygamist",
     "type": "series",
     "imdb_id": "tt42543947"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Raw",
@@ -30,9 +30,9 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Rosario Tijeras (Mexico)",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt6340304"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Burn the House Down",
@@ -40,9 +40,9 @@
     "imdb_id": "tt21327000"
   },
   {
-    "name": "Sesame Street",
+    "name": "Rosario Tijeras (Mexico)",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt6340304"
   },
   {
     "name": "The Amazing Digital Circus",
@@ -55,19 +55,14 @@
     "imdb_id": "tt39400589"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Bloodhounds",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt26315487"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "XO, Kitty",
@@ -75,9 +70,9 @@
     "imdb_id": "tt14490706"
   },
   {
-    "name": "Berlin and the Lady with an Ermine",
+    "name": "Bloodhounds",
     "type": "series",
-    "imdb_id": "tt42178219"
+    "imdb_id": "tt26315487"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -85,9 +80,14 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Black Mirror",
+    "name": "Berlin and the Lady with an Ermine",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt42178219"
+  },
+  {
+    "name": "Sweet Home",
+    "type": "series",
+    "imdb_id": "tt11612120"
   },
   {
     "name": "Bridgerton",
@@ -95,8 +95,8 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "Sweet Home",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt11612120"
+    "imdb_id": "tt13443470"
   }
 ]
