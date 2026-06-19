@@ -70,14 +70,19 @@
     "imdb_id": "tt15140824"
   },
   {
-    "name": "The Mentalist",
+    "name": "Never-Ending Summer",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt36982964"
   },
   {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
   },
   {
     "name": "Criminal Minds",
@@ -88,10 +93,5 @@
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
   }
 ]

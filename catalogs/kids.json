@@ -5,14 +5,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "PAW Patrol",
@@ -20,14 +20,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Rugrats",
@@ -35,9 +35,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "WWE Metal",
+    "name": "GG Bond",
     "type": "series",
-    "imdb_id": "tt0287897"
+    "imdb_id": "tt24191416"
   },
   {
     "name": "Doraemon",
@@ -45,9 +45,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt3600266"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -55,29 +55,19 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "WWE Metal",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt0287897"
   },
   {
-    "name": "Super Wings",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt27502465"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Punky Brewster",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "The Smurfs",
-    "type": "series",
-    "imdb_id": "tt0081933"
-  },
-  {
-    "name": "We Bare Bears",
-    "type": "series",
-    "imdb_id": "tt4839610"
+    "imdb_id": "tt0086787"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -85,9 +75,9 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Animaniacs",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt0105941"
+    "imdb_id": "tt0175058"
   },
   {
     "name": "Kim Possible",
@@ -98,5 +88,15 @@
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt0131613"
   }
 ]
