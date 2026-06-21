@@ -20,14 +20,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -40,19 +40,24 @@
     "imdb_id": "tt13622982"
   },
   {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -65,19 +70,9 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Rivals",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt21906238"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -85,9 +80,14 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "WandaVision",
+    "name": "Soy Luna",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
   },
   {
     "name": "Star Wars: Maul - Shadow Lord",

@@ -5,14 +5,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
   },
   {
     "name": "Game of Thrones",
@@ -30,9 +30,24 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
   },
   {
     "name": "Stranger Things",
@@ -45,14 +60,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Arrow",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -60,43 +70,33 @@
     "imdb_id": "tt5607616"
   },
   {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Hawaii Five-0",
     "type": "series",
     "imdb_id": "tt1600194"
   },
   {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
   }
 ]

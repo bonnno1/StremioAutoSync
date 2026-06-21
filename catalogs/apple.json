@@ -25,19 +25,19 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Shrinking",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Sugar",
+    "type": "series",
+    "imdb_id": "tt16418808"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -55,9 +55,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Star City",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt32140872"
+    "imdb_id": "tt15677150"
   },
   {
     "name": "See",
@@ -65,14 +65,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Invasion",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt32140872"
   },
   {
     "name": "The Morning Show",
@@ -80,14 +75,9 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "The Last Frontier",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt26862142"
-  },
-  {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Margo's Got Money Troubles",
@@ -95,8 +85,18 @@
     "imdb_id": "tt31137273"
   },
   {
-    "name": "Pluribus",
+    "name": "Hijack",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
+  },
+  {
+    "name": "The Last Frontier",
+    "type": "series",
+    "imdb_id": "tt26862142"
   }
 ]

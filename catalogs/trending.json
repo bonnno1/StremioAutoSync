@@ -1,33 +1,13 @@
 [
   {
-    "name": "I Will Find You",
-    "type": "series",
-    "imdb_id": "tt34771210"
-  },
-  {
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
   },
   {
-    "name": "Widow's Bay",
+    "name": "I Will Find You",
     "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt34771210"
   },
   {
     "name": "House of the Dragon",
@@ -35,19 +15,24 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "One Piece",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt33332385"
   },
   {
-    "name": "Sugar",
+    "name": "The Agency",
     "type": "series",
-    "imdb_id": "tt16418808"
+    "imdb_id": "tt26656917"
   },
   {
-    "name": "Spider-Noir",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt30460310"
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
   },
   {
     "name": "The Polygamist",
@@ -55,9 +40,19 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "The Boys",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Spider-Noir",
+    "type": "series",
+    "imdb_id": "tt30460310"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
   },
   {
     "name": "Dutton Ranch",
@@ -70,14 +65,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Cape Fear",
+    "name": "The Amazing Digital Circus",
     "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "The Legend of Rosy Clouds",
-    "type": "series",
-    "imdb_id": "tt29489359"
+    "imdb_id": "tt27610198"
   },
   {
     "name": "The Simpsons",
@@ -85,18 +75,23 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Lord of Mysteries",
+    "name": "My Royal Nemesis",
     "type": "series",
-    "imdb_id": "tt28618556"
+    "imdb_id": "tt38828946"
   },
   {
-    "name": "The Amazing Digital Circus",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt27610198"
+    "imdb_id": "tt16418808"
   },
   {
-    "name": "Oasis",
+    "name": "Cape Fear",
     "type": "series",
-    "imdb_id": "tt38734636"
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   }
 ]
