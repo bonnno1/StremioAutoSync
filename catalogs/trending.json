@@ -1,5 +1,10 @@
 [
   {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
@@ -10,54 +15,9 @@
     "imdb_id": "tt34771210"
   },
   {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "The Agency",
     "type": "series",
     "imdb_id": "tt26656917"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
-    "name": "The Polygamist",
-    "type": "series",
-    "imdb_id": "tt42543947"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Spider-Noir",
-    "type": "series",
-    "imdb_id": "tt30460310"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
   },
   {
     "name": "Rick and Morty",
@@ -65,19 +25,54 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Amazing Digital Circus",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt27610198"
+    "imdb_id": "tt33332385"
   },
   {
-    "name": "The Simpsons",
+    "name": "See You at Work Tomorrow!",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt38960812"
   },
   {
-    "name": "My Royal Nemesis",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt38828946"
+    "imdb_id": "tt34809853"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Spider-Noir",
+    "type": "series",
+    "imdb_id": "tt30460310"
+  },
+  {
+    "name": "Oasis",
+    "type": "series",
+    "imdb_id": "tt38734636"
+  },
+  {
+    "name": "Witch Hat Atelier",
+    "type": "series",
+    "imdb_id": "tt32550889"
+  },
+  {
+    "name": "The Polygamist",
+    "type": "series",
+    "imdb_id": "tt42543947"
+  },
+  {
+    "name": "Dutton Ranch",
+    "type": "series",
+    "imdb_id": "tt34991493"
   },
   {
     "name": "Sugar",
@@ -85,13 +80,23 @@
     "imdb_id": "tt16418808"
   },
   {
-    "name": "Cape Fear",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "The Amazing Digital Circus",
+    "type": "series",
+    "imdb_id": "tt27610198"
+  },
+  {
+    "name": "My Royal Nemesis",
+    "type": "series",
+    "imdb_id": "tt38828946"
   }
 ]

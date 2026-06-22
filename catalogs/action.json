@@ -5,6 +5,16 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -15,14 +25,9 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Rick and Morty",
@@ -30,24 +35,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
+    "imdb_id": "tt27432264"
   },
   {
     "name": "Stranger Things",
@@ -55,19 +45,49 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "House of the Dragon",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt6111130"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Hawaii Five-0",
@@ -78,25 +98,5 @@
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   }
 ]

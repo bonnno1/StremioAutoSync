@@ -5,14 +5,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "PAW Patrol",
@@ -20,19 +20,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Rugrats",
@@ -45,6 +40,21 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "Pleasant Goat and Big Big Wolf",
+    "type": "series",
+    "imdb_id": "tt8677202"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
@@ -55,19 +65,9 @@
     "imdb_id": "tt24191416"
   },
   {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "WWE Metal",
-    "type": "series",
-    "imdb_id": "tt0287897"
   },
   {
     "name": "Bluey",
@@ -75,14 +75,9 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Garfield and Friends",
+    "name": "WWE Metal",
     "type": "series",
-    "imdb_id": "tt0094469"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
+    "imdb_id": "tt0287897"
   },
   {
     "name": "New Looney Tunes",
@@ -90,13 +85,18 @@
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Sailor Moon",
+    "name": "The Powerpuff Girls",
     "type": "series",
-    "imdb_id": "tt0103369"
+    "imdb_id": "tt0175058"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Mickey Mouse Clubhouse",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt0784896"
+  },
+  {
+    "name": "We Bare Bears",
+    "type": "series",
+    "imdb_id": "tt4839610"
   }
 ]
