@@ -45,11 +45,6 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
@@ -70,14 +65,14 @@
     "imdb_id": "tt10530900"
   },
   {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -93,5 +88,10 @@
     "name": "Quiet Please!",
     "type": "series",
     "imdb_id": "tt38288224"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   }
 ]

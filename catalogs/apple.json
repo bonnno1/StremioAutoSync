@@ -20,9 +20,9 @@
     "imdb_id": "tt34675596"
   },
   {
-    "name": "Severance",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt16418808"
   },
   {
     "name": "Foundation",
@@ -30,14 +30,14 @@
     "imdb_id": "tt0804484"
   },
   {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Sugar",
-    "type": "series",
-    "imdb_id": "tt16418808"
   },
   {
     "name": "Ted Lasso",
@@ -60,6 +60,11 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
@@ -68,11 +73,6 @@
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
   },
   {
     "name": "Star City",
@@ -85,6 +85,11 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Pachinko",
+    "type": "series",
+    "imdb_id": "tt8888462"
+  },
+  {
     "name": "Margo's Got Money Troubles",
     "type": "series",
     "imdb_id": "tt31137273"
@@ -93,10 +98,5 @@
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   }
 ]
