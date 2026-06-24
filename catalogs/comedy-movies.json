@@ -85,11 +85,6 @@
     "imdb_id": "tt0458352"
   },
   {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
     "name": "Over Your Dead Body",
     "type": "movie",
     "imdb_id": "tt34685692"
@@ -98,5 +93,10 @@
     "name": "Scary Movie",
     "type": "movie",
     "imdb_id": "tt0175142"
+  },
+  {
+    "name": "Scary Movie",
+    "type": "movie",
+    "imdb_id": "tt32093575"
   }
 ]

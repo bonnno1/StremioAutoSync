@@ -20,9 +20,19 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
   },
   {
     "name": "Andor",
@@ -30,24 +40,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Hawkeye",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -55,9 +55,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Dorohedoro",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt11147852"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Moon Knight",
@@ -75,14 +75,14 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
+  },
+  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -90,13 +90,13 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "A Shop for Killers",
+    "name": "The Tatami Time Machine Blues",
     "type": "series",
-    "imdb_id": "tt26450613"
+    "imdb_id": "tt15684222"
   },
   {
-    "name": "Star Wars: Maul - Shadow Lord",
+    "name": "The Manipulated",
     "type": "series",
-    "imdb_id": "tt36594331"
+    "imdb_id": "tt36188448"
   }
 ]
