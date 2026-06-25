@@ -5,14 +5,19 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Nayanatara",
+    "type": "series",
+    "imdb_id": "tt17662386"
+  },
+  {
     "name": "Gullak",
     "type": "series",
     "imdb_id": "tt10530900"
   },
   {
-    "name": "Nayanatara",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt17662386"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Doraemon",
@@ -25,19 +30,19 @@
     "imdb_id": "tt0077000"
   },
   {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "The Rifleman",
+    "type": "series",
+    "imdb_id": "tt0051308"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "King of the Hill",
@@ -45,9 +50,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Ekka Dokka",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt23833682"
   },
   {
     "name": "The Andy Griffith Show",
@@ -65,11 +70,6 @@
     "imdb_id": "tt0056780"
   },
   {
-    "name": "Ekka Dokka",
-    "type": "series",
-    "imdb_id": "tt23833682"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -80,6 +80,11 @@
     "imdb_id": "tt0318883"
   },
   {
+    "name": "The Donna Reed Show",
+    "type": "series",
+    "imdb_id": "tt0051267"
+  },
+  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -88,10 +93,5 @@
     "name": "Father Knows Best",
     "type": "series",
     "imdb_id": "tt0046600"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
   }
 ]

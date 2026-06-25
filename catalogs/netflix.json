@@ -10,11 +10,6 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -30,9 +25,9 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "Oasis",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt38734636"
+    "imdb_id": "tt4786824"
   },
   {
     "name": "Lucifer",
@@ -40,14 +35,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Oasis",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "The Amazing Digital Circus",
-    "type": "series",
-    "imdb_id": "tt27610198"
+    "imdb_id": "tt38734636"
   },
   {
     "name": "Weak Hero",
@@ -55,9 +45,14 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Squid Game",
+    "name": "The Amazing Digital Circus",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt27610198"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Raw",
@@ -65,9 +60,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Black Mirror",
+    "name": "Rosario Tijeras (Mexico)",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt6340304"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Bloodhounds",
@@ -75,28 +75,28 @@
     "imdb_id": "tt26315487"
   },
   {
+    "name": "BAKI-DOU: The Invincible Samurai",
+    "type": "series",
+    "imdb_id": "tt38201910"
+  },
+  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Rosario Tijeras (Mexico)",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt6340304"
+    "imdb_id": "tt2085059"
   },
   {
-    "name": "From Me to You: Kimi ni Todoke",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt1745240"
+    "imdb_id": "tt8740790"
   },
   {
-    "name": "Marvel's Daredevil",
+    "name": "Elite",
     "type": "series",
-    "imdb_id": "tt3322312"
-  },
-  {
-    "name": "BAKI-DOU: The Invincible Samurai",
-    "type": "series",
-    "imdb_id": "tt38201910"
+    "imdb_id": "tt7134908"
   }
 ]

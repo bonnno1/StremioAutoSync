@@ -40,14 +40,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -65,19 +65,14 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "The Morning Show",
@@ -85,14 +80,19 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Bad Sisters",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt15469618"
+    "imdb_id": "tt32140872"
   },
   {
     "name": "Margo's Got Money Troubles",
     "type": "series",
     "imdb_id": "tt31137273"
+  },
+  {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
   },
   {
     "name": "Hijack",
