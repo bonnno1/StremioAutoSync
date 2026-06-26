@@ -5,6 +5,11 @@
     "imdb_id": "tt29355505"
   },
   {
+    "name": "Supergirl",
+    "type": "movie",
+    "imdb_id": "tt8814476"
+  },
+  {
     "name": "The Mandalorian and Grogu",
     "type": "movie",
     "imdb_id": "tt30825738"
@@ -13,11 +18,6 @@
     "name": "Disclosure Day",
     "type": "movie",
     "imdb_id": "tt15047880"
-  },
-  {
-    "name": "Supergirl",
-    "type": "movie",
-    "imdb_id": "tt8814476"
   },
   {
     "name": "Masters of the Universe",
@@ -30,11 +30,6 @@
     "imdb_id": "tt26657236"
   },
   {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
     "name": "Minions & Monsters",
     "type": "movie",
     "imdb_id": "tt32890033"
@@ -45,14 +40,19 @@
     "imdb_id": "tt33296751"
   },
   {
-    "name": "Colony",
+    "name": "Scary Movie",
     "type": "movie",
-    "imdb_id": "tt34385135"
+    "imdb_id": "tt32093575"
   },
   {
     "name": "Leviticus",
     "type": "movie",
     "imdb_id": "tt39143902"
+  },
+  {
+    "name": "Colony",
+    "type": "movie",
+    "imdb_id": "tt34385135"
   },
   {
     "name": "Dear You",
@@ -65,14 +65,14 @@
     "imdb_id": "tt32267691"
   },
   {
-    "name": "7 Dogs",
-    "type": "movie",
-    "imdb_id": "tt35512499"
-  },
-  {
     "name": "The Death of Robin Hood",
     "type": "movie",
     "imdb_id": "tt32273171"
+  },
+  {
+    "name": "7 Dogs",
+    "type": "movie",
+    "imdb_id": "tt35512499"
   },
   {
     "name": "Passenger",
@@ -90,13 +90,13 @@
     "imdb_id": "tt39199158"
   },
   {
-    "name": "The Christophers",
-    "type": "movie",
-    "imdb_id": "tt34966562"
-  },
-  {
     "name": "Finding Emily",
     "type": "movie",
     "imdb_id": "tt32499466"
+  },
+  {
+    "name": "The Christophers",
+    "type": "movie",
+    "imdb_id": "tt34966562"
   }
 ]

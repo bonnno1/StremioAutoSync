@@ -50,6 +50,11 @@
     "imdb_id": "tt27524853"
   },
   {
+    "name": "Scary Movie",
+    "type": "movie",
+    "imdb_id": "tt32093575"
+  },
+  {
     "name": "Midnight Matinee",
     "type": "movie",
     "imdb_id": "tt0095602"
@@ -60,16 +65,6 @@
     "imdb_id": "tt28668007"
   },
   {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
-    "name": "Leviticus",
-    "type": "movie",
-    "imdb_id": "tt39143902"
-  },
-  {
     "name": "The Summoning of Baby Blue",
     "type": "movie",
     "imdb_id": "tt38057342"
@@ -78,6 +73,11 @@
     "name": "Scream 7",
     "type": "movie",
     "imdb_id": "tt27047903"
+  },
+  {
+    "name": "Leviticus",
+    "type": "movie",
+    "imdb_id": "tt39143902"
   },
   {
     "name": "Dracula",

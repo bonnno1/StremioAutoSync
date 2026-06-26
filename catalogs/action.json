@@ -20,14 +20,14 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Hunter x Hunter",
+    "type": "series",
+    "imdb_id": "tt0426719"
+  },
+  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -35,9 +35,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
   },
   {
     "name": "Stranger Things",
@@ -45,19 +50,14 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Hunter x Hunter",
-    "type": "series",
-    "imdb_id": "tt0426719"
   },
   {
     "name": "JUJUTSU KAISEN",
@@ -65,24 +65,9 @@
     "imdb_id": "tt12343534"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt2193021"
   },
   {
     "name": "Vikings",
@@ -90,13 +75,28 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Lost",
+    "type": "series",
+    "imdb_id": "tt0411008"
   }
 ]

@@ -10,24 +10,24 @@
     "imdb_id": "tt17662386"
   },
   {
-    "name": "Gullak",
-    "type": "series",
-    "imdb_id": "tt10530900"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Doraemon",
+    "name": "Gullak",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt10530900"
   },
   {
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Young Sheldon",
@@ -40,24 +40,9 @@
     "imdb_id": "tt0051308"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Ekka Dokka",
-    "type": "series",
-    "imdb_id": "tt23833682"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
   },
   {
     "name": "Lassie",
@@ -65,9 +50,19 @@
     "imdb_id": "tt0046617"
   },
   {
-    "name": "Petticoat Junction",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0056780"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Ekka Dokka",
+    "type": "series",
+    "imdb_id": "tt23833682"
   },
   {
     "name": "Dancing with the Stars",
@@ -80,6 +75,11 @@
     "imdb_id": "tt0318883"
   },
   {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "The Donna Reed Show",
     "type": "series",
     "imdb_id": "tt0051267"
@@ -90,8 +90,8 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Father Knows Best",
+    "name": "Petticoat Junction",
     "type": "series",
-    "imdb_id": "tt0046600"
+    "imdb_id": "tt0056780"
   }
 ]

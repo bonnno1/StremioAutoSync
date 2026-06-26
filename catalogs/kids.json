@@ -20,24 +20,9 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
   },
   {
     "name": "Pokémon Horizons",
@@ -45,9 +30,24 @@
     "imdb_id": "tt26692417"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -55,29 +55,14 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
     "name": "The Powerpuff Girls",
     "type": "series",
     "imdb_id": "tt0175058"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "The Penguins of Madagascar",
-    "type": "series",
-    "imdb_id": "tt0892700"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0131613"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -85,18 +70,33 @@
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Super Wings",
+    "name": "Octonauts",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt1710177"
   },
   {
-    "name": "Kim Possible",
+    "name": "The Tom and Jerry Show",
     "type": "series",
-    "imdb_id": "tt0278866"
+    "imdb_id": "tt3559124"
   },
   {
-    "name": "Arthur",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0169414"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
+    "name": "The Penguins of Madagascar",
+    "type": "series",
+    "imdb_id": "tt0892700"
+  },
+  {
+    "name": "Henry Danger",
+    "type": "series",
+    "imdb_id": "tt3596174"
   }
 ]

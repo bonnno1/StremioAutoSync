@@ -10,9 +10,19 @@
     "imdb_id": "tt34809853"
   },
   {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Sesame Street",
@@ -25,19 +35,14 @@
     "imdb_id": "tt42543947"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
-    "name": "Oasis",
-    "type": "series",
-    "imdb_id": "tt38734636"
   },
   {
     "name": "Weak Hero",
@@ -45,9 +50,19 @@
     "imdb_id": "tt20234568"
   },
   {
+    "name": "Oasis",
+    "type": "series",
+    "imdb_id": "tt38734636"
+  },
+  {
     "name": "The Amazing Digital Circus",
     "type": "series",
     "imdb_id": "tt27610198"
+  },
+  {
+    "name": "India's Got Latent",
+    "type": "series",
+    "imdb_id": "tt33094114"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -55,14 +70,19 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Raw",
+    "name": "Sweet Home",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt11612120"
   },
   {
     "name": "Rosario Tijeras (Mexico)",
     "type": "series",
     "imdb_id": "tt6340304"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
   },
   {
     "name": "Squid Game",
@@ -78,25 +98,5 @@
     "name": "BAKI-DOU: The Invincible Samurai",
     "type": "series",
     "imdb_id": "tt38201910"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
   }
 ]

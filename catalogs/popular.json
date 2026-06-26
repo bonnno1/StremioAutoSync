@@ -5,24 +5,24 @@
     "imdb_id": "tt9813792"
   },
   {
-    "name": "Raakh",
-    "type": "series",
-    "imdb_id": "tt35870921"
-  },
-  {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Wanna Be Happy?",
+    "name": "Raakh",
     "type": "series",
-    "imdb_id": "tt15140824"
+    "imdb_id": "tt35870921"
   },
   {
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
+  },
+  {
+    "name": "Wanna Be Happy?",
+    "type": "series",
+    "imdb_id": "tt15140824"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -45,19 +45,9 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Please Put Them On, Takamine-san",
-    "type": "series",
-    "imdb_id": "tt35436364"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
   },
   {
     "name": "I Will Find You",
@@ -65,14 +55,19 @@
     "imdb_id": "tt34771210"
   },
   {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Please Put Them On, Takamine-san",
+    "type": "series",
+    "imdb_id": "tt35436364"
+  },
+  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Never-Ending Summer",
-    "type": "series",
-    "imdb_id": "tt36982964"
   },
   {
     "name": "The Mentalist",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "TenPuru",
+    "name": "Hunter x Hunter",
     "type": "series",
-    "imdb_id": "tt27571647"
+    "imdb_id": "tt0426719"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Never-Ending Summer",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt36982964"
+  },
+  {
+    "name": "Dutton Ranch",
+    "type": "series",
+    "imdb_id": "tt34991493"
   }
 ]
