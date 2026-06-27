@@ -20,6 +20,11 @@
     "imdb_id": "tt34675596"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "Sugar",
     "type": "series",
     "imdb_id": "tt16418808"
@@ -30,29 +35,14 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Slow Horses",
+    "name": "Severance",
     "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt11280740"
   },
   {
     "name": "See",
@@ -60,14 +50,24 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Shrinking",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
   },
   {
     "name": "Invasion",
@@ -85,18 +85,18 @@
     "imdb_id": "tt32140872"
   },
   {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
-  },
-  {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
   },
   {
-    "name": "Hijack",
+    "name": "Pachinko",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt8888462"
+  },
+  {
+    "name": "Margo's Got Money Troubles",
+    "type": "series",
+    "imdb_id": "tt31137273"
   }
 ]

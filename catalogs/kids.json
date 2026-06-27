@@ -10,19 +10,19 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Rugrats",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Pokémon Horizons",
@@ -30,9 +30,9 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "Peppa Pig",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Bluey",
@@ -45,19 +45,19 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Super Wings",
+    "name": "GG Bond",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt24191416"
+  },
+  {
+    "name": "Octonauts",
+    "type": "series",
+    "imdb_id": "tt1710177"
   },
   {
     "name": "The Powerpuff Girls",
@@ -70,9 +70,19 @@
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Octonauts",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt1710177"
+    "imdb_id": "tt0131613"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -85,18 +95,8 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
     "name": "The Penguins of Madagascar",
     "type": "series",
     "imdb_id": "tt0892700"
-  },
-  {
-    "name": "Henry Danger",
-    "type": "series",
-    "imdb_id": "tt3596174"
   }
 ]

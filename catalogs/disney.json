@@ -1,13 +1,13 @@
 [
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -35,19 +35,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
-    "name": "Dorohedoro",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt11147852"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Hawkeye",
@@ -55,24 +50,14 @@
     "imdb_id": "tt10160804"
   },
   {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
   },
   {
     "name": "Soy Luna",
@@ -80,9 +65,24 @@
     "imdb_id": "tt5189554"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "A Shop for Killers",
