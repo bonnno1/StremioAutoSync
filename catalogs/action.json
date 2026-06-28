@@ -30,14 +30,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
   },
   {
     "name": "Rick and Morty",
@@ -48,6 +48,11 @@
     "name": "JUJUTSU KAISEN",
     "type": "series",
     "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
   },
   {
     "name": "S.W.A.T.",
@@ -93,10 +98,5 @@
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
   }
 ]

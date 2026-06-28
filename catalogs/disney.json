@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -20,14 +20,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Andor",
@@ -35,14 +35,19 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
   },
   {
     "name": "Hawkeye",
@@ -55,11 +60,6 @@
     "imdb_id": "tt11147852"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Soy Luna",
     "type": "series",
     "imdb_id": "tt5189554"
@@ -70,14 +70,9 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Moon Knight",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt21906238"
   },
   {
     "name": "WandaVision",
@@ -85,18 +80,23 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
   },
   {
-    "name": "Rivals",
+    "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
-    "imdb_id": "tt21906238"
+    "imdb_id": "tt36594331"
   },
   {
-    "name": "The Manipulated",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt36188448"
+    "imdb_id": "tt12708542"
   }
 ]

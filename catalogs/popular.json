@@ -30,6 +30,11 @@
     "imdb_id": "tt35436364"
   },
   {
+    "name": "Notes from the Last Row",
+    "type": "series",
+    "imdb_id": "tt36270432"
+  },
+  {
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
@@ -50,6 +55,11 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "Dutton Ranch",
+    "type": "series",
+    "imdb_id": "tt34991493"
+  },
+  {
     "name": "Hunter x Hunter",
     "type": "series",
     "imdb_id": "tt0426719"
@@ -60,24 +70,19 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
     "name": "Adam's Sweet Agony",
     "type": "series",
     "imdb_id": "tt30325611"
   },
   {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Wanna Be Happy?",
@@ -93,10 +98,5 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
   }
 ]

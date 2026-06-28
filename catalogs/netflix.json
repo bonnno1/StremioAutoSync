@@ -1,5 +1,10 @@
 [
   {
+    "name": "Notes from the Last Row",
+    "type": "series",
+    "imdb_id": "tt36270432"
+  },
+  {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
@@ -20,11 +25,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -35,39 +35,9 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "Raw",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Oasis",
-    "type": "series",
-    "imdb_id": "tt38734636"
-  },
-  {
-    "name": "The Amazing Digital Circus",
-    "type": "series",
-    "imdb_id": "tt27610198"
-  },
-  {
-    "name": "India's Got Latent",
-    "type": "series",
-    "imdb_id": "tt33094114"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Sweet Home",
@@ -75,9 +45,34 @@
     "imdb_id": "tt11612120"
   },
   {
-    "name": "Rosario Tijeras (Mexico)",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt6340304"
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
+  },
+  {
+    "name": "India's Got Latent",
+    "type": "series",
+    "imdb_id": "tt33094114"
+  },
+  {
+    "name": "Oasis",
+    "type": "series",
+    "imdb_id": "tt38734636"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "You",
@@ -85,18 +80,23 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Squid Game",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "The Amazing Digital Circus",
+    "type": "series",
+    "imdb_id": "tt27610198"
+  },
+  {
+    "name": "Rosario Tijeras (Mexico)",
+    "type": "series",
+    "imdb_id": "tt6340304"
   },
   {
     "name": "Bloodhounds",
     "type": "series",
     "imdb_id": "tt26315487"
-  },
-  {
-    "name": "BAKI-DOU: The Invincible Samurai",
-    "type": "series",
-    "imdb_id": "tt38201910"
   }
 ]

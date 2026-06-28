@@ -1,8 +1,43 @@
 [
   {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
     "name": "Never-Ending Summer",
     "type": "series",
     "imdb_id": "tt36982964"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
   },
   {
     "name": "Hello Saturday",
@@ -10,14 +45,9 @@
     "imdb_id": "tt30985733"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Ace of the Diamond",
     "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "Detective Conan",
-    "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt3105422"
   },
   {
     "name": "Wonderland",
@@ -25,29 +55,9 @@
     "imdb_id": "tt30461027"
   },
   {
-    "name": "Crazy Love, Moo-Moo!",
+    "name": "Agents of the Four Seasons Dance of Spring",
     "type": "series",
-    "imdb_id": "tt39893694"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Rent-a-Girlfriend",
-    "type": "series",
-    "imdb_id": "tt11448214"
-  },
-  {
-    "name": "Casualty",
-    "type": "series",
-    "imdb_id": "tt0096555"
-  },
-  {
-    "name": "Fights Break Sphere",
-    "type": "series",
-    "imdb_id": "tt12409194"
+    "imdb_id": "tt39267868"
   },
   {
     "name": "Lord of Mysteries",
@@ -55,19 +65,9 @@
     "imdb_id": "tt28618556"
   },
   {
-    "name": "How Do You Play?",
+    "name": "Wistoria: Wand and Sword",
     "type": "series",
-    "imdb_id": "tt15334046"
-  },
-  {
-    "name": "Inseparable",
-    "type": "series",
-    "imdb_id": "tt37481034"
-  },
-  {
-    "name": "Echappées Belles",
-    "type": "series",
-    "imdb_id": "tt5210088"
+    "imdb_id": "tt31889371"
   },
   {
     "name": "Love Island USA",
@@ -75,28 +75,28 @@
     "imdb_id": "tt8819906"
   },
   {
-    "name": "Ride the Wind",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt21263056"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "Agent Kim Reactivated",
+    "name": "The Chi",
     "type": "series",
-    "imdb_id": "tt42127457"
+    "imdb_id": "tt6294706"
   },
   {
-    "name": "Laughter Chefs Unlimited Entertainment",
+    "name": "2 Days and 1 Night",
     "type": "series",
-    "imdb_id": "tt32590226"
+    "imdb_id": "tt3247300"
   },
   {
-    "name": "The First Jasmine",
+    "name": "Torn Apart",
     "type": "series",
-    "imdb_id": "tt37096911"
+    "imdb_id": "tt42764103"
   },
   {
-    "name": "Welcome to Demon School! Iruma-kun",
+    "name": "Mission: Yozakura Family",
     "type": "series",
-    "imdb_id": "tt11034066"
+    "imdb_id": "tt31131310"
   }
 ]
