@@ -5,6 +5,11 @@
     "imdb_id": "tt37287335"
   },
   {
+    "name": "Backrooms",
+    "type": "movie",
+    "imdb_id": "tt26657236"
+  },
+  {
     "name": "Deep Water",
     "type": "movie",
     "imdb_id": "tt29516222"
@@ -15,19 +20,14 @@
     "imdb_id": "tt29540862"
   },
   {
-    "name": "Backrooms",
+    "name": "Scary Movie",
     "type": "movie",
-    "imdb_id": "tt26657236"
+    "imdb_id": "tt32093575"
   },
   {
     "name": "Lee Cronin's The Mummy",
     "type": "movie",
     "imdb_id": "tt32612507"
-  },
-  {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
   },
   {
     "name": "Chum",
@@ -40,14 +40,14 @@
     "imdb_id": "tt35672862"
   },
   {
+    "name": "El mal",
+    "type": "movie",
+    "imdb_id": "tt33341714"
+  },
+  {
     "name": "Hot Line",
     "type": "movie",
     "imdb_id": "tt36179028"
-  },
-  {
-    "name": "Haunted 3D: Echoes of the Past",
-    "type": "movie",
-    "imdb_id": "tt32875624"
   },
   {
     "name": "Midnight Matinee",
@@ -55,14 +55,29 @@
     "imdb_id": "tt0095602"
   },
   {
+    "name": "Apex",
+    "type": "movie",
+    "imdb_id": "tt16431404"
+  },
+  {
+    "name": "Haunted 3D: Echoes of the Past",
+    "type": "movie",
+    "imdb_id": "tt32875624"
+  },
+  {
+    "name": "The Yeti",
+    "type": "movie",
+    "imdb_id": "tt14500286"
+  },
+  {
     "name": "Heresy",
     "type": "movie",
     "imdb_id": "tt27524853"
   },
   {
-    "name": "El mal",
+    "name": "King Kaew",
     "type": "movie",
-    "imdb_id": "tt33341714"
+    "imdb_id": "tt43434480"
   },
   {
     "name": "True Fear",
@@ -75,23 +90,8 @@
     "imdb_id": "tt27047903"
   },
   {
-    "name": "The Yeti",
+    "name": "Pretty Lethal",
     "type": "movie",
-    "imdb_id": "tt14500286"
-  },
-  {
-    "name": "Colony",
-    "type": "movie",
-    "imdb_id": "tt34385135"
-  },
-  {
-    "name": "Leviticus",
-    "type": "movie",
-    "imdb_id": "tt39143902"
-  },
-  {
-    "name": "King Kaew",
-    "type": "movie",
-    "imdb_id": "tt43434480"
+    "imdb_id": "tt26678938"
   }
 ]

@@ -5,11 +5,6 @@
     "imdb_id": "tt35436364"
   },
   {
-    "name": "Gram Chikitsalay",
-    "type": "series",
-    "imdb_id": "tt34773311"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -18,6 +13,16 @@
     "name": "Hunter x Hunter",
     "type": "series",
     "imdb_id": "tt0426719"
+  },
+  {
+    "name": "Gram Chikitsalay",
+    "type": "series",
+    "imdb_id": "tt34773311"
+  },
+  {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
   },
   {
     "name": "The Simpsons",
@@ -30,34 +35,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Wanna Be Happy?",
-    "type": "series",
-    "imdb_id": "tt15140824"
-  },
-  {
-    "name": "TenPuru",
-    "type": "series",
-    "imdb_id": "tt27571647"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Resort",
-    "type": "series",
-    "imdb_id": "tt40184918"
-  },
-  {
-    "name": "Not Suitable for Work",
-    "type": "series",
-    "imdb_id": "tt35823838"
   },
   {
     "name": "Shameless",
@@ -70,6 +50,21 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "TenPuru",
+    "type": "series",
+    "imdb_id": "tt27571647"
+  },
+  {
+    "name": "Resort",
+    "type": "series",
+    "imdb_id": "tt40184918"
+  },
+  {
+    "name": "The Bear",
+    "type": "series",
+    "imdb_id": "tt14452776"
+  },
+  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
@@ -80,18 +75,23 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt13490144"
   },
   {
-    "name": "The Bear",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt14452776"
+    "imdb_id": "tt1442437"
   },
   {
-    "name": "My Wife Has No Emotion",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt32332642"
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Wanna Be Happy?",
+    "type": "series",
+    "imdb_id": "tt15140824"
   }
 ]
