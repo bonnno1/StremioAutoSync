@@ -1,13 +1,13 @@
 [
   {
-    "name": "Toy Story 5",
-    "type": "movie",
-    "imdb_id": "tt29355505"
-  },
-  {
     "name": "Disclosure Day",
     "type": "movie",
     "imdb_id": "tt15047880"
+  },
+  {
+    "name": "Toy Story 5",
+    "type": "movie",
+    "imdb_id": "tt29355505"
   },
   {
     "name": "Backrooms",
@@ -15,14 +15,14 @@
     "imdb_id": "tt26657236"
   },
   {
-    "name": "Supergirl",
-    "type": "movie",
-    "imdb_id": "tt8814476"
-  },
-  {
     "name": "Scary Movie",
     "type": "movie",
     "imdb_id": "tt32093575"
+  },
+  {
+    "name": "Supergirl",
+    "type": "movie",
+    "imdb_id": "tt8814476"
   },
   {
     "name": "The Mandalorian and Grogu",
@@ -30,14 +30,14 @@
     "imdb_id": "tt30825738"
   },
   {
-    "name": "Masters of the Universe",
-    "type": "movie",
-    "imdb_id": "tt0427340"
-  },
-  {
     "name": "Minions & Monsters",
     "type": "movie",
     "imdb_id": "tt32890033"
+  },
+  {
+    "name": "Masters of the Universe",
+    "type": "movie",
+    "imdb_id": "tt0427340"
   },
   {
     "name": "Tuner",
@@ -50,14 +50,9 @@
     "imdb_id": "tt34385135"
   },
   {
-    "name": "Leviticus",
+    "name": "Dear You",
     "type": "movie",
-    "imdb_id": "tt39143902"
-  },
-  {
-    "name": "Power Ballad",
-    "type": "movie",
-    "imdb_id": "tt32267691"
+    "imdb_id": "tt41791573"
   },
   {
     "name": "The Death of Robin Hood",
@@ -65,9 +60,14 @@
     "imdb_id": "tt32273171"
   },
   {
-    "name": "Dear You",
+    "name": "Power Ballad",
     "type": "movie",
-    "imdb_id": "tt41791573"
+    "imdb_id": "tt32267691"
+  },
+  {
+    "name": "Leviticus",
+    "type": "movie",
+    "imdb_id": "tt39143902"
   },
   {
     "name": "7 Dogs",

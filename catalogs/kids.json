@@ -10,14 +10,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Bluey",
@@ -25,14 +25,14 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "The Fairly OddParents",
@@ -40,14 +40,14 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "Octonauts",
     "type": "series",
     "imdb_id": "tt1710177"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   },
   {
     "name": "Pokémon Horizons",
@@ -60,6 +60,11 @@
     "imdb_id": "tt0175058"
   },
   {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
@@ -70,9 +75,9 @@
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Super Wings",
+    "name": "The Tom and Jerry Show",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt3559124"
   },
   {
     "name": "Teenage Mutant Ninja Turtles",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0131613"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "PJ Masks",
     "type": "series",
-    "imdb_id": "tt3559124"
+    "imdb_id": "tt4148744"
   },
   {
-    "name": "Mickey Mouse Clubhouse",
+    "name": "Toni Tagiam",
     "type": "series",
-    "imdb_id": "tt0784896"
+    "imdb_id": "tt6098087"
   },
   {
     "name": "The Penguins of Madagascar",
     "type": "series",
     "imdb_id": "tt0892700"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
   }
 ]

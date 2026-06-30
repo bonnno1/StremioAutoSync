@@ -10,14 +10,14 @@
     "imdb_id": "tt9813792"
   },
   {
-    "name": "Agent Kim Reactivated",
-    "type": "series",
-    "imdb_id": "tt42127457"
-  },
-  {
     "name": "The Bear",
     "type": "series",
     "imdb_id": "tt14452776"
+  },
+  {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -30,11 +30,6 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "I Will Find You",
     "type": "series",
     "imdb_id": "tt34771210"
@@ -45,14 +40,19 @@
     "imdb_id": "tt36270432"
   },
   {
+    "name": "See You at Work Tomorrow!",
+    "type": "series",
+    "imdb_id": "tt38960812"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
   },
   {
     "name": "The Agency",
@@ -60,34 +60,19 @@
     "imdb_id": "tt26656917"
   },
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Dutton Ranch",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt34991493"
   },
   {
-    "name": "Dr. STONE",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt9679542"
-  },
-  {
-    "name": "Spider-Noir",
-    "type": "series",
-    "imdb_id": "tt30460310"
-  },
-  {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Witch Hat Atelier",
@@ -95,8 +80,23 @@
     "imdb_id": "tt32550889"
   },
   {
-    "name": "Sugar",
+    "name": "Dr. STONE",
     "type": "series",
-    "imdb_id": "tt16418808"
+    "imdb_id": "tt9679542"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Love Has Fireworks",
+    "type": "series",
+    "imdb_id": "tt28131816"
+  },
+  {
+    "name": "A Record of a Mortal's Journey to Immortality",
+    "type": "series",
+    "imdb_id": "tt12879782"
   }
 ]
