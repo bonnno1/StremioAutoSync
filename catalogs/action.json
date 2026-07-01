@@ -10,6 +10,16 @@
     "imdb_id": "tt9018736"
   },
   {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
@@ -20,29 +30,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Hunter x Hunter",
-    "type": "series",
-    "imdb_id": "tt0426719"
-  },
-  {
-    "name": "Agent Kim Reactivated",
-    "type": "series",
-    "imdb_id": "tt42127457"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   },
   {
     "name": "Rick and Morty",
@@ -50,19 +40,19 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "Hunter x Hunter",
+    "type": "series",
+    "imdb_id": "tt0426719"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
   },
   {
     "name": "Stranger Things",
@@ -70,14 +60,19 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
     "name": "Arrow",
     "type": "series",
     "imdb_id": "tt2193021"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Vikings",
@@ -90,13 +85,18 @@
     "imdb_id": "tt0455275"
   },
   {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   }
 ]

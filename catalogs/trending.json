@@ -5,6 +5,11 @@
     "imdb_id": "tt11198330"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
@@ -20,9 +25,19 @@
     "imdb_id": "tt42127457"
   },
   {
+    "name": "Elle",
+    "type": "series",
+    "imdb_id": "tt32020831"
+  },
+  {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
+  },
+  {
+    "name": "Notes from the Last Row",
+    "type": "series",
+    "imdb_id": "tt36270432"
   },
   {
     "name": "One Piece",
@@ -35,16 +50,6 @@
     "imdb_id": "tt34771210"
   },
   {
-    "name": "Notes from the Last Row",
-    "type": "series",
-    "imdb_id": "tt36270432"
-  },
-  {
-    "name": "See You at Work Tomorrow!",
-    "type": "series",
-    "imdb_id": "tt38960812"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -55,19 +60,9 @@
     "imdb_id": "tt5607616"
   },
   {
-    "name": "The Agency",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt26656917"
-  },
-  {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Widow's Bay",
@@ -75,28 +70,33 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "Witch Hat Atelier",
+    "name": "Dutton Ranch",
     "type": "series",
-    "imdb_id": "tt32550889"
+    "imdb_id": "tt34991493"
   },
   {
-    "name": "Dr. STONE",
+    "name": "The Agency",
     "type": "series",
-    "imdb_id": "tt9679542"
+    "imdb_id": "tt26656917"
   },
   {
-    "name": "The Boys",
+    "name": "Summer '36",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt38776795"
   },
   {
-    "name": "Love Has Fireworks",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt28131816"
+    "imdb_id": "tt34809853"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Love Island USA",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt8819906"
+  },
+  {
+    "name": "Worst Neighbor Ever",
+    "type": "series",
+    "imdb_id": "tt43476716"
   }
 ]

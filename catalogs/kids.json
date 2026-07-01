@@ -25,19 +25,14 @@
     "imdb_id": "tt7678620"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Octonauts",
@@ -45,9 +40,9 @@
     "imdb_id": "tt1710177"
   },
   {
-    "name": "GG Bond",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt24191416"
+    "imdb_id": "tt0235918"
   },
   {
     "name": "Pokémon Horizons",
@@ -60,14 +55,14 @@
     "imdb_id": "tt0175058"
   },
   {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -75,19 +70,9 @@
     "imdb_id": "tt27502465"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0131613"
-  },
-  {
-    "name": "PJ Masks",
-    "type": "series",
-    "imdb_id": "tt4148744"
+    "imdb_id": "tt3600266"
   },
   {
     "name": "Toni Tagiam",
@@ -95,8 +80,23 @@
     "imdb_id": "tt6098087"
   },
   {
-    "name": "The Penguins of Madagascar",
+    "name": "PJ Masks",
     "type": "series",
-    "imdb_id": "tt0892700"
+    "imdb_id": "tt4148744"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "Hey Duggee",
+    "type": "series",
+    "imdb_id": "tt4291050"
+  },
+  {
+    "name": "Mickey Mouse Clubhouse",
+    "type": "series",
+    "imdb_id": "tt0784896"
   }
 ]

@@ -40,24 +40,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
-  },
-  {
     "name": "Rivals",
     "type": "series",
     "imdb_id": "tt21906238"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "WandaVision",
@@ -70,14 +55,24 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
   },
   {
     "name": "Soy Luna",
@@ -90,8 +85,13 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Dorohedoro",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt11147852"
+  },
+  {
+    "name": "The Doomies",
+    "type": "series",
+    "imdb_id": "tt21057046"
   }
 ]
