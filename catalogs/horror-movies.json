@@ -10,19 +10,9 @@
     "imdb_id": "tt26657236"
   },
   {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
     "name": "Deep Water",
     "type": "movie",
     "imdb_id": "tt29516222"
-  },
-  {
-    "name": "Bhooth Bangla",
-    "type": "movie",
-    "imdb_id": "tt29540862"
   },
   {
     "name": "Lee Cronin's The Mummy",
@@ -35,6 +25,11 @@
     "imdb_id": "tt33341714"
   },
   {
+    "name": "Bhooth Bangla",
+    "type": "movie",
+    "imdb_id": "tt29540862"
+  },
+  {
     "name": "Chum",
     "type": "movie",
     "imdb_id": "tt41604789"
@@ -43,6 +38,11 @@
     "name": "Hokum",
     "type": "movie",
     "imdb_id": "tt35672862"
+  },
+  {
+    "name": "Zombies of the Third Reich",
+    "type": "movie",
+    "imdb_id": "tt32516420"
   },
   {
     "name": "Midnight Matinee",
@@ -60,14 +60,14 @@
     "imdb_id": "tt43434480"
   },
   {
+    "name": "Dracula",
+    "type": "movie",
+    "imdb_id": "tt31434030"
+  },
+  {
     "name": "Heresy",
     "type": "movie",
     "imdb_id": "tt27524853"
-  },
-  {
-    "name": "True Fear",
-    "type": "movie",
-    "imdb_id": "tt28668007"
   },
   {
     "name": "undertone",
@@ -75,9 +75,9 @@
     "imdb_id": "tt35892608"
   },
   {
-    "name": "Scream 7",
+    "name": "True Fear",
     "type": "movie",
-    "imdb_id": "tt27047903"
+    "imdb_id": "tt28668007"
   },
   {
     "name": "Southern Scares",
@@ -85,13 +85,13 @@
     "imdb_id": "tt36113721"
   },
   {
-    "name": "Dracula",
+    "name": "Colony",
     "type": "movie",
-    "imdb_id": "tt31434030"
+    "imdb_id": "tt34385135"
   },
   {
-    "name": "Kraken",
+    "name": "Subservience",
     "type": "movie",
-    "imdb_id": "tt19838566"
+    "imdb_id": "tt24871974"
   }
 ]

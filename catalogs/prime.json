@@ -65,19 +65,24 @@
     "imdb_id": "tt5057054"
   },
   {
+    "name": "Elle",
+    "type": "series",
+    "imdb_id": "tt32020831"
+  },
+  {
     "name": "Every Year After",
     "type": "series",
     "imdb_id": "tt33055254"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Hazbin Hotel",
@@ -88,10 +93,5 @@
     "name": "Sausage Party: Foodtopia",
     "type": "series",
     "imdb_id": "tt23036426"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
   }
 ]
