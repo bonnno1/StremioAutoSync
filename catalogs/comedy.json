@@ -10,14 +10,14 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Sesame Street",
@@ -25,14 +25,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "Hunter x Hunter",
     "type": "series",
     "imdb_id": "tt0426719"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Gram Chikitsalay",
@@ -55,11 +55,6 @@
     "imdb_id": "tt14452776"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
@@ -75,6 +70,11 @@
     "imdb_id": "tt2185037"
   },
   {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
@@ -85,13 +85,13 @@
     "imdb_id": "tt13490144"
   },
   {
-    "name": "Resort",
-    "type": "series",
-    "imdb_id": "tt40184918"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Resort",
+    "type": "series",
+    "imdb_id": "tt40184918"
   }
 ]

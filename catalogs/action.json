@@ -15,14 +15,14 @@
     "imdb_id": "tt42127457"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Knot",
+    "type": "series",
+    "imdb_id": "tt38916337"
   },
   {
     "name": "Game of Thrones",
@@ -30,14 +30,14 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "Hunter x Hunter",
@@ -45,14 +45,14 @@
     "imdb_id": "tt0426719"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
   },
   {
     "name": "Stranger Things",
@@ -65,19 +65,9 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Arrow",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt2193021"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Prison Break",
@@ -85,18 +75,28 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "JUJUTSU KAISEN",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt12343534"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "The Last Ship",
+    "type": "series",
+    "imdb_id": "tt2402207"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Renegade Immortal",
     "type": "series",
     "imdb_id": "tt27432264"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
   }
 ]
