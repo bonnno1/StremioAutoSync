@@ -15,14 +15,14 @@
     "imdb_id": "tt42127457"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Knot",
-    "type": "series",
-    "imdb_id": "tt38916337"
   },
   {
     "name": "Game of Thrones",
@@ -30,9 +30,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "NCIS",
+    "name": "Knot",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt38916337"
   },
   {
     "name": "Teach You a Lesson",
@@ -40,14 +40,24 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Hunter x Hunter",
-    "type": "series",
-    "imdb_id": "tt0426719"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -60,24 +70,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Lost",
     "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt0411008"
   },
   {
     "name": "Arrow",
@@ -85,18 +80,23 @@
     "imdb_id": "tt2193021"
   },
   {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
     "name": "The Last Ship",
     "type": "series",
     "imdb_id": "tt2402207"
   },
   {
-    "name": "Doctor Who",
+    "name": "JUJUTSU KAISEN",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt12343534"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt6111130"
   }
 ]
