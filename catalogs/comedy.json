@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Sesame Street",
@@ -20,14 +20,19 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
     "name": "Running Man",
     "type": "series",
     "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Chainsmoker Cat",
+    "type": "series",
+    "imdb_id": "tt39551330"
+  },
+  {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
   },
   {
     "name": "Rick and Morty",
@@ -60,11 +65,6 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
@@ -75,18 +75,18 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
     "type": "series",
     "imdb_id": "tt13490144"
   },
   {
-    "name": "The Bear",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt14452776"
-  },
-  {
-    "name": "Keep Running",
-    "type": "series",
-    "imdb_id": "tt4325992"
+    "imdb_id": "tt7678620"
   }
 ]

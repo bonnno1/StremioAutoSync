@@ -25,14 +25,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Loki",
@@ -45,19 +45,14 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "Soy Luna",
@@ -65,9 +60,19 @@
     "imdb_id": "tt5189554"
   },
   {
-    "name": "The Doomies",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt21057046"
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -75,13 +80,8 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "A Shop for Killers",
     "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt26450613"
   }
 ]

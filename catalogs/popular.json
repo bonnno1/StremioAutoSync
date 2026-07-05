@@ -20,29 +20,9 @@
     "imdb_id": "tt30325611"
   },
   {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
-  },
-  {
-    "name": "Dutton Ranch",
-    "type": "series",
-    "imdb_id": "tt34991493"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
   },
   {
     "name": "Minnale",
@@ -50,44 +30,14 @@
     "imdb_id": "tt12182480"
   },
   {
-    "name": "Agent Kim Reactivated",
+    "name": "Avatar: The Last Airbender",
     "type": "series",
-    "imdb_id": "tt42127457"
+    "imdb_id": "tt9018736"
   },
   {
-    "name": "The Prosecutor's Proposal",
+    "name": "Dutton Ranch",
     "type": "series",
-    "imdb_id": "tt43592244"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt34991493"
   },
   {
     "name": "Law & Order",
@@ -95,8 +45,53 @@
     "imdb_id": "tt0098844"
   },
   {
+    "name": "Off Campus",
+    "type": "series",
+    "imdb_id": "tt33546863"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
+  },
+  {
+    "name": "The Prosecutor's Proposal",
+    "type": "series",
+    "imdb_id": "tt43592244"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
   }
 ]

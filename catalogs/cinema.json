@@ -5,6 +5,11 @@
     "imdb_id": "tt15047880"
   },
   {
+    "name": "Scary Movie",
+    "type": "movie",
+    "imdb_id": "tt32093575"
+  },
+  {
     "name": "Backrooms",
     "type": "movie",
     "imdb_id": "tt26657236"
@@ -15,19 +20,14 @@
     "imdb_id": "tt29355505"
   },
   {
-    "name": "Scary Movie",
+    "name": "Minions & Monsters",
     "type": "movie",
-    "imdb_id": "tt32093575"
+    "imdb_id": "tt32890033"
   },
   {
     "name": "Supergirl",
     "type": "movie",
     "imdb_id": "tt8814476"
-  },
-  {
-    "name": "Minions & Monsters",
-    "type": "movie",
-    "imdb_id": "tt32890033"
   },
   {
     "name": "Masters of the Universe",
@@ -75,14 +75,14 @@
     "imdb_id": "tt39143902"
   },
   {
-    "name": "Power Ballad",
-    "type": "movie",
-    "imdb_id": "tt32267691"
-  },
-  {
     "name": "Good Boy",
     "type": "movie",
     "imdb_id": "tt34381258"
+  },
+  {
+    "name": "Power Ballad",
+    "type": "movie",
+    "imdb_id": "tt32267691"
   },
   {
     "name": "The Christophers",
