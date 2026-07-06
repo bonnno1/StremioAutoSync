@@ -1,8 +1,8 @@
 [
   {
-    "name": "Family Guy",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "The Rookie",
@@ -10,19 +10,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Sesame Street",
+    "name": "Pritam and Pedro",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt28077038"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
   },
   {
     "name": "Chainsmoker Cat",
@@ -45,9 +45,9 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "American Dad!",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt2185037"
   },
   {
     "name": "Resort",
@@ -60,6 +60,16 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Fire in His Fingertips",
+    "type": "series",
+    "imdb_id": "tt12555040"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -70,19 +80,9 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
-    "type": "series",
-    "imdb_id": "tt13490144"
   },
   {
     "name": "Bluey",
