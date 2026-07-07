@@ -1,8 +1,18 @@
 [
   {
+    "name": "Pritam and Pedro",
+    "type": "series",
+    "imdb_id": "tt28077038"
+  },
+  {
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Xplay",
@@ -10,14 +20,9 @@
     "imdb_id": "tt0361258"
   },
   {
-    "name": "Pritam and Pedro",
+    "name": "Unter Uns",
     "type": "series",
-    "imdb_id": "tt28077038"
-  },
-  {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt0108977"
   },
   {
     "name": "Adam's Sweet Agony",
@@ -40,29 +45,9 @@
     "imdb_id": "tt34991493"
   },
   {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Minnale",
-    "type": "series",
-    "imdb_id": "tt12182480"
-  },
-  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Chainsmoker Cat",
-    "type": "series",
-    "imdb_id": "tt39551330"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   },
   {
     "name": "Silo",
@@ -70,9 +55,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Agent Kim Reactivated",
+    "name": "Avatar: The Last Airbender",
     "type": "series",
-    "imdb_id": "tt42127457"
+    "imdb_id": "tt9018736"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Supernatural",
@@ -80,14 +70,19 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Chainsmoker Cat",
+    "type": "series",
+    "imdb_id": "tt39551330"
   },
   {
     "name": "Law & Order",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "The Mentalist",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Minnale",
+    "type": "series",
+    "imdb_id": "tt12182480"
   }
 ]

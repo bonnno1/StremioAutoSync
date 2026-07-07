@@ -15,24 +15,24 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Cape Fear",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   },
   {
     "name": "Sugar",
@@ -45,24 +45,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
   },
   {
     "name": "See",
@@ -70,14 +55,29 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Invasion",
+    "name": "Bad Sisters",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt15469618"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
   },
   {
     "name": "Margo's Got Money Troubles",
     "type": "series",
     "imdb_id": "tt31137273"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Shrinking",
@@ -90,13 +90,13 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
     "name": "Pachinko",
     "type": "series",
     "imdb_id": "tt8888462"
+  },
+  {
+    "name": "Star City",
+    "type": "series",
+    "imdb_id": "tt32140872"
   }
 ]

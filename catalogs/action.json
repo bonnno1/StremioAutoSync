@@ -5,19 +5,14 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Agent Kim Reactivated",
-    "type": "series",
-    "imdb_id": "tt42127457"
-  },
-  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
   },
   {
     "name": "The Boys",
@@ -35,14 +30,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
+  },
+  {
     "name": "Knot",
     "type": "series",
     "imdb_id": "tt38916337"
   },
   {
-    "name": "Doctor Who",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Lost",
@@ -50,14 +50,14 @@
     "imdb_id": "tt0411008"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
   },
   {
     "name": "Kamen Rider",
@@ -80,9 +80,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Arrow",
+    "name": "The Last Ship",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt2402207"
   },
   {
     "name": "One Pace",
@@ -90,13 +90,13 @@
     "imdb_id": "tt31228002"
   },
   {
-    "name": "The Last Ship",
+    "name": "Arrow",
     "type": "series",
-    "imdb_id": "tt2402207"
+    "imdb_id": "tt2193021"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt0455275"
   }
 ]

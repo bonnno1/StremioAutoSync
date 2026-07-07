@@ -1,13 +1,13 @@
 [
   {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Off Campus",
+    "type": "series",
+    "imdb_id": "tt33546863"
   },
   {
     "name": "Vikings",
@@ -30,19 +30,9 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Raakh",
-    "type": "series",
-    "imdb_id": "tt35870921"
-  },
-  {
     "name": "Elle",
     "type": "series",
     "imdb_id": "tt32020831"
-  },
-  {
-    "name": "Gram Chikitsalay",
-    "type": "series",
-    "imdb_id": "tt34773311"
   },
   {
     "name": "INVINCIBLE",
@@ -53,6 +43,11 @@
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Raakh",
+    "type": "series",
+    "imdb_id": "tt35870921"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -70,9 +65,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Fallout",
+    "name": "Gram Chikitsalay",
     "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt34773311"
   },
   {
     "name": "Hazbin Hotel",
@@ -80,18 +75,23 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Mirzapur",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt6473300"
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Operación triunfo",
+    "type": "series",
+    "imdb_id": "tt0306368"
   },
   {
     "name": "Every Year After",
     "type": "series",
     "imdb_id": "tt33055254"
-  },
-  {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
   }
 ]
