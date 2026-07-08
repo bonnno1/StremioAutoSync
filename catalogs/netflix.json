@@ -5,14 +5,14 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "The Polygamist",
     "type": "series",
     "imdb_id": "tt42543947"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Teach You a Lesson",
@@ -30,19 +30,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "I Will Find You",
-    "type": "series",
-    "imdb_id": "tt34771210"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Notes from the Last Row",
+    "name": "I Will Find You",
     "type": "series",
-    "imdb_id": "tt36270432"
+    "imdb_id": "tt34771210"
   },
   {
     "name": "Human Vapor",
@@ -53,6 +48,11 @@
     "name": "The Rewatchables",
     "type": "series",
     "imdb_id": "tt16367994"
+  },
+  {
+    "name": "Notes from the Last Row",
+    "type": "series",
+    "imdb_id": "tt36270432"
   },
   {
     "name": "Bridgerton",
@@ -70,24 +70,19 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Two Husbands One Wife",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt36351405"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "You",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt2359704"
   },
   {
-    "name": "Oasis",
+    "name": "Super Subbu",
     "type": "series",
-    "imdb_id": "tt38734636"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
+    "imdb_id": "tt31989291"
   },
   {
     "name": "Squid Game",
@@ -95,8 +90,13 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "The Witcher",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Two Husbands One Wife",
+    "type": "series",
+    "imdb_id": "tt36351405"
   }
 ]

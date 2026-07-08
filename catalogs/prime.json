@@ -45,14 +45,9 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Raakh",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt35870921"
-  },
-  {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -60,14 +55,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt5057054"
+    "imdb_id": "tt7631058"
   },
   {
-    "name": "Gram Chikitsalay",
+    "name": "Raakh",
     "type": "series",
-    "imdb_id": "tt34773311"
+    "imdb_id": "tt35870921"
   },
   {
     "name": "Hazbin Hotel",
@@ -80,6 +75,11 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "Gram Chikitsalay",
+    "type": "series",
+    "imdb_id": "tt34773311"
+  },
+  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
@@ -88,10 +88,5 @@
     "name": "Operación triunfo",
     "type": "series",
     "imdb_id": "tt0306368"
-  },
-  {
-    "name": "Every Year After",
-    "type": "series",
-    "imdb_id": "tt33055254"
   }
 ]
