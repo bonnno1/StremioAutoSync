@@ -1,15 +1,5 @@
 [
   {
-    "name": "The Prosecutor's Proposal",
-    "type": "series",
-    "imdb_id": "tt43592244"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt2431250"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
@@ -25,39 +15,24 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
     "name": "Agent Kim Reactivated",
     "type": "series",
     "imdb_id": "tt42127457"
   },
   {
-    "name": "Human Vapor",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt33083249"
+    "imdb_id": "tt0388629"
   },
   {
-    "name": "X-Men '97",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt32140872"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Little House on the Prairie",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Blossoms of Power",
-    "type": "series",
-    "imdb_id": "tt36204806"
+    "imdb_id": "tt2431250"
   },
   {
     "name": "Dutton Ranch",
@@ -65,9 +40,39 @@
     "imdb_id": "tt34991493"
   },
   {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "The Prosecutor's Proposal",
+    "type": "series",
+    "imdb_id": "tt43592244"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Human Vapor",
+    "type": "series",
+    "imdb_id": "tt33083249"
+  },
+  {
     "name": "Chainsmoker Cat",
     "type": "series",
     "imdb_id": "tt39551330"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Saga of Tanya the Evil",
@@ -75,9 +80,14 @@
     "imdb_id": "tt6455986"
   },
   {
-    "name": "Tomb Raider King",
+    "name": "Smoking Behind the Supermarket with You",
     "type": "series",
-    "imdb_id": "tt32869308"
+    "imdb_id": "tt37614297"
+  },
+  {
+    "name": "THE GHOST IN THE SHELL",
+    "type": "series",
+    "imdb_id": "tt36517689"
   },
   {
     "name": "Elle",
@@ -88,15 +98,5 @@
     "name": "The Bear",
     "type": "series",
     "imdb_id": "tt14452776"
-  },
-  {
-    "name": "Sparks of Tomorrow",
-    "type": "series",
-    "imdb_id": "tt38939446"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
   }
 ]
