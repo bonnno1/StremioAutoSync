@@ -10,24 +10,19 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Lucifer",
@@ -43,6 +38,11 @@
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Human Vapor",
@@ -70,24 +70,9 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
     "name": "Notes from the Last Row",
     "type": "series",
     "imdb_id": "tt36270432"
-  },
-  {
-    "name": "Super Subbu",
-    "type": "series",
-    "imdb_id": "tt31989291"
   },
   {
     "name": "Squid Game",
@@ -95,8 +80,23 @@
     "imdb_id": "tt10919420"
   },
   {
+    "name": "Little House on the Prairie",
+    "type": "series",
+    "imdb_id": "tt2431250"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "JoJo's Bizarre Adventure",
     "type": "series",
     "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Elite",
+    "type": "series",
+    "imdb_id": "tt7134908"
   }
 ]

@@ -10,6 +10,11 @@
     "imdb_id": "tt13293588"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -18,11 +23,6 @@
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
   },
   {
     "name": "Rick and Morty",
@@ -50,19 +50,14 @@
     "imdb_id": "tt42127457"
   },
   {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Knot",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt38916337"
+    "imdb_id": "tt34809853"
   },
   {
     "name": "The Last Ship",
@@ -70,19 +65,24 @@
     "imdb_id": "tt2402207"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Knot",
+    "type": "series",
+    "imdb_id": "tt38916337"
   },
   {
     "name": "Lost",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0411008"
   },
   {
-    "name": "Kamen Rider",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt6111130"
   },
   {
-    "name": "Vikings",
+    "name": "Renegade Immortal",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt27432264"
   }
 ]

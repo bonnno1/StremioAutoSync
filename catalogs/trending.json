@@ -10,6 +10,11 @@
     "imdb_id": "tt11198330"
   },
   {
+    "name": "Little House on the Prairie",
+    "type": "series",
+    "imdb_id": "tt2431250"
+  },
+  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
@@ -25,14 +30,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Star City",
+    "name": "FROM",
     "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt2431250"
+    "imdb_id": "tt9813792"
   },
   {
     "name": "Dutton Ranch",
@@ -40,14 +40,9 @@
     "imdb_id": "tt34991493"
   },
   {
-    "name": "Cape Fear",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "The Prosecutor's Proposal",
-    "type": "series",
-    "imdb_id": "tt43592244"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "X-Men '97",
@@ -55,39 +50,14 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
     "name": "Human Vapor",
     "type": "series",
     "imdb_id": "tt33083249"
   },
   {
-    "name": "Chainsmoker Cat",
+    "name": "The Prosecutor's Proposal",
     "type": "series",
-    "imdb_id": "tt39551330"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Saga of Tanya the Evil",
-    "type": "series",
-    "imdb_id": "tt6455986"
-  },
-  {
-    "name": "Smoking Behind the Supermarket with You",
-    "type": "series",
-    "imdb_id": "tt37614297"
-  },
-  {
-    "name": "THE GHOST IN THE SHELL",
-    "type": "series",
-    "imdb_id": "tt36517689"
+    "imdb_id": "tt43592244"
   },
   {
     "name": "Elle",
@@ -95,8 +65,38 @@
     "imdb_id": "tt32020831"
   },
   {
-    "name": "The Bear",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt14452776"
+    "imdb_id": "tt12879782"
+  },
+  {
+    "name": "Chainsmoker Cat",
+    "type": "series",
+    "imdb_id": "tt39551330"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Sparks of Tomorrow",
+    "type": "series",
+    "imdb_id": "tt38939446"
+  },
+  {
+    "name": "THE GHOST IN THE SHELL",
+    "type": "series",
+    "imdb_id": "tt36517689"
+  },
+  {
+    "name": "Star City",
+    "type": "series",
+    "imdb_id": "tt32140872"
+  },
+  {
+    "name": "Saga of Tanya the Evil",
+    "type": "series",
+    "imdb_id": "tt6455986"
   }
 ]
