@@ -40,11 +40,6 @@
     "imdb_id": "tt24191416"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "WWE Metal",
     "type": "series",
     "imdb_id": "tt0287897"
@@ -60,6 +55,11 @@
     "imdb_id": "tt27502465"
   },
   {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
+  },
+  {
     "name": "Tom & Jerry Kids Show",
     "type": "series",
     "imdb_id": "tt0198254"
@@ -68,11 +68,6 @@
     "name": "3000 Whys of Blue Cat",
     "type": "series",
     "imdb_id": "tt8483276"
-  },
-  {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -93,5 +88,10 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   }
 ]
