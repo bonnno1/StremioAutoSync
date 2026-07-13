@@ -35,6 +35,16 @@
     "imdb_id": "tt34771210"
   },
   {
+    "name": "Re:Mind",
+    "type": "series",
+    "imdb_id": "tt7332652"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
@@ -50,34 +60,9 @@
     "imdb_id": "tt2431250"
   },
   {
-    "name": "Human Vapor",
-    "type": "series",
-    "imdb_id": "tt33083249"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -85,18 +70,33 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "The Rewatchables",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt16367994"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Human Vapor",
+    "type": "series",
+    "imdb_id": "tt33083249"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
   },
   {
     "name": "Elite",
     "type": "series",
     "imdb_id": "tt7134908"
-  },
-  {
-    "name": "Notes from the Last Row",
-    "type": "series",
-    "imdb_id": "tt36270432"
   }
 ]

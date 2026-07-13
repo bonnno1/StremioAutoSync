@@ -15,6 +15,11 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
@@ -23,11 +28,6 @@
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "The Boys",
@@ -50,14 +50,24 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Doctor Who",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
+  },
+  {
+    "name": "JUJUTSU KAISEN",
+    "type": "series",
+    "imdb_id": "tt12343534"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "The Last Ship",
@@ -75,28 +85,18 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
     "name": "Renegade Immortal",
     "type": "series",
     "imdb_id": "tt27432264"
   },
   {
-    "name": "Doraemon",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Knot",
-    "type": "series",
-    "imdb_id": "tt38916337"
-  },
-  {
-    "name": "Lost",
-    "type": "series",
-    "imdb_id": "tt0411008"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt1520211"
   }
 ]

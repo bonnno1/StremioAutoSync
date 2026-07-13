@@ -15,9 +15,9 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "Cape Fear",
+    "name": "Bad Sisters",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt15469618"
   },
   {
     "name": "Ted Lasso",
@@ -25,14 +25,14 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
   },
   {
     "name": "Star City",
@@ -45,14 +45,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Sugar",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt16418808"
-  },
-  {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
+    "imdb_id": "tt5875444"
   },
   {
     "name": "See",
@@ -60,9 +55,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Your Friends & Neighbors",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt16418808"
   },
   {
     "name": "Margo's Got Money Troubles",
@@ -70,19 +65,14 @@
     "imdb_id": "tt31137273"
   },
   {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Shrinking",
@@ -90,13 +80,23 @@
     "imdb_id": "tt15677150"
   },
   {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Maximum Pleasure Guaranteed",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt35946742"
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   }
 ]

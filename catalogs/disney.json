@@ -5,24 +5,24 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Andor",
@@ -35,29 +35,9 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -70,28 +50,48 @@
     "imdb_id": "tt5189554"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "I Am Groot",
+    "type": "series",
+    "imdb_id": "tt13623148"
+  },
+  {
     "name": "Moving",
     "type": "series",
     "imdb_id": "tt24640580"
   },
   {
-    "name": "We'll Be Fine",
+    "name": "Dorohedoro",
     "type": "series",
-    "imdb_id": "tt38048350"
+    "imdb_id": "tt11147852"
   },
   {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
   }
 ]
