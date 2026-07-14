@@ -10,14 +10,14 @@
     "imdb_id": "tt13293588"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
   },
   {
     "name": "Game of Thrones",
@@ -25,9 +25,24 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
+  },
+  {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
   },
   {
     "name": "The Boys",
@@ -40,44 +55,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Agent Kim Reactivated",
-    "type": "series",
-    "imdb_id": "tt42127457"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
-    "name": "JUJUTSU KAISEN",
-    "type": "series",
-    "imdb_id": "tt12343534"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "The Last Ship",
-    "type": "series",
-    "imdb_id": "tt2402207"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "Vikings",
@@ -85,18 +65,38 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "FBI",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt34809853"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "The Last Ship",
+    "type": "series",
+    "imdb_id": "tt2402207"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   }
 ]

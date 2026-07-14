@@ -1,13 +1,13 @@
 [
   {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
   },
   {
     "name": "One Piece",
@@ -15,14 +15,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Little House on the Prairie",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt2431250"
   },
   {
     "name": "Agent Kim Reactivated",
@@ -30,49 +25,14 @@
     "imdb_id": "tt42127457"
   },
   {
-    "name": "Little House on the Prairie",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt2431250"
+    "imdb_id": "tt13293588"
   },
   {
-    "name": "The Westies",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt31849235"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Dream to You",
-    "type": "series",
-    "imdb_id": "tt39028251"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Smoking Behind the Supermarket with You",
-    "type": "series",
-    "imdb_id": "tt37614297"
-  },
-  {
-    "name": "The Apartment Job",
-    "type": "series",
-    "imdb_id": "tt43357366"
-  },
-  {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
-    "name": "Sparks of Tomorrow",
-    "type": "series",
-    "imdb_id": "tt38939446"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "THE GHOST IN THE SHELL",
@@ -80,9 +40,39 @@
     "imdb_id": "tt36517689"
   },
   {
-    "name": "Dutton Ranch",
+    "name": "The Westies",
     "type": "series",
-    "imdb_id": "tt34991493"
+    "imdb_id": "tt31849235"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Smoking Behind the Supermarket with You",
+    "type": "series",
+    "imdb_id": "tt37614297"
+  },
+  {
+    "name": "Star City",
+    "type": "series",
+    "imdb_id": "tt32140872"
+  },
+  {
+    "name": "Saga of Tanya the Evil",
+    "type": "series",
+    "imdb_id": "tt6455986"
+  },
+  {
+    "name": "The Apartment Job",
+    "type": "series",
+    "imdb_id": "tt43357366"
   },
   {
     "name": "The Bear",
@@ -90,13 +80,23 @@
     "imdb_id": "tt14452776"
   },
   {
-    "name": "Widow's Bay",
+    "name": "Dutton Ranch",
     "type": "series",
-    "imdb_id": "tt33332385"
+    "imdb_id": "tt34991493"
   },
   {
-    "name": "Saga of Tanya the Evil",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt6455986"
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "Sparks of Tomorrow",
+    "type": "series",
+    "imdb_id": "tt38939446"
   }
 ]
