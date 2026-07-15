@@ -1,13 +1,23 @@
 [
   {
-    "name": "Silo",
+    "name": "Lucky",
     "type": "series",
-    "imdb_id": "tt14688458"
+    "imdb_id": "tt34866681"
   },
   {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
+    "name": "THE GHOST IN THE SHELL",
+    "type": "series",
+    "imdb_id": "tt36517689"
   },
   {
     "name": "One Piece",
@@ -18,6 +28,11 @@
     "name": "Little House on the Prairie",
     "type": "series",
     "imdb_id": "tt2431250"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Agent Kim Reactivated",
@@ -35,9 +50,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "THE GHOST IN THE SHELL",
+    "name": "FROM",
     "type": "series",
-    "imdb_id": "tt36517689"
+    "imdb_id": "tt9813792"
   },
   {
     "name": "The Westies",
@@ -45,34 +60,14 @@
     "imdb_id": "tt31849235"
   },
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Smoking Behind the Supermarket with You",
-    "type": "series",
-    "imdb_id": "tt37614297"
-  },
-  {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
     "name": "Saga of Tanya the Evil",
     "type": "series",
     "imdb_id": "tt6455986"
   },
   {
-    "name": "The Apartment Job",
+    "name": "Clevatess",
     "type": "series",
-    "imdb_id": "tt43357366"
+    "imdb_id": "tt32991344"
   },
   {
     "name": "The Bear",
@@ -80,23 +75,28 @@
     "imdb_id": "tt14452776"
   },
   {
-    "name": "Dutton Ranch",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt34991493"
+    "imdb_id": "tt33332385"
   },
   {
-    "name": "Bleach",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt32140872"
   },
   {
-    "name": "Cape Fear",
+    "name": "The Apartment Job",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt43357366"
   },
   {
-    "name": "Sparks of Tomorrow",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt38939446"
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Dream to You",
+    "type": "series",
+    "imdb_id": "tt39028251"
   }
 ]

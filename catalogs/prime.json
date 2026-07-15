@@ -30,19 +30,9 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "The Man in the High Castle",
-    "type": "series",
-    "imdb_id": "tt1740299"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Elle",
-    "type": "series",
-    "imdb_id": "tt32020831"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -50,14 +40,14 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Elle",
+    "type": "series",
+    "imdb_id": "tt32020831"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -65,9 +55,19 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Man in the High Castle",
+    "type": "series",
+    "imdb_id": "tt1740299"
+  },
+  {
+    "name": "Goliath",
+    "type": "series",
+    "imdb_id": "tt4687880"
   },
   {
     "name": "Fallout",
@@ -80,13 +80,18 @@
     "imdb_id": "tt29666911"
   },
   {
-    "name": "Goliath",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
+  },
+  {
+    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "type": "series",
+    "imdb_id": "tt23734948"
   }
 ]

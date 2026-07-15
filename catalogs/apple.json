@@ -5,6 +5,11 @@
     "imdb_id": "tt14688458"
   },
   {
+    "name": "Bad Sisters",
+    "type": "series",
+    "imdb_id": "tt15469618"
+  },
+  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
@@ -15,14 +20,9 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "Bad Sisters",
+    "name": "Severance",
     "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt11280740"
   },
   {
     "name": "Cape Fear",
@@ -30,9 +30,9 @@
     "imdb_id": "tt34675596"
   },
   {
-    "name": "Severance",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt11280740"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Star City",
@@ -85,11 +85,6 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
@@ -98,5 +93,10 @@
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
+  },
+  {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
   }
 ]

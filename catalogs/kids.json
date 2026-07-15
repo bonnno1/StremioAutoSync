@@ -1,5 +1,10 @@
 [
   {
+    "name": "Maddie + Triggs",
+    "type": "series",
+    "imdb_id": "tt38270077"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -10,19 +15,24 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Maddie + Triggs",
-    "type": "series",
-    "imdb_id": "tt38270077"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
   },
   {
     "name": "GG Bond",
@@ -35,14 +45,19 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "3000 Whys of Blue Cat",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt8483276"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Super Wings",
     "type": "series",
     "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Rugrats",
@@ -55,38 +70,23 @@
     "imdb_id": "tt1806402"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Johnny Test",
-    "type": "series",
-    "imdb_id": "tt0454349"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Rainbow",
-    "type": "series",
-    "imdb_id": "tt0275148"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
-  },
-  {
     "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Bluey",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Ninja Hattori-kun",
+    "type": "series",
+    "imdb_id": "tt2787558"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
   }
 ]

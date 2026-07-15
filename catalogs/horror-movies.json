@@ -5,14 +5,14 @@
     "imdb_id": "tt37287335"
   },
   {
-    "name": "Scary Movie",
-    "type": "movie",
-    "imdb_id": "tt32093575"
-  },
-  {
     "name": "Backrooms",
     "type": "movie",
     "imdb_id": "tt26657236"
+  },
+  {
+    "name": "Scary Movie",
+    "type": "movie",
+    "imdb_id": "tt32093575"
   },
   {
     "name": "Passenger",
@@ -30,14 +30,14 @@
     "imdb_id": "tt31170389"
   },
   {
-    "name": "Night of the Living Dead",
-    "type": "movie",
-    "imdb_id": "tt33296064"
-  },
-  {
     "name": "Lee Cronin's The Mummy",
     "type": "movie",
     "imdb_id": "tt32612507"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "type": "movie",
+    "imdb_id": "tt33296064"
   },
   {
     "name": "Black Box",
@@ -50,19 +50,14 @@
     "imdb_id": "tt33050521"
   },
   {
-    "name": "Dolly",
-    "type": "movie",
-    "imdb_id": "tt32639175"
-  },
-  {
     "name": "Kraken",
     "type": "movie",
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Summerween",
+    "name": "Dolly",
     "type": "movie",
-    "imdb_id": "tt41516436"
+    "imdb_id": "tt32639175"
   },
   {
     "name": "Zombies of the Third Reich",
@@ -70,19 +65,9 @@
     "imdb_id": "tt32516420"
   },
   {
-    "name": "Send Help",
+    "name": "Summerween",
     "type": "movie",
-    "imdb_id": "tt8036976"
-  },
-  {
-    "name": "The Undertaker 2: Afterlife",
-    "type": "movie",
-    "imdb_id": "tt39762779"
-  },
-  {
-    "name": "Beware the Boogeyman",
-    "type": "movie",
-    "imdb_id": "tt29244917"
+    "imdb_id": "tt41516436"
   },
   {
     "name": "Lola's Secret",
@@ -90,8 +75,23 @@
     "imdb_id": "tt0089790"
   },
   {
-    "name": "Hokum",
+    "name": "Send Help",
     "type": "movie",
-    "imdb_id": "tt35672862"
+    "imdb_id": "tt8036976"
+  },
+  {
+    "name": "Evil Dead Rise",
+    "type": "movie",
+    "imdb_id": "tt13345606"
+  },
+  {
+    "name": "Erotic Ghost Story III",
+    "type": "movie",
+    "imdb_id": "tt0104719"
+  },
+  {
+    "name": "Beware the Boogeyman",
+    "type": "movie",
+    "imdb_id": "tt29244917"
   }
 ]

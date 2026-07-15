@@ -10,6 +10,11 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "The Polygamist",
     "type": "series",
     "imdb_id": "tt42543947"
@@ -20,19 +25,14 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lucifer",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "I Will Find You",
@@ -40,9 +40,9 @@
     "imdb_id": "tt34771210"
   },
   {
-    "name": "Re:Mind",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt7332652"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Raw",
@@ -50,24 +50,14 @@
     "imdb_id": "tt0185103"
   },
   {
+    "name": "Re:Mind",
+    "type": "series",
+    "imdb_id": "tt7332652"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt2431250"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
   },
   {
     "name": "Black Mirror",
@@ -75,14 +65,24 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Bridgerton",
+    "name": "Little House on the Prairie",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt2431250"
   },
   {
-    "name": "Burn the House Down",
+    "name": "The Rewatchables",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt16367994"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "You",
@@ -90,13 +90,13 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Human Vapor",
+    "name": "The Night Agent",
     "type": "series",
-    "imdb_id": "tt33083249"
+    "imdb_id": "tt13918776"
   },
   {
-    "name": "Rosario Tijeras (Mexico)",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt6340304"
+    "imdb_id": "tt2359704"
   }
 ]
