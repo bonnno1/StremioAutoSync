@@ -1,18 +1,13 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
   },
   {
-    "name": "Sister-in-Law Is at Home!",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt5154982"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "The Simpsons",
@@ -20,14 +15,19 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "type": "series",
+    "imdb_id": "tt0278212"
+  },
+  {
     "name": "Sazae-san",
     "type": "series",
     "imdb_id": "tt0236924"
   },
   {
-    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "name": "Sister-in-Law Is at Home!",
     "type": "series",
-    "imdb_id": "tt0278212"
+    "imdb_id": "tt5154982"
   },
   {
     "name": "Kang's Family",
@@ -35,14 +35,14 @@
     "imdb_id": "tt7803586"
   },
   {
+    "name": "Na lovu",
+    "type": "series",
+    "imdb_id": "tt21340756"
+  },
+  {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   },
   {
     "name": "Phineas and Ferb",
@@ -50,23 +50,23 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Stay Together, My Love",
-    "type": "series",
-    "imdb_id": "tt1863997"
-  },
-  {
-    "name": "Sangeethe",
-    "type": "series",
-    "imdb_id": "tt10295228"
-  },
-  {
     "name": "Little House on the Prairie",
     "type": "series",
     "imdb_id": "tt0071007"
   },
   {
+    "name": "Poove Unakkaga",
+    "type": "series",
+    "imdb_id": "tt13545698"
+  },
+  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   }
 ]

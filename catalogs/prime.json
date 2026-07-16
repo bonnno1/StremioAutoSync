@@ -25,19 +25,24 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
   },
   {
     "name": "Bosch",
@@ -50,11 +55,6 @@
     "imdb_id": "tt32020831"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -65,9 +65,9 @@
     "imdb_id": "tt1740299"
   },
   {
-    "name": "Goliath",
+    "name": "Ride or Die",
     "type": "series",
-    "imdb_id": "tt4687880"
+    "imdb_id": "tt30494226"
   },
   {
     "name": "Fallout",
@@ -75,23 +75,23 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Seeking Persephone",
-    "type": "series",
-    "imdb_id": "tt29666911"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "Operación triunfo",
     "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt0306368"
   },
   {
-    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt23734948"
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Seeking Persephone",
+    "type": "series",
+    "imdb_id": "tt29666911"
   }
 ]

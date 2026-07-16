@@ -1,18 +1,13 @@
 [
   {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "C.I.D.",
+    "name": "Avatar: The Last Airbender",
     "type": "series",
-    "imdb_id": "tt0401916"
+    "imdb_id": "tt9018736"
   },
   {
     "name": "The Polygamist",
@@ -30,14 +25,14 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
-  },
-  {
-    "name": "I Will Find You",
-    "type": "series",
-    "imdb_id": "tt34771210"
   },
   {
     "name": "Lucifer",
@@ -45,9 +40,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Raw",
+    "name": "I Will Find You",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt34771210"
+  },
+  {
+    "name": "The Rewatchables",
+    "type": "series",
+    "imdb_id": "tt16367994"
   },
   {
     "name": "Re:Mind",
@@ -55,14 +55,14 @@
     "imdb_id": "tt7332652"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   },
   {
     "name": "Little House on the Prairie",
@@ -70,9 +70,14 @@
     "imdb_id": "tt2431250"
   },
   {
-    "name": "The Rewatchables",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt16367994"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
   },
   {
     "name": "Good Mythical Morning",
@@ -88,11 +93,6 @@
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
   },
   {
     "name": "JoJo's Bizarre Adventure",

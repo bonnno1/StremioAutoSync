@@ -5,24 +5,19 @@
     "imdb_id": "tt38270077"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "3000 Whys of Blue Cat",
-    "type": "series",
-    "imdb_id": "tt8483276"
   },
   {
     "name": "PAW Patrol",
@@ -40,24 +35,14 @@
     "imdb_id": "tt24191416"
   },
   {
+    "name": "3000 Whys of Blue Cat",
+    "type": "series",
+    "imdb_id": "tt8483276"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   },
   {
     "name": "Rugrats",
@@ -65,9 +50,19 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Mister Maker",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt1806402"
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Pleasant Goat and Big Big Wolf",
@@ -75,18 +70,23 @@
     "imdb_id": "tt8677202"
   },
   {
-    "name": "Duel Masters",
+    "name": "Mister Maker",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt1806402"
   },
   {
-    "name": "Ninja Hattori-kun",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt2787558"
+    "imdb_id": "tt7678620"
   },
   {
-    "name": "Chiikawa",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt26692417"
+  },
+  {
+    "name": "The Adventures of Jimmy Neutron: Boy Genius",
+    "type": "series",
+    "imdb_id": "tt0320808"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "Pritam and Pedro",
-    "type": "series",
-    "imdb_id": "tt28077038"
-  },
-  {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
+  },
+  {
+    "name": "Pritam and Pedro",
+    "type": "series",
+    "imdb_id": "tt28077038"
   },
   {
     "name": "Silo",
@@ -18,6 +18,11 @@
     "name": "FROM",
     "type": "series",
     "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Maddie + Triggs",
+    "type": "series",
+    "imdb_id": "tt38270077"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -45,34 +50,9 @@
     "imdb_id": "tt0098844"
   },
   {
-    "name": "Chainsmoker Cat",
-    "type": "series",
-    "imdb_id": "tt39551330"
-  },
-  {
-    "name": "Maddie + Triggs",
-    "type": "series",
-    "imdb_id": "tt38270077"
-  },
-  {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
     "name": "Supernatural",
     "type": "series",
     "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Jamai Raja",
-    "type": "series",
-    "imdb_id": "tt4455902"
   },
   {
     "name": "Family Guy",
@@ -85,13 +65,38 @@
     "imdb_id": "tt14962432"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Jamai Raja",
+    "type": "series",
+    "imdb_id": "tt4455902"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Bittersweet Love",
+    "name": "Majhi Manasa",
     "type": "series",
-    "imdb_id": "tt43321335"
+    "imdb_id": "tt29481945"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   }
 ]

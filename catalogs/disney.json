@@ -35,24 +35,29 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "A Shop for Killers",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt26450613"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Soy Luna",
+    "type": "series",
+    "imdb_id": "tt5189554"
+  },
+  {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
   },
   {
     "name": "Moon Knight",
@@ -63,16 +68,6 @@
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Soy Luna",
-    "type": "series",
-    "imdb_id": "tt5189554"
-  },
-  {
-    "name": "The Book of Boba Fett",
-    "type": "series",
-    "imdb_id": "tt13668894"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -93,5 +88,10 @@
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
   }
 ]

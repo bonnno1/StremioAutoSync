@@ -5,6 +5,11 @@
     "imdb_id": "tt14688458"
   },
   {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
+  },
+  {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
@@ -35,19 +40,19 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Slow Horses",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt32140872"
+  },
+  {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
   },
   {
     "name": "See",
@@ -55,14 +60,19 @@
     "imdb_id": "tt7949218"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
     "name": "Sugar",
     "type": "series",
     "imdb_id": "tt16418808"
-  },
-  {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -70,9 +80,9 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Margo's Got Money Troubles",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt31137273"
   },
   {
     "name": "Shrinking",
@@ -88,15 +98,5 @@
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Hijack",
-    "type": "series",
-    "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Maximum Pleasure Guaranteed",
-    "type": "series",
-    "imdb_id": "tt35946742"
   }
 ]
