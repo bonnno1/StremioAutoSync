@@ -70,11 +70,6 @@
     "imdb_id": "tt32278481"
   },
   {
-    "name": "Supergirl",
-    "type": "movie",
-    "imdb_id": "tt8814476"
-  },
-  {
     "name": "Interstellar",
     "type": "movie",
     "imdb_id": "tt0816692"
@@ -90,13 +85,18 @@
     "imdb_id": "tt1375666"
   },
   {
-    "name": "Ne Zha 2",
-    "type": "movie",
-    "imdb_id": "tt34956443"
-  },
-  {
     "name": "Spider-Man: No Way Home",
     "type": "movie",
     "imdb_id": "tt10872600"
+  },
+  {
+    "name": "Moana 2",
+    "type": "movie",
+    "imdb_id": "tt13622970"
+  },
+  {
+    "name": "Predator: Badlands",
+    "type": "movie",
+    "imdb_id": "tt31227572"
   }
 ]

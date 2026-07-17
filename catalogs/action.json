@@ -10,11 +10,6 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -23,6 +18,11 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
   },
   {
     "name": "NCIS",
@@ -35,6 +35,11 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
+  },
+  {
     "name": "Agent Kim Reactivated",
     "type": "series",
     "imdb_id": "tt42127457"
@@ -45,29 +50,9 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Shoujo Commando IZUMI",
-    "type": "series",
-    "imdb_id": "tt11633750"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
   },
   {
     "name": "Doctor Who",
@@ -75,23 +60,38 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Pokémon",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt0069576"
   },
   {
-    "name": "Downtown no Gaki no Tsukai ya Arahende!!",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt1368424"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "The Last Ship",
+    "type": "series",
+    "imdb_id": "tt2402207"
   }
 ]
