@@ -5,6 +5,11 @@
     "imdb_id": "tt14688458"
   },
   {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
+  },
+  {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
@@ -20,14 +25,14 @@
     "imdb_id": "tt33332385"
   },
   {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "Foundation",
@@ -35,9 +40,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Star City",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt32140872"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Maximum Pleasure Guaranteed",
@@ -45,14 +50,29 @@
     "imdb_id": "tt35946742"
   },
   {
-    "name": "See",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt32140872"
   },
   {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
+  },
+  {
+    "name": "Sugar",
+    "type": "series",
+    "imdb_id": "tt16418808"
+  },
+  {
+    "name": "Margo's Got Money Troubles",
+    "type": "series",
+    "imdb_id": "tt31137273"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -65,29 +85,9 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
-  },
-  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Hijack",
@@ -95,8 +95,8 @@
     "imdb_id": "tt19854762"
   },
   {
-    "name": "The Morning Show",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt9737326"
   }
 ]

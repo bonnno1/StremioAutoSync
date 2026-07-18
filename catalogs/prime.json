@@ -20,9 +20,19 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Ride or Die",
+    "type": "series",
+    "imdb_id": "tt30494226"
+  },
+  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Chosen",
@@ -35,16 +45,6 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -53,6 +53,11 @@
     "name": "Elle",
     "type": "series",
     "imdb_id": "tt32020831"
+  },
+  {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -75,23 +80,18 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Operación triunfo",
-    "type": "series",
-    "imdb_id": "tt0306368"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
     "name": "Seeking Persephone",
     "type": "series",
     "imdb_id": "tt29666911"
   },
   {
-    "name": "Maxton Hall – The World Between Us",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt27792190"
+    "imdb_id": "tt11247158"
+  },
+  {
+    "name": "The Pendragon Cycle: Rise of the Merlin",
+    "type": "series",
+    "imdb_id": "tt23734948"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "name": "Toy Story 5",
-    "type": "movie",
-    "imdb_id": "tt29355505"
-  },
-  {
     "name": "Moana",
     "type": "movie",
     "imdb_id": "tt27419466"
@@ -13,6 +8,21 @@
     "name": "The Odyssey",
     "type": "movie",
     "imdb_id": "tt33764258"
+  },
+  {
+    "name": "Toy Story 5",
+    "type": "movie",
+    "imdb_id": "tt29355505"
+  },
+  {
+    "name": "Supergirl",
+    "type": "movie",
+    "imdb_id": "tt8814476"
+  },
+  {
+    "name": "Minions & Monsters",
+    "type": "movie",
+    "imdb_id": "tt32890033"
   },
   {
     "name": "Project Hail Mary",
@@ -25,19 +35,9 @@
     "imdb_id": "tt17490712"
   },
   {
-    "name": "The Super Mario Galaxy Movie",
-    "type": "movie",
-    "imdb_id": "tt28650488"
-  },
-  {
     "name": "Avatar: Fire and Ash",
     "type": "movie",
     "imdb_id": "tt1757678"
-  },
-  {
-    "name": "Avatar Aang: The Last Airbender",
-    "type": "movie",
-    "imdb_id": "tt18259538"
   },
   {
     "name": "Spider-Man: Brand New Day",
@@ -45,14 +45,19 @@
     "imdb_id": "tt22084616"
   },
   {
-    "name": "Minions & Monsters",
+    "name": "The Super Mario Galaxy Movie",
     "type": "movie",
-    "imdb_id": "tt32890033"
+    "imdb_id": "tt28650488"
   },
   {
     "name": "The Mandalorian and Grogu",
     "type": "movie",
     "imdb_id": "tt30825738"
+  },
+  {
+    "name": "Avatar Aang: The Last Airbender",
+    "type": "movie",
+    "imdb_id": "tt18259538"
   },
   {
     "name": "Swapped",
@@ -65,24 +70,9 @@
     "imdb_id": "tt26443616"
   },
   {
-    "name": "Enola Holmes 3",
-    "type": "movie",
-    "imdb_id": "tt32278481"
-  },
-  {
     "name": "Interstellar",
     "type": "movie",
     "imdb_id": "tt0816692"
-  },
-  {
-    "name": "Zootopia 2",
-    "type": "movie",
-    "imdb_id": "tt26443597"
-  },
-  {
-    "name": "Inception",
-    "type": "movie",
-    "imdb_id": "tt1375666"
   },
   {
     "name": "Spider-Man: No Way Home",
@@ -90,13 +80,23 @@
     "imdb_id": "tt10872600"
   },
   {
+    "name": "Zootopia 2",
+    "type": "movie",
+    "imdb_id": "tt26443597"
+  },
+  {
+    "name": "Enola Holmes 3",
+    "type": "movie",
+    "imdb_id": "tt32278481"
+  },
+  {
+    "name": "Inception",
+    "type": "movie",
+    "imdb_id": "tt1375666"
+  },
+  {
     "name": "Moana 2",
     "type": "movie",
     "imdb_id": "tt13622970"
-  },
-  {
-    "name": "Predator: Badlands",
-    "type": "movie",
-    "imdb_id": "tt31227572"
   }
 ]

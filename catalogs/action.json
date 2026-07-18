@@ -15,24 +15,19 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Doraemon",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -45,14 +40,29 @@
     "imdb_id": "tt42127457"
   },
   {
-    "name": "The Boys",
+    "name": "Ranma1/2",
     "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt32766897"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Shoujo Commando IZUMI",
+    "type": "series",
+    "imdb_id": "tt11633750"
+  },
+  {
+    "name": "The East Palace",
+    "type": "series",
+    "imdb_id": "tt35051401"
   },
   {
     "name": "Doctor Who",
@@ -62,12 +72,12 @@
   {
     "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "Vikings",
+    "name": "Batang Quiapo",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt24059730"
   },
   {
     "name": "Smallville",
@@ -75,23 +85,13 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "FBI",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Last Ship",
-    "type": "series",
-    "imdb_id": "tt2402207"
   }
 ]
