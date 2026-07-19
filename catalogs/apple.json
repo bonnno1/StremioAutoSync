@@ -5,24 +5,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
   },
   {
-    "name": "For All Mankind",
+    "name": "Lucky",
     "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
+    "imdb_id": "tt34866681"
   },
   {
     "name": "Cape Fear",
@@ -30,9 +20,19 @@
     "imdb_id": "tt34675596"
   },
   {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Foundation",
@@ -45,19 +45,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Maximum Pleasure Guaranteed",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt35946742"
-  },
-  {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt16418808"
   },
   {
     "name": "See",
@@ -65,9 +55,14 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Sugar",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt16418808"
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Maximum Pleasure Guaranteed",
+    "type": "series",
+    "imdb_id": "tt35946742"
   },
   {
     "name": "Margo's Got Money Troubles",
@@ -80,9 +75,9 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Your Friends & Neighbors",
+    "name": "Star City",
     "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt32140872"
   },
   {
     "name": "Shrinking",
@@ -90,9 +85,14 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Hijack",
+    "name": "Your Friends & Neighbors",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Invasion",
