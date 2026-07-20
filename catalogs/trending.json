@@ -1,18 +1,8 @@
 [
   {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
     "name": "The East Palace",
     "type": "series",
     "imdb_id": "tt35051401"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
   },
   {
     "name": "House of the Dragon",
@@ -20,9 +10,14 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Agent Kim Reactivated",
+    "name": "Lucky",
     "type": "series",
-    "imdb_id": "tt42127457"
+    "imdb_id": "tt34866681"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
   },
   {
     "name": "One Piece",
@@ -35,14 +30,14 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "Agent Kim Reactivated",
+    "type": "series",
+    "imdb_id": "tt42127457"
+  },
+  {
     "name": "The Hawk",
     "type": "series",
     "imdb_id": "tt27550719"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
   },
   {
     "name": "The Westies",
@@ -50,34 +45,14 @@
     "imdb_id": "tt31849235"
   },
   {
-    "name": "X-Men '97",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt13293588"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Overdo",
     "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "THE GHOST IN THE SHELL",
-    "type": "series",
-    "imdb_id": "tt36517689"
-  },
-  {
-    "name": "Star City",
-    "type": "series",
-    "imdb_id": "tt32140872"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt2431250"
+    "imdb_id": "tt37443650"
   },
   {
     "name": "Spooky in Love",
@@ -85,18 +60,43 @@
     "imdb_id": "tt40247521"
   },
   {
-    "name": "Cape Fear",
+    "name": "That Time I Got Reincarnated as a Slime",
     "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "The Apartment Job",
-    "type": "series",
-    "imdb_id": "tt43357366"
+    "imdb_id": "tt9054364"
   },
   {
     "name": "Ride or Die",
     "type": "series",
     "imdb_id": "tt30494226"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "See You at Work Tomorrow!",
+    "type": "series",
+    "imdb_id": "tt38960812"
+  },
+  {
+    "name": "Chainsmoker Cat",
+    "type": "series",
+    "imdb_id": "tt39551330"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "The Map of Longing",
+    "type": "series",
+    "imdb_id": "tt36495086"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
   }
 ]

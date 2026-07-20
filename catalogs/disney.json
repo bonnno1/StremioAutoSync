@@ -5,6 +5,11 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -20,16 +25,6 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Dorohedoro",
-    "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -40,9 +35,19 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "Dorohedoro",
+    "type": "series",
+    "imdb_id": "tt11147852"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "A Shop for Killers",
@@ -50,9 +55,9 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "WandaVision",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -63,11 +68,6 @@
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -83,11 +83,6 @@
     "name": "Rivals",
     "type": "series",
     "imdb_id": "tt21906238"
-  },
-  {
-    "name": "The Tatami Time Machine Blues",
-    "type": "series",
-    "imdb_id": "tt15684222"
   },
   {
     "name": "Moving",

@@ -1,8 +1,8 @@
 [
   {
-    "name": "The Simpsons",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -10,14 +10,9 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "Doraemon",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Na lovu",
-    "type": "series",
-    "imdb_id": "tt21340756"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Jeopardy!",
@@ -25,9 +20,34 @@
     "imdb_id": "tt0159881"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Na lovu",
+    "type": "series",
+    "imdb_id": "tt21340756"
+  },
+  {
     "name": "Sazae-san",
     "type": "series",
     "imdb_id": "tt0236924"
+  },
+  {
+    "name": "Sister-in-Law Is at Home!",
+    "type": "series",
+    "imdb_id": "tt5154982"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   },
   {
     "name": "Young Sheldon",
@@ -40,33 +60,13 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Beyblade Burst",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt6348126"
   },
   {
-    "name": "Sister-in-Law Is at Home!",
+    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
     "type": "series",
-    "imdb_id": "tt5154982"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "type": "series",
-    "imdb_id": "tt0071007"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Kang's Family",
-    "type": "series",
-    "imdb_id": "tt7803586"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt0278212"
   }
 ]
