@@ -1,8 +1,8 @@
 [
   {
-    "name": "Doraemon",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -10,9 +10,19 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "The Simpsons",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Lilo & Stitch: The Series",
+    "type": "series",
+    "imdb_id": "tt0364774"
   },
   {
     "name": "Jeopardy!",
@@ -20,34 +30,9 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "King of the Hill",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Na lovu",
-    "type": "series",
-    "imdb_id": "tt21340756"
-  },
-  {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
-  },
-  {
-    "name": "Sister-in-Law Is at Home!",
-    "type": "series",
-    "imdb_id": "tt5154982"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Young Sheldon",
@@ -55,18 +40,53 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1871731"
   },
   {
-    "name": "Beyblade Burst",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt6348126"
+    "imdb_id": "tt0118375"
   },
   {
-    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0278212"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
+  },
+  {
+    "name": "Sazae-san",
+    "type": "series",
+    "imdb_id": "tt0236924"
+  },
+  {
+    "name": "Forbidden Fruit",
+    "type": "series",
+    "imdb_id": "tt8045936"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Na lovu",
+    "type": "series",
+    "imdb_id": "tt21340756"
   }
 ]

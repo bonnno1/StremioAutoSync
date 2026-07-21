@@ -20,6 +20,11 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
     "name": "Cape Fear",
     "type": "series",
     "imdb_id": "tt34675596"
@@ -30,19 +35,9 @@
     "imdb_id": "tt16418808"
   },
   {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
   },
   {
     "name": "Foundation",
@@ -50,9 +45,14 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "The Morning Show",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt33332385"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
   },
   {
     "name": "See",
@@ -60,9 +60,19 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Slow Horses",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
   },
   {
     "name": "Maximum Pleasure Guaranteed",
@@ -75,28 +85,18 @@
     "imdb_id": "tt31137273"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt7203552"
   },
   {
-    "name": "Star City",
+    "name": "Pachinko",
     "type": "series",
-    "imdb_id": "tt32140872"
+    "imdb_id": "tt8888462"
   },
   {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   }
 ]
