@@ -10,14 +10,14 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "The East Palace",
     "type": "series",
     "imdb_id": "tt35051401"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -25,24 +25,19 @@
     "imdb_id": "tt9018736"
   },
   {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
   },
   {
-    "name": "The Polygamist",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt42543947"
-  },
-  {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Marvel's The Punisher",
@@ -50,14 +45,24 @@
     "imdb_id": "tt5675620"
   },
   {
+    "name": "Teach You a Lesson",
+    "type": "series",
+    "imdb_id": "tt34809853"
+  },
+  {
+    "name": "The Polygamist",
+    "type": "series",
+    "imdb_id": "tt42543947"
+  },
+  {
     "name": "I Will Find You",
     "type": "series",
     "imdb_id": "tt34771210"
   },
   {
-    "name": "La promesa",
+    "name": "SKAM Italia",
     "type": "series",
-    "imdb_id": "tt22325164"
+    "imdb_id": "tt8360352"
   },
   {
     "name": "The Hawk",
@@ -70,24 +75,19 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "SKAM Italia",
-    "type": "series",
-    "imdb_id": "tt8360352"
-  },
-  {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Squid Game",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Elite",
@@ -95,8 +95,8 @@
     "imdb_id": "tt7134908"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt5180504"
   }
 ]
