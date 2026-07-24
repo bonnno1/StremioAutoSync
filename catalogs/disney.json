@@ -15,11 +15,6 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Mandalorian",
-    "type": "series",
-    "imdb_id": "tt8111088"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -28,6 +23,11 @@
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Daredevil: Born Again",
@@ -55,34 +55,14 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Dorohedoro",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
-    "name": "Viña del Mar International Song Festival",
-    "type": "series",
-    "imdb_id": "tt2062574"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Love, Victor",
@@ -90,8 +70,28 @@
     "imdb_id": "tt10166602"
   },
   {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
   }
 ]

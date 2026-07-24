@@ -1,5 +1,15 @@
 [
   {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
@@ -10,9 +20,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Sesame Street",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "The East Palace",
@@ -25,24 +35,9 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Marvel's The Punisher",
-    "type": "series",
-    "imdb_id": "tt5675620"
   },
   {
     "name": "Teach You a Lesson",
@@ -50,9 +45,19 @@
     "imdb_id": "tt34809853"
   },
   {
+    "name": "The Rewatchables",
+    "type": "series",
+    "imdb_id": "tt16367994"
+  },
+  {
     "name": "The Polygamist",
     "type": "series",
     "imdb_id": "tt42543947"
+  },
+  {
+    "name": "Marvel's The Punisher",
+    "type": "series",
+    "imdb_id": "tt5675620"
   },
   {
     "name": "I Will Find You",
@@ -65,19 +70,9 @@
     "imdb_id": "tt8360352"
   },
   {
-    "name": "Elite Force",
-    "type": "series",
-    "imdb_id": "tt35495063"
-  },
-  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
-  },
-  {
-    "name": "The Hawk",
-    "type": "series",
-    "imdb_id": "tt27550719"
   },
   {
     "name": "Black Mirror",
@@ -85,18 +80,23 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Weak Hero",
-    "type": "series",
-    "imdb_id": "tt20234568"
-  },
-  {
     "name": "JoJo's Bizarre Adventure",
     "type": "series",
     "imdb_id": "tt2359704"
   },
   {
+    "name": "La promesa",
+    "type": "series",
+    "imdb_id": "tt22325164"
+  },
+  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Weak Hero",
+    "type": "series",
+    "imdb_id": "tt20234568"
   }
 ]
