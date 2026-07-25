@@ -30,9 +30,9 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Doctor Who",
+    "name": "Agent Kim Reactivated",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt42127457"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -40,9 +40,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Agent Kim Reactivated",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt42127457"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Stranger Things",
@@ -55,14 +55,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
   },
   {
     "name": "FBI",
@@ -85,11 +85,6 @@
     "imdb_id": "tt35051401"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -98,5 +93,10 @@
     "name": "Hawaii Five-0",
     "type": "series",
     "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
   }
 ]
