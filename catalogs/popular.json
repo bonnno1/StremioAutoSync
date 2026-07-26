@@ -1,10 +1,5 @@
 [
   {
-    "name": "Rote Rosen",
-    "type": "series",
-    "imdb_id": "tt0853076"
-  },
-  {
     "name": "Tagesschau",
     "type": "series",
     "imdb_id": "tt0246393"
@@ -20,14 +15,19 @@
     "imdb_id": "tt11198330"
   },
   {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
     "name": "Caressing My Hibernating Bear",
     "type": "series",
     "imdb_id": "tt26598191"
   },
   {
-    "name": "The Mentalist",
+    "name": "Rote Rosen",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt0853076"
   },
   {
     "name": "Law & Order",
@@ -40,24 +40,9 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "The Rookie",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Binnelanders",
-    "type": "series",
-    "imdb_id": "tt1527854"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Grey's Anatomy",
@@ -65,14 +50,24 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "The Late Show with Stephen Colbert",
+    "name": "FROM",
     "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt9813792"
   },
   {
-    "name": "Supernatural",
+    "name": "Breaking Bad",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -80,13 +75,23 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Family Guy",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0364845"
   },
   {
-    "name": "The Prosecutor's Proposal",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt43592244"
+    "imdb_id": "tt3697842"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   }
 ]

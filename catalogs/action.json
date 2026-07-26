@@ -10,24 +10,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
   },
   {
     "name": "Agent Kim Reactivated",
@@ -35,19 +20,29 @@
     "imdb_id": "tt42127457"
   },
   {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Doctor Who",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "Stranger Things",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "The Boys",
@@ -55,34 +50,14 @@
     "imdb_id": "tt1190634"
   },
   {
-    "name": "Smallville",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt4574334"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "The Last Ship",
-    "type": "series",
-    "imdb_id": "tt2402207"
-  },
-  {
-    "name": "The East Palace",
-    "type": "series",
-    "imdb_id": "tt35051401"
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Reacher",
@@ -90,13 +65,38 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt0279600"
   },
   {
-    "name": "Avatar: The Last Airbender",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt9018736"
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "The Last Ship",
+    "type": "series",
+    "imdb_id": "tt2402207"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   }
 ]

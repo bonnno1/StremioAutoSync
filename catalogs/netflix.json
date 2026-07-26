@@ -5,9 +5,9 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Stranger Things",
@@ -15,19 +15,19 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "The East Palace",
+    "name": "Good Mythical Morning",
     "type": "series",
-    "imdb_id": "tt35051401"
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
   },
   {
     "name": "Lucifer",
@@ -35,9 +35,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Avatar: The Last Airbender",
+    "name": "The East Palace",
     "type": "series",
-    "imdb_id": "tt9018736"
+    "imdb_id": "tt35051401"
+  },
+  {
+    "name": "SKAM Italia",
+    "type": "series",
+    "imdb_id": "tt8360352"
   },
   {
     "name": "Teach You a Lesson",
@@ -50,16 +55,6 @@
     "imdb_id": "tt35495063"
   },
   {
-    "name": "The Polygamist",
-    "type": "series",
-    "imdb_id": "tt42543947"
-  },
-  {
-    "name": "I Will Find You",
-    "type": "series",
-    "imdb_id": "tt34771210"
-  },
-  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
@@ -68,6 +63,16 @@
     "name": "Marvel's The Punisher",
     "type": "series",
     "imdb_id": "tt5675620"
+  },
+  {
+    "name": "I Will Find You",
+    "type": "series",
+    "imdb_id": "tt34771210"
+  },
+  {
+    "name": "The Polygamist",
+    "type": "series",
+    "imdb_id": "tt42543947"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -80,11 +85,6 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "SKAM Italia",
-    "type": "series",
-    "imdb_id": "tt8360352"
-  },
-  {
     "name": "Bridgerton",
     "type": "series",
     "imdb_id": "tt8740790"
@@ -95,8 +95,8 @@
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt10919420"
   }
 ]

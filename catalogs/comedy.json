@@ -80,6 +80,11 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
@@ -93,10 +98,5 @@
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
   }
 ]

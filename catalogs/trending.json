@@ -1,8 +1,8 @@
 [
   {
-    "name": "House of the Dragon",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "Silo",
@@ -10,19 +10,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "The East Palace",
-    "type": "series",
-    "imdb_id": "tt35051401"
-  },
-  {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
     "name": "Agent Kim Reactivated",
     "type": "series",
     "imdb_id": "tt42127457"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Elite Force",
@@ -35,9 +30,9 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "One Piece",
+    "name": "Lucky",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt34866681"
   },
   {
     "name": "Stuart Fails to Save the Universe",
@@ -45,9 +40,9 @@
     "imdb_id": "tt27497393"
   },
   {
-    "name": "Rick and Morty",
+    "name": "The East Palace",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt35051401"
   },
   {
     "name": "Star Trek: Strange New Worlds",
@@ -55,9 +50,14 @@
     "imdb_id": "tt12327578"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Cape Fear",
@@ -65,14 +65,14 @@
     "imdb_id": "tt34675596"
   },
   {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
   },
   {
     "name": "Ride or Die",
@@ -90,13 +90,13 @@
     "imdb_id": "tt28088031"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   }
 ]

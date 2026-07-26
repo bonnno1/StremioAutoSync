@@ -10,14 +10,14 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
     "name": "Cape Fear",
     "type": "series",
     "imdb_id": "tt34675596"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "For All Mankind",
@@ -80,6 +80,11 @@
     "imdb_id": "tt30459041"
   },
   {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
+  },
+  {
     "name": "Bad Sisters",
     "type": "series",
     "imdb_id": "tt15469618"
@@ -93,10 +98,5 @@
     "name": "Hijack",
     "type": "series",
     "imdb_id": "tt19854762"
-  },
-  {
-    "name": "Trying",
-    "type": "series",
-    "imdb_id": "tt10982034"
   }
 ]
