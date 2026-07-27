@@ -1,13 +1,18 @@
 [
   {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
   },
   {
     "name": "Agent Kim Reactivated",
@@ -15,9 +20,14 @@
     "imdb_id": "tt42127457"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt14688458"
+  },
+  {
+    "name": "The Walking Dead: Dead City",
+    "type": "series",
+    "imdb_id": "tt18546730"
   },
   {
     "name": "Elite Force",
@@ -25,9 +35,19 @@
     "imdb_id": "tt35495063"
   },
   {
-    "name": "A Shop for Killers",
+    "name": "President Curtis",
     "type": "series",
-    "imdb_id": "tt26450613"
+    "imdb_id": "tt37692332"
+  },
+  {
+    "name": "Stuart Fails to Save the Universe",
+    "type": "series",
+    "imdb_id": "tt27497393"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Lucky",
@@ -35,9 +55,9 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "Stuart Fails to Save the Universe",
+    "name": "A Shop for Killers",
     "type": "series",
-    "imdb_id": "tt27497393"
+    "imdb_id": "tt26450613"
   },
   {
     "name": "The East Palace",
@@ -50,39 +70,9 @@
     "imdb_id": "tt12327578"
   },
   {
-    "name": "One Piece",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "Ride or Die",
-    "type": "series",
-    "imdb_id": "tt30494226"
-  },
-  {
-    "name": "Spooky in Love",
-    "type": "series",
-    "imdb_id": "tt40247521"
+    "imdb_id": "tt13293588"
   },
   {
     "name": "Ransom Canyon",
@@ -90,13 +80,23 @@
     "imdb_id": "tt28088031"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Spooky in Love",
+    "type": "series",
+    "imdb_id": "tt40247521"
+  },
+  {
+    "name": "Lanterns",
+    "type": "series",
+    "imdb_id": "tt26545992"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
   },
   {
     "name": "Vikings",
@@ -20,14 +20,14 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -40,6 +40,11 @@
     "imdb_id": "tt30494226"
   },
   {
+    "name": "Operación triunfo",
+    "type": "series",
+    "imdb_id": "tt0306368"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -50,14 +55,14 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Fallout",
@@ -75,11 +80,6 @@
     "imdb_id": "tt11247158"
   },
   {
-    "name": "Operación triunfo",
-    "type": "series",
-    "imdb_id": "tt0306368"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
@@ -88,10 +88,5 @@
     "name": "Seeking Persephone",
     "type": "series",
     "imdb_id": "tt29666911"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   }
 ]

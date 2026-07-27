@@ -10,14 +10,14 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   },
   {
     "name": "For All Mankind",
@@ -30,6 +30,11 @@
     "imdb_id": "tt16418808"
   },
   {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -38,11 +43,6 @@
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
   },
   {
     "name": "Widow's Bay",
@@ -60,9 +60,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "See",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt22202452"
   },
   {
     "name": "The Morning Show",
@@ -70,9 +70,14 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Pluribus",
+    "name": "Dark Matter",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt19231492"
+  },
+  {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -80,14 +85,9 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Dark Matter",
+    "name": "Trying",
     "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
-    "name": "Bad Sisters",
-    "type": "series",
-    "imdb_id": "tt15469618"
+    "imdb_id": "tt10982034"
   },
   {
     "name": "Invasion",
