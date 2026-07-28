@@ -1,13 +1,13 @@
 [
   {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Stranger Things",
@@ -20,9 +20,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "SKAM Italia",
+    "type": "series",
+    "imdb_id": "tt8360352"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -35,14 +40,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "The East Palace",
+    "name": "Elite Force",
     "type": "series",
-    "imdb_id": "tt35051401"
-  },
-  {
-    "name": "SKAM Italia",
-    "type": "series",
-    "imdb_id": "tt8360352"
+    "imdb_id": "tt35495063"
   },
   {
     "name": "Teach You a Lesson",
@@ -50,24 +50,14 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Elite Force",
-    "type": "series",
-    "imdb_id": "tt35495063"
-  },
-  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Marvel's The Punisher",
+    "name": "The East Palace",
     "type": "series",
-    "imdb_id": "tt5675620"
-  },
-  {
-    "name": "I Will Find You",
-    "type": "series",
-    "imdb_id": "tt34771210"
+    "imdb_id": "tt35051401"
   },
   {
     "name": "The Polygamist",
@@ -75,14 +65,9 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Musafir Cafe",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt39665097"
   },
   {
     "name": "Bridgerton",
@@ -90,13 +75,28 @@
     "imdb_id": "tt8740790"
   },
   {
+    "name": "Marvel's The Punisher",
+    "type": "series",
+    "imdb_id": "tt5675620"
+  },
+  {
     "name": "Weak Hero",
     "type": "series",
     "imdb_id": "tt20234568"
   },
   {
-    "name": "Squid Game",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "I Will Find You",
+    "type": "series",
+    "imdb_id": "tt34771210"
   }
 ]
