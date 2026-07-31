@@ -35,14 +35,14 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Operación triunfo",
+    "type": "series",
+    "imdb_id": "tt0306368"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Ride or Die",
-    "type": "series",
-    "imdb_id": "tt30494226"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -55,9 +55,19 @@
     "imdb_id": "tt5057054"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "Ride or Die",
+    "type": "series",
+    "imdb_id": "tt30494226"
   },
   {
     "name": "Goliath",
@@ -65,24 +75,14 @@
     "imdb_id": "tt4687880"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "name": "Operación triunfo",
-    "type": "series",
-    "imdb_id": "tt0306368"
-  },
-  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
   },
   {
-    "name": "Gen V",
+    "name": "The Terminal List",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt11743610"
   },
   {
     "name": "Hazbin Hotel",
@@ -90,8 +90,8 @@
     "imdb_id": "tt7216636"
   },
   {
-    "name": "The Terminal List",
+    "name": "Gen V",
     "type": "series",
-    "imdb_id": "tt11743610"
+    "imdb_id": "tt13159924"
   }
 ]

@@ -10,9 +10,19 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -25,14 +35,14 @@
     "imdb_id": "tt8483276"
   },
   {
-    "name": "Doraemon",
+    "name": "De Fabeltjeskrant",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0294075"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Peppa Pig",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt0426769"
   },
   {
     "name": "The Powerpuff Girls",
@@ -50,14 +60,14 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
     "imdb_id": "tt1877889"
+  },
+  {
+    "name": "My Gym Partner's a Monkey",
+    "type": "series",
+    "imdb_id": "tt0451461"
   },
   {
     "name": "The Fairly OddParents",
@@ -70,28 +80,18 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "Shuriken Sentai Ninninger",
+    "type": "series",
+    "imdb_id": "tt4143220"
+  },
+  {
+    "name": "Bernard",
+    "type": "series",
+    "imdb_id": "tt0891369"
+  },
+  {
     "name": "Pleasant Goat and Big Big Wolf",
     "type": "series",
     "imdb_id": "tt8677202"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "The Penguins of Madagascar",
-    "type": "series",
-    "imdb_id": "tt0892700"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
-    "name": "Sailor Moon",
-    "type": "series",
-    "imdb_id": "tt0103369"
   }
 ]
