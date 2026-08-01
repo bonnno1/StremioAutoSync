@@ -1,53 +1,8 @@
 [
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Sister-in-Law Is at Home!",
-    "type": "series",
-    "imdb_id": "tt5154982"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Kang's Family",
-    "type": "series",
-    "imdb_id": "tt7803586"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
   },
   {
     "name": "Doraemon",
@@ -55,9 +10,39 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Among Friends",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
+  },
+  {
+    "name": "Uusi Päivä",
+    "type": "series",
+    "imdb_id": "tt1724525"
+  },
+  {
+    "name": "Piyaa Albela",
+    "type": "series",
+    "imdb_id": "tt6907788"
+  },
+  {
+    "name": "Flinderella",
+    "type": "series",
+    "imdb_id": "tt0401933"
+  },
+  {
+    "name": "Sister-in-Law Is at Home!",
+    "type": "series",
+    "imdb_id": "tt5154982"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "The Chosen",
@@ -65,19 +50,34 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "name": "Kang's Family",
     "type": "series",
-    "imdb_id": "tt0278212"
+    "imdb_id": "tt7803586"
   },
   {
-    "name": "Sazae-san",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0236924"
+    "imdb_id": "tt0101188"
   },
   {
-    "name": "The Powerpuff Girls",
+    "name": "X Factor",
     "type": "series",
-    "imdb_id": "tt0175058"
+    "imdb_id": "tt1194223"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Kumkum Bhagya",
+    "type": "series",
+    "imdb_id": "tt3911870"
   },
   {
     "name": "Frasier",
@@ -85,18 +85,18 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "The Donna Reed Show",
+    "name": "Among Friends",
     "type": "series",
-    "imdb_id": "tt0051267"
+    "imdb_id": "tt0175383"
   },
   {
-    "name": "Ulice",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt0484918"
+    "imdb_id": "tt1871731"
   },
   {
-    "name": "The Rifleman",
+    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
     "type": "series",
-    "imdb_id": "tt0051308"
+    "imdb_id": "tt0278212"
   }
 ]
