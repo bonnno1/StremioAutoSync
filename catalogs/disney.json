@@ -10,11 +10,6 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
@@ -25,9 +20,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt0458290"
   },
   {
     "name": "Daredevil: Born Again",
@@ -35,9 +30,19 @@
     "imdb_id": "tt18923754"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Soy Luna: Let's Roll Again",
@@ -50,19 +55,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "What If...?",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt10168312"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   },
   {
     "name": "Moon Knight",
@@ -75,9 +75,19 @@
     "imdb_id": "tt15571732"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Secret Invasion",
     "type": "series",
     "imdb_id": "tt13157618"
+  },
+  {
+    "name": "Wonder Man",
+    "type": "series",
+    "imdb_id": "tt21066182"
   },
   {
     "name": "The Proud Family: Louder and Prouder",
@@ -85,13 +95,8 @@
     "imdb_id": "tt11871764"
   },
   {
-    "name": "Hawkeye",
+    "name": "The Falcon and the Winter Soldier",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
+    "imdb_id": "tt9208876"
   }
 ]

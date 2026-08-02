@@ -20,14 +20,14 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "INVINCIBLE",
@@ -35,14 +35,19 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
     "name": "Operación triunfo",
     "type": "series",
     "imdb_id": "tt0306368"
   },
   {
-    "name": "Bosch",
+    "name": "Batman: Caped Crusader",
     "type": "series",
-    "imdb_id": "tt3502248"
+    "imdb_id": "tt14681596"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -65,14 +70,14 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Ride or Die",
-    "type": "series",
-    "imdb_id": "tt30494226"
-  },
-  {
     "name": "Goliath",
     "type": "series",
     "imdb_id": "tt4687880"
+  },
+  {
+    "name": "Ride or Die",
+    "type": "series",
+    "imdb_id": "tt30494226"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -88,10 +93,5 @@
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
   }
 ]
