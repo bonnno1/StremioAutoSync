@@ -15,9 +15,9 @@
     "imdb_id": "tt0486240"
   },
   {
-    "name": "Among Friends",
+    "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt0103434"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -30,14 +30,9 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Caressing My Hibernating Bear",
+    "name": "Among Friends",
     "type": "series",
-    "imdb_id": "tt26598191"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Rick and Morty",
@@ -45,44 +40,14 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Law & Order",
+    "name": "Grey's Anatomy",
     "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "Paradise Hotel",
-    "type": "series",
-    "imdb_id": "tt0478441"
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -93,5 +58,40 @@
     "name": "Jornal Nacional",
     "type": "series",
     "imdb_id": "tt0466513"
+  },
+  {
+    "name": "Caressing My Hibernating Bear",
+    "type": "series",
+    "imdb_id": "tt26598191"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
+  },
+  {
+    "name": "Law & Order",
+    "type": "series",
+    "imdb_id": "tt0098844"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Paradise Hotel",
+    "type": "series",
+    "imdb_id": "tt0478441"
   }
 ]
