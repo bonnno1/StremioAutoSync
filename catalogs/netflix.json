@@ -5,11 +5,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "SKAM Italia",
     "type": "series",
     "imdb_id": "tt8360352"
@@ -20,19 +15,14 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Musafir Cafe",
-    "type": "series",
-    "imdb_id": "tt39665097"
-  },
-  {
-    "name": "Teach You a Lesson",
-    "type": "series",
-    "imdb_id": "tt34809853"
   },
   {
     "name": "Raw",
@@ -40,19 +30,24 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "Teach You a Lesson",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt34809853"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Musafir Cafe",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt39665097"
   },
   {
     "name": "Marvel's The Punisher",
     "type": "series",
     "imdb_id": "tt5675620"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
   },
   {
     "name": "Black Mirror",
@@ -75,28 +70,33 @@
     "imdb_id": "tt42543947"
   },
   {
-    "name": "The Witcher",
-    "type": "series",
-    "imdb_id": "tt5180504"
-  },
-  {
-    "name": "Elite Force",
-    "type": "series",
-    "imdb_id": "tt35495063"
-  },
-  {
-    "name": "The Rewatchables",
-    "type": "series",
-    "imdb_id": "tt16367994"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
-    "name": "Burn the House Down",
+    "name": "The Witcher",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "I Will Find You",
+    "type": "series",
+    "imdb_id": "tt34771210"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   }
 ]
