@@ -70,11 +70,6 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Uusi Päivä",
-    "type": "series",
-    "imdb_id": "tt1724525"
-  },
-  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
@@ -93,5 +88,10 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Uusi Päivä",
+    "type": "series",
+    "imdb_id": "tt1724525"
   }
 ]

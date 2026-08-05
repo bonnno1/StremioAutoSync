@@ -1,5 +1,10 @@
 [
   {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
     "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
     "imdb_id": "tt0103434"
@@ -10,9 +15,19 @@
     "imdb_id": "tt0466513"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "All Elite Wrestling: Dynamite",
     "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt10691888"
+  },
+  {
+    "name": "Stand-up Comedy",
+    "type": "series",
+    "imdb_id": "tt33242190"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Secret Story",
@@ -20,19 +35,9 @@
     "imdb_id": "tt1364140"
   },
   {
-    "name": "Lucky",
+    "name": "A Shop for Killers",
     "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
-    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
-    "type": "series",
-    "imdb_id": "tt0278212"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt26450613"
   },
   {
     "name": "Overdo",
@@ -40,34 +45,19 @@
     "imdb_id": "tt37443650"
   },
   {
-    "name": "Binnelanders",
-    "type": "series",
-    "imdb_id": "tt1527854"
-  },
-  {
     "name": "El Señor de los Cielos",
     "type": "series",
     "imdb_id": "tt2777882"
   },
   {
-    "name": "Das perfekte Dinner",
+    "name": "Big Brother",
     "type": "series",
-    "imdb_id": "tt1448074"
+    "imdb_id": "tt0251497"
   },
   {
-    "name": "Coronation Street",
+    "name": "Binnelanders",
     "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Mein Lokal, Dein Lokal",
-    "type": "series",
-    "imdb_id": "tt3117654"
-  },
-  {
-    "name": "Bares für Rares",
-    "type": "series",
-    "imdb_id": "tt3083012"
+    "imdb_id": "tt1527854"
   },
   {
     "name": "Mystic Nine",
@@ -75,23 +65,38 @@
     "imdb_id": "tt37118307"
   },
   {
-    "name": "Na Wspólnej",
+    "name": "Coronation Street",
     "type": "series",
-    "imdb_id": "tt0388626"
+    "imdb_id": "tt0053494"
   },
   {
-    "name": "WWE NXT",
+    "name": "Slay the Gods",
     "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt32792277"
   },
   {
-    "name": "Dream to You",
+    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
     "type": "series",
-    "imdb_id": "tt39028251"
+    "imdb_id": "tt0278212"
+  },
+  {
+    "name": "Das perfekte Dinner",
+    "type": "series",
+    "imdb_id": "tt1448074"
   },
   {
     "name": "EastEnders",
     "type": "series",
     "imdb_id": "tt0088512"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Tomb Raider King",
+    "type": "series",
+    "imdb_id": "tt32869308"
   }
 ]

@@ -30,6 +30,11 @@
     "imdb_id": "tt32273171"
   },
   {
+    "name": "The Odyssey",
+    "type": "movie",
+    "imdb_id": "tt41605854"
+  },
+  {
     "name": "Avatar Aang: The Last Airbender",
     "type": "movie",
     "imdb_id": "tt18259538"
@@ -40,29 +45,24 @@
     "imdb_id": "tt34385135"
   },
   {
-    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "type": "movie",
-    "imdb_id": "tt32820897"
-  },
-  {
-    "name": "The Odyssey",
-    "type": "movie",
-    "imdb_id": "tt41605854"
-  },
-  {
     "name": "Spider-Man",
     "type": "movie",
     "imdb_id": "tt0145487"
   },
   {
-    "name": "The Debt Collector",
-    "type": "movie",
-    "imdb_id": "tt39749953"
-  },
-  {
     "name": "Spider-Man: Homecoming",
     "type": "movie",
     "imdb_id": "tt2250912"
+  },
+  {
+    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "type": "movie",
+    "imdb_id": "tt32820897"
+  },
+  {
+    "name": "The Debt Collector",
+    "type": "movie",
+    "imdb_id": "tt39749953"
   },
   {
     "name": "Kraken",
@@ -75,14 +75,14 @@
     "imdb_id": "tt41087705"
   },
   {
-    "name": "The Mandalorian and Grogu",
-    "type": "movie",
-    "imdb_id": "tt30825738"
-  },
-  {
     "name": "Spider-Man: Far From Home",
     "type": "movie",
     "imdb_id": "tt6320628"
+  },
+  {
+    "name": "The Mandalorian and Grogu",
+    "type": "movie",
+    "imdb_id": "tt30825738"
   },
   {
     "name": "The Furious",
