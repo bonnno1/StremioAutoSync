@@ -15,21 +15,6 @@
     "imdb_id": "tt36958312"
   },
   {
-    "name": "Borderline",
-    "type": "movie",
-    "imdb_id": "tt28638842"
-  },
-  {
-    "name": "The Debt Collector",
-    "type": "movie",
-    "imdb_id": "tt39749953"
-  },
-  {
-    "name": "Kraken",
-    "type": "movie",
-    "imdb_id": "tt19838566"
-  },
-  {
     "name": "Evil Dead Burn",
     "type": "movie",
     "imdb_id": "tt31170389"
@@ -38,6 +23,21 @@
     "name": "Soulm8te",
     "type": "movie",
     "imdb_id": "tt32654916"
+  },
+  {
+    "name": "The Debt Collector",
+    "type": "movie",
+    "imdb_id": "tt39749953"
+  },
+  {
+    "name": "Borderline",
+    "type": "movie",
+    "imdb_id": "tt28638842"
+  },
+  {
+    "name": "Kraken",
+    "type": "movie",
+    "imdb_id": "tt19838566"
   },
   {
     "name": "The Furious",
@@ -55,24 +55,14 @@
     "imdb_id": "tt30217600"
   },
   {
-    "name": "Her Private Hell",
-    "type": "movie",
-    "imdb_id": "tt36629665"
-  },
-  {
     "name": "Elize: Shadows of a Woman",
     "type": "movie",
     "imdb_id": "tt37042085"
   },
   {
-    "name": "Zero Woman 2",
+    "name": "Her Private Hell",
     "type": "movie",
-    "imdb_id": "tt0167508"
-  },
-  {
-    "name": "Hungry",
-    "type": "movie",
-    "imdb_id": "tt34494076"
+    "imdb_id": "tt36629665"
   },
   {
     "name": "Shelter",
@@ -80,14 +70,9 @@
     "imdb_id": "tt32357218"
   },
   {
-    "name": "War of the Worlds",
+    "name": "Hungry",
     "type": "movie",
-    "imdb_id": "tt13186306"
-  },
-  {
-    "name": "The Dark Knight",
-    "type": "movie",
-    "imdb_id": "tt0468569"
+    "imdb_id": "tt34494076"
   },
   {
     "name": "Captain America: Brave New World",
@@ -95,8 +80,23 @@
     "imdb_id": "tt14513804"
   },
   {
-    "name": "Citizen Vigilante",
+    "name": "The Dark Knight",
     "type": "movie",
-    "imdb_id": "tt35309713"
+    "imdb_id": "tt0468569"
+  },
+  {
+    "name": "The Shadow's Edge",
+    "type": "movie",
+    "imdb_id": "tt34610311"
+  },
+  {
+    "name": "War of the Worlds",
+    "type": "movie",
+    "imdb_id": "tt13186306"
+  },
+  {
+    "name": "Fight Club",
+    "type": "movie",
+    "imdb_id": "tt0137523"
   }
 ]

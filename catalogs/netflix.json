@@ -5,6 +5,11 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "SKAM Italia",
     "type": "series",
     "imdb_id": "tt8360352"
@@ -15,9 +20,24 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Sesame Street",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0185103"
+  },
+  {
+    "name": "The Witcher",
+    "type": "series",
+    "imdb_id": "tt5180504"
+  },
+  {
+    "name": "My Life with the Walter Boys",
+    "type": "series",
+    "imdb_id": "tt8323628"
+  },
+  {
+    "name": "Marvel's The Punisher",
+    "type": "series",
+    "imdb_id": "tt5675620"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -25,24 +45,14 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "Raw",
+    "name": "One Hundred Years of Solitude",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt9892936"
   },
   {
     "name": "Teach You a Lesson",
     "type": "series",
     "imdb_id": "tt34809853"
-  },
-  {
-    "name": "Musafir Cafe",
-    "type": "series",
-    "imdb_id": "tt39665097"
-  },
-  {
-    "name": "Marvel's The Punisher",
-    "type": "series",
-    "imdb_id": "tt5675620"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -55,48 +65,38 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
-    "name": "Elite",
-    "type": "series",
-    "imdb_id": "tt7134908"
-  },
-  {
-    "name": "The Polygamist",
-    "type": "series",
-    "imdb_id": "tt42543947"
-  },
-  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
-    "name": "The Witcher",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt5180504"
+    "imdb_id": "tt2359704"
   },
   {
-    "name": "You",
+    "name": "Super Crooks",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt14272628"
+  },
+  {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Marvel's Daredevil",
+    "type": "series",
+    "imdb_id": "tt3322312"
   },
   {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
-  },
-  {
-    "name": "I Will Find You",
-    "type": "series",
-    "imdb_id": "tt34771210"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
   }
 ]

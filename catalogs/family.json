@@ -5,6 +5,11 @@
     "imdb_id": "tt0175383"
   },
   {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -15,31 +20,6 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Saber y Ganar",
-    "type": "series",
-    "imdb_id": "tt0375435"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
@@ -48,6 +28,21 @@
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "The Chosen",
@@ -65,24 +60,24 @@
     "imdb_id": "tt0175058"
   },
   {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Nanny",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0077000"
   },
   {
-    "name": "Everwood",
+    "name": "Saber y Ganar",
     "type": "series",
-    "imdb_id": "tt0318883"
+    "imdb_id": "tt0375435"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
   },
   {
     "name": "Doraemon",
@@ -90,8 +85,13 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Uusi Päivä",
+    "name": "The Nanny",
     "type": "series",
-    "imdb_id": "tt1724525"
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Diagnosis: Murder",
+    "type": "series",
+    "imdb_id": "tt0105986"
   }
 ]

@@ -30,11 +30,6 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
@@ -45,14 +40,19 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   },
   {
     "name": "The Walking Dead",
@@ -60,14 +60,14 @@
     "imdb_id": "tt1520211"
   },
   {
+    "name": "All Elite Wrestling: Dynamite",
+    "type": "series",
+    "imdb_id": "tt10691888"
+  },
+  {
     "name": "Renegade Immortal",
     "type": "series",
     "imdb_id": "tt27432264"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
   },
   {
     "name": "Vikings",
@@ -75,14 +75,14 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "9-1-1",
@@ -90,13 +90,13 @@
     "imdb_id": "tt7235466"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Stardom on Stardom World",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt7993852"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt0455275"
   }
 ]
