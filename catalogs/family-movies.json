@@ -85,11 +85,6 @@
     "imdb_id": "tt26743210"
   },
   {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
     "name": "WALL·E",
     "type": "movie",
     "imdb_id": "tt0910970"
@@ -98,5 +93,10 @@
     "name": "Big Hero 6",
     "type": "movie",
     "imdb_id": "tt2245084"
+  },
+  {
+    "name": "Toy Story 3",
+    "type": "movie",
+    "imdb_id": "tt0435761"
   }
 ]

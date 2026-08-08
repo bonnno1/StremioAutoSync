@@ -1,18 +1,13 @@
 [
   {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Lioness",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt1196946"
   },
   {
     "name": "Law & Order: Special Victims Unit",
@@ -25,9 +20,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Grey's Anatomy",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt0413573"
+    "imdb_id": "tt13111078"
+  },
+  {
+    "name": "Paradise Hotel",
+    "type": "series",
+    "imdb_id": "tt0486240"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Rick and Morty",
@@ -40,34 +45,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Law & Order",
+    "name": "Grey's Anatomy",
     "type": "series",
-    "imdb_id": "tt0098844"
-  },
-  {
-    "name": "Paradise Hotel",
-    "type": "series",
-    "imdb_id": "tt0486240"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "FROM",
-    "type": "series",
-    "imdb_id": "tt9813792"
+    "imdb_id": "tt0413573"
   },
   {
     "name": "The Simpsons",
@@ -75,9 +55,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Family Guy",
+    "name": "Law & Order",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0098844"
   },
   {
     "name": "Criminal Minds",
@@ -85,13 +65,33 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Silo",
+    "name": "The Late Show with Stephen Colbert",
     "type": "series",
-    "imdb_id": "tt14688458"
+    "imdb_id": "tt3697842"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The World of Hammer",
+    "type": "series",
+    "imdb_id": "tt0324592"
+  },
+  {
+    "name": "FROM",
+    "type": "series",
+    "imdb_id": "tt9813792"
   }
 ]
