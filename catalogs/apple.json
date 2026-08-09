@@ -15,6 +15,11 @@
     "imdb_id": "tt34866681"
   },
   {
+    "name": "Sugar",
+    "type": "series",
+    "imdb_id": "tt16418808"
+  },
+  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
@@ -35,19 +40,14 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Shrinking",
+    "type": "series",
+    "imdb_id": "tt15677150"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Sugar",
-    "type": "series",
-    "imdb_id": "tt16418808"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Foundation",
@@ -55,19 +55,9 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
-    "name": "Shrinking",
-    "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Dark Matter",
@@ -75,14 +65,14 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "The Morning Show",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt7203552"
+    "imdb_id": "tt33332385"
   },
   {
-    "name": "Trying",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt10982034"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "See",
@@ -90,13 +80,23 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Bad Sisters",
+    "name": "Trying",
     "type": "series",
-    "imdb_id": "tt15469618"
+    "imdb_id": "tt10982034"
   },
   {
-    "name": "Disclaimer",
+    "name": "Presumed Innocent",
     "type": "series",
-    "imdb_id": "tt16294384"
+    "imdb_id": "tt17677860"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   }
 ]

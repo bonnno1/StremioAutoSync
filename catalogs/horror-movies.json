@@ -5,6 +5,11 @@
     "imdb_id": "tt37287335"
   },
   {
+    "name": "The Last House",
+    "type": "movie",
+    "imdb_id": "tt32268156"
+  },
+  {
     "name": "The Devil's Mouth",
     "type": "movie",
     "imdb_id": "tt36958312"
@@ -15,14 +20,14 @@
     "imdb_id": "tt34385135"
   },
   {
-    "name": "Evil Dead Burn",
-    "type": "movie",
-    "imdb_id": "tt31170389"
-  },
-  {
     "name": "Backrooms",
     "type": "movie",
     "imdb_id": "tt26657236"
+  },
+  {
+    "name": "Evil Dead Burn",
+    "type": "movie",
+    "imdb_id": "tt31170389"
   },
   {
     "name": "Soulm8te",
@@ -33,11 +38,6 @@
     "name": "Leviticus",
     "type": "movie",
     "imdb_id": "tt39143902"
-  },
-  {
-    "name": "The Last House",
-    "type": "movie",
-    "imdb_id": "tt32268156"
   },
   {
     "name": "Shake, Rattle & Roll: Evil Origins",
@@ -63,6 +63,11 @@
     "name": "Lee Cronin's The Mummy",
     "type": "movie",
     "imdb_id": "tt32612507"
+  },
+  {
+    "name": "Ice Cream Man",
+    "type": "movie",
+    "imdb_id": "tt36893729"
   },
   {
     "name": "The Bay",
@@ -93,10 +98,5 @@
     "name": "28 Years Later: The Bone Temple",
     "type": "movie",
     "imdb_id": "tt32141377"
-  },
-  {
-    "name": "Ice Cream Man",
-    "type": "movie",
-    "imdb_id": "tt36893729"
   }
 ]
