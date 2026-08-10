@@ -25,6 +25,11 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Sterling Point",
+    "type": "series",
+    "imdb_id": "tt35618070"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
@@ -33,11 +38,6 @@
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
-  },
-  {
-    "name": "Sterling Point",
-    "type": "series",
-    "imdb_id": "tt35618070"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -50,19 +50,14 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Tom Clancy's Jack Ryan",
     "type": "series",
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Batman: Caped Crusader",
+    "name": "The Expanse",
     "type": "series",
-    "imdb_id": "tt14681596"
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Fallout",
@@ -75,6 +70,11 @@
     "imdb_id": "tt4687880"
   },
   {
+    "name": "Batman: Caped Crusader",
+    "type": "series",
+    "imdb_id": "tt14681596"
+  },
+  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
@@ -85,13 +85,13 @@
     "imdb_id": "tt30412869"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Gen V",
     "type": "series",
     "imdb_id": "tt13159924"
+  },
+  {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
   }
 ]

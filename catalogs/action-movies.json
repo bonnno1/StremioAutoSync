@@ -25,11 +25,6 @@
     "imdb_id": "tt32273171"
   },
   {
-    "name": "Masters of the Universe",
-    "type": "movie",
-    "imdb_id": "tt0427340"
-  },
-  {
     "name": "Colony",
     "type": "movie",
     "imdb_id": "tt34385135"
@@ -55,6 +50,11 @@
     "imdb_id": "tt18259538"
   },
   {
+    "name": "Masters of the Universe",
+    "type": "movie",
+    "imdb_id": "tt0427340"
+  },
+  {
     "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "type": "movie",
     "imdb_id": "tt32820897"
@@ -75,9 +75,9 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "The Amazing Spider-Man 2",
+    "name": "Mortal Kombat II",
     "type": "movie",
-    "imdb_id": "tt1872181"
+    "imdb_id": "tt17490712"
   },
   {
     "name": "The Amazing Spider-Man",
@@ -85,18 +85,18 @@
     "imdb_id": "tt0948470"
   },
   {
+    "name": "The Amazing Spider-Man 2",
+    "type": "movie",
+    "imdb_id": "tt1872181"
+  },
+  {
+    "name": "Master of the Universe",
+    "type": "movie",
+    "imdb_id": "tt41087705"
+  },
+  {
     "name": "The Mandalorian and Grogu",
     "type": "movie",
     "imdb_id": "tt30825738"
-  },
-  {
-    "name": "Avengers: Infinity War",
-    "type": "movie",
-    "imdb_id": "tt4154756"
-  },
-  {
-    "name": "Lucky Strike",
-    "type": "movie",
-    "imdb_id": "tt19035928"
   }
 ]

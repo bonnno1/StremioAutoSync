@@ -25,14 +25,14 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   },
   {
     "name": "For All Mankind",
@@ -50,14 +50,14 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Dark Matter",
@@ -65,14 +65,14 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
   },
   {
     "name": "See",
@@ -85,6 +85,11 @@
     "imdb_id": "tt10982034"
   },
   {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
+  },
+  {
     "name": "Presumed Innocent",
     "type": "series",
     "imdb_id": "tt17677860"
@@ -93,10 +98,5 @@
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
   }
 ]
