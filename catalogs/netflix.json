@@ -10,14 +10,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "My Life with the Walter Boys",
@@ -35,14 +35,14 @@
     "imdb_id": "tt9018736"
   },
   {
+    "name": "Burn the House Down",
+    "type": "series",
+    "imdb_id": "tt21327000"
+  },
+  {
     "name": "Marvel's The Punisher",
     "type": "series",
     "imdb_id": "tt5675620"
-  },
-  {
-    "name": "One Hundred Years of Solitude",
-    "type": "series",
-    "imdb_id": "tt9892936"
   },
   {
     "name": "Teach You a Lesson",
@@ -50,19 +50,14 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Love Through a Prism",
-    "type": "series",
-    "imdb_id": "tt39050141"
-  },
-  {
     "name": "Operation Safed Sagar: The Highest Air Force Mission",
     "type": "series",
     "imdb_id": "tt36643714"
   },
   {
-    "name": "Burn the House Down",
+    "name": "One Hundred Years of Solitude",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt9892936"
   },
   {
     "name": "The Witcher",
@@ -75,14 +70,24 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "The Last Kingdom",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
   },
   {
     "name": "Bridgerton",
@@ -93,10 +98,5 @@
     "name": "Sex Education",
     "type": "series",
     "imdb_id": "tt7767422"
-  },
-  {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
   }
 ]

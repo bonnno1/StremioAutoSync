@@ -30,19 +30,14 @@
     "imdb_id": "tt34385135"
   },
   {
-    "name": "The Odyssey",
-    "type": "movie",
-    "imdb_id": "tt41605854"
-  },
-  {
     "name": "Spider-Man: Homecoming",
     "type": "movie",
     "imdb_id": "tt2250912"
   },
   {
-    "name": "Spider-Man",
+    "name": "The Odyssey",
     "type": "movie",
-    "imdb_id": "tt0145487"
+    "imdb_id": "tt41605854"
   },
   {
     "name": "Avatar Aang: The Last Airbender",
@@ -55,9 +50,9 @@
     "imdb_id": "tt0427340"
   },
   {
-    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "name": "Spider-Man",
     "type": "movie",
-    "imdb_id": "tt32820897"
+    "imdb_id": "tt0145487"
   },
   {
     "name": "The Debt Collector",
@@ -65,9 +60,14 @@
     "imdb_id": "tt39749953"
   },
   {
-    "name": "Spider-Man: Far From Home",
+    "name": "Lucky Strike",
     "type": "movie",
-    "imdb_id": "tt6320628"
+    "imdb_id": "tt19035928"
+  },
+  {
+    "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "type": "movie",
+    "imdb_id": "tt32820897"
   },
   {
     "name": "Kraken",
@@ -75,19 +75,9 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Mortal Kombat II",
-    "type": "movie",
-    "imdb_id": "tt17490712"
-  },
-  {
     "name": "The Amazing Spider-Man",
     "type": "movie",
     "imdb_id": "tt0948470"
-  },
-  {
-    "name": "The Amazing Spider-Man 2",
-    "type": "movie",
-    "imdb_id": "tt1872181"
   },
   {
     "name": "Master of the Universe",
@@ -95,8 +85,18 @@
     "imdb_id": "tt41087705"
   },
   {
-    "name": "The Mandalorian and Grogu",
+    "name": "Mortal Kombat II",
     "type": "movie",
-    "imdb_id": "tt30825738"
+    "imdb_id": "tt17490712"
+  },
+  {
+    "name": "The Amazing Spider-Man 2",
+    "type": "movie",
+    "imdb_id": "tt1872181"
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "type": "movie",
+    "imdb_id": "tt6320628"
   }
 ]

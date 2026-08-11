@@ -10,19 +10,14 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Game of Thrones",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Reacher",
@@ -30,19 +25,14 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
   },
   {
     "name": "The Boys",
@@ -50,29 +40,24 @@
     "imdb_id": "tt1190634"
   },
   {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
   },
   {
     "name": "Kamen Rider",
@@ -85,9 +70,24 @@
     "imdb_id": "tt1710308"
   },
   {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   },
   {
     "name": "9-1-1",
