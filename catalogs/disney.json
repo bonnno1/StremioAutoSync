@@ -10,14 +10,14 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Star Wars: Visions Presents - The Ninth Jedi",
     "type": "series",
     "imdb_id": "tt43337681"
+  },
+  {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
   },
   {
     "name": "Dancing with the Stars",
@@ -28,11 +28,6 @@
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
   },
   {
     "name": "The Mandalorian",
@@ -50,6 +45,11 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
@@ -65,14 +65,14 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Secret Invasion",
@@ -95,8 +95,8 @@
     "imdb_id": "tt9208876"
   },
   {
-    "name": "Wonder Man",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt21066182"
+    "imdb_id": "tt8610082"
   }
 ]

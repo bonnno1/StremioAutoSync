@@ -1,5 +1,10 @@
 [
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
@@ -8,6 +13,31 @@
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
+  },
+  {
+    "name": "Our Sticky Love",
+    "type": "series",
+    "imdb_id": "tt36955608"
   },
   {
     "name": "Lioness",
@@ -20,19 +50,14 @@
     "imdb_id": "tt35618070"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "The Shards",
     "type": "series",
     "imdb_id": "tt27543562"
   },
   {
-    "name": "Our Sticky Love",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt36955608"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "Futurama",
@@ -45,24 +70,14 @@
     "imdb_id": "tt43337681"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
     "name": "Mystic Nine",
     "type": "series",
     "imdb_id": "tt37118307"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "One Hundred Years of Solitude",
@@ -70,33 +85,18 @@
     "imdb_id": "tt9892936"
   },
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
-  },
-  {
     "name": "Ricky Gervais Alley Cats",
     "type": "series",
     "imdb_id": "tt38264832"
   },
   {
-    "name": "Reacher",
+    "name": "Women in Blue",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt20516590"
   },
   {
-    "name": "My Life with the Walter Boys",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt8323628"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt5607616"
   }
 ]
