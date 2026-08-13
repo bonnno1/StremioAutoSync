@@ -20,14 +20,14 @@
     "imdb_id": "tt32890033"
   },
   {
-    "name": "Supergirl",
-    "type": "movie",
-    "imdb_id": "tt8814476"
-  },
-  {
     "name": "Toy Story 5",
     "type": "movie",
     "imdb_id": "tt29355505"
+  },
+  {
+    "name": "Supergirl",
+    "type": "movie",
+    "imdb_id": "tt8814476"
   },
   {
     "name": "The Death of Robin Hood",
@@ -85,11 +85,6 @@
     "imdb_id": "tt17490712"
   },
   {
-    "name": "The Mandalorian and Grogu",
-    "type": "movie",
-    "imdb_id": "tt30825738"
-  },
-  {
     "name": "Zootopia 2",
     "type": "movie",
     "imdb_id": "tt26443597"
@@ -98,5 +93,10 @@
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
+  },
+  {
+    "name": "Avatar: Fire and Ash",
+    "type": "movie",
+    "imdb_id": "tt1757678"
   }
 ]

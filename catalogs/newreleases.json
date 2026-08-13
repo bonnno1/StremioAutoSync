@@ -1,10 +1,5 @@
 [
   {
-    "name": "Gran hermano",
-    "type": "series",
-    "imdb_id": "tt0281446"
-  },
-  {
     "name": "Secret Story",
     "type": "series",
     "imdb_id": "tt1364140"
@@ -15,14 +10,9 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Reacher",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Stand-up Comedy",
@@ -30,39 +20,9 @@
     "imdb_id": "tt33242190"
   },
   {
-    "name": "All Elite Wrestling: Dynamite",
-    "type": "series",
-    "imdb_id": "tt10691888"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "El Señor de los Cielos",
-    "type": "series",
-    "imdb_id": "tt2777882"
-  },
-  {
-    "name": "The Shards",
-    "type": "series",
-    "imdb_id": "tt27543562"
-  },
-  {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -70,9 +30,14 @@
     "imdb_id": "tt0103434"
   },
   {
-    "name": "EastEnders",
+    "name": "Coronation Street",
     "type": "series",
-    "imdb_id": "tt0088512"
+    "imdb_id": "tt0053494"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "type": "series",
+    "imdb_id": "tt2777882"
   },
   {
     "name": "Big Brother",
@@ -80,23 +45,58 @@
     "imdb_id": "tt0251497"
   },
   {
+    "name": "Jornal Nacional",
+    "type": "series",
+    "imdb_id": "tt0466513"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "type": "series",
+    "imdb_id": "tt0278212"
+  },
+  {
+    "name": "Bares für Rares",
+    "type": "series",
+    "imdb_id": "tt3083012"
+  },
+  {
     "name": "Home and Away",
     "type": "series",
     "imdb_id": "tt0094481"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Tomorrow Is Ours",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt7124904"
   },
   {
-    "name": "Genius Girlfriend",
+    "name": "Happu Ki Ultan Paltan",
     "type": "series",
-    "imdb_id": "tt37831535"
+    "imdb_id": "tt9877848"
   },
   {
-    "name": "Jornal Nacional",
+    "name": "Fair City",
     "type": "series",
-    "imdb_id": "tt0466513"
+    "imdb_id": "tt0170930"
+  },
+  {
+    "name": "EastEnders",
+    "type": "series",
+    "imdb_id": "tt0088512"
+  },
+  {
+    "name": "Stuart Fails to Save the Universe",
+    "type": "series",
+    "imdb_id": "tt27497393"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
   }
 ]
