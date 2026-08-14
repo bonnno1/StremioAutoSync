@@ -15,11 +15,6 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Star Wars: Visions Presents - The Ninth Jedi",
-    "type": "series",
-    "imdb_id": "tt43337681"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -40,9 +35,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "Star Wars: Visions Presents - The Ninth Jedi",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt43337681"
   },
   {
     "name": "Andor",
@@ -50,19 +45,24 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Moon Knight",
@@ -75,14 +75,19 @@
     "imdb_id": "tt13157618"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Vitória",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt36272837"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -93,10 +98,5 @@
     "name": "The Falcon and the Winter Soldier",
     "type": "series",
     "imdb_id": "tt9208876"
-  },
-  {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
   }
 ]
