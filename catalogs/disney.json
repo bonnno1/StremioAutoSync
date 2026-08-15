@@ -1,13 +1,13 @@
 [
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Loki",
@@ -25,14 +25,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Star Wars: Visions Presents - The Ninth Jedi",
@@ -40,14 +40,14 @@
     "imdb_id": "tt43337681"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -70,6 +70,11 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Secret Invasion",
     "type": "series",
     "imdb_id": "tt13157618"
@@ -80,14 +85,9 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Hawkeye",
+    "name": "The Falcon and the Winter Soldier",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Vitória",
-    "type": "series",
-    "imdb_id": "tt36272837"
+    "imdb_id": "tt9208876"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -95,8 +95,8 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "The Falcon and the Winter Soldier",
+    "name": "Ahsoka",
     "type": "series",
-    "imdb_id": "tt9208876"
+    "imdb_id": "tt13622776"
   }
 ]

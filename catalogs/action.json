@@ -10,14 +10,14 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Game of Thrones",
@@ -30,9 +30,19 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Kamen Rider",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0156214"
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -45,29 +55,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Boys",
+    "name": "All Elite Wrestling: Dynamite",
     "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt10691888"
   },
   {
     "name": "Doctor Who",
@@ -75,23 +65,33 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0156214"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Regular Show",
     "type": "series",
     "imdb_id": "tt1710308"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
   }
 ]

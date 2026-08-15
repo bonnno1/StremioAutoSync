@@ -65,19 +65,14 @@
     "imdb_id": "tt0114709"
   },
   {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
-    "name": "The Lion King",
-    "type": "movie",
-    "imdb_id": "tt0110357"
-  },
-  {
     "name": "Coraline",
     "type": "movie",
     "imdb_id": "tt0327597"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
   },
   {
     "name": "Moana 2",
@@ -98,5 +93,10 @@
     "name": "Big Hero 6",
     "type": "movie",
     "imdb_id": "tt2245084"
+  },
+  {
+    "name": "PAW Patrol: The Dino Movie",
+    "type": "movie",
+    "imdb_id": "tt29356163"
   }
 ]
