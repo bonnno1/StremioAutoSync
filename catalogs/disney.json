@@ -55,6 +55,11 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "VisionQuest",
+    "type": "series",
+    "imdb_id": "tt23112594"
+  },
+  {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
@@ -63,6 +68,11 @@
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Ahsoka",
+    "type": "series",
+    "imdb_id": "tt13622776"
   },
   {
     "name": "Moon Knight",
@@ -88,15 +98,5 @@
     "name": "The Falcon and the Winter Soldier",
     "type": "series",
     "imdb_id": "tt9208876"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Ahsoka",
-    "type": "series",
-    "imdb_id": "tt13622776"
   }
 ]

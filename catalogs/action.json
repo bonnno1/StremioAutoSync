@@ -25,14 +25,19 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt13293588"
   },
   {
     "name": "The Boys",
@@ -43,11 +48,6 @@
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
   },
   {
     "name": "Vikings",
