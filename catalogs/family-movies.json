@@ -40,11 +40,6 @@
     "imdb_id": "tt29552248"
   },
   {
-    "name": "PAW Patrol: The Dino Movie",
-    "type": "movie",
-    "imdb_id": "tt29356163"
-  },
-  {
     "name": "The Sheep Detectives",
     "type": "movie",
     "imdb_id": "tt32565993"
@@ -55,14 +50,9 @@
     "imdb_id": "tt34477910"
   },
   {
-    "name": "GOAT",
+    "name": "PAW Patrol: The Dino Movie",
     "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
-    "name": "Toy Story",
-    "type": "movie",
-    "imdb_id": "tt0114709"
+    "imdb_id": "tt29356163"
   },
   {
     "name": "Coraline",
@@ -70,14 +60,9 @@
     "imdb_id": "tt0327597"
   },
   {
-    "name": "Spirited Away",
+    "name": "GOAT",
     "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
-    "name": "A Minecraft Movie",
-    "type": "movie",
-    "imdb_id": "tt3566834"
+    "imdb_id": "tt27613895"
   },
   {
     "name": "Coco",
@@ -85,9 +70,24 @@
     "imdb_id": "tt2380307"
   },
   {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
+  },
+  {
     "name": "Inside Out 2",
     "type": "movie",
     "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Storm on Sesame Street",
+    "type": "movie",
+    "imdb_id": "tt43729889"
   },
   {
     "name": "The Lion King",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0110357"
   },
   {
-    "name": "Storm on Sesame Street",
+    "name": "Moana 2",
     "type": "movie",
-    "imdb_id": "tt43729889"
+    "imdb_id": "tt13622970"
   }
 ]
