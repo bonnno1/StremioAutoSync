@@ -1,8 +1,8 @@
 [
   {
-    "name": "Gran hermano",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt0281446"
+    "imdb_id": "tt9288030"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -10,14 +10,14 @@
     "imdb_id": "tt3444938"
   },
   {
+    "name": "Gran hermano",
+    "type": "series",
+    "imdb_id": "tt0281446"
+  },
+  {
     "name": "Secret Story",
     "type": "series",
     "imdb_id": "tt1364140"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "Binnelanders",
@@ -25,44 +25,14 @@
     "imdb_id": "tt1527854"
   },
   {
+    "name": "All Elite Wrestling: Dynamite",
+    "type": "series",
+    "imdb_id": "tt10691888"
+  },
+  {
     "name": "Coronation Street",
     "type": "series",
     "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
-    "name": "El Señor de los Cielos",
-    "type": "series",
-    "imdb_id": "tt2777882"
-  },
-  {
-    "name": "37 Grad",
-    "type": "series",
-    "imdb_id": "tt0168275"
-  },
-  {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
-  },
-  {
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "type": "series",
-    "imdb_id": "tt0103434"
-  },
-  {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
-  },
-  {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
   },
   {
     "name": "Jornal Nacional",
@@ -70,9 +40,39 @@
     "imdb_id": "tt0466513"
   },
   {
-    "name": "Stand-up Comedy",
+    "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
-    "imdb_id": "tt33242190"
+    "imdb_id": "tt0103434"
+  },
+  {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "type": "series",
+    "imdb_id": "tt2777882"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "type": "series",
+    "imdb_id": "tt0278212"
+  },
+  {
+    "name": "Home and Away",
+    "type": "series",
+    "imdb_id": "tt0094481"
   },
   {
     "name": "Tomorrow Is Ours",
@@ -80,14 +80,9 @@
     "imdb_id": "tt7124904"
   },
   {
-    "name": "Chronicles of the Sun",
+    "name": "Big Brother",
     "type": "series",
-    "imdb_id": "tt8883922"
-  },
-  {
-    "name": "Stardom on Stardom World",
-    "type": "series",
-    "imdb_id": "tt7993852"
+    "imdb_id": "tt0251497"
   },
   {
     "name": "EastEnders",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0088512"
   },
   {
-    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "name": "The Road to Splendor",
     "type": "series",
-    "imdb_id": "tt0278212"
+    "imdb_id": "tt31886947"
+  },
+  {
+    "name": "Na Wspólnej",
+    "type": "series",
+    "imdb_id": "tt0388626"
   }
 ]

@@ -15,14 +15,14 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
   },
   {
     "name": "Central Park",
@@ -30,14 +30,19 @@
     "imdb_id": "tt8129006"
   },
   {
-    "name": "For All Mankind",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt16418808"
   },
   {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Severance",
@@ -50,19 +55,14 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Sugar",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt16418808"
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Pluribus",
     "type": "series",
     "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -85,6 +85,11 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
+  },
+  {
     "name": "Women in Blue",
     "type": "series",
     "imdb_id": "tt20516590"
@@ -93,10 +98,5 @@
     "name": "Presumed Innocent",
     "type": "series",
     "imdb_id": "tt17677860"
-  },
-  {
-    "name": "See",
-    "type": "series",
-    "imdb_id": "tt7949218"
   }
 ]

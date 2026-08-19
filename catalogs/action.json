@@ -30,14 +30,14 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "All Elite Wrestling: Dynamite",
-    "type": "series",
-    "imdb_id": "tt10691888"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -45,24 +45,9 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Kamen Rider",
+    "name": "All Elite Wrestling: Dynamite",
     "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
-    "name": "Regular Show",
-    "type": "series",
-    "imdb_id": "tt1710308"
+    "imdb_id": "tt10691888"
   },
   {
     "name": "Doctor Who",
@@ -70,14 +55,14 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Boys",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1190634"
   },
   {
-    "name": "Doraemon",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Vikings",
@@ -85,13 +70,28 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Bleach",
+    "name": "Regular Show",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt1710308"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   }
 ]

@@ -10,9 +10,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Lucky",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt34866681"
   },
   {
     "name": "Silo",
@@ -20,9 +20,9 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Lioness",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Ted Lasso",
@@ -30,19 +30,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Bleach",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "One Piece",
@@ -50,9 +40,19 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Futurama",
@@ -65,24 +65,9 @@
     "imdb_id": "tt37118307"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Pull Strings",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "The Shards",
-    "type": "series",
-    "imdb_id": "tt27543562"
-  },
-  {
-    "name": "My Brilliant Career",
-    "type": "series",
-    "imdb_id": "tt37352716"
+    "imdb_id": "tt37231342"
   },
   {
     "name": "It's Always Sunny in Philadelphia",
@@ -90,13 +75,28 @@
     "imdb_id": "tt0472954"
   },
   {
-    "name": "Forging Justice",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt36984839"
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "My Brilliant Career",
+    "type": "series",
+    "imdb_id": "tt37352716"
   },
   {
     "name": "Stuart Fails to Save the Universe",
     "type": "series",
     "imdb_id": "tt27497393"
+  },
+  {
+    "name": "Forging Justice",
+    "type": "series",
+    "imdb_id": "tt36984839"
+  },
+  {
+    "name": "Sterling Point",
+    "type": "series",
+    "imdb_id": "tt35618070"
   }
 ]

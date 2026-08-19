@@ -30,24 +30,19 @@
     "imdb_id": "tt0486240"
   },
   {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
-  },
-  {
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
   },
   {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
+  },
+  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
   },
   {
     "name": "Gran hermano",
@@ -68,6 +63,11 @@
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
   },
   {
     "name": "The Rookie",
