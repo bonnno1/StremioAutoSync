@@ -1,18 +1,13 @@
 [
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Our Sticky Love",
-    "type": "series",
-    "imdb_id": "tt36955608"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Sesame Street",
@@ -20,9 +15,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Our Sticky Love",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt36955608"
   },
   {
     "name": "Lucifer",
@@ -30,14 +25,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "C.I.D.",
+    "name": "Good Mythical Morning",
     "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "My Life with the Walter Boys",
-    "type": "series",
-    "imdb_id": "tt8323628"
+    "imdb_id": "tt4087032"
   },
   {
     "name": "Avatar: The Last Airbender",
@@ -45,14 +35,9 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "The Rewatchables",
+    "name": "Burn the House Down",
     "type": "series",
-    "imdb_id": "tt16367994"
-  },
-  {
-    "name": "Marvel's The Punisher",
-    "type": "series",
-    "imdb_id": "tt5675620"
+    "imdb_id": "tt21327000"
   },
   {
     "name": "Teach You a Lesson",
@@ -60,24 +45,14 @@
     "imdb_id": "tt34809853"
   },
   {
-    "name": "Black Mirror",
+    "name": "Marvel's The Punisher",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt5675620"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "The Rewatchables",
     "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt16367994"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -85,18 +60,43 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Burn the House Down",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt21327000"
+    "imdb_id": "tt2085059"
   },
   {
-    "name": "You",
+    "name": "My Life with the Walter Boys",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt8323628"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Outer Banks",
+    "type": "series",
+    "imdb_id": "tt10293938"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "Jurassic World: Chaos Theory",
+    "type": "series",
+    "imdb_id": "tt29899148"
   }
 ]
