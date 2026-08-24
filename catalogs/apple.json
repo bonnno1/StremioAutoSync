@@ -20,19 +20,14 @@
     "imdb_id": "tt5875444"
   },
   {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Severance",
-    "type": "series",
-    "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
   },
   {
     "name": "Pluribus",
@@ -40,9 +35,19 @@
     "imdb_id": "tt22202452"
   },
   {
+    "name": "Severance",
+    "type": "series",
+    "imdb_id": "tt11280740"
+  },
+  {
     "name": "Sugar",
     "type": "series",
     "imdb_id": "tt16418808"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Shrinking",
@@ -55,14 +60,19 @@
     "imdb_id": "tt33332385"
   },
   {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
     "name": "Dark Matter",
     "type": "series",
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "See",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt7949218"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -70,33 +80,23 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Cape Fear",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt7203552"
   },
   {
-    "name": "Bad Sisters",
+    "name": "The Super Models",
     "type": "series",
-    "imdb_id": "tt15469618"
-  },
-  {
-    "name": "Trying",
-    "type": "series",
-    "imdb_id": "tt10982034"
-  },
-  {
-    "name": "Stillwater",
-    "type": "series",
-    "imdb_id": "tt13135714"
-  },
-  {
-    "name": "Central Park",
-    "type": "series",
-    "imdb_id": "tt8129006"
+    "imdb_id": "tt13228678"
   },
   {
     "name": "Presumed Innocent",
     "type": "series",
     "imdb_id": "tt17677860"
+  },
+  {
+    "name": "Trying",
+    "type": "series",
+    "imdb_id": "tt10982034"
   }
 ]
