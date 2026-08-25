@@ -5,14 +5,14 @@
     "imdb_id": "tt0281446"
   },
   {
-    "name": "Futurama",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt0149460"
+    "imdb_id": "tt10986410"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "Jornal Nacional",
     "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt0466513"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -25,29 +25,9 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Jornal Nacional",
-    "type": "series",
-    "imdb_id": "tt0466513"
-  },
-  {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "The Kelly Clarkson Show",
     "type": "series",
     "imdb_id": "tt9022950"
-  },
-  {
-    "name": "El Señor de los Cielos",
-    "type": "series",
-    "imdb_id": "tt2777882"
   },
   {
     "name": "Ulice",
@@ -55,9 +35,24 @@
     "imdb_id": "tt0484918"
   },
   {
+    "name": "Das perfekte Dinner",
+    "type": "series",
+    "imdb_id": "tt1448074"
+  },
+  {
     "name": "Tomorrow Is Ours",
     "type": "series",
     "imdb_id": "tt7124904"
+  },
+  {
+    "name": "Scènes de ménages",
+    "type": "series",
+    "imdb_id": "tt1533783"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "type": "series",
+    "imdb_id": "tt2777882"
   },
   {
     "name": "Bares für Rares",
@@ -65,19 +60,9 @@
     "imdb_id": "tt3083012"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Chronicles of the Sun",
     "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
-    "name": "Jimmy Kimmel Live!",
-    "type": "series",
-    "imdb_id": "tt0320037"
-  },
-  {
-    "name": "It's Always Sunny in Philadelphia",
-    "type": "series",
-    "imdb_id": "tt0472954"
+    "imdb_id": "tt8883922"
   },
   {
     "name": "The Road to Splendor",
@@ -85,18 +70,33 @@
     "imdb_id": "tt31886947"
   },
   {
+    "name": "Home and Away",
+    "type": "series",
+    "imdb_id": "tt0094481"
+  },
+  {
     "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
     "type": "series",
     "imdb_id": "tt0278212"
   },
   {
-    "name": "EastEnders",
+    "name": "WWE NXT",
     "type": "series",
-    "imdb_id": "tt0088512"
+    "imdb_id": "tt1601141"
   },
   {
-    "name": "Chronicles of the Sun",
+    "name": "Jimmy Kimmel Live!",
     "type": "series",
-    "imdb_id": "tt8883922"
+    "imdb_id": "tt0320037"
+  },
+  {
+    "name": "Suidooster",
+    "type": "series",
+    "imdb_id": "tt5467444"
+  },
+  {
+    "name": "TMZ",
+    "type": "series",
+    "imdb_id": "tt1095213"
   }
 ]

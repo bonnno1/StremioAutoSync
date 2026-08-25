@@ -5,6 +5,11 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
@@ -13,11 +18,6 @@
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
   },
   {
     "name": "Dancing with the Stars",
@@ -30,14 +30,14 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -45,9 +45,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Daredevil: Born Again",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt18923754"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "WandaVision",
@@ -55,19 +55,14 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Ahsoka",
-    "type": "series",
-    "imdb_id": "tt13622776"
-  },
-  {
     "name": "Star Wars: Visions Presents - The Ninth Jedi",
     "type": "series",
     "imdb_id": "tt43337681"
   },
   {
-    "name": "Agatha All Along",
+    "name": "Ahsoka",
     "type": "series",
-    "imdb_id": "tt15571732"
+    "imdb_id": "tt13622776"
   },
   {
     "name": "Moon Knight",
@@ -75,19 +70,24 @@
     "imdb_id": "tt10234724"
   },
   {
+    "name": "Takopi's Original Sin",
+    "type": "series",
+    "imdb_id": "tt36988358"
+  },
+  {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
+  },
+  {
     "name": "Vitória",
     "type": "series",
     "imdb_id": "tt36272837"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: Maul - Shadow Lord",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Takopi's Original Sin",
-    "type": "series",
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt36594331"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -95,8 +95,8 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Your Friendly Neighborhood Spider-Man",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt16027074"
+    "imdb_id": "tt10160804"
   }
 ]

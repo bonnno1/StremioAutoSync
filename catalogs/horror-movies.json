@@ -1,13 +1,18 @@
 [
   {
+    "name": "Obsession",
+    "type": "movie",
+    "imdb_id": "tt37287335"
+  },
+  {
     "name": "Colony",
     "type": "movie",
     "imdb_id": "tt34385135"
   },
   {
-    "name": "Obsession",
+    "name": "Backrooms",
     "type": "movie",
-    "imdb_id": "tt37287335"
+    "imdb_id": "tt26657236"
   },
   {
     "name": "The Last House",
@@ -20,9 +25,9 @@
     "imdb_id": "tt31170389"
   },
   {
-    "name": "Backrooms",
+    "name": "Insidious: Out of the Further",
     "type": "movie",
-    "imdb_id": "tt26657236"
+    "imdb_id": "tt32393988"
   },
   {
     "name": "Soulm8te",
@@ -30,59 +35,9 @@
     "imdb_id": "tt32654916"
   },
   {
-    "name": "Insidious: Out of the Further",
-    "type": "movie",
-    "imdb_id": "tt32393988"
-  },
-  {
-    "name": "The Devil's Mouth",
-    "type": "movie",
-    "imdb_id": "tt36958312"
-  },
-  {
-    "name": "Leviticus",
-    "type": "movie",
-    "imdb_id": "tt39143902"
-  },
-  {
     "name": "Yellow Eyes",
     "type": "movie",
     "imdb_id": "tt32881432"
-  },
-  {
-    "name": "Deep Water",
-    "type": "movie",
-    "imdb_id": "tt29516222"
-  },
-  {
-    "name": "Nightborn",
-    "type": "movie",
-    "imdb_id": "tt34383465"
-  },
-  {
-    "name": "Kraken",
-    "type": "movie",
-    "imdb_id": "tt19838566"
-  },
-  {
-    "name": "The Stain",
-    "type": "movie",
-    "imdb_id": "tt39392225"
-  },
-  {
-    "name": "The Priest: Thanksgiving Massacre",
-    "type": "movie",
-    "imdb_id": "tt37594278"
-  },
-  {
-    "name": "The Dollmaker",
-    "type": "movie",
-    "imdb_id": "tt27673624"
-  },
-  {
-    "name": "Shake, Rattle & Roll: Evil Origins",
-    "type": "movie",
-    "imdb_id": "tt37697399"
   },
   {
     "name": "Pinocchio: Unstrung",
@@ -90,13 +45,58 @@
     "imdb_id": "tt30887701"
   },
   {
-    "name": "Lee Cronin's The Mummy",
+    "name": "Leviticus",
     "type": "movie",
-    "imdb_id": "tt32612507"
+    "imdb_id": "tt39143902"
+  },
+  {
+    "name": "Nightborn",
+    "type": "movie",
+    "imdb_id": "tt34383465"
+  },
+  {
+    "name": "Deep Water",
+    "type": "movie",
+    "imdb_id": "tt29516222"
+  },
+  {
+    "name": "Bury the Devil",
+    "type": "movie",
+    "imdb_id": "tt29719182"
+  },
+  {
+    "name": "The Devil's Mouth",
+    "type": "movie",
+    "imdb_id": "tt36958312"
+  },
+  {
+    "name": "Kraken",
+    "type": "movie",
+    "imdb_id": "tt19838566"
   },
   {
     "name": "Insidious",
     "type": "movie",
     "imdb_id": "tt1591095"
+  },
+  {
+    "name": "Lee Cronin's The Mummy",
+    "type": "movie",
+    "imdb_id": "tt32612507"
+  },
+  {
+    "name": "Ghost in the Cell",
+    "type": "movie",
+    "imdb_id": "tt9000310"
+  },
+  {
+    "name": "The Priest: Thanksgiving Massacre",
+    "type": "movie",
+    "imdb_id": "tt37594278"
+  },
+  {
+    "name": "The Stain",
+    "type": "movie",
+    "imdb_id": "tt39392225"
   }
 ]
