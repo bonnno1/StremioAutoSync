@@ -1,13 +1,13 @@
 [
   {
-    "name": "Lanterns",
-    "type": "series",
-    "imdb_id": "tt26545992"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Lanterns",
+    "type": "series",
+    "imdb_id": "tt26545992"
   },
   {
     "name": "Bleach",
@@ -20,6 +20,11 @@
     "imdb_id": "tt14688458"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
     "name": "Outer Banks",
     "type": "series",
     "imdb_id": "tt10293938"
@@ -30,24 +35,14 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "Lioness",
-    "type": "series",
-    "imdb_id": "tt13111078"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "Futurama",
@@ -55,14 +50,29 @@
     "imdb_id": "tt0149460"
   },
   {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
+    "name": "The Early Spring",
+    "type": "series",
+    "imdb_id": "tt37884717"
+  },
+  {
     "name": "Blood Sacrifice",
     "type": "series",
     "imdb_id": "tt38553367"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "One Hundred Years of Solitude",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt9892936"
   },
   {
     "name": "Furious",
@@ -70,33 +80,23 @@
     "imdb_id": "tt36303968"
   },
   {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
     "name": "Stuart Fails to Save the Universe",
     "type": "series",
     "imdb_id": "tt27497393"
   },
   {
-    "name": "Sterling Point",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt35618070"
-  },
-  {
-    "name": "S&X",
-    "type": "series",
-    "imdb_id": "tt39365311"
-  },
-  {
-    "name": "Star Trek: Strange New Worlds",
-    "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Shards",
     "type": "series",
     "imdb_id": "tt27543562"
-  },
-  {
-    "name": "The Westies",
-    "type": "series",
-    "imdb_id": "tt31849235"
   }
 ]

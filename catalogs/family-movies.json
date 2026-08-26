@@ -35,14 +35,14 @@
     "imdb_id": "tt32565993"
   },
   {
-    "name": "The Wild Robot",
-    "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
     "name": "Swapped",
     "type": "movie",
     "imdb_id": "tt29552248"
+  },
+  {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
   },
   {
     "name": "Toy Story",
@@ -70,6 +70,11 @@
     "imdb_id": "tt2380307"
   },
   {
+    "name": "Coyote vs. Acme",
+    "type": "movie",
+    "imdb_id": "tt1756855"
+  },
+  {
     "name": "The Lion King",
     "type": "movie",
     "imdb_id": "tt0110357"
@@ -93,10 +98,5 @@
     "name": "Big Hero 6",
     "type": "movie",
     "imdb_id": "tt2245084"
-  },
-  {
-    "name": "Descendants: Wicked Wonderland",
-    "type": "movie",
-    "imdb_id": "tt34477910"
   }
 ]

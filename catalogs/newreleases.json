@@ -1,18 +1,13 @@
 [
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
     "name": "Gran hermano",
     "type": "series",
     "imdb_id": "tt0281446"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Jornal Nacional",
-    "type": "series",
-    "imdb_id": "tt0466513"
   },
   {
     "name": "Gute Zeiten, schlechte Zeiten",
@@ -20,9 +15,19 @@
     "imdb_id": "tt0103434"
   },
   {
+    "name": "Jornal Nacional",
+    "type": "series",
+    "imdb_id": "tt0466513"
+  },
+  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
+  },
+  {
+    "name": "All Elite Wrestling: Dynamite",
+    "type": "series",
+    "imdb_id": "tt10691888"
   },
   {
     "name": "The Kelly Clarkson Show",
@@ -30,29 +35,24 @@
     "imdb_id": "tt9022950"
   },
   {
+    "name": "Coronation Street",
+    "type": "series",
+    "imdb_id": "tt0053494"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
     "name": "Ulice",
     "type": "series",
     "imdb_id": "tt0484918"
   },
   {
-    "name": "Das perfekte Dinner",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt1448074"
-  },
-  {
-    "name": "Tomorrow Is Ours",
-    "type": "series",
-    "imdb_id": "tt7124904"
-  },
-  {
-    "name": "Scènes de ménages",
-    "type": "series",
-    "imdb_id": "tt1533783"
-  },
-  {
-    "name": "El Señor de los Cielos",
-    "type": "series",
-    "imdb_id": "tt2777882"
+    "imdb_id": "tt5607616"
   },
   {
     "name": "Bares für Rares",
@@ -60,14 +60,34 @@
     "imdb_id": "tt3083012"
   },
   {
+    "name": "The Road to Splendor",
+    "type": "series",
+    "imdb_id": "tt31886947"
+  },
+  {
+    "name": "Tomorrow Is Ours",
+    "type": "series",
+    "imdb_id": "tt7124904"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "type": "series",
+    "imdb_id": "tt2777882"
+  },
+  {
     "name": "Chronicles of the Sun",
     "type": "series",
     "imdb_id": "tt8883922"
   },
   {
-    "name": "The Road to Splendor",
+    "name": "Das perfekte Dinner",
     "type": "series",
-    "imdb_id": "tt31886947"
+    "imdb_id": "tt1448074"
+  },
+  {
+    "name": "Big Brother",
+    "type": "series",
+    "imdb_id": "tt0251497"
   },
   {
     "name": "Home and Away",
@@ -75,28 +95,8 @@
     "imdb_id": "tt0094481"
   },
   {
-    "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "name": "Scènes de ménages",
     "type": "series",
-    "imdb_id": "tt0278212"
-  },
-  {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
-  },
-  {
-    "name": "Jimmy Kimmel Live!",
-    "type": "series",
-    "imdb_id": "tt0320037"
-  },
-  {
-    "name": "Suidooster",
-    "type": "series",
-    "imdb_id": "tt5467444"
-  },
-  {
-    "name": "TMZ",
-    "type": "series",
-    "imdb_id": "tt1095213"
+    "imdb_id": "tt1533783"
   }
 ]

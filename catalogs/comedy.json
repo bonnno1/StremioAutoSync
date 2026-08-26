@@ -1,15 +1,5 @@
 [
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -25,9 +15,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Rick and Morty",
@@ -35,19 +30,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Daily Show",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Shameless",
@@ -55,19 +40,19 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Sister-in-Law Is at Home!",
+    "name": "The Daily Show",
     "type": "series",
-    "imdb_id": "tt5154982"
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   },
   {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
   },
   {
     "name": "Futurama",
@@ -80,14 +65,19 @@
     "imdb_id": "tt3513388"
   },
   {
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
+    "imdb_id": "tt3697842"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
   },
   {
     "name": "Doraemon",
@@ -95,8 +85,18 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Regular Show",
+    "type": "series",
+    "imdb_id": "tt1710308"
+  },
+  {
     "name": "Late Show with David Letterman",
     "type": "series",
     "imdb_id": "tt0106053"
+  },
+  {
+    "name": "Men on a Mission",
+    "type": "series",
+    "imdb_id": "tt5247622"
   }
 ]

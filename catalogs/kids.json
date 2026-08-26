@@ -1,13 +1,13 @@
 [
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Sesame Street",
@@ -35,9 +35,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt1877889"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -45,9 +45,19 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt1877889"
+  },
+  {
+    "name": "Beyblade X",
+    "type": "series",
+    "imdb_id": "tt27865962"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "GG Bond",
@@ -55,18 +65,13 @@
     "imdb_id": "tt24191416"
   },
   {
-    "name": "Astro Boy",
-    "type": "series",
-    "imdb_id": "tt0387719"
-  },
-  {
     "name": "Xou da Xuxa",
     "type": "series",
     "imdb_id": "tt0294228"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt3600266"
   }
 ]

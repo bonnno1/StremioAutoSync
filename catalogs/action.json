@@ -20,11 +20,6 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -40,24 +35,19 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "FBI",
+    "name": "Kamen Rider",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt0156214"
   },
   {
-    "name": "All Elite Wrestling: Dynamite",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt10691888"
+    "imdb_id": "tt13293588"
   },
   {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -70,28 +60,43 @@
     "imdb_id": "tt0279600"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Regular Show",
     "type": "series",
     "imdb_id": "tt1710308"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "SEAL Team",
     "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
-    "name": "Macross Frontier",
-    "type": "series",
-    "imdb_id": "tt1216150"
+    "imdb_id": "tt6473344"
   },
   {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
+  },
+  {
+    "name": "All Elite Wrestling: Dynamite",
+    "type": "series",
+    "imdb_id": "tt10691888"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
   }
 ]
