@@ -10,14 +10,19 @@
     "imdb_id": "tt10293938"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "House of the Dragon",
     "type": "series",
     "imdb_id": "tt11198330"
   },
   {
-    "name": "NCIS",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Rick and Morty",
@@ -30,11 +35,6 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
@@ -45,9 +45,9 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Bleach",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -55,14 +55,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Smallville",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "Regular Show",
@@ -70,19 +65,24 @@
     "imdb_id": "tt1710308"
   },
   {
-    "name": "SEAL Team",
-    "type": "series",
-    "imdb_id": "tt6473344"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "All Elite Wrestling: Dynamite",
     "type": "series",
     "imdb_id": "tt10691888"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "SEAL Team",
+    "type": "series",
+    "imdb_id": "tt6473344"
   },
   {
     "name": "FBI",
@@ -90,13 +90,13 @@
     "imdb_id": "tt7491982"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
   }
 ]

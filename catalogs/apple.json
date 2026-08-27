@@ -10,6 +10,11 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
     "name": "Lucky",
     "type": "series",
     "imdb_id": "tt34866681"
@@ -20,24 +25,9 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
-  },
-  {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Severance",
@@ -45,9 +35,14 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Dark Matter",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt19231492"
+    "imdb_id": "tt33332385"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Sugar",
@@ -60,9 +55,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Widow's Bay",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt33332385"
+    "imdb_id": "tt0804484"
   },
   {
     "name": "See",
@@ -70,24 +65,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "The Super Models",
+    "name": "Trying",
     "type": "series",
-    "imdb_id": "tt13228678"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt10982034"
   },
   {
     "name": "Presumed Innocent",
@@ -95,8 +75,28 @@
     "imdb_id": "tt17677860"
   },
   {
-    "name": "Trying",
+    "name": "Stick",
     "type": "series",
-    "imdb_id": "tt10982034"
+    "imdb_id": "tt31710249"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   }
 ]

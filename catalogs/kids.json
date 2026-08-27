@@ -1,13 +1,13 @@
 [
   {
+    "name": "The Daily Fable",
+    "type": "series",
+    "imdb_id": "tt0294075"
+  },
+  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "Sesame Street",
@@ -15,9 +15,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "The Daily Fable",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0294075"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "PAW Patrol",
@@ -35,9 +35,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "Beyblade X",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt27865962"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -45,29 +45,34 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
     "imdb_id": "tt1877889"
   },
   {
-    "name": "Beyblade X",
-    "type": "series",
-    "imdb_id": "tt27865962"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "Xou da Xuxa",
     "type": "series",
     "imdb_id": "tt0294228"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Chi's Sweet Home",
+    "type": "series",
+    "imdb_id": "tt1276525"
   },
   {
     "name": "Super Wings",

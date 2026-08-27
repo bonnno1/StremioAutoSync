@@ -1,18 +1,13 @@
 [
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "Gran hermano",
     "type": "series",
     "imdb_id": "tt0281446"
   },
   {
-    "name": "Gute Zeiten, schlechte Zeiten",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt0103434"
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Jornal Nacional",
@@ -20,14 +15,14 @@
     "imdb_id": "tt0466513"
   },
   {
+    "name": "Gute Zeiten, schlechte Zeiten",
+    "type": "series",
+    "imdb_id": "tt0103434"
+  },
+  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
-  },
-  {
-    "name": "All Elite Wrestling: Dynamite",
-    "type": "series",
-    "imdb_id": "tt10691888"
   },
   {
     "name": "The Kelly Clarkson Show",
@@ -40,44 +35,9 @@
     "imdb_id": "tt0053494"
   },
   {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
     "name": "Ulice",
     "type": "series",
     "imdb_id": "tt0484918"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Bares für Rares",
-    "type": "series",
-    "imdb_id": "tt3083012"
-  },
-  {
-    "name": "The Road to Splendor",
-    "type": "series",
-    "imdb_id": "tt31886947"
-  },
-  {
-    "name": "Tomorrow Is Ours",
-    "type": "series",
-    "imdb_id": "tt7124904"
-  },
-  {
-    "name": "El Señor de los Cielos",
-    "type": "series",
-    "imdb_id": "tt2777882"
-  },
-  {
-    "name": "Chronicles of the Sun",
-    "type": "series",
-    "imdb_id": "tt8883922"
   },
   {
     "name": "Das perfekte Dinner",
@@ -85,9 +45,44 @@
     "imdb_id": "tt1448074"
   },
   {
+    "name": "Bares für Rares",
+    "type": "series",
+    "imdb_id": "tt3083012"
+  },
+  {
+    "name": "Tomorrow Is Ours",
+    "type": "series",
+    "imdb_id": "tt7124904"
+  },
+  {
+    "name": "Emmerdale",
+    "type": "series",
+    "imdb_id": "tt0068069"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "type": "series",
+    "imdb_id": "tt2777882"
+  },
+  {
     "name": "Big Brother",
     "type": "series",
     "imdb_id": "tt0251497"
+  },
+  {
+    "name": "Scènes de ménages",
+    "type": "series",
+    "imdb_id": "tt1533783"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Mein Lokal, Dein Lokal",
+    "type": "series",
+    "imdb_id": "tt3117654"
   },
   {
     "name": "Home and Away",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0094481"
   },
   {
-    "name": "Scènes de ménages",
+    "name": "Markus Lanz",
     "type": "series",
-    "imdb_id": "tt1533783"
+    "imdb_id": "tt1239083"
+  },
+  {
+    "name": "Suidooster",
+    "type": "series",
+    "imdb_id": "tt5467444"
   }
 ]

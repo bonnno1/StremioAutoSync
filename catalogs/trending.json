@@ -1,18 +1,13 @@
 [
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Bleach",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Silo",
@@ -25,19 +20,14 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
     "name": "Outer Banks",
     "type": "series",
     "imdb_id": "tt10293938"
-  },
-  {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
   },
   {
     "name": "Lioness",
@@ -45,14 +35,24 @@
     "imdb_id": "tt13111078"
   },
   {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
     "name": "Futurama",
     "type": "series",
     "imdb_id": "tt0149460"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Beauty in Black",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt31260386"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "House of the Dragon",
@@ -60,9 +60,29 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "The Early Spring",
+    "name": "Furious",
     "type": "series",
-    "imdb_id": "tt37884717"
+    "imdb_id": "tt36303968"
+  },
+  {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Blood Sacrifice",
@@ -70,29 +90,9 @@
     "imdb_id": "tt38553367"
   },
   {
-    "name": "One Hundred Years of Solitude",
-    "type": "series",
-    "imdb_id": "tt9892936"
-  },
-  {
-    "name": "Furious",
-    "type": "series",
-    "imdb_id": "tt36303968"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
     "name": "Stuart Fails to Save the Universe",
     "type": "series",
     "imdb_id": "tt27497393"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "The Shards",
