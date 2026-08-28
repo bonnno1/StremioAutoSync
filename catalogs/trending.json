@@ -1,5 +1,10 @@
 [
   {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
@@ -10,14 +15,9 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Silo",
+    "name": "Dark Matter",
     "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Bleach",
@@ -25,9 +25,14 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Outer Banks",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Adults",
+    "type": "series",
+    "imdb_id": "tt33049767"
   },
   {
     "name": "Lioness",
@@ -35,59 +40,14 @@
     "imdb_id": "tt13111078"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "Mousetrap",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt36996011"
   },
   {
-    "name": "Futurama",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
-  },
-  {
-    "name": "Furious",
-    "type": "series",
-    "imdb_id": "tt36303968"
-  },
-  {
-    "name": "Lucky",
-    "type": "series",
-    "imdb_id": "tt34866681"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
-    "name": "Blood Sacrifice",
-    "type": "series",
-    "imdb_id": "tt38553367"
+    "imdb_id": "tt10293938"
   },
   {
     "name": "Stuart Fails to Save the Universe",
@@ -95,8 +55,48 @@
     "imdb_id": "tt27497393"
   },
   {
-    "name": "The Shards",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt27543562"
+    "imdb_id": "tt11198330"
+  },
+  {
+    "name": "Futurama",
+    "type": "series",
+    "imdb_id": "tt0149460"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
+  },
+  {
+    "name": "Beauty in Black",
+    "type": "series",
+    "imdb_id": "tt31260386"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "All the Truth in My Lies",
+    "type": "series",
+    "imdb_id": "tt37053085"
   }
 ]

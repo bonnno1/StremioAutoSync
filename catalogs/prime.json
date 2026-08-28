@@ -25,19 +25,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Sterling Point",
-    "type": "series",
-    "imdb_id": "tt35618070"
-  },
-  {
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
-  },
-  {
-    "name": "Operación triunfo",
-    "type": "series",
-    "imdb_id": "tt0306368"
   },
   {
     "name": "INVINCIBLE",
@@ -45,24 +35,19 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Operación triunfo",
+    "type": "series",
+    "imdb_id": "tt0306368"
+  },
+  {
+    "name": "Sterling Point",
+    "type": "series",
+    "imdb_id": "tt35618070"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
-  },
-  {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -70,9 +55,19 @@
     "imdb_id": "tt26576161"
   },
   {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
+  },
+  {
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Expanse",
@@ -85,13 +80,18 @@
     "imdb_id": "tt4687880"
   },
   {
+    "name": "Cross",
+    "type": "series",
+    "imdb_id": "tt11794812"
+  },
+  {
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
   },
   {
-    "name": "LEGO DREAMZzz",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt27613744"
+    "imdb_id": "tt11247158"
   }
 ]

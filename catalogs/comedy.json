@@ -1,10 +1,5 @@
 [
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -15,9 +10,14 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "The Simpsons",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -25,9 +25,14 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Ted Lasso",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Rick and Morty",
@@ -35,9 +40,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "American Dad!",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt0386676"
   },
   {
     "name": "Shameless",
@@ -45,44 +50,14 @@
     "imdb_id": "tt1586680"
   },
   {
+    "name": "Men on a Mission",
+    "type": "series",
+    "imdb_id": "tt5247622"
+  },
+  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Futurama",
-    "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
-    "name": "Marika's Love Meter Malfunction",
-    "type": "series",
-    "imdb_id": "tt41395364"
   },
   {
     "name": "Regular Show",
@@ -90,13 +65,38 @@
     "imdb_id": "tt1710308"
   },
   {
-    "name": "Late Show with David Letterman",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt0106053"
+    "imdb_id": "tt1442437"
   },
   {
-    "name": "Young Hearts",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Futurama",
+    "type": "series",
+    "imdb_id": "tt0149460"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   }
 ]
