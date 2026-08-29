@@ -5,11 +5,6 @@
     "imdb_id": "tt0175383"
   },
   {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
@@ -20,24 +15,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
   },
   {
     "name": "X Factor",
@@ -45,14 +30,19 @@
     "imdb_id": "tt1194223"
   },
   {
-    "name": "Sister-in-Law Is at Home!",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt5154982"
+    "imdb_id": "tt6226232"
   },
   {
-    "name": "Ulice",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0484918"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Phineas and Ferb",
@@ -63,11 +53,6 @@
     "name": "Dallas",
     "type": "series",
     "imdb_id": "tt0077000"
-  },
-  {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
   },
   {
     "name": "Uusi Päivä",
@@ -85,18 +70,33 @@
     "imdb_id": "tt0106080"
   },
   {
-    "name": "Girl Meets World",
+    "name": "The Andy Griffith Show",
     "type": "series",
-    "imdb_id": "tt2543796"
+    "imdb_id": "tt0053479"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
+  },
+  {
+    "name": "Boron",
+    "type": "series",
+    "imdb_id": "tt26896992"
+  },
+  {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Kang's Family",
+    "type": "series",
+    "imdb_id": "tt7803586"
   },
   {
     "name": "Bharaghar",
     "type": "series",
     "imdb_id": "tt13829404"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   }
 ]

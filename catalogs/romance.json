@@ -45,16 +45,6 @@
     "imdb_id": "tt2983896"
   },
   {
-    "name": "Discovery of Love",
-    "type": "series",
-    "imdb_id": "tt4128654"
-  },
-  {
-    "name": "Un paso adelante",
-    "type": "series",
-    "imdb_id": "tt0338639"
-  },
-  {
     "name": "Red Scarf",
     "type": "series",
     "imdb_id": "tt4900114"
@@ -65,9 +55,19 @@
     "imdb_id": "tt2275419"
   },
   {
+    "name": "Discovery of Love",
+    "type": "series",
+    "imdb_id": "tt4128654"
+  },
+  {
     "name": "Cross Game",
     "type": "series",
     "imdb_id": "tt1414416"
+  },
+  {
+    "name": "Un paso adelante",
+    "type": "series",
+    "imdb_id": "tt0338639"
   },
   {
     "name": "OniAi",
@@ -80,13 +80,13 @@
     "imdb_id": "tt4613620"
   },
   {
-    "name": "Rosy Lovers",
-    "type": "series",
-    "imdb_id": "tt5204274"
-  },
-  {
     "name": "Dark Fate",
     "type": "series",
     "imdb_id": "tt0373562"
+  },
+  {
+    "name": "Go Princess Go",
+    "type": "series",
+    "imdb_id": "tt5319572"
   }
 ]

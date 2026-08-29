@@ -15,6 +15,11 @@
     "imdb_id": "tt32890033"
   },
   {
+    "name": "Coyote vs. Acme",
+    "type": "movie",
+    "imdb_id": "tt1756855"
+  },
+  {
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
@@ -30,19 +35,14 @@
     "imdb_id": "tt32565993"
   },
   {
-    "name": "Hoppers",
-    "type": "movie",
-    "imdb_id": "tt26443616"
-  },
-  {
-    "name": "Coyote vs. Acme",
-    "type": "movie",
-    "imdb_id": "tt1756855"
-  },
-  {
     "name": "Swapped",
     "type": "movie",
     "imdb_id": "tt29552248"
+  },
+  {
+    "name": "Hoppers",
+    "type": "movie",
+    "imdb_id": "tt26443616"
   },
   {
     "name": "The Wild Robot",
@@ -80,23 +80,23 @@
     "imdb_id": "tt6718170"
   },
   {
-    "name": "Spirited Away",
+    "name": "Ice Age: Collision Course",
     "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
-    "name": "Monsters, Inc.",
-    "type": "movie",
-    "imdb_id": "tt0198781"
-  },
-  {
-    "name": "Big Hero 6",
-    "type": "movie",
-    "imdb_id": "tt2245084"
+    "imdb_id": "tt3416828"
   },
   {
     "name": "How to Train Your Dragon",
     "type": "movie",
     "imdb_id": "tt26743210"
+  },
+  {
+    "name": "The Lion King",
+    "type": "movie",
+    "imdb_id": "tt0110357"
+  },
+  {
+    "name": "A Minecraft Movie",
+    "type": "movie",
+    "imdb_id": "tt3566834"
   }
 ]
