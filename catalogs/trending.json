@@ -1,23 +1,18 @@
 [
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Reacher",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt13111078"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
   },
   {
     "name": "Dark Matter",
@@ -25,14 +20,19 @@
     "imdb_id": "tt19231492"
   },
   {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
     "name": "Mousetrap",
     "type": "series",
     "imdb_id": "tt36996011"
-  },
-  {
-    "name": "Adults",
-    "type": "series",
-    "imdb_id": "tt33049767"
   },
   {
     "name": "Ted Lasso",
@@ -45,9 +45,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Outer Banks",
+    "name": "Four Hands, Two Sonatas",
     "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt39368345"
+  },
+  {
+    "name": "Adults",
+    "type": "series",
+    "imdb_id": "tt33049767"
   },
   {
     "name": "The Early Spring",
@@ -55,19 +60,34 @@
     "imdb_id": "tt37884717"
   },
   {
+    "name": "Vigil",
+    "type": "series",
+    "imdb_id": "tt11846996"
+  },
+  {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
+    "name": "The Walking Dead: Dead City",
+    "type": "series",
+    "imdb_id": "tt18546730"
+  },
+  {
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
   },
   {
-    "name": "Lioness",
+    "name": "One Hundred Years of Solitude",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt9892936"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt10293938"
   },
   {
     "name": "Lucky",
@@ -75,23 +95,8 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "All the Truth in My Lies",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt37053085"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
-    "name": "Futurama",
-    "type": "series",
-    "imdb_id": "tt0149460"
+    "imdb_id": "tt0096697"
   }
 ]

@@ -15,24 +15,19 @@
     "imdb_id": "tt0246393"
   },
   {
-    "name": "Lioness",
-    "type": "series",
-    "imdb_id": "tt13111078"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
   },
   {
+    "name": "Lioness",
+    "type": "series",
+    "imdb_id": "tt13111078"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Gran hermano",
-    "type": "series",
-    "imdb_id": "tt0281446"
   },
   {
     "name": "The Simpsons",
@@ -45,24 +40,14 @@
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Family Guy",
+    "name": "El conquistador",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt2472450"
   },
   {
-    "name": "Outer Banks",
+    "name": "Gran hermano",
     "type": "series",
-    "imdb_id": "tt10293938"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Paradise Hotel",
-    "type": "series",
-    "imdb_id": "tt0486240"
+    "imdb_id": "tt0281446"
   },
   {
     "name": "Ted Lasso",
@@ -70,9 +55,19 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "El conquistador",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt2472450"
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "type": "series",
+    "imdb_id": "tt0413573"
   },
   {
     "name": "NCIS",
@@ -85,18 +80,23 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Grey's Anatomy",
+    "name": "Jason and the Argonauts",
     "type": "series",
-    "imdb_id": "tt0413573"
+    "imdb_id": "tt0217579"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Paradise Hotel",
+    "type": "series",
+    "imdb_id": "tt0486240"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
-  },
-  {
-    "name": "CSI: Crime Scene Investigation",
-    "type": "series",
-    "imdb_id": "tt0247082"
   }
 ]

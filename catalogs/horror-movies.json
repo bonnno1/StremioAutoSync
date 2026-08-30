@@ -20,14 +20,14 @@
     "imdb_id": "tt34385135"
   },
   {
-    "name": "Evil Dead Burn",
-    "type": "movie",
-    "imdb_id": "tt31170389"
-  },
-  {
     "name": "Ghost in the Cell",
     "type": "movie",
     "imdb_id": "tt9000310"
+  },
+  {
+    "name": "Above & Below",
+    "type": "movie",
+    "imdb_id": "tt37603783"
   },
   {
     "name": "Bury the Devil",
@@ -35,19 +35,24 @@
     "imdb_id": "tt29719182"
   },
   {
+    "name": "Evil Dead Burn",
+    "type": "movie",
+    "imdb_id": "tt31170389"
+  },
+  {
     "name": "The Last House",
     "type": "movie",
     "imdb_id": "tt32268156"
   },
   {
-    "name": "Insidious: Out of the Further",
-    "type": "movie",
-    "imdb_id": "tt32393988"
-  },
-  {
     "name": "Deep Water",
     "type": "movie",
     "imdb_id": "tt29516222"
+  },
+  {
+    "name": "Insidious: Out of the Further",
+    "type": "movie",
+    "imdb_id": "tt32393988"
   },
   {
     "name": "Nightborn",
@@ -60,14 +65,14 @@
     "imdb_id": "tt32881432"
   },
   {
+    "name": "OBEX",
+    "type": "movie",
+    "imdb_id": "tt29544916"
+  },
+  {
     "name": "Soulm8te",
     "type": "movie",
     "imdb_id": "tt32654916"
-  },
-  {
-    "name": "Leviticus",
-    "type": "movie",
-    "imdb_id": "tt39143902"
   },
   {
     "name": "Insidious",
@@ -75,14 +80,9 @@
     "imdb_id": "tt1591095"
   },
   {
-    "name": "OBEX",
+    "name": "Leviticus",
     "type": "movie",
-    "imdb_id": "tt29544916"
-  },
-  {
-    "name": "The Devil's Mouth",
-    "type": "movie",
-    "imdb_id": "tt36958312"
+    "imdb_id": "tt39143902"
   },
   {
     "name": "Kraken",
@@ -90,9 +90,9 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Lee Cronin's The Mummy",
+    "name": "The Devil's Mouth",
     "type": "movie",
-    "imdb_id": "tt32612507"
+    "imdb_id": "tt36958312"
   },
   {
     "name": "Big Baby",
