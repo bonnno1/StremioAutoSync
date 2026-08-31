@@ -5,14 +5,19 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Outer Banks",
+    "name": "Jason and the Argonauts",
     "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt0217579"
   },
   {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "Outer Banks",
+    "type": "series",
+    "imdb_id": "tt10293938"
   },
   {
     "name": "House of the Dragon",
@@ -35,14 +40,9 @@
     "imdb_id": "tt1520211"
   },
   {
-    "name": "Kamen Rider",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "Regular Show",
-    "type": "series",
-    "imdb_id": "tt1710308"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -50,9 +50,9 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Regular Show",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt1710308"
   },
   {
     "name": "Smallville",
@@ -70,14 +70,24 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Hawaii Five-0",
     "type": "series",
     "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "All Elite Wrestling: Dynamite",
@@ -85,18 +95,8 @@
     "imdb_id": "tt10691888"
   },
   {
-    "name": "FBI",
+    "name": "SEAL Team",
     "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
+    "imdb_id": "tt6473344"
   }
 ]
