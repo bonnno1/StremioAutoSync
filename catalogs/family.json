@@ -10,14 +10,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Frasier",
@@ -30,11 +30,6 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
@@ -45,9 +40,14 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Uusi Päivä",
+    "name": "Dallas",
     "type": "series",
-    "imdb_id": "tt1724525"
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -55,19 +55,9 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Dallas",
-    "type": "series",
-    "imdb_id": "tt0077000"
-  },
-  {
     "name": "X Factor",
     "type": "series",
     "imdb_id": "tt1194223"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
   },
   {
     "name": "Phineas and Ferb",
@@ -75,14 +65,19 @@
     "imdb_id": "tt0852863"
   },
   {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "Uusi Päivä",
+    "type": "series",
+    "imdb_id": "tt1724525"
+  },
+  {
     "name": "Lassie",
     "type": "series",
     "imdb_id": "tt0046617"
-  },
-  {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
   },
   {
     "name": "The Andy Griffith Show",
@@ -90,13 +85,18 @@
     "imdb_id": "tt0053479"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
     "name": "Boron",
     "type": "series",
     "imdb_id": "tt26896992"
   },
   {
-    "name": "Bharaghar",
+    "name": "Avatar: The Last Airbender",
     "type": "series",
-    "imdb_id": "tt13829404"
+    "imdb_id": "tt9018736"
   }
 ]

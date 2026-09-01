@@ -5,19 +5,9 @@
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
   },
   {
     "name": "Dark Matter",
@@ -25,9 +15,19 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Lioness",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Furious",
+    "type": "series",
+    "imdb_id": "tt36303968"
   },
   {
     "name": "Mousetrap",
@@ -40,19 +40,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Furious",
-    "type": "series",
-    "imdb_id": "tt36303968"
-  },
-  {
-    "name": "Adults",
-    "type": "series",
-    "imdb_id": "tt33049767"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "Futurama",
@@ -60,9 +50,9 @@
     "imdb_id": "tt0149460"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "The Early Spring",
@@ -70,9 +60,14 @@
     "imdb_id": "tt37884717"
   },
   {
-    "name": "Stuart Fails to Save the Universe",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt27497393"
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Adults",
+    "type": "series",
+    "imdb_id": "tt33049767"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -80,23 +75,28 @@
     "imdb_id": "tt5607616"
   },
   {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
     "name": "Beauty in Black",
     "type": "series",
     "imdb_id": "tt31260386"
   },
   {
-    "name": "Lucky",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt34866681"
+    "imdb_id": "tt11198330"
   },
   {
-    "name": "Sterling Point",
+    "name": "Four Hands, Two Sonatas",
     "type": "series",
-    "imdb_id": "tt35618070"
+    "imdb_id": "tt39368345"
   },
   {
-    "name": "The Simpsons",
+    "name": "One Hundred Years of Solitude",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt9892936"
   }
 ]
