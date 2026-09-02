@@ -1,13 +1,13 @@
 [
   {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
     "name": "Gran hermano",
     "type": "series",
     "imdb_id": "tt0281446"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "The Early Spring",
@@ -15,19 +15,24 @@
     "imdb_id": "tt37884717"
   },
   {
-    "name": "Jornal Nacional",
-    "type": "series",
-    "imdb_id": "tt0466513"
-  },
-  {
     "name": "Gute Zeiten, schlechte Zeiten",
     "type": "series",
     "imdb_id": "tt0103434"
   },
   {
-    "name": "Goede Tijden, Slechte Tijden",
+    "name": "All Elite Wrestling: Dynamite",
     "type": "series",
-    "imdb_id": "tt0096597"
+    "imdb_id": "tt10691888"
+  },
+  {
+    "name": "Jornal Nacional",
+    "type": "series",
+    "imdb_id": "tt0466513"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
   },
   {
     "name": "Binnelanders",
@@ -35,14 +40,19 @@
     "imdb_id": "tt1527854"
   },
   {
+    "name": "Goede Tijden, Slechte Tijden",
+    "type": "series",
+    "imdb_id": "tt0096597"
+  },
+  {
     "name": "Coronation Street",
     "type": "series",
     "imdb_id": "tt0053494"
   },
   {
-    "name": "WWE NXT",
+    "name": "Good Mythical Morning",
     "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt4087032"
   },
   {
     "name": "Ulice",
@@ -50,14 +60,19 @@
     "imdb_id": "tt0484918"
   },
   {
-    "name": "Na Wspólnej",
+    "name": "Big Brother",
     "type": "series",
-    "imdb_id": "tt0388626"
+    "imdb_id": "tt0251497"
   },
   {
     "name": "El Señor de los Cielos",
     "type": "series",
     "imdb_id": "tt2777882"
+  },
+  {
+    "name": "Na Wspólnej",
+    "type": "series",
+    "imdb_id": "tt0388626"
   },
   {
     "name": "Dahoam is Dahoam",
@@ -70,9 +85,9 @@
     "imdb_id": "tt7124904"
   },
   {
-    "name": "Scènes de ménages",
+    "name": "Chronicles of the Sun",
     "type": "series",
-    "imdb_id": "tt1533783"
+    "imdb_id": "tt8883922"
   },
   {
     "name": "Home and Away",
@@ -80,23 +95,8 @@
     "imdb_id": "tt0094481"
   },
   {
-    "name": "Emmerdale",
-    "type": "series",
-    "imdb_id": "tt0068069"
-  },
-  {
     "name": "Quotidien",
     "type": "series",
     "imdb_id": "tt6052530"
-  },
-  {
-    "name": "LIVE with Kelly and Mark",
-    "type": "series",
-    "imdb_id": "tt0096636"
-  },
-  {
-    "name": "Chronicles of the Sun",
-    "type": "series",
-    "imdb_id": "tt8883922"
   }
 ]

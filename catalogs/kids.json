@@ -30,19 +30,14 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt1877889"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "The Fairly OddParents",
@@ -50,9 +45,19 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
     "name": "Kim Possible",
     "type": "series",
     "imdb_id": "tt0278866"
+  },
+  {
+    "name": "The Powerpuff Girls",
+    "type": "series",
+    "imdb_id": "tt0175058"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -65,23 +70,13 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "The Powerpuff Girls",
-    "type": "series",
-    "imdb_id": "tt0175058"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "Spidey and His Amazing Friends",
     "type": "series",
     "imdb_id": "tt10862280"
+  },
+  {
+    "name": "Cow and Chicken",
+    "type": "series",
+    "imdb_id": "tt0118289"
   }
 ]

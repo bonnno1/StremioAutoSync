@@ -15,6 +15,11 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
@@ -25,14 +30,14 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "What If...?",
@@ -45,19 +50,14 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "Andor",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt10234724"
   },
   {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
   },
   {
     "name": "My Name Is Gutierrez",
@@ -75,28 +75,23 @@
     "imdb_id": "tt13622776"
   },
   {
-    "name": "Love, Victor",
-    "type": "series",
-    "imdb_id": "tt10166602"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
+    "name": "Love, Victor",
+    "type": "series",
+    "imdb_id": "tt10166602"
+  },
+  {
+    "name": "Marvel Zombies",
+    "type": "series",
+    "imdb_id": "tt16027014"
+  },
+  {
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
-  },
-  {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
-  },
-  {
-    "name": "Marvel Studios Legends",
-    "type": "series",
-    "imdb_id": "tt13650480"
   }
 ]

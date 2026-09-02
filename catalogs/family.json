@@ -45,19 +45,14 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
     "name": "X Factor",
     "type": "series",
     "imdb_id": "tt1194223"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Phineas and Ferb",
@@ -65,14 +60,29 @@
     "imdb_id": "tt0852863"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
     "name": "The Nanny",
     "type": "series",
     "imdb_id": "tt0106080"
   },
   {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
     "name": "Uusi Päivä",
     "type": "series",
     "imdb_id": "tt1724525"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Lassie",
@@ -85,18 +95,8 @@
     "imdb_id": "tt0053479"
   },
   {
-    "name": "The Chosen",
+    "name": "The Goldbergs",
     "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Boron",
-    "type": "series",
-    "imdb_id": "tt26896992"
-  },
-  {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
+    "imdb_id": "tt2712740"
   }
 ]

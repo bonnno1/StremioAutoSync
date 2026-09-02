@@ -20,24 +20,24 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
-  },
-  {
     "name": "Operación triunfo",
     "type": "series",
     "imdb_id": "tt0306368"
   },
   {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Off Campus",
+    "type": "series",
+    "imdb_id": "tt33546863"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Sterling Point",
@@ -50,9 +50,19 @@
     "imdb_id": "tt3502248"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Terminal List: Dark Wolf",
@@ -65,24 +75,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "Batman: Caped Crusader",
     "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Goliath",
-    "type": "series",
-    "imdb_id": "tt4687880"
-  },
-  {
-    "name": "Fallout",
-    "type": "series",
-    "imdb_id": "tt12637874"
+    "imdb_id": "tt14681596"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -90,8 +85,13 @@
     "imdb_id": "tt11247158"
   },
   {
-    "name": "The Terminal List",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt11743610"
+    "imdb_id": "tt4687880"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
   }
 ]

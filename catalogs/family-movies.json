@@ -1,13 +1,13 @@
 [
   {
+    "name": "Coyote vs. Acme",
+    "type": "movie",
+    "imdb_id": "tt1756855"
+  },
+  {
     "name": "Toy Story 5",
     "type": "movie",
     "imdb_id": "tt29355505"
-  },
-  {
-    "name": "Moana",
-    "type": "movie",
-    "imdb_id": "tt27419466"
   },
   {
     "name": "Minions & Monsters",
@@ -15,9 +15,9 @@
     "imdb_id": "tt32890033"
   },
   {
-    "name": "Coyote vs. Acme",
+    "name": "Moana",
     "type": "movie",
-    "imdb_id": "tt1756855"
+    "imdb_id": "tt27419466"
   },
   {
     "name": "Zootopia 2",
@@ -35,6 +35,11 @@
     "imdb_id": "tt26443616"
   },
   {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
+  },
+  {
     "name": "The Sheep Detectives",
     "type": "movie",
     "imdb_id": "tt32565993"
@@ -50,24 +55,9 @@
     "imdb_id": "tt29552248"
   },
   {
-    "name": "GOAT",
+    "name": "Lilo & Stitch",
     "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Toy Story",
@@ -75,19 +65,14 @@
     "imdb_id": "tt0114709"
   },
   {
-    "name": "How to Train Your Dragon",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt26743210"
+    "imdb_id": "tt0327597"
   },
   {
-    "name": "WALL·E",
+    "name": "Coco",
     "type": "movie",
-    "imdb_id": "tt0910970"
-  },
-  {
-    "name": "Finding Nemo",
-    "type": "movie",
-    "imdb_id": "tt0266543"
+    "imdb_id": "tt2380307"
   },
   {
     "name": "Frozen II",
@@ -95,8 +80,23 @@
     "imdb_id": "tt4520988"
   },
   {
+    "name": "WALL·E",
+    "type": "movie",
+    "imdb_id": "tt0910970"
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "type": "movie",
+    "imdb_id": "tt0892769"
+  },
+  {
     "name": "Zootopia",
     "type": "movie",
     "imdb_id": "tt2948356"
+  },
+  {
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "type": "movie",
+    "imdb_id": "tt0363771"
   }
 ]
