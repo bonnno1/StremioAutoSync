@@ -30,16 +30,6 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
@@ -48,6 +38,16 @@
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Moon Knight",
@@ -65,14 +65,14 @@
     "imdb_id": "tt39278978"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "Ahsoka",
     "type": "series",
     "imdb_id": "tt13622776"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -85,13 +85,13 @@
     "imdb_id": "tt10166602"
   },
   {
-    "name": "Marvel Zombies",
-    "type": "series",
-    "imdb_id": "tt16027014"
-  },
-  {
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
+  },
+  {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
   }
 ]

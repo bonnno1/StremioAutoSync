@@ -25,6 +25,11 @@
     "imdb_id": "tt3385756"
   },
   {
+    "name": "Lovebird",
+    "type": "series",
+    "imdb_id": "tt3142876"
+  },
+  {
     "name": "Mekakucity Actors",
     "type": "series",
     "imdb_id": "tt3475064"
@@ -33,16 +38,6 @@
     "name": "Ef: A Tale Of Memories & Melodies",
     "type": "series",
     "imdb_id": "tt1132203"
-  },
-  {
-    "name": "Lovebird",
-    "type": "series",
-    "imdb_id": "tt3142876"
-  },
-  {
-    "name": "You are My Destiny",
-    "type": "series",
-    "imdb_id": "tt2275419"
   },
   {
     "name": "Head over Heels",
@@ -60,9 +55,19 @@
     "imdb_id": "tt1414416"
   },
   {
+    "name": "You are My Destiny",
+    "type": "series",
+    "imdb_id": "tt2275419"
+  },
+  {
     "name": "Go Princess Go",
     "type": "series",
     "imdb_id": "tt5319572"
+  },
+  {
+    "name": "OniAi",
+    "type": "series",
+    "imdb_id": "tt2390038"
   },
   {
     "name": "Los exitosos Pells",
@@ -75,23 +80,18 @@
     "imdb_id": "tt0338639"
   },
   {
-    "name": "OniAi",
-    "type": "series",
-    "imdb_id": "tt2390038"
-  },
-  {
     "name": "Brave Woman",
     "type": "series",
     "imdb_id": "tt2476828"
   },
   {
-    "name": "Dark Fate",
-    "type": "series",
-    "imdb_id": "tt0373562"
-  },
-  {
     "name": "No-Rin",
     "type": "series",
     "imdb_id": "tt3199286"
+  },
+  {
+    "name": "Dark Fate",
+    "type": "series",
+    "imdb_id": "tt0373562"
   }
 ]

@@ -30,19 +30,9 @@
     "imdb_id": "tt34866681"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "Foundation",
@@ -53,6 +43,16 @@
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "Widow's Bay",
@@ -80,23 +80,23 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Stick",
-    "type": "series",
-    "imdb_id": "tt31710249"
-  },
-  {
     "name": "Trying",
     "type": "series",
     "imdb_id": "tt10982034"
   },
   {
-    "name": "The Last Frontier",
+    "name": "Stick",
     "type": "series",
-    "imdb_id": "tt26862142"
+    "imdb_id": "tt31710249"
   },
   {
-    "name": "The Studio",
+    "name": "Your Friends & Neighbors",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   }
 ]

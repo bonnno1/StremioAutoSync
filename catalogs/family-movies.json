@@ -35,16 +35,6 @@
     "imdb_id": "tt26443616"
   },
   {
-    "name": "GOAT",
-    "type": "movie",
-    "imdb_id": "tt27613895"
-  },
-  {
-    "name": "The Sheep Detectives",
-    "type": "movie",
-    "imdb_id": "tt32565993"
-  },
-  {
     "name": "The Wild Robot",
     "type": "movie",
     "imdb_id": "tt29623480"
@@ -55,9 +45,24 @@
     "imdb_id": "tt29552248"
   },
   {
-    "name": "Lilo & Stitch",
+    "name": "The Sheep Detectives",
     "type": "movie",
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt32565993"
+  },
+  {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
+  },
+  {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
   },
   {
     "name": "Toy Story",
@@ -70,14 +75,9 @@
     "imdb_id": "tt0327597"
   },
   {
-    "name": "Coco",
+    "name": "Zootopia",
     "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
-    "name": "Frozen II",
-    "type": "movie",
-    "imdb_id": "tt4520988"
+    "imdb_id": "tt2948356"
   },
   {
     "name": "WALL·E",
@@ -85,18 +85,18 @@
     "imdb_id": "tt0910970"
   },
   {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt0892769"
-  },
-  {
-    "name": "Zootopia",
-    "type": "movie",
-    "imdb_id": "tt2948356"
-  },
-  {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "type": "movie",
     "imdb_id": "tt0363771"
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "type": "movie",
+    "imdb_id": "tt26743210"
+  },
+  {
+    "name": "The Lion King",
+    "type": "movie",
+    "imdb_id": "tt0110357"
   }
 ]

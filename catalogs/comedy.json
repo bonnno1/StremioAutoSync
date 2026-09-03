@@ -5,6 +5,11 @@
     "imdb_id": "tt0096697"
   },
   {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -18,11 +23,6 @@
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -55,11 +55,6 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
@@ -70,14 +65,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Regular Show",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1710308"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Friends",
@@ -90,13 +80,23 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Modern Family",
+    "name": "Regular Show",
     "type": "series",
-    "imdb_id": "tt1442437"
+    "imdb_id": "tt1710308"
   },
   {
-    "name": "Desperate Housewives",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt0410975"
+    "imdb_id": "tt0106053"
+  },
+  {
+    "name": "Death in Paradise",
+    "type": "series",
+    "imdb_id": "tt1888075"
+  },
+  {
+    "name": "Men on a Mission",
+    "type": "series",
+    "imdb_id": "tt5247622"
   }
 ]
