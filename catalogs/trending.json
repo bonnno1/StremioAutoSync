@@ -1,23 +1,13 @@
 [
   {
-    "name": "The Gentlemen",
-    "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Lanterns",
+    "name": "The Gentlemen",
     "type": "series",
-    "imdb_id": "tt26545992"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt13210838"
   },
   {
     "name": "Dark Matter",
@@ -25,14 +15,14 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Chad Powers",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt31449991"
+    "imdb_id": "tt9288030"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Lanterns",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt26545992"
   },
   {
     "name": "Bleach",
@@ -40,19 +30,29 @@
     "imdb_id": "tt0434665"
   },
   {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
+  },
+  {
+    "name": "The Grand Tour",
+    "type": "series",
+    "imdb_id": "tt44974627"
+  },
+  {
     "name": "Furious",
     "type": "series",
     "imdb_id": "tt36303968"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt10986410"
   },
   {
-    "name": "The Shards",
+    "name": "Stuart Fails to Save the Universe",
     "type": "series",
-    "imdb_id": "tt27543562"
+    "imdb_id": "tt27497393"
   },
   {
     "name": "Mousetrap",
@@ -60,19 +60,9 @@
     "imdb_id": "tt36996011"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
     "name": "Lioness",
     "type": "series",
     "imdb_id": "tt13111078"
-  },
-  {
-    "name": "Adults",
-    "type": "series",
-    "imdb_id": "tt33049767"
   },
   {
     "name": "One Piece",
@@ -80,9 +70,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Lovesick",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt32909469"
+    "imdb_id": "tt5607616"
   },
   {
     "name": "The Early Spring",
@@ -90,13 +80,18 @@
     "imdb_id": "tt37884717"
   },
   {
-    "name": "Futurama",
+    "name": "Star Trek: Strange New Worlds",
     "type": "series",
-    "imdb_id": "tt0149460"
+    "imdb_id": "tt12327578"
   },
   {
-    "name": "The Simpsons",
+    "name": "Adults",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt33049767"
+  },
+  {
+    "name": "Pull Strings",
+    "type": "series",
+    "imdb_id": "tt37231342"
   }
 ]

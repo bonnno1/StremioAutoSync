@@ -30,6 +30,16 @@
     "imdb_id": "tt28650488"
   },
   {
+    "name": "LEGO Star Wars: The Mandalorian",
+    "type": "movie",
+    "imdb_id": "tt43679852"
+  },
+  {
+    "name": "Clash of the Thundermans",
+    "type": "movie",
+    "imdb_id": "tt37752275"
+  },
+  {
     "name": "Hoppers",
     "type": "movie",
     "imdb_id": "tt26443616"
@@ -38,6 +48,11 @@
     "name": "The Wild Robot",
     "type": "movie",
     "imdb_id": "tt29623480"
+  },
+  {
+    "name": "Toy Story",
+    "type": "movie",
+    "imdb_id": "tt0114709"
   },
   {
     "name": "Swapped",
@@ -65,11 +80,6 @@
     "imdb_id": "tt2380307"
   },
   {
-    "name": "Toy Story",
-    "type": "movie",
-    "imdb_id": "tt0114709"
-  },
-  {
     "name": "Coraline",
     "type": "movie",
     "imdb_id": "tt0327597"
@@ -88,15 +98,5 @@
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "type": "movie",
     "imdb_id": "tt0363771"
-  },
-  {
-    "name": "How to Train Your Dragon",
-    "type": "movie",
-    "imdb_id": "tt26743210"
-  },
-  {
-    "name": "The Lion King",
-    "type": "movie",
-    "imdb_id": "tt0110357"
   }
 ]

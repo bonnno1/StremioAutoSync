@@ -25,9 +25,14 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "King of the Hill",
+    "name": "X Factor",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt1194223"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Rugrats",
@@ -40,9 +45,9 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "Young Sheldon",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Dallas",
@@ -50,14 +55,9 @@
     "imdb_id": "tt0077000"
   },
   {
-    "name": "X Factor",
+    "name": "Lassie",
     "type": "series",
-    "imdb_id": "tt1194223"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0046617"
   },
   {
     "name": "Phineas and Ferb",
@@ -75,28 +75,23 @@
     "imdb_id": "tt1724525"
   },
   {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
+  },
+  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Lassie",
+    "name": "Ulice",
     "type": "series",
-    "imdb_id": "tt0046617"
+    "imdb_id": "tt0484918"
   },
   {
-    "name": "The Goldbergs",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt2712740"
-  },
-  {
-    "name": "Gravity Falls",
-    "type": "series",
-    "imdb_id": "tt1865718"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt1871731"
   }
 ]

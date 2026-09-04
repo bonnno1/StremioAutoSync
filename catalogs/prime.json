@@ -25,11 +25,6 @@
     "imdb_id": "tt0306368"
   },
   {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
-  },
-  {
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
@@ -40,19 +35,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Tatsuki Fujimoto 17-26",
+    "name": "Off Campus",
     "type": "series",
-    "imdb_id": "tt38491451"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
-  },
-  {
-    "name": "Batman: Caped Crusader",
-    "type": "series",
-    "imdb_id": "tt14681596"
+    "imdb_id": "tt33546863"
   },
   {
     "name": "Bosch",
@@ -80,18 +65,33 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Citadel",
+    "name": "Tom Clancy's Jack Ryan",
     "type": "series",
-    "imdb_id": "tt9794044"
+    "imdb_id": "tt5057054"
+  },
+  {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
+  },
+  {
+    "name": "Batman: Caped Crusader",
+    "type": "series",
+    "imdb_id": "tt14681596"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Family Guy",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "The Rookie",
@@ -25,29 +25,14 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Shameless",
-    "type": "series",
-    "imdb_id": "tt1586680"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Office",
@@ -55,14 +40,29 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Shameless",
+    "type": "series",
+    "imdb_id": "tt1586680"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
   },
   {
-    "name": "The Daily Show",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   },
   {
     "name": "Doraemon",
@@ -70,14 +70,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "The Gentlemen",
+    "type": "series",
+    "imdb_id": "tt13210838"
+  },
+  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
   },
   {
     "name": "Regular Show",
@@ -85,14 +90,9 @@
     "imdb_id": "tt1710308"
   },
   {
-    "name": "Late Show with David Letterman",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt0106053"
-  },
-  {
-    "name": "Death in Paradise",
-    "type": "series",
-    "imdb_id": "tt1888075"
+    "imdb_id": "tt3513388"
   },
   {
     "name": "Men on a Mission",
