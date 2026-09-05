@@ -35,29 +35,14 @@
     "imdb_id": "tt43679852"
   },
   {
-    "name": "Clash of the Thundermans",
-    "type": "movie",
-    "imdb_id": "tt37752275"
-  },
-  {
     "name": "Hoppers",
     "type": "movie",
     "imdb_id": "tt26443616"
   },
   {
-    "name": "The Wild Robot",
+    "name": "Clash of the Thundermans",
     "type": "movie",
-    "imdb_id": "tt29623480"
-  },
-  {
-    "name": "Toy Story",
-    "type": "movie",
-    "imdb_id": "tt0114709"
-  },
-  {
-    "name": "Swapped",
-    "type": "movie",
-    "imdb_id": "tt29552248"
+    "imdb_id": "tt37752275"
   },
   {
     "name": "The Sheep Detectives",
@@ -65,14 +50,24 @@
     "imdb_id": "tt32565993"
   },
   {
-    "name": "GOAT",
+    "name": "Toy Story",
     "type": "movie",
-    "imdb_id": "tt27613895"
+    "imdb_id": "tt0114709"
   },
   {
-    "name": "Spirited Away",
+    "name": "The Wild Robot",
     "type": "movie",
-    "imdb_id": "tt0245429"
+    "imdb_id": "tt29623480"
+  },
+  {
+    "name": "Swapped",
+    "type": "movie",
+    "imdb_id": "tt29552248"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "type": "movie",
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Coco",
@@ -80,9 +75,19 @@
     "imdb_id": "tt2380307"
   },
   {
-    "name": "Coraline",
+    "name": "GOAT",
     "type": "movie",
-    "imdb_id": "tt0327597"
+    "imdb_id": "tt27613895"
+  },
+  {
+    "name": "The Lion King",
+    "type": "movie",
+    "imdb_id": "tt0110357"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
   },
   {
     "name": "Zootopia",
@@ -93,10 +98,5 @@
     "name": "WALL·E",
     "type": "movie",
     "imdb_id": "tt0910970"
-  },
-  {
-    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "type": "movie",
-    "imdb_id": "tt0363771"
   }
 ]

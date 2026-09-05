@@ -1,13 +1,13 @@
 [
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "The Mentalist",
@@ -15,9 +15,9 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "Lioness",
+    "name": "Coronation Street",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt0053494"
   },
   {
     "name": "Silo",
@@ -25,24 +25,14 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Home Alone",
     "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt7997010"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "Lanterns",
-    "type": "series",
-    "imdb_id": "tt26545992"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "The Simpsons",
@@ -50,14 +40,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Tagesschau",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt0246393"
-  },
-  {
-    "name": "El conquistador",
-    "type": "series",
-    "imdb_id": "tt2472450"
+    "imdb_id": "tt10986410"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -65,14 +50,9 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Gran hermano",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt0281446"
-  },
-  {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt0203259"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -80,23 +60,43 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Supernatural",
+    "name": "Criminal Minds",
     "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt0452046"
   },
   {
-    "name": "Coronation Street",
+    "name": "El conquistador",
     "type": "series",
-    "imdb_id": "tt0053494"
+    "imdb_id": "tt2472450"
   },
   {
-    "name": "NCIS",
+    "name": "The Tonight Show Starring Johnny Carson",
     "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt0055708"
   },
   {
-    "name": "Family Guy",
+    "name": "Tagesschau",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0246393"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
   }
 ]

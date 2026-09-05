@@ -5,6 +5,11 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -15,24 +20,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Jason and the Argonauts",
-    "type": "series",
-    "imdb_id": "tt0217579"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "All Elite Wrestling: Dynamite",
@@ -40,14 +30,24 @@
     "imdb_id": "tt10691888"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt4083422"
   },
   {
-    "name": "The Walking Dead",
+    "name": "REBORN!",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt1224144"
+  },
+  {
+    "name": "Jason and the Argonauts",
+    "type": "series",
+    "imdb_id": "tt0217579"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Regular Show",
@@ -55,14 +55,19 @@
     "imdb_id": "tt1710308"
   },
   {
-    "name": "Game of Thrones",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt11198330"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
   },
   {
     "name": "Bleach",
@@ -70,14 +75,9 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Doctor Who",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "S.W.A.T.",
@@ -90,13 +90,13 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "REBORN!",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt1224144"
+    "imdb_id": "tt13293588"
   },
   {
-    "name": "Prison Break",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt1600194"
   }
 ]

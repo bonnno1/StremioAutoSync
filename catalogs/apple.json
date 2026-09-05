@@ -20,19 +20,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Lucky",
+    "name": "For All Mankind",
     "type": "series",
-    "imdb_id": "tt34866681"
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Shrinking",
@@ -40,14 +35,19 @@
     "imdb_id": "tt15677150"
   },
   {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Pluribus",
+    "name": "Mythic Quest",
     "type": "series",
-    "imdb_id": "tt22202452"
+    "imdb_id": "tt8879940"
   },
   {
     "name": "Cape Fear",
@@ -55,9 +55,14 @@
     "imdb_id": "tt34675596"
   },
   {
-    "name": "Mythic Quest",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt8879940"
+    "imdb_id": "tt7203552"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "See",
@@ -68,6 +73,16 @@
     "name": "Presumed Innocent",
     "type": "series",
     "imdb_id": "tt17677860"
+  },
+  {
+    "name": "Trying",
+    "type": "series",
+    "imdb_id": "tt10982034"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Widow's Bay",
@@ -83,20 +98,5 @@
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Trying",
-    "type": "series",
-    "imdb_id": "tt10982034"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
   }
 ]
