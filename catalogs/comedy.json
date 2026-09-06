@@ -5,24 +5,14 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "The Rookie",
@@ -30,14 +20,19 @@
     "imdb_id": "tt7587890"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt3444938"
   },
   {
-    "name": "American Dad!",
+    "name": "REBORN!",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt1224144"
+  },
+  {
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
+    "imdb_id": "tt3697842"
   },
   {
     "name": "Family Guy",
@@ -45,19 +40,24 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "The Gentlemen",
+    "type": "series",
+    "imdb_id": "tt13210838"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
   },
   {
-    "name": "The Office",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0106053"
   },
   {
     "name": "Shameless",
@@ -65,14 +65,14 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "The Gentlemen",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt13210838"
+    "imdb_id": "tt0063951"
   },
   {
-    "name": "REBORN!",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt1224144"
+    "imdb_id": "tt0386676"
   },
   {
     "name": "The Daily Show",
@@ -85,13 +85,13 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Late Show with David Letterman",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0106053"
+    "imdb_id": "tt0108778"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt4083422"
   }
 ]

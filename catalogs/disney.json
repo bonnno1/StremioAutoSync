@@ -30,6 +30,11 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -40,19 +45,14 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Bullet Bullet",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt34710683"
   },
   {
     "name": "Your Friendly Neighborhood Spider-Man",
@@ -70,9 +70,9 @@
     "imdb_id": "tt13622776"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "WandaVision",
@@ -80,18 +80,18 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Viña del Mar International Song Festival",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt2062574"
-  },
-  {
-    "name": "My Name Is Gutierrez",
-    "type": "series",
-    "imdb_id": "tt39278978"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Agatha All Along",
     "type": "series",
     "imdb_id": "tt15571732"
+  },
+  {
+    "name": "My Name Is Gutierrez",
+    "type": "series",
+    "imdb_id": "tt39278978"
   }
 ]

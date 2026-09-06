@@ -1,10 +1,5 @@
 [
   {
-    "name": "Jason and the Argonauts",
-    "type": "series",
-    "imdb_id": "tt0217579"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
@@ -13,6 +8,11 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Jason and the Argonauts",
+    "type": "series",
+    "imdb_id": "tt0217579"
   },
   {
     "name": "Among Friends",
@@ -25,19 +25,9 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "X Factor",
-    "type": "series",
-    "imdb_id": "tt1194223"
-  },
-  {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   },
   {
     "name": "Jeopardy!",
@@ -45,14 +35,14 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "King of the Hill",
+    "name": "The Bullwinkle Show",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0052507"
   },
   {
-    "name": "Dallas",
+    "name": "X Factor",
     "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt1194223"
   },
   {
     "name": "Lassie",
@@ -60,29 +50,9 @@
     "imdb_id": "tt0046617"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "The Nanny",
-    "type": "series",
-    "imdb_id": "tt0106080"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "Uusi Päivä",
-    "type": "series",
-    "imdb_id": "tt1724525"
-  },
-  {
-    "name": "The Andy Griffith Show",
-    "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "The Chosen",
@@ -90,8 +60,33 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Ulice",
+    "name": "Scènes de ménages",
     "type": "series",
-    "imdb_id": "tt0484918"
+    "imdb_id": "tt1533783"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "The Nanny",
+    "type": "series",
+    "imdb_id": "tt0106080"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "type": "series",
+    "imdb_id": "tt0053479"
   }
 ]
