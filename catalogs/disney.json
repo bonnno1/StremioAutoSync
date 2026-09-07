@@ -40,14 +40,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Bullet Bullet",
@@ -60,11 +60,6 @@
     "imdb_id": "tt16027074"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Ahsoka",
     "type": "series",
     "imdb_id": "tt13622776"
@@ -75,23 +70,28 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Agatha All Along",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt15571732"
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "My Name Is Gutierrez",
     "type": "series",
     "imdb_id": "tt39278978"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
@@ -8,6 +13,11 @@
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
+  },
+  {
+    "name": "The Grand Tour",
+    "type": "series",
+    "imdb_id": "tt44974627"
   },
   {
     "name": "The Gentlemen",
@@ -20,14 +30,19 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Dark Matter",
+    "name": "House of the Dragon",
     "type": "series",
-    "imdb_id": "tt19231492"
+    "imdb_id": "tt11198330"
   },
   {
     "name": "Lioness",
@@ -35,39 +50,19 @@
     "imdb_id": "tt13111078"
   },
   {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "A Tale of Two Cities",
-    "type": "series",
-    "imdb_id": "tt38128417"
-  },
-  {
     "name": "Furious",
     "type": "series",
     "imdb_id": "tt36303968"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Star Trek: Strange New Worlds",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt12327578"
   },
   {
-    "name": "The Grand Tour",
+    "name": "Dark Matter",
     "type": "series",
-    "imdb_id": "tt44974627"
-  },
-  {
-    "name": "Chad Powers",
-    "type": "series",
-    "imdb_id": "tt31449991"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Mousetrap",
@@ -75,9 +70,14 @@
     "imdb_id": "tt36996011"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
   },
   {
     "name": "Lovesick",
@@ -85,18 +85,18 @@
     "imdb_id": "tt32909469"
   },
   {
-    "name": "The Early Spring",
+    "name": "The Long Watch",
     "type": "series",
-    "imdb_id": "tt37884717"
+    "imdb_id": "tt34987156"
   },
   {
-    "name": "The Simpsons",
+    "name": "MobLand",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt31510819"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "Blossom Through the Cloud",
     "type": "series",
-    "imdb_id": "tt12327578"
+    "imdb_id": "tt36982718"
   }
 ]

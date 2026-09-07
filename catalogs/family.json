@@ -1,18 +1,8 @@
 [
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Jason and the Argonauts",
-    "type": "series",
-    "imdb_id": "tt0217579"
   },
   {
     "name": "Among Friends",
@@ -20,14 +10,14 @@
     "imdb_id": "tt0175383"
   },
   {
-    "name": "Frasier",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt2771780"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Jason and the Argonauts",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0217579"
   },
   {
     "name": "Jeopardy!",
@@ -35,9 +25,14 @@
     "imdb_id": "tt0159881"
   },
   {
-    "name": "The Bullwinkle Show",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt0052507"
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
   },
   {
     "name": "X Factor",
@@ -45,24 +40,9 @@
     "imdb_id": "tt1194223"
   },
   {
-    "name": "Lassie",
-    "type": "series",
-    "imdb_id": "tt0046617"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "Scènes de ménages",
-    "type": "series",
-    "imdb_id": "tt1533783"
   },
   {
     "name": "Dallas",
@@ -75,18 +55,38 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "Uusi Päivä",
     "type": "series",
-    "imdb_id": "tt3559124"
+    "imdb_id": "tt1724525"
   },
   {
-    "name": "The Nanny",
+    "name": "The Bullwinkle Show",
     "type": "series",
-    "imdb_id": "tt0106080"
+    "imdb_id": "tt0052507"
   },
   {
-    "name": "The Andy Griffith Show",
+    "name": "Génial!",
     "type": "series",
-    "imdb_id": "tt0053479"
+    "imdb_id": "tt12985858"
+  },
+  {
+    "name": "Scènes de ménages",
+    "type": "series",
+    "imdb_id": "tt1533783"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
   }
 ]

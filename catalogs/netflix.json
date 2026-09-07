@@ -1,13 +1,13 @@
 [
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Good Mythical Morning",
@@ -20,9 +20,9 @@
     "imdb_id": "tt31260386"
   },
   {
-    "name": "Outer Banks",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt10293938"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Stranger Things",
@@ -30,14 +30,9 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Raw",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt10293938"
   },
   {
     "name": "The Sandman",
@@ -45,19 +40,19 @@
     "imdb_id": "tt1751634"
   },
   {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
   },
   {
-    "name": "C.I.D.",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -65,14 +60,14 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Graveyard",
+    "name": "Wednesday",
     "type": "series",
-    "imdb_id": "tt16420408"
+    "imdb_id": "tt13443470"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Marvel's The Punisher",
@@ -80,23 +75,28 @@
     "imdb_id": "tt5675620"
   },
   {
-    "name": "Mousetrap",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt36996011"
+    "imdb_id": "tt27502465"
   },
   {
-    "name": "The Crown",
+    "name": "Emily in Paris",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt8962124"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
   },
   {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
   }
 ]

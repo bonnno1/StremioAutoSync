@@ -5,6 +5,11 @@
     "imdb_id": "tt1756855"
   },
   {
+    "name": "Clash of the Thundermans",
+    "type": "movie",
+    "imdb_id": "tt37752275"
+  },
+  {
     "name": "Toy Story 5",
     "type": "movie",
     "imdb_id": "tt29355505"
@@ -18,11 +23,6 @@
     "name": "Moana",
     "type": "movie",
     "imdb_id": "tt27419466"
-  },
-  {
-    "name": "Clash of the Thundermans",
-    "type": "movie",
-    "imdb_id": "tt37752275"
   },
   {
     "name": "Avatar Aang: The Last Airbender",
@@ -40,11 +40,6 @@
     "imdb_id": "tt28650488"
   },
   {
-    "name": "Toy Story",
-    "type": "movie",
-    "imdb_id": "tt0114709"
-  },
-  {
     "name": "LEGO Star Wars: The Mandalorian",
     "type": "movie",
     "imdb_id": "tt43679852"
@@ -55,9 +50,9 @@
     "imdb_id": "tt26443616"
   },
   {
-    "name": "Lilo & Stitch",
+    "name": "Toy Story",
     "type": "movie",
-    "imdb_id": "tt11655566"
+    "imdb_id": "tt0114709"
   },
   {
     "name": "The Sheep Detectives",
@@ -65,9 +60,9 @@
     "imdb_id": "tt32565993"
   },
   {
-    "name": "Monsters, Inc.",
+    "name": "Swapped",
     "type": "movie",
-    "imdb_id": "tt0198781"
+    "imdb_id": "tt29552248"
   },
   {
     "name": "The Wild Robot",
@@ -75,9 +70,9 @@
     "imdb_id": "tt29623480"
   },
   {
-    "name": "Zootopia",
+    "name": "Lilo & Stitch",
     "type": "movie",
-    "imdb_id": "tt2948356"
+    "imdb_id": "tt11655566"
   },
   {
     "name": "Coco",
@@ -85,18 +80,23 @@
     "imdb_id": "tt2380307"
   },
   {
+    "name": "Monsters, Inc.",
+    "type": "movie",
+    "imdb_id": "tt0198781"
+  },
+  {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
+  },
+  {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
+  },
+  {
     "name": "The Lion King",
     "type": "movie",
     "imdb_id": "tt0110357"
-  },
-  {
-    "name": "Toy Story 3",
-    "type": "movie",
-    "imdb_id": "tt0435761"
-  },
-  {
-    "name": "Up",
-    "type": "movie",
-    "imdb_id": "tt1049413"
   }
 ]
