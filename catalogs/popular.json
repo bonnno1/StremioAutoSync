@@ -15,14 +15,14 @@
     "imdb_id": "tt2472450"
   },
   {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
     "name": "Lioness",
     "type": "series",
     "imdb_id": "tt13111078"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
   },
   {
     "name": "Silo",
@@ -40,6 +40,16 @@
     "imdb_id": "tt7587890"
   },
   {
+    "name": "Coronation Street",
+    "type": "series",
+    "imdb_id": "tt0053494"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Paradise Hotel",
     "type": "series",
     "imdb_id": "tt5489690"
@@ -50,14 +60,14 @@
     "imdb_id": "tt3247300"
   },
   {
+    "name": "Lanterns",
+    "type": "series",
+    "imdb_id": "tt26545992"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "Tagesschau",
@@ -68,11 +78,6 @@
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
   },
   {
     "name": "REBORN!",
@@ -93,10 +98,5 @@
     "name": "Law & Order",
     "type": "series",
     "imdb_id": "tt0098844"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
   }
 ]

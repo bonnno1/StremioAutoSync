@@ -40,14 +40,14 @@
     "imdb_id": "tt29516222"
   },
   {
-    "name": "Bury the Devil",
-    "type": "movie",
-    "imdb_id": "tt29719182"
-  },
-  {
     "name": "Blood Covenant",
     "type": "movie",
     "imdb_id": "tt39493762"
+  },
+  {
+    "name": "Bury the Devil",
+    "type": "movie",
+    "imdb_id": "tt29719182"
   },
   {
     "name": "Evil Dead Burn",
@@ -55,9 +55,9 @@
     "imdb_id": "tt31170389"
   },
   {
-    "name": "Obex",
+    "name": "Insidious: Out of the Further",
     "type": "movie",
-    "imdb_id": "tt29544916"
+    "imdb_id": "tt32393988"
   },
   {
     "name": "The Last House",
@@ -65,19 +65,9 @@
     "imdb_id": "tt32268156"
   },
   {
-    "name": "Insidious: Out of the Further",
-    "type": "movie",
-    "imdb_id": "tt32393988"
-  },
-  {
     "name": "Kraken",
     "type": "movie",
     "imdb_id": "tt19838566"
-  },
-  {
-    "name": "Fatal Conspiracy",
-    "type": "movie",
-    "imdb_id": "tt18305922"
   },
   {
     "name": "Buddy",
@@ -85,13 +75,23 @@
     "imdb_id": "tt37281055"
   },
   {
+    "name": "Islands",
+    "type": "movie",
+    "imdb_id": "tt6263802"
+  },
+  {
     "name": "Door",
     "type": "movie",
     "imdb_id": "tt0223150"
   },
   {
-    "name": "Nightborn",
+    "name": "Obex",
     "type": "movie",
-    "imdb_id": "tt34383465"
+    "imdb_id": "tt29544916"
+  },
+  {
+    "name": "Resident Evil",
+    "type": "movie",
+    "imdb_id": "tt35538033"
   }
 ]
