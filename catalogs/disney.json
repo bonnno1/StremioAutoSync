@@ -20,14 +20,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -35,19 +35,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
   },
   {
-    "name": "X-Men '97",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Bullet Bullet",
@@ -55,9 +50,9 @@
     "imdb_id": "tt34710683"
   },
   {
-    "name": "Your Friendly Neighborhood Spider-Man",
+    "name": "X-Men '97",
     "type": "series",
-    "imdb_id": "tt16027074"
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Ahsoka",
@@ -65,9 +60,19 @@
     "imdb_id": "tt13622776"
   },
   {
+    "name": "Your Friendly Neighborhood Spider-Man",
+    "type": "series",
+    "imdb_id": "tt16027074"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Hawkeye",
@@ -80,18 +85,13 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "My Name Is Gutierrez",
-    "type": "series",
-    "imdb_id": "tt39278978"
-  },
-  {
     "name": "Marvel Studios Legends",
     "type": "series",
     "imdb_id": "tt13650480"
+  },
+  {
+    "name": "Monsters at Work",
+    "type": "series",
+    "imdb_id": "tt8610082"
   }
 ]

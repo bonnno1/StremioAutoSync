@@ -1,18 +1,8 @@
 [
   {
-    "name": "Lanterns",
-    "type": "series",
-    "imdb_id": "tt26545992"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
-  },
-  {
-    "name": "The Gentlemen",
-    "type": "series",
-    "imdb_id": "tt13210838"
   },
   {
     "name": "Reacher",
@@ -20,44 +10,29 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Lioness",
+    "name": "Lanterns",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt26545992"
   },
   {
-    "name": "Bleach",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt33298903"
   },
   {
-    "name": "Fauda",
+    "name": "The Gentlemen",
     "type": "series",
-    "imdb_id": "tt4565380"
+    "imdb_id": "tt13210838"
   },
   {
-    "name": "One Piece",
+    "name": "Last Seen",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt6037988"
   },
   {
-    "name": "Futurama",
+    "name": "The Paper",
     "type": "series",
-    "imdb_id": "tt0149460"
-  },
-  {
-    "name": "The Grand Tour",
-    "type": "series",
-    "imdb_id": "tt44974627"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
-    "name": "The Early Spring",
-    "type": "series",
-    "imdb_id": "tt37884717"
+    "imdb_id": "tt32159809"
   },
   {
     "name": "Ted Lasso",
@@ -65,19 +40,39 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "DANG!",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt40003445"
+    "imdb_id": "tt5607616"
   },
   {
-    "name": "Chad Powers",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt31449991"
+    "imdb_id": "tt0434665"
   },
   {
-    "name": "Furious",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt36303968"
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Lioness",
+    "type": "series",
+    "imdb_id": "tt13111078"
+  },
+  {
+    "name": "The Early Spring",
+    "type": "series",
+    "imdb_id": "tt37884717"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
+  },
+  {
+    "name": "The Drop: A Snowfall Saga",
+    "type": "series",
+    "imdb_id": "tt36210894"
   },
   {
     "name": "THE GHOST IN THE SHELL",
@@ -85,18 +80,23 @@
     "imdb_id": "tt36517689"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Fauda",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt4565380"
   },
   {
-    "name": "The Shards",
+    "name": "Futurama",
     "type": "series",
-    "imdb_id": "tt27543562"
+    "imdb_id": "tt0149460"
   },
   {
-    "name": "The Walking Dead: Dead City",
+    "name": "Furious",
     "type": "series",
-    "imdb_id": "tt18546730"
+    "imdb_id": "tt36303968"
+  },
+  {
+    "name": "Chad Powers",
+    "type": "series",
+    "imdb_id": "tt31449991"
   }
 ]

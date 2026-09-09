@@ -75,11 +75,6 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "Marvel's The Punisher",
-    "type": "series",
-    "imdb_id": "tt5675620"
-  },
-  {
     "name": "Marvel's Daredevil",
     "type": "series",
     "imdb_id": "tt3322312"
@@ -93,5 +88,10 @@
     "name": "Emily in Paris",
     "type": "series",
     "imdb_id": "tt8962124"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   }
 ]
