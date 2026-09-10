@@ -15,19 +15,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Doctor Who",
@@ -40,9 +45,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -50,9 +55,9 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Smallville",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "House of the Dragon",
@@ -60,9 +65,9 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Bleach",
+    "name": "Fauda",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt4565380"
   },
   {
     "name": "S.W.A.T.",
@@ -75,14 +80,9 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Jason and the Argonauts",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt0217579"
-  },
-  {
-    "name": "SEAL Team",
-    "type": "series",
-    "imdb_id": "tt6473344"
+    "imdb_id": "tt1600194"
   },
   {
     "name": "Regular Show",
@@ -90,13 +90,13 @@
     "imdb_id": "tt1710308"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "SEAL Team",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt6473344"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt2580046"
   }
 ]

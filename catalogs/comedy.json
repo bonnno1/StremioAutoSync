@@ -10,24 +10,9 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "REBORN!",
     "type": "series",
     "imdb_id": "tt1224144"
-  },
-  {
-    "name": "The Gentlemen",
-    "type": "series",
-    "imdb_id": "tt13210838"
   },
   {
     "name": "Doraemon",
@@ -35,29 +20,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt7587890"
   },
   {
-    "name": "The Late Show with Stephen Colbert",
+    "name": "The Gentlemen",
     "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt13210838"
   },
   {
-    "name": "Late Show with David Letterman",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0106053"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Family Guy",
@@ -65,19 +45,24 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "Young Hearts",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt3444938"
   },
   {
-    "name": "The Daily Show",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt0063951"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt0106053"
+  },
+  {
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
+    "imdb_id": "tt3697842"
   },
   {
     "name": "Shameless",
@@ -85,13 +70,28 @@
     "imdb_id": "tt1586680"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Young Hearts",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt0144724"
   },
   {
-    "name": "The Office",
+    "name": "Men on a Mission",
     "type": "series",
-    "imdb_id": "tt0386676"
+    "imdb_id": "tt5247622"
+  },
+  {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   }
 ]
