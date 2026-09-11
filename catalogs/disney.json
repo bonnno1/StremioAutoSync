@@ -1,5 +1,10 @@
 [
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -10,9 +15,9 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Loki",
+    "name": "The Mandalorian",
     "type": "series",
-    "imdb_id": "tt9140554"
+    "imdb_id": "tt8111088"
   },
   {
     "name": "Bullet Bullet",
@@ -20,9 +25,24 @@
     "imdb_id": "tt34710683"
   },
   {
-    "name": "The Mandalorian",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
+  },
+  {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "What If...?",
@@ -35,29 +55,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
   },
   {
     "name": "Ahsoka",
@@ -65,19 +65,14 @@
     "imdb_id": "tt13622776"
   },
   {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Your Friendly Neighborhood Spider-Man",
-    "type": "series",
-    "imdb_id": "tt16027074"
   },
   {
     "name": "Hawkeye",
@@ -88,6 +83,11 @@
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
   },
   {
     "name": "I Am Groot",

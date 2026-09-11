@@ -45,14 +45,9 @@
     "imdb_id": "tt39493762"
   },
   {
-    "name": "Islands",
+    "name": "Deathwoods",
     "type": "movie",
-    "imdb_id": "tt6263802"
-  },
-  {
-    "name": "Bury the Devil",
-    "type": "movie",
-    "imdb_id": "tt29719182"
+    "imdb_id": "tt30247172"
   },
   {
     "name": "Evil Dead Burn",
@@ -60,14 +55,9 @@
     "imdb_id": "tt31170389"
   },
   {
-    "name": "Door",
+    "name": "Islands",
     "type": "movie",
-    "imdb_id": "tt0223150"
-  },
-  {
-    "name": "The Last House",
-    "type": "movie",
-    "imdb_id": "tt32268156"
+    "imdb_id": "tt6263802"
   },
   {
     "name": "Insidious: Out of the Further",
@@ -80,18 +70,28 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Buddy",
+    "name": "Bury the Devil",
     "type": "movie",
-    "imdb_id": "tt37281055"
-  },
-  {
-    "name": "Deathwoods",
-    "type": "movie",
-    "imdb_id": "tt30247172"
+    "imdb_id": "tt29719182"
   },
   {
     "name": "Resident Evil",
     "type": "movie",
     "imdb_id": "tt35538033"
+  },
+  {
+    "name": "Door",
+    "type": "movie",
+    "imdb_id": "tt0223150"
+  },
+  {
+    "name": "The Last House",
+    "type": "movie",
+    "imdb_id": "tt32268156"
+  },
+  {
+    "name": "Buddy",
+    "type": "movie",
+    "imdb_id": "tt37281055"
   }
 ]
