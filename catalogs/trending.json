@@ -1,13 +1,18 @@
 [
   {
+    "name": "Lanterns",
+    "type": "series",
+    "imdb_id": "tt26545992"
+  },
+  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Lanterns",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt26545992"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "Reacher",
@@ -20,34 +25,9 @@
     "imdb_id": "tt13210838"
   },
   {
-    "name": "Dark Matter",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
-    "name": "Last Seen",
-    "type": "series",
-    "imdb_id": "tt6037988"
-  },
-  {
-    "name": "Crew Girl",
-    "type": "series",
-    "imdb_id": "tt38218082"
-  },
-  {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Against the Current",
-    "type": "series",
-    "imdb_id": "tt32500958"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "One Piece",
@@ -55,34 +35,24 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Lioness",
+    "name": "A Love Other Than Yours",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt43736405"
   },
   {
-    "name": "Stuart Fails to Save the Universe",
+    "name": "Last Seen",
     "type": "series",
-    "imdb_id": "tt27497393"
+    "imdb_id": "tt6037988"
   },
   {
-    "name": "The Perfect Lie",
+    "name": "Dark Matter",
     "type": "series",
-    "imdb_id": "tt37439410"
+    "imdb_id": "tt19231492"
   },
   {
-    "name": "The Grand Tour",
+    "name": "Crew Girl",
     "type": "series",
-    "imdb_id": "tt44974627"
-  },
-  {
-    "name": "Babylon Berlin",
-    "type": "series",
-    "imdb_id": "tt4378376"
-  },
-  {
-    "name": "The Shards",
-    "type": "series",
-    "imdb_id": "tt27543562"
+    "imdb_id": "tt38218082"
   },
   {
     "name": "Ted Lasso",
@@ -90,13 +60,43 @@
     "imdb_id": "tt10986410"
   },
   {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
+  },
+  {
+    "name": "Futurama",
+    "type": "series",
+    "imdb_id": "tt0149460"
+  },
+  {
     "name": "The Early Spring",
     "type": "series",
     "imdb_id": "tt37884717"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "THE GHOST IN THE SHELL",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt36517689"
+  },
+  {
+    "name": "The Shards",
+    "type": "series",
+    "imdb_id": "tt27543562"
+  },
+  {
+    "name": "The Grand Tour",
+    "type": "series",
+    "imdb_id": "tt44974627"
+  },
+  {
+    "name": "Fauda",
+    "type": "series",
+    "imdb_id": "tt4565380"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
   }
 ]

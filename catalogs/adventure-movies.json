@@ -25,14 +25,14 @@
     "imdb_id": "tt29355505"
   },
   {
-    "name": "Batman: Knightfall Part 1: Knightfall",
-    "type": "movie",
-    "imdb_id": "tt32333324"
-  },
-  {
     "name": "Minions & Monsters",
     "type": "movie",
     "imdb_id": "tt32890033"
+  },
+  {
+    "name": "Batman: Knightfall Part 1: Knightfall",
+    "type": "movie",
+    "imdb_id": "tt32333324"
   },
   {
     "name": "Project Hail Mary",
@@ -65,6 +65,11 @@
     "imdb_id": "tt32273171"
   },
   {
+    "name": "PAW Patrol: The Dino Movie",
+    "type": "movie",
+    "imdb_id": "tt29356163"
+  },
+  {
     "name": "Zootopia 2",
     "type": "movie",
     "imdb_id": "tt26443597"
@@ -93,10 +98,5 @@
     "name": "The Avengers",
     "type": "movie",
     "imdb_id": "tt0848228"
-  },
-  {
-    "name": "Avengers: Endgame",
-    "type": "movie",
-    "imdb_id": "tt4154796"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt5489690"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "2 Days and 1 Night",
     "type": "series",
     "imdb_id": "tt3247300"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "REBORN!",
@@ -30,39 +30,14 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "El conquistador",
-    "type": "series",
-    "imdb_id": "tt2472450"
-  },
-  {
     "name": "Lioness",
     "type": "series",
     "imdb_id": "tt13111078"
   },
   {
-    "name": "Silo",
+    "name": "El conquistador",
     "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt2472450"
   },
   {
     "name": "Pelotón",
@@ -70,9 +45,34 @@
     "imdb_id": "tt2084564"
   },
   {
-    "name": "The Rookie",
+    "name": "Tagesschau",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt0246393"
+  },
+  {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "Tomorrow Is Ours",
@@ -80,18 +80,18 @@
     "imdb_id": "tt7124904"
   },
   {
-    "name": "The Gentlemen",
+    "name": "House Rules",
     "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
-    "name": "Lanterns",
-    "type": "series",
-    "imdb_id": "tt26545992"
+    "imdb_id": "tt2931524"
   },
   {
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   }
 ]
