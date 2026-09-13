@@ -10,14 +10,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Last Seen",
@@ -25,14 +25,19 @@
     "imdb_id": "tt6037988"
   },
   {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
-    "name": "For All Mankind",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt7772588"
+    "imdb_id": "tt7203552"
   },
   {
     "name": "Foundation",
@@ -55,24 +60,9 @@
     "imdb_id": "tt22202452"
   },
   {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Central Park",
-    "type": "series",
-    "imdb_id": "tt8129006"
-  },
-  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
-  },
-  {
-    "name": "Sugar",
-    "type": "series",
-    "imdb_id": "tt16418808"
   },
   {
     "name": "See",
@@ -80,14 +70,14 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Your Friends & Neighbors",
+    "name": "Sugar",
     "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt16418808"
   },
   {
-    "name": "Cape Fear",
+    "name": "Central Park",
     "type": "series",
-    "imdb_id": "tt34675596"
+    "imdb_id": "tt8129006"
   },
   {
     "name": "Invasion",
@@ -95,8 +85,18 @@
     "imdb_id": "tt9737326"
   },
   {
-    "name": "Stick",
+    "name": "Your Friends & Neighbors",
     "type": "series",
-    "imdb_id": "tt31710249"
+    "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
   }
 ]

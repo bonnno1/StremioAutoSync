@@ -40,11 +40,6 @@
     "imdb_id": "tt28650488"
   },
   {
-    "name": "LEGO Star Wars: The Mandalorian",
-    "type": "movie",
-    "imdb_id": "tt43679852"
-  },
-  {
     "name": "The Wild Robot",
     "type": "movie",
     "imdb_id": "tt29623480"
@@ -53,6 +48,11 @@
     "name": "Hoppers",
     "type": "movie",
     "imdb_id": "tt26443616"
+  },
+  {
+    "name": "LEGO Star Wars: The Mandalorian",
+    "type": "movie",
+    "imdb_id": "tt43679852"
   },
   {
     "name": "Swapped",
@@ -70,19 +70,24 @@
     "imdb_id": "tt0245429"
   },
   {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
     "name": "Hanuman Ansh",
     "type": "movie",
     "imdb_id": "tt39390582"
   },
   {
+    "name": "GOAT",
+    "type": "movie",
+    "imdb_id": "tt27613895"
+  },
+  {
     "name": "Coco",
     "type": "movie",
     "imdb_id": "tt2380307"
+  },
+  {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
   },
   {
     "name": "The Lion King",
@@ -93,10 +98,5 @@
     "name": "Inside Out",
     "type": "movie",
     "imdb_id": "tt2096673"
-  },
-  {
-    "name": "GOAT",
-    "type": "movie",
-    "imdb_id": "tt27613895"
   }
 ]

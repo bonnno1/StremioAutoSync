@@ -10,19 +10,14 @@
     "imdb_id": "tt1224144"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Game of Thrones",
+    "name": "NCIS",
     "type": "series",
-    "imdb_id": "tt0944947"
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Kamen Rider",
@@ -30,9 +25,9 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Rick and Morty",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt0944947"
   },
   {
     "name": "Fauda",
@@ -40,29 +35,24 @@
     "imdb_id": "tt4565380"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt0434665"
   },
   {
-    "name": "Doctor Who",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt2306299"
   },
   {
-    "name": "Smallville",
+    "name": "Kaiju No. 8",
     "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "House of the Dragon",
-    "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt21975436"
   },
   {
     "name": "Teenage Mutant Ninja Turtles",
@@ -70,24 +60,34 @@
     "imdb_id": "tt1877889"
   },
   {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
+  },
+  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
-  },
-  {
-    "name": "SEAL Team",
-    "type": "series",
-    "imdb_id": "tt6473344"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -95,8 +95,8 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "The Walking Dead",
+    "name": "SEAL Team",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt6473344"
   }
 ]
