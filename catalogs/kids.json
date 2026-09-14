@@ -1,8 +1,8 @@
 [
   {
-    "name": "The Daily Fable",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0294075"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Doraemon",
@@ -10,9 +10,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Sesame Street",
+    "name": "The Daily Fable",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0294075"
   },
   {
     "name": "Teenage Mutant Ninja Turtles",
@@ -25,34 +25,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Peter Rabbit",
-    "type": "series",
-    "imdb_id": "tt2720144"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Xou da Xuxa",
-    "type": "series",
-    "imdb_id": "tt0294228"
-  },
-  {
-    "name": "Sítio do Picapau Amarelo",
-    "type": "series",
-    "imdb_id": "tt0294196"
   },
   {
     "name": "The Bullwinkle Show",
@@ -60,14 +35,29 @@
     "imdb_id": "tt0052507"
   },
   {
-    "name": "The Fairly OddParents",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt3121722"
   },
   {
-    "name": "Doraemon",
+    "name": "Xou da Xuxa",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0294228"
+  },
+  {
+    "name": "Peter Rabbit",
+    "type": "series",
+    "imdb_id": "tt2720144"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Sítio do Picapau Amarelo",
+    "type": "series",
+    "imdb_id": "tt0294196"
   },
   {
     "name": "The Powerpuff Girls",
@@ -75,13 +65,18 @@
     "imdb_id": "tt0175058"
   },
   {
-    "name": "Sinterklaasjournaal",
+    "name": "The Tom and Jerry Show",
     "type": "series",
-    "imdb_id": "tt0445070"
+    "imdb_id": "tt3559124"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "GG Bond",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt24191416"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   }
 ]

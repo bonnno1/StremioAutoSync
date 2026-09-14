@@ -15,14 +15,14 @@
     "imdb_id": "tt37287335"
   },
   {
-    "name": "Above & Below",
-    "type": "movie",
-    "imdb_id": "tt37603783"
-  },
-  {
     "name": "Pinocchio: Unstrung",
     "type": "movie",
     "imdb_id": "tt30887701"
+  },
+  {
+    "name": "Above & Below",
+    "type": "movie",
+    "imdb_id": "tt37603783"
   },
   {
     "name": "Under Your Feet",
@@ -30,19 +30,14 @@
     "imdb_id": "tt6215522"
   },
   {
-    "name": "Backrooms",
-    "type": "movie",
-    "imdb_id": "tt26657236"
-  },
-  {
     "name": "Deep Water",
     "type": "movie",
     "imdb_id": "tt29516222"
   },
   {
-    "name": "Blood Covenant",
+    "name": "Backrooms",
     "type": "movie",
-    "imdb_id": "tt39493762"
+    "imdb_id": "tt26657236"
   },
   {
     "name": "Deathwoods",
@@ -50,14 +45,14 @@
     "imdb_id": "tt30247172"
   },
   {
+    "name": "Blood Covenant",
+    "type": "movie",
+    "imdb_id": "tt39493762"
+  },
+  {
     "name": "Evil Dead Burn",
     "type": "movie",
     "imdb_id": "tt31170389"
-  },
-  {
-    "name": "Islands",
-    "type": "movie",
-    "imdb_id": "tt6263802"
   },
   {
     "name": "Kraken",
@@ -65,14 +60,19 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "The Last House",
-    "type": "movie",
-    "imdb_id": "tt32268156"
-  },
-  {
     "name": "Resident Evil",
     "type": "movie",
     "imdb_id": "tt35538033"
+  },
+  {
+    "name": "Islands",
+    "type": "movie",
+    "imdb_id": "tt6263802"
+  },
+  {
+    "name": "Door",
+    "type": "movie",
+    "imdb_id": "tt0223150"
   },
   {
     "name": "Insidious: Out of the Further",
@@ -80,18 +80,18 @@
     "imdb_id": "tt32393988"
   },
   {
+    "name": "The Last House",
+    "type": "movie",
+    "imdb_id": "tt32268156"
+  },
+  {
+    "name": "Leviticus",
+    "type": "movie",
+    "imdb_id": "tt39143902"
+  },
+  {
     "name": "Bury the Devil",
     "type": "movie",
     "imdb_id": "tt29719182"
-  },
-  {
-    "name": "Buddy",
-    "type": "movie",
-    "imdb_id": "tt37281055"
-  },
-  {
-    "name": "Door",
-    "type": "movie",
-    "imdb_id": "tt0223150"
   }
 ]

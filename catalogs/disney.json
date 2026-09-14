@@ -1,10 +1,5 @@
 [
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
@@ -13,6 +8,11 @@
     "name": "Loki",
     "type": "series",
     "imdb_id": "tt9140554"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Mandalorian",
@@ -30,11 +30,6 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -43,6 +38,11 @@
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
   },
   {
     "name": "A Shop for Killers",
@@ -55,19 +55,14 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
+  },
+  {
     "name": "Bullet Bullet",
     "type": "series",
     "imdb_id": "tt34710683"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
   },
   {
     "name": "Ahsoka",
@@ -75,14 +70,14 @@
     "imdb_id": "tt13622776"
   },
   {
-    "name": "Moving",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt21906238"
   },
   {
-    "name": "Moon Knight",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt8610082"
   },
   {
     "name": "Hawkeye",
@@ -93,5 +88,10 @@
     "name": "Vitória",
     "type": "series",
     "imdb_id": "tt36272837"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   }
 ]

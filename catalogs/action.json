@@ -5,6 +5,11 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
     "name": "REBORN!",
     "type": "series",
     "imdb_id": "tt1224144"
@@ -20,39 +25,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Fauda",
-    "type": "series",
-    "imdb_id": "tt4565380"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
   },
   {
     "name": "Teenage Mutant Ninja Turtles",
@@ -60,9 +35,9 @@
     "imdb_id": "tt1877889"
   },
   {
-    "name": "Smallville",
+    "name": "Fauda",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt4565380"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -75,6 +50,36 @@
     "imdb_id": "tt2771780"
   },
   {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Kaiju No. 8",
+    "type": "series",
+    "imdb_id": "tt21975436"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
@@ -85,18 +90,13 @@
     "imdb_id": "tt11198330"
   },
   {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "SEAL Team",
+    "name": "The Girl",
     "type": "series",
-    "imdb_id": "tt6473344"
+    "imdb_id": "tt5677942"
   }
 ]
