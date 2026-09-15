@@ -20,11 +20,6 @@
     "imdb_id": "tt30887701"
   },
   {
-    "name": "Above & Below",
-    "type": "movie",
-    "imdb_id": "tt37603783"
-  },
-  {
     "name": "Under Your Feet",
     "type": "movie",
     "imdb_id": "tt6215522"
@@ -45,6 +40,11 @@
     "imdb_id": "tt30247172"
   },
   {
+    "name": "Resident Evil",
+    "type": "movie",
+    "imdb_id": "tt35538033"
+  },
+  {
     "name": "Blood Covenant",
     "type": "movie",
     "imdb_id": "tt39493762"
@@ -60,11 +60,6 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Resident Evil",
-    "type": "movie",
-    "imdb_id": "tt35538033"
-  },
-  {
     "name": "Islands",
     "type": "movie",
     "imdb_id": "tt6263802"
@@ -75,14 +70,19 @@
     "imdb_id": "tt0223150"
   },
   {
-    "name": "Insidious: Out of the Further",
-    "type": "movie",
-    "imdb_id": "tt32393988"
-  },
-  {
     "name": "The Last House",
     "type": "movie",
     "imdb_id": "tt32268156"
+  },
+  {
+    "name": "Bury the Devil",
+    "type": "movie",
+    "imdb_id": "tt29719182"
+  },
+  {
+    "name": "Lee Cronin's The Mummy",
+    "type": "movie",
+    "imdb_id": "tt32612507"
   },
   {
     "name": "Leviticus",
@@ -90,8 +90,8 @@
     "imdb_id": "tt39143902"
   },
   {
-    "name": "Bury the Devil",
+    "name": "Insidious: Out of the Further",
     "type": "movie",
-    "imdb_id": "tt29719182"
+    "imdb_id": "tt32393988"
   }
 ]

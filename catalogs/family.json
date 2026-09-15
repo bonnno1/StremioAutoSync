@@ -1,18 +1,13 @@
 [
   {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "X Factor",
+    "name": "Among Friends",
     "type": "series",
-    "imdb_id": "tt1194223"
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Jeopardy!",
@@ -20,14 +15,14 @@
     "imdb_id": "tt0159881"
   },
   {
+    "name": "X Factor",
+    "type": "series",
+    "imdb_id": "tt1194223"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Cuisines des terroirs",
-    "type": "series",
-    "imdb_id": "tt0907704"
   },
   {
     "name": "Uusi Päivä",
@@ -35,14 +30,9 @@
     "imdb_id": "tt1724525"
   },
   {
-    "name": "Jason and the Argonauts",
+    "name": "Cuisines des terroirs",
     "type": "series",
-    "imdb_id": "tt0217579"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt0907704"
   },
   {
     "name": "Rugrats",
@@ -50,34 +40,14 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Bullwinkle Show",
-    "type": "series",
-    "imdb_id": "tt0052507"
-  },
-  {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
-  },
-  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Génial!",
     "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Scènes de ménages",
-    "type": "series",
-    "imdb_id": "tt1533783"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt12985858"
   },
   {
     "name": "Kang's Family",
@@ -85,8 +55,38 @@
     "imdb_id": "tt7803586"
   },
   {
-    "name": "Dallas",
+    "name": "Ulice",
     "type": "series",
-    "imdb_id": "tt0077000"
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
+    "name": "Jason and the Argonauts",
+    "type": "series",
+    "imdb_id": "tt0217579"
+  },
+  {
+    "name": "Scènes de ménages",
+    "type": "series",
+    "imdb_id": "tt1533783"
+  },
+  {
+    "name": "The Bullwinkle Show",
+    "type": "series",
+    "imdb_id": "tt0052507"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   }
 ]

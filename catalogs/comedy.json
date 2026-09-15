@@ -1,8 +1,8 @@
 [
   {
-    "name": "2 Days and 1 Night",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt3247300"
+    "imdb_id": "tt2057880"
   },
   {
     "name": "Sesame Street",
@@ -10,9 +10,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Watch What Happens Live with Andy Cohen",
+    "name": "2 Days and 1 Night",
     "type": "series",
-    "imdb_id": "tt2057880"
+    "imdb_id": "tt3247300"
   },
   {
     "name": "REBORN!",
@@ -20,9 +20,9 @@
     "imdb_id": "tt1224144"
   },
   {
-    "name": "The Simpsons",
+    "name": "Men on a Mission",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt5247622"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -35,19 +35,14 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Men on a Mission",
-    "type": "series",
-    "imdb_id": "tt5247622"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "The Daily Show",
@@ -65,14 +60,14 @@
     "imdb_id": "tt10160132"
   },
   {
-    "name": "The Rookie",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt10986410"
   },
   {
-    "name": "The Office",
+    "name": "N.N.",
     "type": "series",
-    "imdb_id": "tt0386676"
+    "imdb_id": "tt1933865"
   },
   {
     "name": "American Dad!",
@@ -80,18 +75,23 @@
     "imdb_id": "tt0397306"
   },
   {
-    "name": "The Gentlemen",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt13210838"
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "Infinite Challenge",
+    "type": "series",
+    "imdb_id": "tt4546568"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
-  },
-  {
-    "name": "N.N.",
-    "type": "series",
-    "imdb_id": "tt1933865"
   }
 ]
