@@ -30,6 +30,11 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
+  },
+  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
@@ -38,11 +43,6 @@
     "name": "Made in Korea",
     "type": "series",
     "imdb_id": "tt33298903"
-  },
-  {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
   },
   {
     "name": "A Shop for Killers",
@@ -55,29 +55,24 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Vitória",
-    "type": "series",
-    "imdb_id": "tt36272837"
-  },
-  {
     "name": "Rivals",
     "type": "series",
     "imdb_id": "tt21906238"
   },
   {
-    "name": "Ahsoka",
+    "name": "Vitória",
     "type": "series",
-    "imdb_id": "tt13622776"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt36272837"
   },
   {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Ahsoka",
+    "type": "series",
+    "imdb_id": "tt13622776"
   },
   {
     "name": "Hawkeye",
@@ -90,8 +85,13 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt8610082"
+  },
+  {
+    "name": "Marvel Studios Legends",
+    "type": "series",
+    "imdb_id": "tt13650480"
   }
 ]
