@@ -5,24 +5,29 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Raw",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt0185103"
   },
   {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
   },
   {
     "name": "Crew Girl",
@@ -35,11 +40,6 @@
     "imdb_id": "tt10293938"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
@@ -48,11 +48,6 @@
     "name": "Marco Polo",
     "type": "series",
     "imdb_id": "tt2189461"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
   },
   {
     "name": "Black Mirror",
@@ -65,9 +60,14 @@
     "imdb_id": "tt31260386"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt3398228"
+  },
+  {
+    "name": "LEGO DREAMZzz",
+    "type": "series",
+    "imdb_id": "tt27613744"
   },
   {
     "name": "Alice in Borderland",
@@ -75,19 +75,14 @@
     "imdb_id": "tt10795658"
   },
   {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "Avatar: The Last Airbender",
     "type": "series",
     "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "LEGO DREAMZzz",
-    "type": "series",
-    "imdb_id": "tt27613744"
   },
   {
     "name": "Squid Game",
@@ -98,5 +93,10 @@
     "name": "Our Sticky Love",
     "type": "series",
     "imdb_id": "tt36955608"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
   }
 ]

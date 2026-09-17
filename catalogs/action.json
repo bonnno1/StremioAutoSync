@@ -5,6 +5,11 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
     "name": "REBORN!",
     "type": "series",
     "imdb_id": "tt1224144"
@@ -20,19 +25,19 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
+    "name": "A Record of a Mortal's Journey to Immortality",
     "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt12879782"
   },
   {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -45,9 +50,9 @@
     "imdb_id": "tt4565380"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "The Girl",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt5677942"
   },
   {
     "name": "Rick and Morty",
@@ -55,24 +60,9 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "The Girl",
-    "type": "series",
-    "imdb_id": "tt5677942"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Kaiju No. 8",
-    "type": "series",
-    "imdb_id": "tt21975436"
   },
   {
     "name": "Vikings",
@@ -80,9 +70,9 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "Smallville",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Prison Break",
@@ -90,13 +80,23 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Fate/stay night",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt0774809"
   },
   {
-    "name": "Doctor Who",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
   }
 ]

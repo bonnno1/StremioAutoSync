@@ -45,14 +45,14 @@
     "imdb_id": "tt0115147"
   },
   {
+    "name": "N.N.",
+    "type": "series",
+    "imdb_id": "tt1933865"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
   },
   {
     "name": "Amazing Saturday",
@@ -60,24 +60,14 @@
     "imdb_id": "tt10160132"
   },
   {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
-  },
-  {
-    "name": "N.N.",
-    "type": "series",
-    "imdb_id": "tt1933865"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
   },
   {
     "name": "Infinite Challenge",
@@ -85,13 +75,23 @@
     "imdb_id": "tt4546568"
   },
   {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
   },
   {
-    "name": "The Late Show with Stephen Colbert",
+    "name": "Uusi Päivä",
     "type": "series",
-    "imdb_id": "tt3697842"
+    "imdb_id": "tt1724525"
+  },
+  {
+    "name": "Spotlight",
+    "type": "series",
+    "imdb_id": "tt6222202"
   }
 ]

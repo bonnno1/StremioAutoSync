@@ -5,6 +5,11 @@
     "imdb_id": "tt34385135"
   },
   {
+    "name": "Resident Evil",
+    "type": "movie",
+    "imdb_id": "tt35538033"
+  },
+  {
     "name": "Ghost in the Cell",
     "type": "movie",
     "imdb_id": "tt9000310"
@@ -20,19 +25,9 @@
     "imdb_id": "tt30887701"
   },
   {
-    "name": "Resident Evil",
-    "type": "movie",
-    "imdb_id": "tt35538033"
-  },
-  {
     "name": "Deep Water",
     "type": "movie",
     "imdb_id": "tt29516222"
-  },
-  {
-    "name": "Under Your Feet",
-    "type": "movie",
-    "imdb_id": "tt6215522"
   },
   {
     "name": "Backrooms",
@@ -40,14 +35,24 @@
     "imdb_id": "tt26657236"
   },
   {
-    "name": "Deathwoods",
+    "name": "Under Your Feet",
     "type": "movie",
-    "imdb_id": "tt30247172"
+    "imdb_id": "tt6215522"
+  },
+  {
+    "name": "The Last Kiss",
+    "type": "movie",
+    "imdb_id": "tt33253206"
   },
   {
     "name": "Evil Dead Burn",
     "type": "movie",
     "imdb_id": "tt31170389"
+  },
+  {
+    "name": "Deathwoods",
+    "type": "movie",
+    "imdb_id": "tt30247172"
   },
   {
     "name": "Blood Covenant",
@@ -60,29 +65,9 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Insidious: Out of the Further",
+    "name": "Dr. Jekyll Likes Them Hot",
     "type": "movie",
-    "imdb_id": "tt32393988"
-  },
-  {
-    "name": "The Last House",
-    "type": "movie",
-    "imdb_id": "tt32268156"
-  },
-  {
-    "name": "The Last Kiss",
-    "type": "movie",
-    "imdb_id": "tt33253206"
-  },
-  {
-    "name": "Nun in Rope Hell",
-    "type": "movie",
-    "imdb_id": "tt0391904"
-  },
-  {
-    "name": "Islands",
-    "type": "movie",
-    "imdb_id": "tt6263802"
+    "imdb_id": "tt0079068"
   },
   {
     "name": "Leviticus",
@@ -90,13 +75,28 @@
     "imdb_id": "tt39143902"
   },
   {
+    "name": "Insidious: Out of the Further",
+    "type": "movie",
+    "imdb_id": "tt32393988"
+  },
+  {
+    "name": "Project Sacrifice",
+    "type": "movie",
+    "imdb_id": "tt38497679"
+  },
+  {
     "name": "Lee Cronin's The Mummy",
     "type": "movie",
     "imdb_id": "tt32612507"
   },
   {
-    "name": "Door",
+    "name": "The Substance",
     "type": "movie",
-    "imdb_id": "tt0223150"
+    "imdb_id": "tt17526714"
+  },
+  {
+    "name": "The Last House",
+    "type": "movie",
+    "imdb_id": "tt32268156"
   }
 ]

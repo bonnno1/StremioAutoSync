@@ -1,23 +1,18 @@
 [
   {
-    "name": "Neagley",
-    "type": "series",
-    "imdb_id": "tt33539520"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Slow Horses",
+    "name": "Neagley",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt33539520"
   },
   {
-    "name": "City of Blood",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt32642114"
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Lanterns",
@@ -25,44 +20,34 @@
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Stranger Things: Tales from '85",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt27486290"
   },
   {
-    "name": "Last Seen",
+    "name": "Star Trek: Strange New Worlds",
     "type": "series",
-    "imdb_id": "tt6037988"
+    "imdb_id": "tt12327578"
   },
   {
-    "name": "Silo",
+    "name": "MobLand",
     "type": "series",
-    "imdb_id": "tt14688458"
+    "imdb_id": "tt31510819"
   },
   {
-    "name": "Route 187",
+    "name": "City of Blood",
     "type": "series",
-    "imdb_id": "tt32132697"
+    "imdb_id": "tt32642114"
   },
   {
-    "name": "Made in Korea",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt33298903"
+    "imdb_id": "tt5875444"
   },
   {
-    "name": "The Gentlemen",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "One Piece",
@@ -75,9 +60,14 @@
     "imdb_id": "tt33184638"
   },
   {
-    "name": "Lioness",
+    "name": "Silo",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
   },
   {
     "name": "Golden Axe",
@@ -85,9 +75,9 @@
     "imdb_id": "tt32149571"
   },
   {
-    "name": "Crew Girl",
+    "name": "Plastic Beauty",
     "type": "series",
-    "imdb_id": "tt38218082"
+    "imdb_id": "tt37884325"
   },
   {
     "name": "The Walking Dead: Dead City",
@@ -95,8 +85,13 @@
     "imdb_id": "tt18546730"
   },
   {
-    "name": "Minimum Security",
+    "name": "Ted Lasso",
     "type": "series",
-    "imdb_id": "tt44924447"
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "The Gentlemen",
+    "type": "series",
+    "imdb_id": "tt13210838"
   }
 ]
