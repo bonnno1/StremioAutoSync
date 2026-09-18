@@ -5,19 +5,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "The Gentlemen",
-    "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "C.I.D.",
@@ -25,19 +15,19 @@
     "imdb_id": "tt0401916"
   },
   {
+    "name": "The Gentlemen",
+    "type": "series",
+    "imdb_id": "tt13210838"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
-  },
-  {
-    "name": "Crew Girl",
-    "type": "series",
-    "imdb_id": "tt38218082"
-  },
-  {
-    "name": "Outer Banks",
-    "type": "series",
-    "imdb_id": "tt10293938"
   },
   {
     "name": "Lucifer",
@@ -45,9 +35,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Marco Polo",
+    "name": "Outer Banks",
     "type": "series",
-    "imdb_id": "tt2189461"
+    "imdb_id": "tt10293938"
+  },
+  {
+    "name": "Crew Girl",
+    "type": "series",
+    "imdb_id": "tt38218082"
   },
   {
     "name": "Black Mirror",
@@ -60,9 +55,29 @@
     "imdb_id": "tt31260386"
   },
   {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Marco Polo",
+    "type": "series",
+    "imdb_id": "tt2189461"
   },
   {
     "name": "LEGO DREAMZzz",
@@ -75,28 +90,8 @@
     "imdb_id": "tt10795658"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Our Sticky Love",
-    "type": "series",
-    "imdb_id": "tt36955608"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
+    "imdb_id": "tt0458290"
   }
 ]

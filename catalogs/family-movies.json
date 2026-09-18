@@ -15,14 +15,14 @@
     "imdb_id": "tt29355505"
   },
   {
-    "name": "Clash of the Thundermans",
-    "type": "movie",
-    "imdb_id": "tt37752275"
-  },
-  {
     "name": "Minions & Monsters",
     "type": "movie",
     "imdb_id": "tt32890033"
+  },
+  {
+    "name": "Clash of the Thundermans",
+    "type": "movie",
+    "imdb_id": "tt37752275"
   },
   {
     "name": "PAW Patrol: The Dino Movie",
@@ -50,14 +50,14 @@
     "imdb_id": "tt29623480"
   },
   {
-    "name": "Hoppers",
-    "type": "movie",
-    "imdb_id": "tt26443616"
-  },
-  {
     "name": "Snow White",
     "type": "movie",
     "imdb_id": "tt6208148"
+  },
+  {
+    "name": "Hoppers",
+    "type": "movie",
+    "imdb_id": "tt26443616"
   },
   {
     "name": "Spirited Away",
@@ -65,19 +65,14 @@
     "imdb_id": "tt0245429"
   },
   {
-    "name": "Monsters, Inc.",
-    "type": "movie",
-    "imdb_id": "tt0198781"
-  },
-  {
     "name": "Swapped",
     "type": "movie",
     "imdb_id": "tt29552248"
   },
   {
-    "name": "The Lion King",
+    "name": "Toy Story 2",
     "type": "movie",
-    "imdb_id": "tt0110357"
+    "imdb_id": "tt0120363"
   },
   {
     "name": "Coco",
@@ -85,18 +80,23 @@
     "imdb_id": "tt2380307"
   },
   {
-    "name": "Coraline",
+    "name": "Monsters, Inc.",
     "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
-    "name": "Big Hero 6",
-    "type": "movie",
-    "imdb_id": "tt2245084"
+    "imdb_id": "tt0198781"
   },
   {
     "name": "Toy Story",
     "type": "movie",
     "imdb_id": "tt0114709"
+  },
+  {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
+  },
+  {
+    "name": "The Lion King",
+    "type": "movie",
+    "imdb_id": "tt0110357"
   }
 ]

@@ -5,19 +5,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
-    "name": "REBORN!",
-    "type": "series",
-    "imdb_id": "tt1224144"
-  },
-  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
   },
   {
     "name": "Doraemon",
@@ -35,6 +30,11 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "REBORN!",
+    "type": "series",
+    "imdb_id": "tt1224144"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -45,19 +45,14 @@
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Fauda",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt4565380"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "The Girl",
+    "name": "Regular Show",
     "type": "series",
-    "imdb_id": "tt5677942"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt1710308"
   },
   {
     "name": "Bleach",
@@ -65,29 +60,19 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Vikings",
+    "name": "Fauda",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt4565380"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt2861424"
   },
   {
-    "name": "Prison Break",
+    "name": "The Girl",
     "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Fate/stay night",
-    "type": "series",
-    "imdb_id": "tt0774809"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt5677942"
   },
   {
     "name": "Pokémon",
@@ -95,8 +80,23 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "House of the Dragon",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt11198330"
+    "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt0306368"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Neagley",
     "type": "series",
     "imdb_id": "tt33539520"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Boys",
@@ -40,14 +40,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
-    "type": "series",
-    "imdb_id": "tt26576161"
-  },
-  {
     "name": "INVINCIBLE",
     "type": "series",
     "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   },
   {
     "name": "LEGO DREAMZzz",
@@ -55,39 +55,14 @@
     "imdb_id": "tt27613744"
   },
   {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "Off Campus",
     "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Power of Love",
-    "type": "series",
-    "imdb_id": "tt24060116"
-  },
-  {
-    "name": "Tom Clancy's Jack Ryan",
-    "type": "series",
-    "imdb_id": "tt5057054"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt33546863"
   },
   {
     "name": "The Trial",
@@ -95,8 +70,28 @@
     "imdb_id": "tt33023009"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "Bosch",
     "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Helluva Boss",
+    "type": "series",
+    "imdb_id": "tt10691770"
+  },
+  {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
   }
 ]
