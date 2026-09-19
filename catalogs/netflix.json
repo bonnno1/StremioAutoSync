@@ -1,18 +1,23 @@
 [
   {
+    "name": "The Scandal",
+    "type": "series",
+    "imdb_id": "tt36347588"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "The Gentlemen",
@@ -30,44 +35,14 @@
     "imdb_id": "tt4087032"
   },
   {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "Outer Banks",
-    "type": "series",
-    "imdb_id": "tt10293938"
-  },
-  {
-    "name": "Crew Girl",
-    "type": "series",
-    "imdb_id": "tt38218082"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
-    "name": "Beauty in Black",
-    "type": "series",
-    "imdb_id": "tt31260386"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
-    "name": "Avatar: The Last Airbender",
-    "type": "series",
-    "imdb_id": "tt9018736"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -75,23 +50,43 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Marco Polo",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt2189461"
+    "imdb_id": "tt2085059"
   },
   {
-    "name": "LEGO DREAMZzz",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt27613744"
+    "imdb_id": "tt3398228"
   },
   {
-    "name": "Alice in Borderland",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt10795658"
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Crew Girl",
+    "type": "series",
+    "imdb_id": "tt38218082"
   },
   {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Outer Banks",
+    "type": "series",
+    "imdb_id": "tt10293938"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
   }
 ]

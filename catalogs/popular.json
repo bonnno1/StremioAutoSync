@@ -1,5 +1,10 @@
 [
   {
+    "name": "The Scandal",
+    "type": "series",
+    "imdb_id": "tt36347588"
+  },
+  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -20,14 +25,14 @@
     "imdb_id": "tt2084564"
   },
   {
-    "name": "Lioness",
-    "type": "series",
-    "imdb_id": "tt13111078"
-  },
-  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Lioness",
+    "type": "series",
+    "imdb_id": "tt13111078"
   },
   {
     "name": "The Mentalist",
@@ -80,18 +85,13 @@
     "imdb_id": "tt0486240"
   },
   {
+    "name": "The Daily Show",
+    "type": "series",
+    "imdb_id": "tt0115147"
+  },
+  {
     "name": "American Dad!",
     "type": "series",
     "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   }
 ]

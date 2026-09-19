@@ -1,15 +1,5 @@
 [
   {
-    "name": "The Scandal",
-    "type": "series",
-    "imdb_id": "tt36347588"
-  },
-  {
-    "name": "MobLand",
-    "type": "series",
-    "imdb_id": "tt31510819"
-  },
-  {
     "name": "Neagley",
     "type": "series",
     "imdb_id": "tt33539520"
@@ -20,9 +10,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Dark Matter",
+    "name": "MobLand",
     "type": "series",
-    "imdb_id": "tt19231492"
+    "imdb_id": "tt31510819"
+  },
+  {
+    "name": "The Scandal",
+    "type": "series",
+    "imdb_id": "tt36347588"
   },
   {
     "name": "Lanterns",
@@ -30,14 +25,9 @@
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Lioness",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt13111078"
-  },
-  {
-    "name": "City of Blood",
-    "type": "series",
-    "imdb_id": "tt32642114"
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Slow Horses",
@@ -45,39 +35,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
     "name": "Has Fallen",
     "type": "series",
     "imdb_id": "tt33184638"
   },
   {
-    "name": "Star Trek: Strange New Worlds",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt12327578"
-  },
-  {
-    "name": "Stuart Fails to Save the Universe",
-    "type": "series",
-    "imdb_id": "tt27497393"
-  },
-  {
-    "name": "Against the Current",
-    "type": "series",
-    "imdb_id": "tt32500958"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "One Piece",
@@ -85,13 +50,48 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Silo",
+    "type": "series",
+    "imdb_id": "tt14688458"
+  },
+  {
     "name": "Stranger Things: Tales from '85",
     "type": "series",
     "imdb_id": "tt27486290"
   },
   {
-    "name": "Crew Girl",
+    "name": "City of Blood",
     "type": "series",
-    "imdb_id": "tt38218082"
+    "imdb_id": "tt32642114"
+  },
+  {
+    "name": "Outlander: Blood of My Blood",
+    "type": "series",
+    "imdb_id": "tt18332852"
+  },
+  {
+    "name": "Against the Current",
+    "type": "series",
+    "imdb_id": "tt32500958"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "type": "series",
+    "imdb_id": "tt12327578"
   }
 ]

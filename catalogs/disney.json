@@ -15,14 +15,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "City of Blood",
-    "type": "series",
-    "imdb_id": "tt32642114"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "City of Blood",
+    "type": "series",
+    "imdb_id": "tt32642114"
   },
   {
     "name": "Daredevil: Born Again",
@@ -30,14 +30,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Andor",
@@ -45,24 +45,14 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
-  },
-  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
   },
   {
-    "name": "A Shop for Killers",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt26450613"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
+    "imdb_id": "tt33298903"
   },
   {
     "name": "Moon Knight",
@@ -70,9 +60,9 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Ahsoka",
+    "name": "A Shop for Killers",
     "type": "series",
-    "imdb_id": "tt13622776"
+    "imdb_id": "tt26450613"
   },
   {
     "name": "Hawkeye",
@@ -85,13 +75,23 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Moving",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt21906238"
   },
   {
-    "name": "Vitória",
+    "name": "Ahsoka",
     "type": "series",
-    "imdb_id": "tt36272837"
+    "imdb_id": "tt13622776"
+  },
+  {
+    "name": "Monsters at Work",
+    "type": "series",
+    "imdb_id": "tt8610082"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   }
 ]

@@ -15,14 +15,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "Dark Matter",
     "type": "series",
     "imdb_id": "tt19231492"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
   },
   {
     "name": "For All Mankind",
@@ -35,24 +35,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Last Seen",
-    "type": "series",
-    "imdb_id": "tt6037988"
-  },
-  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Extrapolations",
-    "type": "series",
-    "imdb_id": "tt13821126"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   },
   {
     "name": "The Morning Show",
@@ -60,9 +45,14 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Shrinking",
+    "name": "Last Seen",
     "type": "series",
-    "imdb_id": "tt15677150"
+    "imdb_id": "tt6037988"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
   },
   {
     "name": "See",
@@ -70,14 +60,24 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Lucky",
+    "name": "Shrinking",
     "type": "series",
-    "imdb_id": "tt34866681"
+    "imdb_id": "tt15677150"
+  },
+  {
+    "name": "Extrapolations",
+    "type": "series",
+    "imdb_id": "tt13821126"
   },
   {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Lucky",
+    "type": "series",
+    "imdb_id": "tt34866681"
   },
   {
     "name": "Invasion",
@@ -90,13 +90,13 @@
     "imdb_id": "tt16418808"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
+  },
+  {
+    "name": "Hijack",
+    "type": "series",
+    "imdb_id": "tt19854762"
   }
 ]
