@@ -10,14 +10,19 @@
     "imdb_id": "tt0063951"
   },
   {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
+  },
+  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Raw",
+    "name": "Good Mythical Morning",
     "type": "series",
-    "imdb_id": "tt0185103"
+    "imdb_id": "tt4087032"
   },
   {
     "name": "The Gentlemen",
@@ -30,16 +35,6 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
@@ -50,29 +45,24 @@
     "imdb_id": "tt2359704"
   },
   {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
   },
   {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Crew Girl",
-    "type": "series",
-    "imdb_id": "tt38218082"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   },
   {
     "name": "Outer Banks",
@@ -85,8 +75,18 @@
     "imdb_id": "tt9018736"
   },
   {
-    "name": "Bridgerton",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Arrested Development",
+    "type": "series",
+    "imdb_id": "tt0367279"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   }
 ]
