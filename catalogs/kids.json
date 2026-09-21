@@ -1,13 +1,13 @@
 [
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "The Daily Fable",
@@ -25,34 +25,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Spidey and His Amazing Friends",
-    "type": "series",
-    "imdb_id": "tt10862280"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt0131613"
-  },
-  {
-    "name": "CBeebies Bedtime Stories",
-    "type": "series",
-    "imdb_id": "tt1631912"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
   },
   {
     "name": "LEGO Ninjago: Dragons Rising",
@@ -60,14 +35,54 @@
     "imdb_id": "tt27502465"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Spidey and His Amazing Friends",
+    "type": "series",
+    "imdb_id": "tt10862280"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Chiikawa",
+    "type": "series",
+    "imdb_id": "tt26997679"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "The Fairly OddParents",
@@ -78,15 +93,5 @@
     "name": "Rua Sésamo",
     "type": "series",
     "imdb_id": "tt0121015"
-  },
-  {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
-    "name": "The Bullwinkle Show",
-    "type": "series",
-    "imdb_id": "tt0052507"
   }
 ]

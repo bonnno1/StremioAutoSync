@@ -55,6 +55,11 @@
     "imdb_id": "tt3444938"
   },
   {
+    "name": "Lioness",
+    "type": "series",
+    "imdb_id": "tt13111078"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
@@ -88,10 +93,5 @@
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
   }
 ]

@@ -5,6 +5,11 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
@@ -15,19 +20,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "NCIS",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
+    "imdb_id": "tt13293588"
   },
   {
     "name": "Bleach",
@@ -35,14 +30,29 @@
     "imdb_id": "tt0434665"
   },
   {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt1877889"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Hawaii Five-0",
@@ -60,34 +70,14 @@
     "imdb_id": "tt1710308"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "Renegade Immortal",
-    "type": "series",
-    "imdb_id": "tt27432264"
-  },
-  {
-    "name": "REBORN!",
-    "type": "series",
-    "imdb_id": "tt1224144"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "FBI",
@@ -98,5 +88,15 @@
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Arrow",
+    "type": "series",
+    "imdb_id": "tt2193021"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
   }
 ]

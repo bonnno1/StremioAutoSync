@@ -1,18 +1,13 @@
 [
   {
-    "name": "Lioness",
+    "name": "Neagley",
     "type": "series",
-    "imdb_id": "tt13111078"
+    "imdb_id": "tt33539520"
   },
   {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Neagley",
-    "type": "series",
-    "imdb_id": "tt33539520"
   },
   {
     "name": "MobLand",
@@ -25,9 +20,9 @@
     "imdb_id": "tt26545992"
   },
   {
-    "name": "American Hostage",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt30051064"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "The Scandal",
@@ -35,14 +30,29 @@
     "imdb_id": "tt36347588"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "Lioness",
     "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt13111078"
   },
   {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Skeleton Knight in Another World",
+    "type": "series",
+    "imdb_id": "tt14476236"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "City of Blood",
+    "type": "series",
+    "imdb_id": "tt32642114"
   },
   {
     "name": "Has Fallen",
@@ -55,9 +65,14 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "South Park",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Stranger Things: Tales from '85",
+    "type": "series",
+    "imdb_id": "tt27486290"
   },
   {
     "name": "Silo",
@@ -65,33 +80,18 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
   },
   {
-    "name": "City of Blood",
+    "name": "Futurama",
     "type": "series",
-    "imdb_id": "tt32642114"
+    "imdb_id": "tt0149460"
   },
   {
-    "name": "The Gentlemen",
+    "name": "American Hostage",
     "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
-    "name": "Stranger Things: Tales from '85",
-    "type": "series",
-    "imdb_id": "tt27486290"
+    "imdb_id": "tt30051064"
   }
 ]
