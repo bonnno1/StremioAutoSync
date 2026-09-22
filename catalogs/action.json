@@ -15,14 +15,19 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Bleach",
@@ -40,16 +45,6 @@
     "imdb_id": "tt27432264"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -65,14 +60,14 @@
     "imdb_id": "tt0112022"
   },
   {
-    "name": "Regular Show",
-    "type": "series",
-    "imdb_id": "tt1710308"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Regular Show",
+    "type": "series",
+    "imdb_id": "tt1710308"
   },
   {
     "name": "Pokémon",
@@ -80,23 +75,28 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Arrow",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt2193021"
+    "imdb_id": "tt7491982"
   },
   {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
   }
 ]

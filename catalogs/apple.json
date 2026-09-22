@@ -20,14 +20,14 @@
     "imdb_id": "tt33332385"
   },
   {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
     "name": "Dark Matter",
     "type": "series",
     "imdb_id": "tt19231492"
+  },
+  {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
   },
   {
     "name": "Severance",
@@ -50,14 +50,19 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "See",
+    "type": "series",
+    "imdb_id": "tt7949218"
+  },
+  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
   },
   {
-    "name": "See",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt7949218"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "Last Seen",
@@ -65,9 +70,19 @@
     "imdb_id": "tt6037988"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Shantaram",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt0429087"
+  },
+  {
+    "name": "Sugar",
+    "type": "series",
+    "imdb_id": "tt16418808"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Lucky",
@@ -80,23 +95,8 @@
     "imdb_id": "tt13821126"
   },
   {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
-  },
-  {
-    "name": "Sugar",
-    "type": "series",
-    "imdb_id": "tt16418808"
-  },
-  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
-  },
-  {
-    "name": "Mythic Quest",
-    "type": "series",
-    "imdb_id": "tt8879940"
   }
 ]
