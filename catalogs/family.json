@@ -1,5 +1,10 @@
 [
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
@@ -8,11 +13,6 @@
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
   },
   {
     "name": "Uusi Päivä",
@@ -30,6 +30,11 @@
     "imdb_id": "tt0106004"
   },
   {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
@@ -40,34 +45,9 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
-  },
-  {
-    "name": "Pushpa Impossible",
-    "type": "series",
-    "imdb_id": "tt20872936"
-  },
-  {
-    "name": "Kang's Family",
-    "type": "series",
-    "imdb_id": "tt7803586"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
   },
   {
     "name": "Diagnosis: Murder",
@@ -75,18 +55,38 @@
     "imdb_id": "tt0105986"
   },
   {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Anne Shirley",
+    "type": "series",
+    "imdb_id": "tt34702901"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "Jason and the Argonauts",
     "type": "series",
     "imdb_id": "tt0217579"
-  },
-  {
-    "name": "Touched by an Angel",
-    "type": "series",
-    "imdb_id": "tt0108968"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
   }
 ]

@@ -35,21 +35,6 @@
     "imdb_id": "tt13111078"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
-  },
-  {
-    "name": "The Late Late Show with James Corden",
-    "type": "series",
-    "imdb_id": "tt4280606"
-  },
-  {
-    "name": "Tagesschau",
-    "type": "series",
-    "imdb_id": "tt0246393"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -60,9 +45,14 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
   },
   {
     "name": "Late Night with Seth Meyers",
@@ -70,9 +60,14 @@
     "imdb_id": "tt3513388"
   },
   {
-    "name": "Family Guy",
+    "name": "The Late Late Show with James Corden",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt4280606"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "American Dad!",
@@ -88,6 +83,11 @@
     "name": "Grey's Anatomy",
     "type": "series",
     "imdb_id": "tt0413573"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Kelly Clarkson Show",
