@@ -10,19 +10,9 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
   },
   {
     "name": "Doraemon",
@@ -30,9 +20,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Renegade Immortal",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt27432264"
+    "imdb_id": "tt13293588"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
   },
   {
     "name": "Game of Thrones",
@@ -43,11 +38,6 @@
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Arrow",
-    "type": "series",
-    "imdb_id": "tt2193021"
   },
   {
     "name": "Hawaii Five-0",
@@ -65,29 +55,14 @@
     "imdb_id": "tt0112022"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Regular Show",
-    "type": "series",
-    "imdb_id": "tt1710308"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
   },
   {
     "name": "24",
@@ -95,8 +70,33 @@
     "imdb_id": "tt0285331"
   },
   {
+    "name": "REBORN!",
+    "type": "series",
+    "imdb_id": "tt1224144"
+  },
+  {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
   }
 ]

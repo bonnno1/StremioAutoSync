@@ -10,11 +10,6 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
@@ -25,19 +20,9 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Loki",
     "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Made in Korea",
-    "type": "series",
-    "imdb_id": "tt33298903"
+    "imdb_id": "tt9140554"
   },
   {
     "name": "What If...?",
@@ -45,19 +30,29 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "X-Men '97",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt16026746"
-  },
-  {
-    "name": "City of Blood",
-    "type": "series",
-    "imdb_id": "tt32642114"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Made in Korea",
+    "type": "series",
+    "imdb_id": "tt33298903"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
   },
   {
     "name": "Star Wars: Visions",
@@ -70,14 +65,9 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Hawkeye",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt8610082"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -85,9 +75,19 @@
     "imdb_id": "tt20674124"
   },
   {
-    "name": "Monsters at Work",
+    "name": "City of Blood",
     "type": "series",
-    "imdb_id": "tt8610082"
+    "imdb_id": "tt32642114"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Rivals",

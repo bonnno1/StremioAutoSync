@@ -35,6 +35,11 @@
     "imdb_id": "tt36893729"
   },
   {
+    "name": "Resident Evil: Welcome to Raccoon City",
+    "type": "movie",
+    "imdb_id": "tt6920084"
+  },
+  {
     "name": "Project Sacrifice",
     "type": "movie",
     "imdb_id": "tt38497679"
@@ -43,16 +48,6 @@
     "name": "Backrooms",
     "type": "movie",
     "imdb_id": "tt26657236"
-  },
-  {
-    "name": "Resident Evil: Welcome to Raccoon City",
-    "type": "movie",
-    "imdb_id": "tt6920084"
-  },
-  {
-    "name": "Portal to Hell",
-    "type": "movie",
-    "imdb_id": "tt29543015"
   },
   {
     "name": "Ghost in the Cell",
@@ -65,9 +60,19 @@
     "imdb_id": "tt29516222"
   },
   {
+    "name": "Portal to Hell",
+    "type": "movie",
+    "imdb_id": "tt29543015"
+  },
+  {
     "name": "Black Gold",
     "type": "movie",
     "imdb_id": "tt21220878"
+  },
+  {
+    "name": "Let Us Prey",
+    "type": "movie",
+    "imdb_id": "tt3148348"
   },
   {
     "name": "Evil Dead Burn",
@@ -75,14 +80,9 @@
     "imdb_id": "tt31170389"
   },
   {
-    "name": "The Last Kiss",
+    "name": "Insidious: Out of the Further",
     "type": "movie",
-    "imdb_id": "tt33253206"
-  },
-  {
-    "name": "Dr. Jekyll Likes Them Hot",
-    "type": "movie",
-    "imdb_id": "tt0079068"
+    "imdb_id": "tt32393988"
   },
   {
     "name": "Kraken",
@@ -90,13 +90,13 @@
     "imdb_id": "tt19838566"
   },
   {
-    "name": "Insidious: Out of the Further",
+    "name": "Hold the Fort",
     "type": "movie",
-    "imdb_id": "tt32393988"
+    "imdb_id": "tt29926644"
   },
   {
-    "name": "Halloween",
+    "name": "The Last Kiss",
     "type": "movie",
-    "imdb_id": "tt0077651"
+    "imdb_id": "tt33253206"
   }
 ]
