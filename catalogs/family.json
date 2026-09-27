@@ -25,11 +25,6 @@
     "imdb_id": "tt1724525"
   },
   {
-    "name": "What's My Line?",
-    "type": "series",
-    "imdb_id": "tt0042168"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -40,14 +35,19 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "King of the Hill",
+    "type": "series",
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Against the Current",
+    "type": "series",
+    "imdb_id": "tt32500958"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
   },
   {
     "name": "Diagnosis: Murder",
@@ -55,14 +55,19 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "King of the Hill",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt2771780"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Kang's Family",
+    "type": "series",
+    "imdb_id": "tt7803586"
   },
   {
     "name": "Young Sheldon",
@@ -75,14 +80,9 @@
     "imdb_id": "tt0484918"
   },
   {
-    "name": "Rugrats",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -90,8 +90,8 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt0069576"
   }
 ]
