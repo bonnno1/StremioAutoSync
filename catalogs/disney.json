@@ -20,24 +20,24 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Andor",
@@ -55,19 +55,9 @@
     "imdb_id": "tt33298903"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -75,14 +65,24 @@
     "imdb_id": "tt20674124"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Monsters at Work",
+    "type": "series",
+    "imdb_id": "tt8610082"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Hawkeye",
@@ -90,8 +90,8 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt21906238"
   }
 ]

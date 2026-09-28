@@ -15,19 +15,14 @@
     "imdb_id": "tt37287335"
   },
   {
-    "name": "Pinocchio: Unstrung",
-    "type": "movie",
-    "imdb_id": "tt30887701"
-  },
-  {
-    "name": "Teenage Sex and Death at Camp Miasma",
-    "type": "movie",
-    "imdb_id": "tt35298123"
-  },
-  {
     "name": "Resident Evil: Welcome to Raccoon City",
     "type": "movie",
     "imdb_id": "tt6920084"
+  },
+  {
+    "name": "Pinocchio: Unstrung",
+    "type": "movie",
+    "imdb_id": "tt30887701"
   },
   {
     "name": "Ice Cream Man",
@@ -35,9 +30,19 @@
     "imdb_id": "tt36893729"
   },
   {
+    "name": "Teenage Sex and Death at Camp Miasma",
+    "type": "movie",
+    "imdb_id": "tt35298123"
+  },
+  {
     "name": "Dark Nuns",
     "type": "movie",
     "imdb_id": "tt32491690"
+  },
+  {
+    "name": "It Ends",
+    "type": "movie",
+    "imdb_id": "tt35519455"
   },
   {
     "name": "Backrooms",
@@ -50,9 +55,19 @@
     "imdb_id": "tt38497679"
   },
   {
+    "name": "False Positive",
+    "type": "movie",
+    "imdb_id": "tt10096842"
+  },
+  {
     "name": "Let Us Prey",
     "type": "movie",
     "imdb_id": "tt3148348"
+  },
+  {
+    "name": "Hold the Fort",
+    "type": "movie",
+    "imdb_id": "tt29926644"
   },
   {
     "name": "Deep Water",
@@ -60,29 +75,14 @@
     "imdb_id": "tt29516222"
   },
   {
+    "name": "Rabbit Trap",
+    "type": "movie",
+    "imdb_id": "tt29567402"
+  },
+  {
     "name": "Ghost in the Cell",
     "type": "movie",
     "imdb_id": "tt9000310"
-  },
-  {
-    "name": "Portal to Hell",
-    "type": "movie",
-    "imdb_id": "tt29543015"
-  },
-  {
-    "name": "Black Gold",
-    "type": "movie",
-    "imdb_id": "tt21220878"
-  },
-  {
-    "name": "False Positive",
-    "type": "movie",
-    "imdb_id": "tt10096842"
-  },
-  {
-    "name": "Evil Dead Burn",
-    "type": "movie",
-    "imdb_id": "tt31170389"
   },
   {
     "name": "Insidious: Out of the Further",
@@ -90,13 +90,13 @@
     "imdb_id": "tt32393988"
   },
   {
-    "name": "Alien: Covenant",
+    "name": "Evil Dead Burn",
     "type": "movie",
-    "imdb_id": "tt2316204"
+    "imdb_id": "tt31170389"
   },
   {
-    "name": "Rabbit Trap",
+    "name": "Portal to Hell",
     "type": "movie",
-    "imdb_id": "tt29567402"
+    "imdb_id": "tt29543015"
   }
 ]
