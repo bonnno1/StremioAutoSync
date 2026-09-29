@@ -15,6 +15,11 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "The Imagineering Story",
+    "type": "series",
+    "imdb_id": "tt9331982"
+  },
+  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
@@ -30,19 +35,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Andor",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "X-Men '97",
@@ -50,9 +50,9 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Made in Korea",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt33298903"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Moon Knight",
@@ -60,14 +60,9 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Made in Korea",
     "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
-    "name": "A Shop for Killers",
-    "type": "series",
-    "imdb_id": "tt26450613"
+    "imdb_id": "tt33298903"
   },
   {
     "name": "Star Wars: Visions",
@@ -75,23 +70,28 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Monsters at Work",
+    "type": "series",
+    "imdb_id": "tt8610082"
+  },
+  {
+    "name": "A Shop for Killers",
+    "type": "series",
+    "imdb_id": "tt26450613"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
   }
 ]

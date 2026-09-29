@@ -35,19 +35,9 @@
     "imdb_id": "tt26443597"
   },
   {
-    "name": "Clash of the Thundermans",
-    "type": "movie",
-    "imdb_id": "tt37752275"
-  },
-  {
     "name": "Inside Out",
     "type": "movie",
     "imdb_id": "tt2096673"
-  },
-  {
-    "name": "The Super Mario Galaxy Movie",
-    "type": "movie",
-    "imdb_id": "tt28650488"
   },
   {
     "name": "The Wild Robot",
@@ -60,9 +50,14 @@
     "imdb_id": "tt1323594"
   },
   {
-    "name": "Hoppers",
+    "name": "The Super Mario Galaxy Movie",
     "type": "movie",
-    "imdb_id": "tt26443616"
+    "imdb_id": "tt28650488"
+  },
+  {
+    "name": "Clash of the Thundermans",
+    "type": "movie",
+    "imdb_id": "tt37752275"
   },
   {
     "name": "Toy Story 2",
@@ -70,14 +65,14 @@
     "imdb_id": "tt0120363"
   },
   {
+    "name": "Hoppers",
+    "type": "movie",
+    "imdb_id": "tt26443616"
+  },
+  {
     "name": "Coco",
     "type": "movie",
     "imdb_id": "tt2380307"
-  },
-  {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
   },
   {
     "name": "Swapped",
@@ -85,14 +80,19 @@
     "imdb_id": "tt29552248"
   },
   {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
+  },
+  {
     "name": "The Lion King",
     "type": "movie",
     "imdb_id": "tt0110357"
   },
   {
-    "name": "The Cat in the Hat",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt0312528"
+    "imdb_id": "tt0327597"
   },
   {
     "name": "Toy Story",

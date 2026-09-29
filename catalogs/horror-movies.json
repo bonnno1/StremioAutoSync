@@ -20,24 +20,19 @@
     "imdb_id": "tt6920084"
   },
   {
-    "name": "Pinocchio: Unstrung",
-    "type": "movie",
-    "imdb_id": "tt30887701"
-  },
-  {
     "name": "Ice Cream Man",
     "type": "movie",
     "imdb_id": "tt36893729"
   },
   {
+    "name": "Pinocchio: Unstrung",
+    "type": "movie",
+    "imdb_id": "tt30887701"
+  },
+  {
     "name": "Teenage Sex and Death at Camp Miasma",
     "type": "movie",
     "imdb_id": "tt35298123"
-  },
-  {
-    "name": "Dark Nuns",
-    "type": "movie",
-    "imdb_id": "tt32491690"
   },
   {
     "name": "It Ends",
@@ -48,6 +43,11 @@
     "name": "Backrooms",
     "type": "movie",
     "imdb_id": "tt26657236"
+  },
+  {
+    "name": "Dark Nuns",
+    "type": "movie",
+    "imdb_id": "tt32491690"
   },
   {
     "name": "Project Sacrifice",
@@ -70,19 +70,9 @@
     "imdb_id": "tt29926644"
   },
   {
-    "name": "Deep Water",
-    "type": "movie",
-    "imdb_id": "tt29516222"
-  },
-  {
     "name": "Rabbit Trap",
     "type": "movie",
     "imdb_id": "tt29567402"
-  },
-  {
-    "name": "Ghost in the Cell",
-    "type": "movie",
-    "imdb_id": "tt9000310"
   },
   {
     "name": "Insidious: Out of the Further",
@@ -90,13 +80,23 @@
     "imdb_id": "tt32393988"
   },
   {
+    "name": "Deep Water",
+    "type": "movie",
+    "imdb_id": "tt29516222"
+  },
+  {
     "name": "Evil Dead Burn",
     "type": "movie",
     "imdb_id": "tt31170389"
   },
   {
-    "name": "Portal to Hell",
+    "name": "Ghost in the Cell",
     "type": "movie",
-    "imdb_id": "tt29543015"
+    "imdb_id": "tt9000310"
+  },
+  {
+    "name": "Alien: Covenant",
+    "type": "movie",
+    "imdb_id": "tt2316204"
   }
 ]
