@@ -30,14 +30,14 @@
     "imdb_id": "tt3230854"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "INVINCIBLE",
@@ -48,11 +48,6 @@
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
   },
   {
     "name": "Fallout",
@@ -70,9 +65,9 @@
     "imdb_id": "tt5788792"
   },
   {
-    "name": "The Terminal List",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt11743610"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "The Wheel of Time",
@@ -80,13 +75,18 @@
     "imdb_id": "tt7462410"
   },
   {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
   },
   {
-    "name": "The Legend of Vox Machina",
+    "name": "Goliath",
     "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt4687880"
   }
 ]
