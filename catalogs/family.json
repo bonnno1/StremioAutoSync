@@ -20,6 +20,11 @@
     "imdb_id": "tt0159881"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
     "name": "Against the Current",
     "type": "series",
     "imdb_id": "tt32500958"
@@ -28,6 +33,11 @@
     "name": "Uusi Päivä",
     "type": "series",
     "imdb_id": "tt1724525"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Frasier",
@@ -40,24 +50,14 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Young Sheldon",
@@ -65,14 +65,9 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Ulice",
@@ -80,14 +75,9 @@
     "imdb_id": "tt0484918"
   },
   {
-    "name": "Bonanza",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0052451"
-  },
-  {
-    "name": "Kang's Family",
-    "type": "series",
-    "imdb_id": "tt7803586"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Phineas and Ferb",
@@ -95,8 +85,18 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Touched by an Angel",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0108968"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Kang's Family",
+    "type": "series",
+    "imdb_id": "tt7803586"
+  },
+  {
+    "name": "Bonanza",
+    "type": "series",
+    "imdb_id": "tt0052451"
   }
 ]

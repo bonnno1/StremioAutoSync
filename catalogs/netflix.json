@@ -5,14 +5,14 @@
     "imdb_id": "tt36347588"
   },
   {
-    "name": "Raw",
-    "type": "series",
-    "imdb_id": "tt0185103"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Raw",
+    "type": "series",
+    "imdb_id": "tt0185103"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -45,6 +45,11 @@
     "imdb_id": "tt13210838"
   },
   {
+    "name": "Marvel's The Punisher",
+    "type": "series",
+    "imdb_id": "tt5675620"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -70,23 +75,18 @@
     "imdb_id": "tt3398228"
   },
   {
-    "name": "Marvel's The Punisher",
-    "type": "series",
-    "imdb_id": "tt5675620"
-  },
-  {
-    "name": "Arrested Development",
-    "type": "series",
-    "imdb_id": "tt0367279"
-  },
-  {
-    "name": "Record of Ragnarok",
-    "type": "series",
-    "imdb_id": "tt13676344"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
+  },
+  {
+    "name": "La promesa",
+    "type": "series",
+    "imdb_id": "tt22325164"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
   }
 ]

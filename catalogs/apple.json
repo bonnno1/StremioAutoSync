@@ -15,14 +15,14 @@
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Dark Matter",
-    "type": "series",
-    "imdb_id": "tt19231492"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
+  },
+  {
+    "name": "Dark Matter",
+    "type": "series",
+    "imdb_id": "tt19231492"
   },
   {
     "name": "Brothers",
@@ -35,14 +35,19 @@
     "imdb_id": "tt11280740"
   },
   {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
+  },
+  {
     "name": "The Morning Show",
     "type": "series",
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Foundation",
+    "name": "Last Seen",
     "type": "series",
-    "imdb_id": "tt0804484"
+    "imdb_id": "tt6037988"
   },
   {
     "name": "Widow's Bay",
@@ -60,11 +65,6 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Last Seen",
-    "type": "series",
-    "imdb_id": "tt6037988"
-  },
-  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
@@ -73,11 +73,6 @@
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
-  },
-  {
-    "name": "Carpool Karaoke: The Series",
-    "type": "series",
-    "imdb_id": "tt6396082"
   },
   {
     "name": "Lucky",
@@ -95,8 +90,13 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "The Last Thing He Told Me",
+    "name": "Loot",
     "type": "series",
-    "imdb_id": "tt13745850"
+    "imdb_id": "tt14271498"
+  },
+  {
+    "name": "Sugar",
+    "type": "series",
+    "imdb_id": "tt16418808"
   }
 ]
