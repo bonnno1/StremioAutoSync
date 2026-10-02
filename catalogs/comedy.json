@@ -10,6 +10,11 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
+    "imdb_id": "tt3697842"
+  },
+  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
@@ -18,11 +23,6 @@
     "name": "Running Man",
     "type": "series",
     "imdb_id": "tt2185037"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
   },
   {
     "name": "The Simpsons",
@@ -75,14 +75,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "The Mike Douglas Show",
     "type": "series",
     "imdb_id": "tt0170980"
+  },
+  {
+    "name": "The Rookie",
+    "type": "series",
+    "imdb_id": "tt7587890"
   },
   {
     "name": "Conan",
