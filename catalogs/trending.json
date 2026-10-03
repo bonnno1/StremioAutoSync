@@ -1,5 +1,10 @@
 [
   {
+    "name": "Black Clover",
+    "type": "series",
+    "imdb_id": "tt7441658"
+  },
+  {
     "name": "East of Eden",
     "type": "series",
     "imdb_id": "tt21097264"
@@ -10,29 +15,9 @@
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
     "name": "MobLand",
     "type": "series",
     "imdb_id": "tt31510819"
-  },
-  {
-    "name": "Silo",
-    "type": "series",
-    "imdb_id": "tt14688458"
-  },
-  {
-    "name": "American Horror Story",
-    "type": "series",
-    "imdb_id": "tt1844624"
-  },
-  {
-    "name": "Against the Current",
-    "type": "series",
-    "imdb_id": "tt32500958"
   },
   {
     "name": "Reacher",
@@ -40,14 +25,29 @@
     "imdb_id": "tt9288030"
   },
   {
+    "name": "The Apothecary Diaries",
+    "type": "series",
+    "imdb_id": "tt26743760"
+  },
+  {
+    "name": "Coven Academy",
+    "type": "series",
+    "imdb_id": "tt36064406"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Final Problem",
+    "name": "American Horror Story",
     "type": "series",
-    "imdb_id": "tt36832679"
+    "imdb_id": "tt1844624"
+  },
+  {
+    "name": "Kill Jackie",
+    "type": "series",
+    "imdb_id": "tt35726020"
   },
   {
     "name": "WAR",
@@ -55,9 +55,9 @@
     "imdb_id": "tt37972251"
   },
   {
-    "name": "Futurama",
+    "name": "A Wild Last Boss Appeared!",
     "type": "series",
-    "imdb_id": "tt0149460"
+    "imdb_id": "tt33258199"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -65,19 +65,14 @@
     "imdb_id": "tt5607616"
   },
   {
-    "name": "South Park",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt2359704"
   },
   {
-    "name": "Ted Lasso",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt10986410"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt13293588"
   },
   {
     "name": "The Simpsons",
@@ -85,13 +80,23 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Against the Current",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt32500958"
   },
   {
-    "name": "Stuart Fails to Save the Universe",
+    "name": "Futurama",
     "type": "series",
-    "imdb_id": "tt27497393"
+    "imdb_id": "tt0149460"
+  },
+  {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "A Tale of the Secret Saint",
+    "type": "series",
+    "imdb_id": "tt38939893"
   }
 ]

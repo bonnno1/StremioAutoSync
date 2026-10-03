@@ -10,14 +10,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Kamen Rider",
@@ -25,19 +25,19 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
     "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
     "imdb_id": "tt13293588"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Teen Titans Go!",
+    "type": "series",
+    "imdb_id": "tt2771780"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -50,9 +50,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt5607616"
   },
   {
     "name": "Rick and Morty",
@@ -60,14 +60,14 @@
     "imdb_id": "tt2861424"
   },
   {
+    "name": "Hawaii Five-0",
+    "type": "series",
+    "imdb_id": "tt1600194"
+  },
+  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
-  },
-  {
-    "name": "NCIS: Los Angeles",
-    "type": "series",
-    "imdb_id": "tt1378167"
   },
   {
     "name": "Doctor Who",
@@ -75,14 +75,14 @@
     "imdb_id": "tt0436992"
   },
   {
+    "name": "NCIS: Los Angeles",
+    "type": "series",
+    "imdb_id": "tt1378167"
+  },
+  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
   },
   {
     "name": "S.W.A.T.",
@@ -90,13 +90,13 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "JAG",
     "type": "series",
     "imdb_id": "tt0112022"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
   }
 ]

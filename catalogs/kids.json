@@ -20,19 +20,14 @@
     "imdb_id": "tt3121722"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Peppa Pig",
@@ -40,9 +35,9 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "The Daily Fable",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0294075"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "Rugrats",
@@ -55,6 +50,11 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "The Daily Fable",
+    "type": "series",
+    "imdb_id": "tt0294075"
+  },
+  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
@@ -63,11 +63,6 @@
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
   },
   {
     "name": "Pokémon Horizons",
@@ -85,13 +80,18 @@
     "imdb_id": "tt0404597"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
-    "type": "series",
-    "imdb_id": "tt0294196"
-  },
-  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
+    "name": "Sítio do Picapau Amarelo",
+    "type": "series",
+    "imdb_id": "tt0294196"
   }
 ]

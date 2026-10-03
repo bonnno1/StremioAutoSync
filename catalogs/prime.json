@@ -15,6 +15,11 @@
     "imdb_id": "tt2306299"
   },
   {
+    "name": "Kill Jackie",
+    "type": "series",
+    "imdb_id": "tt35726020"
+  },
+  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
@@ -50,6 +55,11 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Red Queen",
+    "type": "series",
+    "imdb_id": "tt20883126"
+  },
+  {
     "name": "Tom Clancy's Jack Ryan",
     "type": "series",
     "imdb_id": "tt5057054"
@@ -83,15 +93,5 @@
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
-  },
-  {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
-    "name": "The Man in the High Castle",
-    "type": "series",
-    "imdb_id": "tt1740299"
   }
 ]
