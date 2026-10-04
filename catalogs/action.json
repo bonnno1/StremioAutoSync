@@ -5,14 +5,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "Doraemon",
@@ -25,29 +25,19 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt13293588"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt1871731"
   },
   {
     "name": "Re:ZERO -Starting Life in Another World-",
@@ -70,9 +60,9 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "Doctor Who",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "NCIS: Los Angeles",
@@ -80,23 +70,33 @@
     "imdb_id": "tt1378167"
   },
   {
-    "name": "24",
-    "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
   },
   {
-    "name": "JAG",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt0112022"
+    "imdb_id": "tt0279600"
+  },
+  {
+    "name": "24",
+    "type": "series",
+    "imdb_id": "tt0285331"
   },
   {
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   }
 ]

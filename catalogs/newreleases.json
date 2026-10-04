@@ -1,23 +1,43 @@
 [
   {
-    "name": "Doraemon",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt2057880"
   },
   {
-    "name": "Saturday Night Live",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt0072562"
+    "imdb_id": "tt2185037"
   },
   {
-    "name": "Men on a Mission",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt0096697"
   },
   {
-    "name": "Detective Conan",
+    "name": "Lanterns",
     "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt26545992"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Scene of the Crime",
+    "type": "series",
+    "imdb_id": "tt0806910"
+  },
+  {
+    "name": "Chibi Maruko-chan",
+    "type": "series",
+    "imdb_id": "tt0220204"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Hello Saturday",
@@ -30,73 +50,53 @@
     "imdb_id": "tt32500958"
   },
   {
-    "name": "A Record of a Mortal's Journey to Immortality",
+    "name": "CBS News Sunday Morning",
     "type": "series",
-    "imdb_id": "tt12879782"
+    "imdb_id": "tt0165001"
   },
   {
-    "name": "Tokyo Revengers",
+    "name": "Last Week Tonight with John Oliver",
     "type": "series",
-    "imdb_id": "tt13196080"
+    "imdb_id": "tt3530232"
+  },
+  {
+    "name": "My Little Old Boy",
+    "type": "series",
+    "imdb_id": "tt33336849"
+  },
+  {
+    "name": "Tracker",
+    "type": "series",
+    "imdb_id": "tt13875494"
+  },
+  {
+    "name": "Renegade Immortal",
+    "type": "series",
+    "imdb_id": "tt27432264"
+  },
+  {
+    "name": "Heartland",
+    "type": "series",
+    "imdb_id": "tt1094229"
+  },
+  {
+    "name": "60 Minutes",
+    "type": "series",
+    "imdb_id": "tt0123338"
+  },
+  {
+    "name": "Heti Hetes",
+    "type": "series",
+    "imdb_id": "tt0224887"
+  },
+  {
+    "name": "Tavolo Parcheggio",
+    "type": "series",
+    "imdb_id": "tt32590445"
   },
   {
     "name": "World Wonder Ring Stardom",
     "type": "series",
     "imdb_id": "tt7993852"
-  },
-  {
-    "name": "The Manager",
-    "type": "series",
-    "imdb_id": "tt15340934"
-  },
-  {
-    "name": "Sins and Roses",
-    "type": "series",
-    "imdb_id": "tt38074086"
-  },
-  {
-    "name": "Fights Break Sphere",
-    "type": "series",
-    "imdb_id": "tt12409194"
-  },
-  {
-    "name": "Jornal Nacional",
-    "type": "series",
-    "imdb_id": "tt0466513"
-  },
-  {
-    "name": "Ascendance of a Bookworm",
-    "type": "series",
-    "imdb_id": "tt10885406"
-  },
-  {
-    "name": "Big City Greens",
-    "type": "series",
-    "imdb_id": "tt7165904"
-  },
-  {
-    "name": "A Fazenda",
-    "type": "series",
-    "imdb_id": "tt1842561"
-  },
-  {
-    "name": "Strictly Come Dancing",
-    "type": "series",
-    "imdb_id": "tt0411027"
-  },
-  {
-    "name": "Idol",
-    "type": "series",
-    "imdb_id": "tt1237844"
-  },
-  {
-    "name": "All Elite Wrestling: Collision",
-    "type": "series",
-    "imdb_id": "tt27776045"
-  },
-  {
-    "name": "One Hundred Thousand Years of Qi Refining",
-    "type": "series",
-    "imdb_id": "tt28210907"
   }
 ]

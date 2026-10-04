@@ -1,10 +1,5 @@
 [
   {
-    "name": "Black Clover",
-    "type": "series",
-    "imdb_id": "tt7441658"
-  },
-  {
     "name": "East of Eden",
     "type": "series",
     "imdb_id": "tt21097264"
@@ -15,9 +10,39 @@
     "imdb_id": "tt26545992"
   },
   {
+    "name": "Blue Box",
+    "type": "series",
+    "imdb_id": "tt32639706"
+  },
+  {
+    "name": "Coven Academy",
+    "type": "series",
+    "imdb_id": "tt36064406"
+  },
+  {
+    "name": "Black Clover",
+    "type": "series",
+    "imdb_id": "tt7441658"
+  },
+  {
     "name": "MobLand",
     "type": "series",
     "imdb_id": "tt31510819"
+  },
+  {
+    "name": "Kill Jackie",
+    "type": "series",
+    "imdb_id": "tt35726020"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
   },
   {
     "name": "Reacher",
@@ -30,9 +55,19 @@
     "imdb_id": "tt26743760"
   },
   {
-    "name": "Coven Academy",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt36064406"
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "GET JIRO",
+    "type": "series",
+    "imdb_id": "tt33406999"
+  },
+  {
+    "name": "You and I Are Polar Opposites",
+    "type": "series",
+    "imdb_id": "tt36034547"
   },
   {
     "name": "One Piece",
@@ -40,39 +75,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "American Horror Story",
+    "name": "The Ramparts of Ice",
     "type": "series",
-    "imdb_id": "tt1844624"
-  },
-  {
-    "name": "Kill Jackie",
-    "type": "series",
-    "imdb_id": "tt35726020"
-  },
-  {
-    "name": "WAR",
-    "type": "series",
-    "imdb_id": "tt37972251"
-  },
-  {
-    "name": "A Wild Last Boss Appeared!",
-    "type": "series",
-    "imdb_id": "tt33258199"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt39123061"
   },
   {
     "name": "The Simpsons",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Against the Current",
+    "name": "WAR",
     "type": "series",
-    "imdb_id": "tt32500958"
+    "imdb_id": "tt37972251"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
   },
   {
     "name": "Futurama",
     "type": "series",
     "imdb_id": "tt0149460"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "A Tale of the Secret Saint",
-    "type": "series",
-    "imdb_id": "tt38939893"
   }
 ]

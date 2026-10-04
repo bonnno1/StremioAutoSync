@@ -40,14 +40,19 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "East of Eden",
-    "type": "series",
-    "imdb_id": "tt21097264"
-  },
-  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
+  },
+  {
+    "name": "East of Eden",
+    "type": "series",
+    "imdb_id": "tt21097264"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -65,19 +70,14 @@
     "imdb_id": "tt5675620"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Squid Game",
@@ -85,8 +85,13 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "La promesa",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt22325164"
+    "imdb_id": "tt3398228"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "type": "series",
+    "imdb_id": "tt9018736"
   }
 ]
