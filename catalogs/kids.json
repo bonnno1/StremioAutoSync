@@ -10,14 +10,14 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "PAW Patrol",
@@ -45,6 +45,11 @@
     "imdb_id": "tt1751105"
   },
   {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
@@ -60,11 +65,6 @@
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
@@ -73,11 +73,6 @@
     "name": "Pokémon Horizons",
     "type": "series",
     "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
   },
   {
     "name": "Duel Masters",
@@ -93,5 +88,10 @@
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
   }
 ]

@@ -40,9 +40,9 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Smallville",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt0279600"
   },
   {
     "name": "Rick and Morty",
@@ -50,9 +50,19 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Hawaii Five-0",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Bleach",
@@ -60,9 +70,9 @@
     "imdb_id": "tt0434665"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt1600194"
   },
   {
     "name": "NCIS: Los Angeles",
@@ -70,14 +80,14 @@
     "imdb_id": "tt1378167"
   },
   {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "S.W.A.T.",
     "type": "series",
     "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
   },
   {
     "name": "24",
@@ -85,18 +95,8 @@
     "imdb_id": "tt0285331"
   },
   {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
     "name": "The Walking Dead",
     "type": "series",
     "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
   }
 ]

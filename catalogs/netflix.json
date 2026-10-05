@@ -1,23 +1,18 @@
 [
   {
-    "name": "The Scandal",
-    "type": "series",
-    "imdb_id": "tt36347588"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
   },
   {
+    "name": "The Scandal",
+    "type": "series",
+    "imdb_id": "tt36347588"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
   },
   {
     "name": "Sesame Street",
@@ -30,6 +25,11 @@
     "imdb_id": "tt4087032"
   },
   {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
@@ -40,6 +40,11 @@
     "imdb_id": "tt4052886"
   },
   {
+    "name": "East of Eden",
+    "type": "series",
+    "imdb_id": "tt21097264"
+  },
+  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
@@ -48,11 +53,6 @@
     "name": "The Night Agent",
     "type": "series",
     "imdb_id": "tt13918776"
-  },
-  {
-    "name": "East of Eden",
-    "type": "series",
-    "imdb_id": "tt21097264"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -70,19 +70,14 @@
     "imdb_id": "tt5675620"
   },
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "Squid Game",
     "type": "series",
     "imdb_id": "tt10919420"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   },
   {
     "name": "BoJack Horseman",
@@ -90,8 +85,13 @@
     "imdb_id": "tt3398228"
   },
   {
-    "name": "Avatar: The Last Airbender",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt9018736"
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "La promesa",
+    "type": "series",
+    "imdb_id": "tt22325164"
   }
 ]

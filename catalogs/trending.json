@@ -1,28 +1,13 @@
 [
   {
-    "name": "East of Eden",
-    "type": "series",
-    "imdb_id": "tt21097264"
-  },
-  {
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
   },
   {
-    "name": "Blue Box",
+    "name": "East of Eden",
     "type": "series",
-    "imdb_id": "tt32639706"
-  },
-  {
-    "name": "Coven Academy",
-    "type": "series",
-    "imdb_id": "tt36064406"
-  },
-  {
-    "name": "Black Clover",
-    "type": "series",
-    "imdb_id": "tt7441658"
+    "imdb_id": "tt21097264"
   },
   {
     "name": "MobLand",
@@ -30,9 +15,9 @@
     "imdb_id": "tt31510819"
   },
   {
-    "name": "Kill Jackie",
+    "name": "Coven Academy",
     "type": "series",
-    "imdb_id": "tt35726020"
+    "imdb_id": "tt36064406"
   },
   {
     "name": "South Park",
@@ -40,34 +25,9 @@
     "imdb_id": "tt0121955"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "Marshals",
     "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
-    "name": "The Apothecary Diaries",
-    "type": "series",
-    "imdb_id": "tt26743760"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
-    "name": "GET JIRO",
-    "type": "series",
-    "imdb_id": "tt33406999"
-  },
-  {
-    "name": "You and I Are Polar Opposites",
-    "type": "series",
-    "imdb_id": "tt36034547"
+    "imdb_id": "tt36849871"
   },
   {
     "name": "One Piece",
@@ -75,14 +35,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Ramparts of Ice",
+    "name": "Black Clover",
     "type": "series",
-    "imdb_id": "tt39123061"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt7441658"
   },
   {
     "name": "WAR",
@@ -90,13 +45,48 @@
     "imdb_id": "tt37972251"
   },
   {
+    "name": "The Apothecary Diaries",
+    "type": "series",
+    "imdb_id": "tt26743760"
+  },
+  {
+    "name": "Kill Jackie",
+    "type": "series",
+    "imdb_id": "tt35726020"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
+  },
+  {
+    "name": "American Horror Story",
+    "type": "series",
+    "imdb_id": "tt1844624"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
     "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
     "imdb_id": "tt5607616"
   },
   {
-    "name": "Futurama",
+    "name": "Blue Box",
     "type": "series",
-    "imdb_id": "tt0149460"
+    "imdb_id": "tt32639706"
+  },
+  {
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "series",
+    "imdb_id": "tt13293588"
+  },
+  {
+    "name": "Between Steps",
+    "type": "series",
+    "imdb_id": "tt39087958"
   }
 ]
