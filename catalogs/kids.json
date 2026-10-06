@@ -5,9 +5,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Ready, Steady, Wiggle!",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt7005920"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -20,14 +20,19 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt1871731"
   },
   {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Peppa Pig",
@@ -40,9 +45,9 @@
     "imdb_id": "tt0294075"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Rugrats",
@@ -50,14 +55,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Doraemon",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "New Looney Tunes",
@@ -65,19 +65,24 @@
     "imdb_id": "tt4558858"
   },
   {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Duel Masters",
     "type": "series",
     "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Bluey",
@@ -88,10 +93,5 @@
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
   }
 ]

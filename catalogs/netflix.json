@@ -25,19 +25,14 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "Lucifer",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "East of Eden",
@@ -45,19 +40,24 @@
     "imdb_id": "tt21097264"
   },
   {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
   },
   {
-    "name": "The Night Agent",
-    "type": "series",
-    "imdb_id": "tt13918776"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "The Night Agent",
+    "type": "series",
+    "imdb_id": "tt13918776"
   },
   {
     "name": "Black Mirror",
@@ -70,19 +70,19 @@
     "imdb_id": "tt5675620"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Bridgerton",
@@ -90,8 +90,8 @@
     "imdb_id": "tt8740790"
   },
   {
-    "name": "La promesa",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt22325164"
+    "imdb_id": "tt3398228"
   }
 ]

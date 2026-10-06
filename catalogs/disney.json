@@ -45,14 +45,19 @@
     "imdb_id": "tt10160804"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "X-Men '97",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Moon Knight",
@@ -65,19 +70,9 @@
     "imdb_id": "tt26450613"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
     "imdb_id": "tt20674124"
-  },
-  {
-    "name": "Monsters at Work",
-    "type": "series",
-    "imdb_id": "tt8610082"
   },
   {
     "name": "Secret Invasion",
@@ -85,13 +80,18 @@
     "imdb_id": "tt13157618"
   },
   {
-    "name": "Marvel Studios Assembled",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt14094206"
+    "imdb_id": "tt8610082"
   },
   {
     "name": "Your Friendly Neighborhood Spider-Man",
     "type": "series",
     "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   }
 ]
