@@ -20,11 +20,6 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
@@ -33,6 +28,16 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Naruto",
+    "type": "series",
+    "imdb_id": "tt0409591"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -45,9 +50,9 @@
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Naruto",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt0409591"
+    "imdb_id": "tt7491982"
   },
   {
     "name": "Doctor Who",
@@ -60,24 +65,24 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
   },
   {
-    "name": "FBI",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt7491982"
+    "imdb_id": "tt1520211"
   },
   {
     "name": "Hawaii Five-0",
     "type": "series",
     "imdb_id": "tt1600194"
+  },
+  {
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "type": "series",
+    "imdb_id": "tt5607616"
   },
   {
     "name": "NCIS: Los Angeles",
@@ -90,13 +95,8 @@
     "imdb_id": "tt6111130"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt5607616"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
+    "imdb_id": "tt0306365"
   }
 ]

@@ -20,9 +20,9 @@
     "imdb_id": "tt35726020"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "The Expanse",
@@ -35,9 +35,9 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Off Campus",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt33546863"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Red Queen",
@@ -45,9 +45,9 @@
     "imdb_id": "tt20883126"
   },
   {
-    "name": "The Chosen",
+    "name": "Off Campus",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt33546863"
   },
   {
     "name": "Neagley",
@@ -60,9 +60,9 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "The Summer I Turned Pretty",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Tom Clancy's Jack Ryan",
@@ -70,19 +70,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "I Would Rather Die",
@@ -90,8 +80,18 @@
     "imdb_id": "tt31841438"
   },
   {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
+  },
+  {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
   }
 ]
