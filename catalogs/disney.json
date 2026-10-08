@@ -45,14 +45,19 @@
     "imdb_id": "tt10160804"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
   },
   {
-    "name": "X-Men '97",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt20674124"
   },
   {
     "name": "A Shop for Killers",
@@ -65,19 +70,9 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Moon Knight",
+    "name": "VisionQuest",
     "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
-    "name": "Secret Invasion",
-    "type": "series",
-    "imdb_id": "tt13157618"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt23112594"
   },
   {
     "name": "Monsters at Work",
@@ -85,13 +80,18 @@
     "imdb_id": "tt8610082"
   },
   {
-    "name": "Your Friendly Neighborhood Spider-Man",
+    "name": "Secret Invasion",
     "type": "series",
-    "imdb_id": "tt16027074"
+    "imdb_id": "tt13157618"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   }
 ]
