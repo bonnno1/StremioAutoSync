@@ -5,24 +5,19 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "Carrie",
     "type": "series",
     "imdb_id": "tt11540908"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Kill Jackie",
-    "type": "series",
-    "imdb_id": "tt35726020"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -33,6 +28,16 @@
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Kill Jackie",
+    "type": "series",
+    "imdb_id": "tt35726020"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
   },
   {
     "name": "Bosch",
@@ -55,11 +60,6 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
     "name": "Neagley",
     "type": "series",
     "imdb_id": "tt33539520"
@@ -75,9 +75,9 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "The Terminal List: Dark Wolf",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt26576161"
   },
   {
     "name": "The Wheel of Time",
@@ -85,13 +85,13 @@
     "imdb_id": "tt7462410"
   },
   {
-    "name": "The Terminal List: Dark Wolf",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt26576161"
+    "imdb_id": "tt7216636"
   },
   {
-    "name": "I Would Rather Die",
+    "name": "Fallout",
     "type": "series",
-    "imdb_id": "tt31841438"
+    "imdb_id": "tt12637874"
   }
 ]

@@ -30,14 +30,19 @@
     "imdb_id": "tt0107688"
   },
   {
-    "name": "PAW Patrol: The Dino Movie",
-    "type": "movie",
-    "imdb_id": "tt29356163"
-  },
-  {
     "name": "Coraline",
     "type": "movie",
     "imdb_id": "tt0327597"
+  },
+  {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
+  },
+  {
+    "name": "PAW Patrol: The Dino Movie",
+    "type": "movie",
+    "imdb_id": "tt29356163"
   },
   {
     "name": "Forgotten Island",
@@ -50,9 +55,9 @@
     "imdb_id": "tt2096673"
   },
   {
-    "name": "The Wild Robot",
+    "name": "Coco",
     "type": "movie",
-    "imdb_id": "tt29623480"
+    "imdb_id": "tt2380307"
   },
   {
     "name": "The Super Mario Galaxy Movie",
@@ -60,24 +65,9 @@
     "imdb_id": "tt28650488"
   },
   {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
     "name": "Despicable Me",
     "type": "movie",
     "imdb_id": "tt1323594"
-  },
-  {
-    "name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
-    "type": "movie",
-    "imdb_id": "tt38201958"
-  },
-  {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
   },
   {
     "name": "Swapped",
@@ -85,9 +75,14 @@
     "imdb_id": "tt29552248"
   },
   {
-    "name": "Hoppers",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt26443616"
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+    "type": "movie",
+    "imdb_id": "tt38201958"
   },
   {
     "name": "Toy Story 2",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0120363"
   },
   {
-    "name": "Moana 2",
+    "name": "The Lion King",
     "type": "movie",
-    "imdb_id": "tt13622970"
+    "imdb_id": "tt0110357"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "type": "movie",
+    "imdb_id": "tt0198781"
   }
 ]
