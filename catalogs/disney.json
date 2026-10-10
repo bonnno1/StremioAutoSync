@@ -35,19 +35,14 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "Goosebumps",
+    "type": "series",
+    "imdb_id": "tt17720272"
+  },
+  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
   },
   {
     "name": "VisionQuest",
@@ -55,14 +50,19 @@
     "imdb_id": "tt23112594"
   },
   {
+    "name": "X-Men '97",
+    "type": "series",
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
+  },
+  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Goosebumps",
-    "type": "series",
-    "imdb_id": "tt17720272"
   },
   {
     "name": "WandaVision",
@@ -70,28 +70,28 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
   },
   {
-    "name": "Secret Invasion",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt13157618"
-  },
-  {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
     "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Your Friendly Neighborhood Spider-Man",
+    "type": "series",
+    "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Monsters at Work",
+    "type": "series",
+    "imdb_id": "tt8610082"
   }
 ]

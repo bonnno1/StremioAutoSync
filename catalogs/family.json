@@ -10,9 +10,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "King of the Hill",
+    "name": "Among Friends",
     "type": "series",
-    "imdb_id": "tt0118375"
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -20,9 +20,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Among Friends",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0175383"
+    "imdb_id": "tt0118375"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Bharaghar",
@@ -40,11 +45,6 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
@@ -53,6 +53,11 @@
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
   },
   {
     "name": "Phineas and Ferb",
@@ -65,19 +70,9 @@
     "imdb_id": "tt6226232"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
   },
   {
     "name": "Diagnosis: Murder",
@@ -85,9 +80,14 @@
     "imdb_id": "tt0105986"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   },
   {
     "name": "Sítio do Picapau Amarelo",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0294196"
   },
   {
-    "name": "Boron",
+    "name": "Bonanza",
     "type": "series",
-    "imdb_id": "tt26896992"
+    "imdb_id": "tt0052451"
   }
 ]

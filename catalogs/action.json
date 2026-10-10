@@ -40,6 +40,11 @@
     "imdb_id": "tt0409591"
   },
   {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
@@ -70,11 +75,6 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "24",
     "type": "series",
     "imdb_id": "tt0285331"
@@ -95,8 +95,8 @@
     "imdb_id": "tt0455275"
   },
   {
-    "name": "Smallville",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt2580046"
   }
 ]
