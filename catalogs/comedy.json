@@ -1,13 +1,13 @@
 [
   {
-    "name": "Come Home Love: Lo and Behold",
-    "type": "series",
-    "imdb_id": "tt22007716"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Come Home Love: Lo and Behold",
+    "type": "series",
+    "imdb_id": "tt22007716"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -15,24 +15,24 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
-    "name": "The Late Show with Stephen Colbert",
-    "type": "series",
-    "imdb_id": "tt3697842"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
     "name": "Late Night with Seth Meyers",
     "type": "series",
     "imdb_id": "tt3513388"
+  },
+  {
+    "name": "The Late Show with Stephen Colbert",
+    "type": "series",
+    "imdb_id": "tt3697842"
   },
   {
     "name": "The Simpsons",
@@ -45,19 +45,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Late Show with David Letterman",
-    "type": "series",
-    "imdb_id": "tt0106053"
   },
   {
     "name": "Family Guy",
@@ -65,9 +55,24 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Late Show with David Letterman",
+    "type": "series",
+    "imdb_id": "tt0106053"
+  },
+  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Young Hearts",
+    "type": "series",
+    "imdb_id": "tt0144724"
+  },
+  {
+    "name": "Men on a Mission",
+    "type": "series",
+    "imdb_id": "tt5247622"
   },
   {
     "name": "The Rookie",
@@ -80,6 +85,11 @@
     "imdb_id": "tt0397306"
   },
   {
+    "name": "Infinite Challenge",
+    "type": "series",
+    "imdb_id": "tt4546568"
+  },
+  {
     "name": "The Mike Douglas Show",
     "type": "series",
     "imdb_id": "tt0170980"
@@ -88,15 +98,5 @@
     "name": "Conan",
     "type": "series",
     "imdb_id": "tt1637574"
-  },
-  {
-    "name": "Chibi Maruko-chan",
-    "type": "series",
-    "imdb_id": "tt0220204"
-  },
-  {
-    "name": "The Colbert Report",
-    "type": "series",
-    "imdb_id": "tt0458254"
   }
 ]

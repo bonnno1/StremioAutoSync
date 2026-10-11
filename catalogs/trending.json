@@ -1,5 +1,10 @@
 [
   {
+    "name": "LINK CLICK",
+    "type": "series",
+    "imdb_id": "tt14976292"
+  },
+  {
     "name": "Lanterns",
     "type": "series",
     "imdb_id": "tt26545992"
@@ -15,34 +20,9 @@
     "imdb_id": "tt35934755"
   },
   {
-    "name": "100 Days of Deception",
+    "name": "Coven Academy",
     "type": "series",
-    "imdb_id": "tt39201866"
-  },
-  {
-    "name": "Doctor X: Mafia in White",
-    "type": "series",
-    "imdb_id": "tt39328047"
-  },
-  {
-    "name": "Black Clover",
-    "type": "series",
-    "imdb_id": "tt7441658"
-  },
-  {
-    "name": "LINK CLICK",
-    "type": "series",
-    "imdb_id": "tt14976292"
-  },
-  {
-    "name": "Avatar: Seven Havens",
-    "type": "series",
-    "imdb_id": "tt35854736"
-  },
-  {
-    "name": "Take Charge of My Heart",
-    "type": "series",
-    "imdb_id": "tt37737331"
+    "imdb_id": "tt36064406"
   },
   {
     "name": "MobLand",
@@ -50,14 +30,24 @@
     "imdb_id": "tt31510819"
   },
   {
+    "name": "Black Clover",
+    "type": "series",
+    "imdb_id": "tt7441658"
+  },
+  {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
+  },
+  {
     "name": "East of Eden",
     "type": "series",
     "imdb_id": "tt21097264"
   },
   {
-    "name": "The Apothecary Diaries",
+    "name": "Take Charge of My Heart",
     "type": "series",
-    "imdb_id": "tt26743760"
+    "imdb_id": "tt37737331"
   },
   {
     "name": "Ted Lasso",
@@ -65,29 +55,29 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Natural High",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt30461072"
+    "imdb_id": "tt0096697"
   },
   {
-    "name": "The Vermilion Mask",
+    "name": "Dragon Ball Super: Beerus",
     "type": "series",
-    "imdb_id": "tt41153966"
+    "imdb_id": "tt39395275"
   },
   {
-    "name": "Coven Academy",
+    "name": "Doctor X: Mafia in White",
     "type": "series",
-    "imdb_id": "tt36064406"
+    "imdb_id": "tt39328047"
   },
   {
-    "name": "Marshals",
+    "name": "The Apothecary Diaries",
     "type": "series",
-    "imdb_id": "tt36849871"
+    "imdb_id": "tt26743760"
   },
   {
-    "name": "Slow Horses",
+    "name": "GET JIRO",
     "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt33406999"
   },
   {
     "name": "One Piece",
@@ -95,8 +85,13 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Bleach",
+    "name": "Haunted Hotel",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt32499579"
+  },
+  {
+    "name": "Even the Student Council Has Its Holes!",
+    "type": "series",
+    "imdb_id": "tt43650242"
   }
 ]

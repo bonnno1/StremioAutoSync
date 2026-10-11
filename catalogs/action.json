@@ -5,11 +5,6 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -18,6 +13,11 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Kamen Rider",
@@ -35,29 +35,19 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Naruto",
-    "type": "series",
-    "imdb_id": "tt0409591"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -68,6 +58,21 @@
     "name": "FBI",
     "type": "series",
     "imdb_id": "tt7491982"
+  },
+  {
+    "name": "S.W.A.T.",
+    "type": "series",
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Naruto",
+    "type": "series",
+    "imdb_id": "tt0409591"
   },
   {
     "name": "Hawaii Five-0",
@@ -85,18 +90,13 @@
     "imdb_id": "tt1378167"
   },
   {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "Prison Break",
-    "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
   }
 ]

@@ -25,29 +25,19 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Goosebumps",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt17720272"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
-  },
-  {
-    "name": "VisionQuest",
-    "type": "series",
-    "imdb_id": "tt23112594"
   },
   {
     "name": "X-Men '97",
@@ -60,9 +50,9 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "VisionQuest",
     "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt23112594"
   },
   {
     "name": "WandaVision",
@@ -70,19 +60,29 @@
     "imdb_id": "tt9140560"
   },
   {
+    "name": "Goosebumps",
+    "type": "series",
+    "imdb_id": "tt17720272"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "A Shop for Killers",
     "type": "series",
     "imdb_id": "tt26450613"
   },
   {
+    "name": "Secret Invasion",
+    "type": "series",
+    "imdb_id": "tt13157618"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
   },
   {
     "name": "Your Friendly Neighborhood Spider-Man",
@@ -93,5 +93,10 @@
     "name": "Monsters at Work",
     "type": "series",
     "imdb_id": "tt8610082"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
   }
 ]

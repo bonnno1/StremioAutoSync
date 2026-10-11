@@ -1,13 +1,13 @@
 [
   {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
     "name": "Ted Lasso",
     "type": "series",
     "imdb_id": "tt10986410"
+  },
+  {
+    "name": "Slow Horses",
+    "type": "series",
+    "imdb_id": "tt5875444"
   },
   {
     "name": "Silo",
@@ -35,24 +35,9 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Last Seen",
-    "type": "series",
-    "imdb_id": "tt6037988"
-  },
-  {
     "name": "Widow's Bay",
     "type": "series",
     "imdb_id": "tt33332385"
-  },
-  {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
-    "name": "Monarch: Legacy of Monsters",
-    "type": "series",
-    "imdb_id": "tt17220216"
   },
   {
     "name": "Shrinking",
@@ -60,14 +45,29 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "Invasion",
+    "name": "Last Seen",
     "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt6037988"
+  },
+  {
+    "name": "The Morning Show",
+    "type": "series",
+    "imdb_id": "tt7203552"
   },
   {
     "name": "See",
     "type": "series",
     "imdb_id": "tt7949218"
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Invasion",
+    "type": "series",
+    "imdb_id": "tt9737326"
   },
   {
     "name": "Pluribus",
@@ -80,14 +80,14 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Brothers",
+    "name": "Loot",
     "type": "series",
-    "imdb_id": "tt6773088"
+    "imdb_id": "tt14271498"
   },
   {
-    "name": "Lucky",
+    "name": "Margo's Got Money Troubles",
     "type": "series",
-    "imdb_id": "tt34866681"
+    "imdb_id": "tt31137273"
   },
   {
     "name": "Presumed Innocent",
@@ -95,8 +95,8 @@
     "imdb_id": "tt17677860"
   },
   {
-    "name": "Mythic Quest",
+    "name": "Brothers",
     "type": "series",
-    "imdb_id": "tt8879940"
+    "imdb_id": "tt6773088"
   }
 ]
