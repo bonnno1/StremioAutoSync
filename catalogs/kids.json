@@ -35,19 +35,14 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   },
   {
     "name": "Sítio do Picapau Amarelo",
@@ -55,14 +50,14 @@
     "imdb_id": "tt0294196"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
     "name": "The Fairly OddParents",
     "type": "series",
     "imdb_id": "tt0235918"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
   },
   {
     "name": "GG Bond",
@@ -70,9 +65,9 @@
     "imdb_id": "tt24191416"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "New Looney Tunes",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt4558858"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -80,9 +75,14 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Duel Masters",
+    "name": "The Daily Fable",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0294075"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Chiikawa",
@@ -90,8 +90,8 @@
     "imdb_id": "tt26997679"
   },
   {
-    "name": "Super Wings",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt0404597"
   }
 ]

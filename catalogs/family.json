@@ -10,9 +10,19 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
+  },
+  {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -25,24 +35,9 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "Bharaghar",
-    "type": "series",
-    "imdb_id": "tt13829404"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
   },
   {
     "name": "Frasier",
@@ -50,14 +45,19 @@
     "imdb_id": "tt0106004"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Diagnosis: Murder",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0105986"
   },
   {
-    "name": "Avatar: Seven Havens",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt35854736"
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Bharaghar",
+    "type": "series",
+    "imdb_id": "tt13829404"
   },
   {
     "name": "Phineas and Ferb",
@@ -65,9 +65,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Jason and the Argonauts",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0217579"
   },
   {
     "name": "Rugrats",
@@ -75,9 +75,19 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Diagnosis: Murder",
+    "name": "Young Sheldon",
     "type": "series",
-    "imdb_id": "tt0105986"
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Ulice",
+    "type": "series",
+    "imdb_id": "tt0484918"
+  },
+  {
+    "name": "Kang's Family",
+    "type": "series",
+    "imdb_id": "tt7803586"
   },
   {
     "name": "Doraemon",
@@ -88,15 +98,5 @@
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Sítio do Picapau Amarelo",
-    "type": "series",
-    "imdb_id": "tt0294196"
-  },
-  {
-    "name": "Bonanza",
-    "type": "series",
-    "imdb_id": "tt0052451"
   }
 ]

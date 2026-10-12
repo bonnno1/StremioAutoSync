@@ -5,14 +5,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
   },
   {
     "name": "C.I.D.",
@@ -30,14 +30,19 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
+  },
+  {
+    "name": "Naruto",
+    "type": "series",
+    "imdb_id": "tt0409591"
+  },
+  {
+    "name": "Rick and Morty",
+    "type": "series",
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Bleach",
@@ -60,19 +65,14 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "S.W.A.T.",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt6111130"
+    "imdb_id": "tt0168366"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Dragon Ball Z",
     "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
-    "name": "Naruto",
-    "type": "series",
-    "imdb_id": "tt0409591"
+    "imdb_id": "tt0121220"
   },
   {
     "name": "Hawaii Five-0",
@@ -80,14 +80,9 @@
     "imdb_id": "tt1600194"
   },
   {
-    "name": "24",
+    "name": "Prison Break",
     "type": "series",
-    "imdb_id": "tt0285331"
-  },
-  {
-    "name": "NCIS: Los Angeles",
-    "type": "series",
-    "imdb_id": "tt1378167"
+    "imdb_id": "tt0455275"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -95,8 +90,13 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Pokémon",
+    "name": "S.W.A.T.",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt6111130"
+  },
+  {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
   }
 ]
