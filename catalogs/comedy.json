@@ -15,14 +15,14 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "Late Night with Seth Meyers",
     "type": "series",
     "imdb_id": "tt3513388"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "Running Man",
@@ -40,19 +40,9 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "The Daily Show",
     "type": "series",
     "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Ted Lasso",
-    "type": "series",
-    "imdb_id": "tt10986410"
   },
   {
     "name": "Late Show with David Letterman",
@@ -63,6 +53,16 @@
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Ted Lasso",
+    "type": "series",
+    "imdb_id": "tt10986410"
   },
   {
     "name": "The Rookie",
@@ -80,6 +80,11 @@
     "imdb_id": "tt5247622"
   },
   {
+    "name": "American Dad!",
+    "type": "series",
+    "imdb_id": "tt0397306"
+  },
+  {
     "name": "Infinite Challenge",
     "type": "series",
     "imdb_id": "tt4546568"
@@ -88,11 +93,6 @@
     "name": "The Mike Douglas Show",
     "type": "series",
     "imdb_id": "tt0170980"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
   },
   {
     "name": "Conan",

@@ -25,6 +25,16 @@
     "imdb_id": "tt31450459"
   },
   {
+    "name": "Cavegirl",
+    "type": "movie",
+    "imdb_id": "tt0088891"
+  },
+  {
+    "name": "The Novices",
+    "type": "movie",
+    "imdb_id": "tt0066164"
+  },
+  {
     "name": "The Love Hypothesis",
     "type": "movie",
     "imdb_id": "tt22526100"
@@ -33,11 +43,6 @@
     "name": "Moana",
     "type": "movie",
     "imdb_id": "tt27419466"
-  },
-  {
-    "name": "The Novices",
-    "type": "movie",
-    "imdb_id": "tt0066164"
   },
   {
     "name": "Zootopia 2",
@@ -50,9 +55,9 @@
     "imdb_id": "tt32890033"
   },
   {
-    "name": "Cavegirl",
+    "name": "Practical Magic 2",
     "type": "movie",
-    "imdb_id": "tt0088891"
+    "imdb_id": "tt32588798"
   },
   {
     "name": "Ice Cream Man",
@@ -75,19 +80,14 @@
     "imdb_id": "tt36103784"
   },
   {
-    "name": "PAW Patrol: The Dino Movie",
-    "type": "movie",
-    "imdb_id": "tt29356163"
-  },
-  {
-    "name": "Deadpool & Wolverine",
-    "type": "movie",
-    "imdb_id": "tt6263850"
-  },
-  {
     "name": "Inside Out",
     "type": "movie",
     "imdb_id": "tt2096673"
+  },
+  {
+    "name": "PAW Patrol: The Dino Movie",
+    "type": "movie",
+    "imdb_id": "tt29356163"
   },
   {
     "name": "Despicable Me",
@@ -95,8 +95,8 @@
     "imdb_id": "tt1323594"
   },
   {
-    "name": "You Drive Me Crazy",
+    "name": "Deadpool & Wolverine",
     "type": "movie",
-    "imdb_id": "tt33086385"
+    "imdb_id": "tt6263850"
   }
 ]

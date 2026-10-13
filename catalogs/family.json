@@ -10,14 +10,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Avatar: Seven Havens",
@@ -30,19 +30,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "King of the Hill",
-    "type": "series",
-    "imdb_id": "tt0118375"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Frasier",
+    "name": "King of the Hill",
     "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt0118375"
   },
   {
     "name": "Diagnosis: Murder",
@@ -50,14 +45,14 @@
     "imdb_id": "tt0105986"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Bharaghar",
-    "type": "series",
-    "imdb_id": "tt13829404"
   },
   {
     "name": "Phineas and Ferb",
@@ -65,19 +60,19 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Jason and the Argonauts",
+    "name": "Chiritotechin",
     "type": "series",
-    "imdb_id": "tt0217579"
-  },
-  {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
+    "imdb_id": "tt1050398"
   },
   {
     "name": "Young Sheldon",
     "type": "series",
     "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Ulice",
@@ -90,13 +85,18 @@
     "imdb_id": "tt7803586"
   },
   {
+    "name": "Jason and the Argonauts",
+    "type": "series",
+    "imdb_id": "tt0217579"
+  },
+  {
+    "name": "Sítio do Picapau Amarelo",
+    "type": "series",
+    "imdb_id": "tt0294196"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
   }
 ]

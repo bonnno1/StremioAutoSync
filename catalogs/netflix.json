@@ -10,14 +10,14 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Below",
@@ -25,14 +25,14 @@
     "imdb_id": "tt35934755"
   },
   {
-    "name": "The Scandal",
-    "type": "series",
-    "imdb_id": "tt36347588"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "The Scandal",
+    "type": "series",
+    "imdb_id": "tt36347588"
   },
   {
     "name": "Take Charge of My Heart",
@@ -55,19 +55,14 @@
     "imdb_id": "tt2085059"
   },
   {
-    "name": "The Gentlemen",
-    "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
   },
   {
-    "name": "East of Eden",
+    "name": "The Gentlemen",
     "type": "series",
-    "imdb_id": "tt21097264"
+    "imdb_id": "tt13210838"
   },
   {
     "name": "Squid Game",
@@ -80,6 +75,11 @@
     "imdb_id": "tt0458290"
   },
   {
+    "name": "East of Eden",
+    "type": "series",
+    "imdb_id": "tt21097264"
+  },
+  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
@@ -90,13 +90,13 @@
     "imdb_id": "tt9018736"
   },
   {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
     "name": "Wednesday",
     "type": "series",
     "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
   }
 ]

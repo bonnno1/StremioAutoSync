@@ -35,19 +35,14 @@
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
-  },
-  {
     "name": "Presumed Innocent",
     "type": "series",
     "imdb_id": "tt17677860"
   },
   {
-    "name": "Last Seen",
+    "name": "Widow's Bay",
     "type": "series",
-    "imdb_id": "tt6037988"
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Shrinking",
@@ -60,9 +55,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Last Seen",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt6037988"
   },
   {
     "name": "The Morning Show",
@@ -70,9 +65,24 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Monarch: Legacy of Monsters",
+    "type": "series",
+    "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
+  },
+  {
+    "name": "Brothers",
+    "type": "series",
+    "imdb_id": "tt6773088"
   },
   {
     "name": "Pluribus",
@@ -88,15 +98,5 @@
     "name": "Loot",
     "type": "series",
     "imdb_id": "tt14271498"
-  },
-  {
-    "name": "Brothers",
-    "type": "series",
-    "imdb_id": "tt6773088"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
   }
 ]
