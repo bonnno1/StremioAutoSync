@@ -1,5 +1,10 @@
 [
   {
+    "name": "VisionQuest",
+    "type": "series",
+    "imdb_id": "tt23112594"
+  },
+  {
     "name": "LINK CLICK",
     "type": "series",
     "imdb_id": "tt14976292"
@@ -10,19 +15,19 @@
     "imdb_id": "tt11540908"
   },
   {
-    "name": "Lanterns",
-    "type": "series",
-    "imdb_id": "tt26545992"
-  },
-  {
     "name": "Below",
     "type": "series",
     "imdb_id": "tt35934755"
   },
   {
-    "name": "Take Charge of My Heart",
+    "name": "Lanterns",
     "type": "series",
-    "imdb_id": "tt37737331"
+    "imdb_id": "tt26545992"
+  },
+  {
+    "name": "Helluva Boss",
+    "type": "series",
+    "imdb_id": "tt10691770"
   },
   {
     "name": "Ted Lasso",
@@ -30,24 +35,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Dragon Ball Super: Beerus",
-    "type": "series",
-    "imdb_id": "tt39395275"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
   },
   {
-    "name": "Treasure Island",
+    "name": "Dragon Ball Super: Beerus",
     "type": "series",
-    "imdb_id": "tt40385667"
-  },
-  {
-    "name": "Doctor X: Mafia in White",
-    "type": "series",
-    "imdb_id": "tt39328047"
+    "imdb_id": "tt39395275"
   },
   {
     "name": "MobLand",
@@ -55,9 +50,14 @@
     "imdb_id": "tt31510819"
   },
   {
-    "name": "Black Clover",
+    "name": "Doctor X: Mafia in White",
     "type": "series",
-    "imdb_id": "tt7441658"
+    "imdb_id": "tt39328047"
+  },
+  {
+    "name": "Treasure Island",
+    "type": "series",
+    "imdb_id": "tt40385667"
   },
   {
     "name": "Avatar: Seven Havens",
@@ -65,38 +65,38 @@
     "imdb_id": "tt35854736"
   },
   {
-    "name": "VisionQuest",
+    "name": "Brothers",
     "type": "series",
-    "imdb_id": "tt23112594"
+    "imdb_id": "tt6773088"
   },
   {
-    "name": "The Apothecary Diaries",
+    "name": "Black Clover",
     "type": "series",
-    "imdb_id": "tt26743760"
+    "imdb_id": "tt7441658"
   },
   {
-    "name": "CIA",
+    "name": "Merry Berry Love",
     "type": "series",
-    "imdb_id": "tt35515227"
+    "imdb_id": "tt38937897"
   },
   {
-    "name": "Re:ZERO -Starting Life in Another World-",
+    "name": "100 Days of Deception",
     "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt39201866"
   },
   {
-    "name": "Last Seen",
+    "name": "Take Charge of My Heart",
     "type": "series",
-    "imdb_id": "tt6037988"
+    "imdb_id": "tt37737331"
   },
   {
-    "name": "East of Eden",
+    "name": "Between Steps",
     "type": "series",
-    "imdb_id": "tt21097264"
+    "imdb_id": "tt39087958"
   },
   {
-    "name": "The Lament of Autumn",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt37109705"
+    "imdb_id": "tt0388629"
   }
 ]

@@ -10,6 +10,11 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
@@ -20,19 +25,29 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Naruto",
+    "name": "The Walking Dead",
     "type": "series",
-    "imdb_id": "tt0409591"
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Prison Break",
+    "type": "series",
+    "imdb_id": "tt0455275"
   },
   {
     "name": "Smallville",
@@ -50,9 +65,14 @@
     "imdb_id": "tt2861424"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "name": "FBI",
     "type": "series",
-    "imdb_id": "tt13293588"
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "Naruto",
+    "type": "series",
+    "imdb_id": "tt0409591"
   },
   {
     "name": "Pokémon",
@@ -60,19 +80,14 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Doctor Who",
+    "name": "Regular Show",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt1710308"
   },
   {
-    "name": "FBI",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
     "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
+    "imdb_id": "tt13293588"
   },
   {
     "name": "Avatar: Seven Havens",
@@ -80,23 +95,8 @@
     "imdb_id": "tt35854736"
   },
   {
-    "name": "Prison Break",
+    "name": "NCIS: Los Angeles",
     "type": "series",
-    "imdb_id": "tt0455275"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "S.W.A.T.",
-    "type": "series",
-    "imdb_id": "tt6111130"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt1378167"
   }
 ]

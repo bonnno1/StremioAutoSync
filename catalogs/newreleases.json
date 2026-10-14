@@ -5,11 +5,6 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
     "name": "Binnelanders",
     "type": "series",
     "imdb_id": "tt1527854"
@@ -20,14 +15,39 @@
     "imdb_id": "tt0053494"
   },
   {
-    "name": "Goede Tijden, Slechte Tijden",
+    "name": "Slow Horses",
     "type": "series",
-    "imdb_id": "tt0096597"
+    "imdb_id": "tt5875444"
+  },
+  {
+    "name": "Radio Star",
+    "type": "series",
+    "imdb_id": "tt6283624"
   },
   {
     "name": "Tomorrow Is Ours",
     "type": "series",
     "imdb_id": "tt7124904"
+  },
+  {
+    "name": "Goede Tijden, Slechte Tijden",
+    "type": "series",
+    "imdb_id": "tt0096597"
+  },
+  {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Chicago P.D.",
+    "type": "series",
+    "imdb_id": "tt2805096"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   },
   {
     "name": "Good Mythical Morning",
@@ -40,14 +60,14 @@
     "imdb_id": "tt0123366"
   },
   {
-    "name": "Chronicles of the Sun",
-    "type": "series",
-    "imdb_id": "tt8883922"
-  },
-  {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
   },
   {
     "name": "EastEnders",
@@ -65,6 +85,11 @@
     "imdb_id": "tt0320037"
   },
   {
+    "name": "Chicago Med",
+    "type": "series",
+    "imdb_id": "tt4655480"
+  },
+  {
     "name": "LIVE with Kelly and Mark",
     "type": "series",
     "imdb_id": "tt0096636"
@@ -73,30 +98,5 @@
     "name": "El hormiguero",
     "type": "series",
     "imdb_id": "tt0870872"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
-    "name": "The God of War Dominates",
-    "type": "series",
-    "imdb_id": "tt20769560"
-  },
-  {
-    "name": "The Voice",
-    "type": "series",
-    "imdb_id": "tt1839337"
-  },
-  {
-    "name": "Quotidien",
-    "type": "series",
-    "imdb_id": "tt6052530"
-  },
-  {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
   }
 ]
