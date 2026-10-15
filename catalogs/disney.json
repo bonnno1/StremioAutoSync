@@ -1,18 +1,13 @@
 [
   {
+    "name": "VisionQuest",
+    "type": "series",
+    "imdb_id": "tt23112594"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
-  },
-  {
-    "name": "Loki",
-    "type": "series",
-    "imdb_id": "tt9140554"
-  },
-  {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -20,39 +15,9 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
-    "name": "VisionQuest",
-    "type": "series",
-    "imdb_id": "tt23112594"
-  },
-  {
-    "name": "Goosebumps",
-    "type": "series",
-    "imdb_id": "tt17720272"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
-  },
-  {
-    "name": "Star Wars: Skeleton Crew",
-    "type": "series",
-    "imdb_id": "tt20600980"
-  },
-  {
-    "name": "National Treasure: Edge of History",
-    "type": "series",
-    "imdb_id": "tt12580982"
-  },
-  {
-    "name": "Andor",
-    "type": "series",
-    "imdb_id": "tt9253284"
   },
   {
     "name": "The Mandalorian",
@@ -60,29 +25,24 @@
     "imdb_id": "tt8111088"
   },
   {
+    "name": "Loki",
+    "type": "series",
+    "imdb_id": "tt9140554"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
   },
   {
-    "name": "Moving",
+    "name": "Daredevil: Born Again",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt18923754"
   },
   {
-    "name": "Dorohedoro",
+    "name": "Goosebumps",
     "type": "series",
-    "imdb_id": "tt11147852"
-  },
-  {
-    "name": "The Acolyte",
-    "type": "series",
-    "imdb_id": "tt12262202"
-  },
-  {
-    "name": "Hyper Knife",
-    "type": "series",
-    "imdb_id": "tt35378081"
+    "imdb_id": "tt17720272"
   },
   {
     "name": "WandaVision",
@@ -90,13 +50,53 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Hawkeye",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt10168312"
   },
   {
-    "name": "Marvel Studios Legends",
+    "name": "Moving",
     "type": "series",
-    "imdb_id": "tt13650480"
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Star Wars: Skeleton Crew",
+    "type": "series",
+    "imdb_id": "tt20600980"
+  },
+  {
+    "name": "Andor",
+    "type": "series",
+    "imdb_id": "tt9253284"
+  },
+  {
+    "name": "The Muppets Mayhem",
+    "type": "series",
+    "imdb_id": "tt18545980"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
+    "name": "Dug Days",
+    "type": "series",
+    "imdb_id": "tt13624054"
+  },
+  {
+    "name": "She-Hulk: Attorney at Law",
+    "type": "series",
+    "imdb_id": "tt10857160"
+  },
+  {
+    "name": "Your Friendly Neighborhood Spider-Man",
+    "type": "series",
+    "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Ironheart",
+    "type": "series",
+    "imdb_id": "tt13623126"
   }
 ]

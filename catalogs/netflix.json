@@ -20,19 +20,9 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "Below",
-    "type": "series",
-    "imdb_id": "tt35934755"
-  },
-  {
     "name": "Take Charge of My Heart",
     "type": "series",
     "imdb_id": "tt37737331"
-  },
-  {
-    "name": "The Scandal",
-    "type": "series",
-    "imdb_id": "tt36347588"
   },
   {
     "name": "Stranger Things",
@@ -40,9 +30,24 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Below",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt35934755"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
+    "name": "The Scandal",
+    "type": "series",
+    "imdb_id": "tt36347588"
   },
   {
     "name": "Black Mirror",
@@ -55,34 +60,9 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "The Gentlemen",
+    "name": "Star Wars: The Clone Wars",
     "type": "series",
-    "imdb_id": "tt13210838"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Crown",
@@ -90,13 +70,33 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Star Wars: The Clone Wars",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt0458290"
+    "imdb_id": "tt2359704"
   },
   {
-    "name": "Avatar: The Last Airbender",
+    "name": "Arrested Development",
     "type": "series",
-    "imdb_id": "tt9018736"
+    "imdb_id": "tt0367279"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "Wednesday",
+    "type": "series",
+    "imdb_id": "tt13443470"
+  },
+  {
+    "name": "House of Cards",
+    "type": "series",
+    "imdb_id": "tt1856010"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   }
 ]

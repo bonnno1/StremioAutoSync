@@ -40,6 +40,11 @@
     "imdb_id": "tt36073210"
   },
   {
+    "name": "Love of Your Life",
+    "type": "movie",
+    "imdb_id": "tt34384900"
+  },
+  {
     "name": "You Drive Me Crazy",
     "type": "movie",
     "imdb_id": "tt33086385"
@@ -48,6 +53,11 @@
     "name": "Wicked: For Good",
     "type": "movie",
     "imdb_id": "tt19847976"
+  },
+  {
+    "name": "Top Gun",
+    "type": "movie",
+    "imdb_id": "tt0092099"
   },
   {
     "name": "The Last Sunrise",
@@ -88,15 +98,5 @@
     "name": "American Pie",
     "type": "movie",
     "imdb_id": "tt0163651"
-  },
-  {
-    "name": "Practical Magic",
-    "type": "movie",
-    "imdb_id": "tt0120791"
-  },
-  {
-    "name": "Titanic",
-    "type": "movie",
-    "imdb_id": "tt0120338"
   }
 ]
