@@ -10,24 +10,24 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
   },
   {
-    "name": "Take Charge of My Heart",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt37737331"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Take Charge of My Heart",
+    "type": "series",
+    "imdb_id": "tt37737331"
   },
   {
     "name": "Below",
@@ -40,9 +40,19 @@
     "imdb_id": "tt10919420"
   },
   {
-    "name": "Bridgerton",
+    "name": "Black Mirror",
     "type": "series",
-    "imdb_id": "tt8740790"
+    "imdb_id": "tt2085059"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
   },
   {
     "name": "The Scandal",
@@ -50,14 +60,14 @@
     "imdb_id": "tt36347588"
   },
   {
-    "name": "Black Mirror",
+    "name": "The Diplomat",
     "type": "series",
-    "imdb_id": "tt2085059"
+    "imdb_id": "tt17491088"
   },
   {
-    "name": "Lucifer",
+    "name": "Bridgerton",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt8740790"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -70,19 +80,14 @@
     "imdb_id": "tt4786824"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "The Gentlemen",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt13210838"
   },
   {
-    "name": "Arrested Development",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt0367279"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt4859164"
   },
   {
     "name": "Wednesday",
@@ -90,13 +95,8 @@
     "imdb_id": "tt13443470"
   },
   {
-    "name": "House of Cards",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt1856010"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
+    "imdb_id": "tt2372162"
   }
 ]

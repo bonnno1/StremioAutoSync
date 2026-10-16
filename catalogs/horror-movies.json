@@ -15,9 +15,9 @@
     "imdb_id": "tt43640339"
   },
   {
-    "name": "Obsession",
+    "name": "Don't Leave the Kids Alone",
     "type": "movie",
-    "imdb_id": "tt37287335"
+    "imdb_id": "tt27871792"
   },
   {
     "name": "Resident Evil: Welcome to Raccoon City",
@@ -25,24 +25,24 @@
     "imdb_id": "tt6920084"
   },
   {
-    "name": "Don't Leave the Kids Alone",
-    "type": "movie",
-    "imdb_id": "tt27871792"
-  },
-  {
     "name": "Other Mommy",
     "type": "movie",
     "imdb_id": "tt36586020"
   },
   {
-    "name": "Onslaught",
+    "name": "Obsession",
     "type": "movie",
-    "imdb_id": "tt32268691"
+    "imdb_id": "tt37287335"
   },
   {
     "name": "Pinocchio: Unstrung",
     "type": "movie",
     "imdb_id": "tt30887701"
+  },
+  {
+    "name": "Onslaught",
+    "type": "movie",
+    "imdb_id": "tt32268691"
   },
   {
     "name": "Buddy",
@@ -55,6 +55,11 @@
     "imdb_id": "tt43739386"
   },
   {
+    "name": "Don't Move",
+    "type": "movie",
+    "imdb_id": "tt29630464"
+  },
+  {
     "name": "The Whistler",
     "type": "movie",
     "imdb_id": "tt1776340"
@@ -65,29 +70,9 @@
     "imdb_id": "tt37542920"
   },
   {
-    "name": "Don't Move",
-    "type": "movie",
-    "imdb_id": "tt29630464"
-  },
-  {
-    "name": "Sinners",
-    "type": "movie",
-    "imdb_id": "tt31193180"
-  },
-  {
     "name": "Colony",
     "type": "movie",
     "imdb_id": "tt34385135"
-  },
-  {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
-    "name": "The Substance",
-    "type": "movie",
-    "imdb_id": "tt17526714"
   },
   {
     "name": "Backrooms",
@@ -95,8 +80,23 @@
     "imdb_id": "tt26657236"
   },
   {
+    "name": "Scary Stories to Tell in the Dark",
+    "type": "movie",
+    "imdb_id": "tt3387520"
+  },
+  {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
+  },
+  {
     "name": "The Treehouse",
     "type": "movie",
     "imdb_id": "tt35108122"
+  },
+  {
+    "name": "The Conjuring",
+    "type": "movie",
+    "imdb_id": "tt1457767"
   }
 ]

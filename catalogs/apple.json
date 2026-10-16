@@ -15,11 +15,6 @@
     "imdb_id": "tt14688458"
   },
   {
-    "name": "Margo's Got Money Troubles",
-    "type": "series",
-    "imdb_id": "tt31137273"
-  },
-  {
     "name": "For All Mankind",
     "type": "series",
     "imdb_id": "tt7772588"
@@ -30,19 +25,19 @@
     "imdb_id": "tt19231492"
   },
   {
+    "name": "Margo's Got Money Troubles",
+    "type": "series",
+    "imdb_id": "tt31137273"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
-    "name": "Lessons in Chemistry",
+    "name": "Foundation",
     "type": "series",
-    "imdb_id": "tt13911628"
-  },
-  {
-    "name": "The Last Thing He Told Me",
-    "type": "series",
-    "imdb_id": "tt13745850"
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Shrinking",
@@ -50,9 +45,9 @@
     "imdb_id": "tt15677150"
   },
   {
-    "name": "STEVE! (martin) a documentary in 2 pieces",
+    "name": "Monarch: Legacy of Monsters",
     "type": "series",
-    "imdb_id": "tt21629194"
+    "imdb_id": "tt17220216"
   },
   {
     "name": "The Studio",
@@ -60,14 +55,14 @@
     "imdb_id": "tt23649128"
   },
   {
+    "name": "Surface",
+    "type": "series",
+    "imdb_id": "tt13694702"
+  },
+  {
     "name": "Your Friends & Neighbors",
     "type": "series",
     "imdb_id": "tt30459041"
-  },
-  {
-    "name": "Shape Island",
-    "type": "series",
-    "imdb_id": "tt25515858"
   },
   {
     "name": "Lady in the Lake",
@@ -75,9 +70,9 @@
     "imdb_id": "tt14022668"
   },
   {
-    "name": "Monarch: Legacy of Monsters",
+    "name": "Lessons in Chemistry",
     "type": "series",
-    "imdb_id": "tt17220216"
+    "imdb_id": "tt13911628"
   },
   {
     "name": "Bad Monkey",
@@ -85,18 +80,23 @@
     "imdb_id": "tt15203646"
   },
   {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
+  },
+  {
     "name": "Presumed Innocent",
     "type": "series",
     "imdb_id": "tt17677860"
   },
   {
-    "name": "Strange Planet",
-    "type": "series",
-    "imdb_id": "tt14914464"
-  },
-  {
     "name": "Mythic Quest",
     "type": "series",
     "imdb_id": "tt8879940"
+  },
+  {
+    "name": "STEVE! (martin) a documentary in 2 pieces",
+    "type": "series",
+    "imdb_id": "tt21629194"
   }
 ]
