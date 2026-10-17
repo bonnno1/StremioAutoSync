@@ -1,13 +1,13 @@
 [
   {
-    "name": "Come Home Love: Lo and Behold",
-    "type": "series",
-    "imdb_id": "tt22007716"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Come Home Love: Lo and Behold",
+    "type": "series",
+    "imdb_id": "tt22007716"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -30,14 +30,14 @@
     "imdb_id": "tt2185037"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "The Daily Show",
@@ -55,6 +55,11 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Young Hearts",
+    "type": "series",
+    "imdb_id": "tt0144724"
+  },
+  {
     "name": "The Rookie",
     "type": "series",
     "imdb_id": "tt7587890"
@@ -65,14 +70,9 @@
     "imdb_id": "tt0106053"
   },
   {
-    "name": "Young Hearts",
+    "name": "American Dad!",
     "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
-    "name": "Rick and Morty",
-    "type": "series",
-    "imdb_id": "tt2861424"
+    "imdb_id": "tt0397306"
   },
   {
     "name": "Ted Lasso",
@@ -80,9 +80,9 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "American Dad!",
+    "name": "Rick and Morty",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt2861424"
   },
   {
     "name": "Men on a Mission",

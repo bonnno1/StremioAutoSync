@@ -10,34 +10,19 @@
     "imdb_id": "tt28498219"
   },
   {
-    "name": "Resident Evil",
-    "type": "movie",
-    "imdb_id": "tt35538033"
-  },
-  {
     "name": "The Odyssey",
     "type": "movie",
     "imdb_id": "tt33764258"
   },
   {
+    "name": "Resident Evil",
+    "type": "movie",
+    "imdb_id": "tt35538033"
+  },
+  {
     "name": "Toy Story 5",
     "type": "movie",
     "imdb_id": "tt29355505"
-  },
-  {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
-  },
-  {
-    "name": "Avengers: Infinity War",
-    "type": "movie",
-    "imdb_id": "tt4154756"
-  },
-  {
-    "name": "Harry Potter and the Philosopher's Stone",
-    "type": "movie",
-    "imdb_id": "tt0241527"
   },
   {
     "name": "Coyote vs. Acme",
@@ -50,14 +35,9 @@
     "imdb_id": "tt21357150"
   },
   {
-    "name": "The Lord of the Rings: The Return of the King",
+    "name": "Avengers: Infinity War",
     "type": "movie",
-    "imdb_id": "tt0167260"
-  },
-  {
-    "name": "Avatar: Fire and Ash",
-    "type": "movie",
-    "imdb_id": "tt1757678"
+    "imdb_id": "tt4154756"
   },
   {
     "name": "Zootopia 2",
@@ -65,29 +45,14 @@
     "imdb_id": "tt26443597"
   },
   {
-    "name": "The Wild Robot",
+    "name": "Avatar: Fire and Ash",
     "type": "movie",
-    "imdb_id": "tt29623480"
+    "imdb_id": "tt1757678"
   },
   {
-    "name": "The Hobbit: The Battle of the Five Armies",
+    "name": "Harry Potter and the Philosopher's Stone",
     "type": "movie",
-    "imdb_id": "tt2310332"
-  },
-  {
-    "name": "Star Wars",
-    "type": "movie",
-    "imdb_id": "tt0076759"
-  },
-  {
-    "name": "Minions & Monsters",
-    "type": "movie",
-    "imdb_id": "tt32890033"
-  },
-  {
-    "name": "Moana",
-    "type": "movie",
-    "imdb_id": "tt27419466"
+    "imdb_id": "tt0241527"
   },
   {
     "name": "Project Hail Mary",
@@ -95,8 +60,43 @@
     "imdb_id": "tt12042730"
   },
   {
-    "name": "Raiders of the Lost Ark",
+    "name": "Inside Out 2",
     "type": "movie",
-    "imdb_id": "tt0082971"
+    "imdb_id": "tt22022452"
+  },
+  {
+    "name": "Minions & Monsters",
+    "type": "movie",
+    "imdb_id": "tt32890033"
+  },
+  {
+    "name": "The Wild Robot",
+    "type": "movie",
+    "imdb_id": "tt29623480"
+  },
+  {
+    "name": "Moana",
+    "type": "movie",
+    "imdb_id": "tt27419466"
+  },
+  {
+    "name": "Heart of the Beast",
+    "type": "movie",
+    "imdb_id": "tt7526136"
+  },
+  {
+    "name": "Avengers: Endgame",
+    "type": "movie",
+    "imdb_id": "tt4154796"
+  },
+  {
+    "name": "The Hobbit: The Battle of the Five Armies",
+    "type": "movie",
+    "imdb_id": "tt2310332"
+  },
+  {
+    "name": "The Mandalorian and Grogu",
+    "type": "movie",
+    "imdb_id": "tt30825738"
   }
 ]

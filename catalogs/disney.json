@@ -20,11 +20,6 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Goosebumps",
-    "type": "series",
-    "imdb_id": "tt17720272"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -45,9 +40,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Moving",
+    "name": "Goosebumps",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt17720272"
   },
   {
     "name": "Star Wars: Visions",
@@ -55,14 +50,14 @@
     "imdb_id": "tt13622982"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -70,24 +65,14 @@
     "imdb_id": "tt12708542"
   },
   {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Star Wars: Skeleton Crew",
-    "type": "series",
-    "imdb_id": "tt20600980"
-  },
-  {
-    "name": "Your Friendly Neighborhood Spider-Man",
-    "type": "series",
-    "imdb_id": "tt16027074"
-  },
-  {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
   },
   {
     "name": "Hyper Knife",
@@ -95,8 +80,23 @@
     "imdb_id": "tt35378081"
   },
   {
-    "name": "X-Men '97",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Your Friendly Neighborhood Spider-Man",
+    "type": "series",
+    "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Star Wars: Skeleton Crew",
+    "type": "series",
+    "imdb_id": "tt20600980"
+  },
+  {
+    "name": "She-Hulk: Attorney at Law",
+    "type": "series",
+    "imdb_id": "tt10857160"
   }
 ]
