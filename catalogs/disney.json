@@ -40,6 +40,11 @@
     "imdb_id": "tt10168312"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
     "name": "Goosebumps",
     "type": "series",
     "imdb_id": "tt17720272"
@@ -53,11 +58,6 @@
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
-  },
-  {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -80,14 +80,14 @@
     "imdb_id": "tt35378081"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
-    "type": "series",
-    "imdb_id": "tt20674124"
-  },
-  {
     "name": "Your Friendly Neighborhood Spider-Man",
     "type": "series",
     "imdb_id": "tt16027074"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
   },
   {
     "name": "Star Wars: Skeleton Crew",

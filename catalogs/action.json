@@ -40,14 +40,14 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "Bleach",
     "type": "series",
     "imdb_id": "tt0434665"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Stargate SG-1",
@@ -85,11 +85,6 @@
     "imdb_id": "tt7491982"
   },
   {
-    "name": "Avatar: Seven Havens",
-    "type": "series",
-    "imdb_id": "tt35854736"
-  },
-  {
     "name": "Prison Break",
     "type": "series",
     "imdb_id": "tt0455275"
@@ -98,5 +93,10 @@
     "name": "9-1-1",
     "type": "series",
     "imdb_id": "tt7235466"
+  },
+  {
+    "name": "House of the Dragon",
+    "type": "series",
+    "imdb_id": "tt11198330"
   }
 ]
