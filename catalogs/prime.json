@@ -10,24 +10,19 @@
     "imdb_id": "tt11540908"
   },
   {
-    "name": "The Boys",
-    "type": "series",
-    "imdb_id": "tt1190634"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
   },
   {
+    "name": "The Boys",
+    "type": "series",
+    "imdb_id": "tt1190634"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "The Expanse",
@@ -40,19 +35,9 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
-    "name": "Gen V",
-    "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt6741278"
   },
   {
     "name": "Friends Sex and Games",
@@ -60,14 +45,24 @@
     "imdb_id": "tt37180305"
   },
   {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
+  },
+  {
     "name": "The Legend of Vox Machina",
     "type": "series",
     "imdb_id": "tt11247158"
-  },
-  {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
   },
   {
     "name": "Fallout",
@@ -75,14 +70,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "The Wheel of Time",
+    "name": "Cross",
     "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
+    "imdb_id": "tt11794812"
   },
   {
     "name": "Helluva Boss",
@@ -90,8 +80,18 @@
     "imdb_id": "tt10691770"
   },
   {
-    "name": "The Marvelous Mrs. Maisel",
+    "name": "Off Campus",
     "type": "series",
-    "imdb_id": "tt5788792"
+    "imdb_id": "tt33546863"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
   }
 ]
