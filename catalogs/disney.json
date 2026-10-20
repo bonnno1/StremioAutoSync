@@ -20,14 +20,14 @@
     "imdb_id": "tt9140554"
   },
   {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
-  },
-  {
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
+  },
+  {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Daredevil: Born Again",
@@ -40,19 +40,9 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
   },
   {
     "name": "Andor",
@@ -60,14 +50,19 @@
     "imdb_id": "tt9253284"
   },
   {
+    "name": "WandaVision",
+    "type": "series",
+    "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Your Friendly Neighborhood Spider-Man",
-    "type": "series",
-    "imdb_id": "tt16027074"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -75,9 +70,9 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Goosebumps",
+    "name": "Your Friendly Neighborhood Spider-Man",
     "type": "series",
-    "imdb_id": "tt17720272"
+    "imdb_id": "tt16027074"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -85,9 +80,9 @@
     "imdb_id": "tt20674124"
   },
   {
-    "name": "Hyper Knife",
+    "name": "Takopi's Original Sin",
     "type": "series",
-    "imdb_id": "tt35378081"
+    "imdb_id": "tt36988358"
   },
   {
     "name": "X-Men '97",
@@ -95,8 +90,8 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Dorohedoro",
+    "name": "Hyper Knife",
     "type": "series",
-    "imdb_id": "tt11147852"
+    "imdb_id": "tt35378081"
   }
 ]

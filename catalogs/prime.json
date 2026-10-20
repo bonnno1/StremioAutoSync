@@ -10,19 +10,24 @@
     "imdb_id": "tt11540908"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "The Boys",
     "type": "series",
     "imdb_id": "tt1190634"
   },
   {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "INVINCIBLE",
+    "type": "series",
+    "imdb_id": "tt6741278"
   },
   {
     "name": "The Expanse",
@@ -33,11 +38,6 @@
     "name": "The Chosen",
     "type": "series",
     "imdb_id": "tt5622316"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
   },
   {
     "name": "Friends Sex and Games",
@@ -70,19 +70,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Cross",
-    "type": "series",
-    "imdb_id": "tt11794812"
-  },
-  {
     "name": "Helluva Boss",
     "type": "series",
     "imdb_id": "tt10691770"
-  },
-  {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
   },
   {
     "name": "The Wheel of Time",
@@ -90,8 +80,18 @@
     "imdb_id": "tt7462410"
   },
   {
+    "name": "Off Campus",
+    "type": "series",
+    "imdb_id": "tt33546863"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
+  },
+  {
+    "name": "The Terminal List: Dark Wolf",
+    "type": "series",
+    "imdb_id": "tt26576161"
   }
 ]

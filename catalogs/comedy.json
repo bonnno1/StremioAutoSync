@@ -1,13 +1,33 @@
 [
   {
-    "name": "Come Home Love: Lo and Behold",
+    "name": "Death in Paradise",
     "type": "series",
-    "imdb_id": "tt22007716"
+    "imdb_id": "tt1888075"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "The Bear",
+    "type": "series",
+    "imdb_id": "tt14452776"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Come Home Love: Lo and Behold",
+    "type": "series",
+    "imdb_id": "tt22007716"
+  },
+  {
+    "name": "Ally McBeal",
+    "type": "series",
+    "imdb_id": "tt0118254"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -45,6 +65,11 @@
     "imdb_id": "tt0115147"
   },
   {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
+  },
+  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -55,48 +80,23 @@
     "imdb_id": "tt0144724"
   },
   {
-    "name": "Late Show with David Letterman",
-    "type": "series",
-    "imdb_id": "tt0106053"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
   },
   {
-    "name": "American Dad!",
+    "name": "Late Show with David Letterman",
     "type": "series",
-    "imdb_id": "tt0397306"
+    "imdb_id": "tt0106053"
   },
   {
-    "name": "Tulsa King",
+    "name": "Nurse Jackie",
     "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt1190689"
   },
   {
-    "name": "Rick and Morty",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt2861424"
-  },
-  {
-    "name": "The Mike Douglas Show",
-    "type": "series",
-    "imdb_id": "tt0170980"
-  },
-  {
-    "name": "Conan",
-    "type": "series",
-    "imdb_id": "tt1637574"
-  },
-  {
-    "name": "Chibi Maruko-chan",
-    "type": "series",
-    "imdb_id": "tt0220204"
+    "imdb_id": "tt7587890"
   }
 ]

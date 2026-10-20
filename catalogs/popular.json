@@ -15,14 +15,14 @@
     "imdb_id": "tt0055708"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Law & Order",
@@ -35,11 +35,6 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -48,6 +43,11 @@
     "name": "Late Night with Seth Meyers",
     "type": "series",
     "imdb_id": "tt3513388"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
   },
   {
     "name": "NCIS",
@@ -90,8 +90,8 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "VisionQuest",
+    "name": "Carrie",
     "type": "series",
-    "imdb_id": "tt23112594"
+    "imdb_id": "tt11540908"
   }
 ]

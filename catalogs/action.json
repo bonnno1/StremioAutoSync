@@ -1,5 +1,10 @@
 [
   {
+    "name": "Torchwood",
+    "type": "series",
+    "imdb_id": "tt0485301"
+  },
+  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
@@ -30,6 +35,11 @@
     "imdb_id": "tt0944947"
   },
   {
+    "name": "Bleach",
+    "type": "series",
+    "imdb_id": "tt0434665"
+  },
+  {
     "name": "Rick and Morty",
     "type": "series",
     "imdb_id": "tt2861424"
@@ -40,54 +50,9 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
     "name": "Smallville",
     "type": "series",
     "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "The Walking Dead",
-    "type": "series",
-    "imdb_id": "tt1520211"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
-    "name": "NCIS: Los Angeles",
-    "type": "series",
-    "imdb_id": "tt1378167"
-  },
-  {
-    "name": "Kamen Rider Geats",
-    "type": "series",
-    "imdb_id": "tt20758104"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Stargate SG-1",
-    "type": "series",
-    "imdb_id": "tt0118480"
   },
   {
     "name": "Dragon Ball Super: Beerus",
@@ -95,8 +60,43 @@
     "imdb_id": "tt39395275"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Hawaii Five-0",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1600194"
+  },
+  {
+    "name": "The Walking Dead",
+    "type": "series",
+    "imdb_id": "tt1520211"
+  },
+  {
+    "name": "Pokémon",
+    "type": "series",
+    "imdb_id": "tt0168366"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Stargate SG-1",
+    "type": "series",
+    "imdb_id": "tt0118480"
+  },
+  {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
+    "name": "All Elite Wrestling: Dynamite",
+    "type": "series",
+    "imdb_id": "tt10691888"
+  },
+  {
+    "name": "9-1-1",
+    "type": "series",
+    "imdb_id": "tt7235466"
   }
 ]
