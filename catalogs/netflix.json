@@ -10,6 +10,11 @@
     "imdb_id": "tt0185103"
   },
   {
+    "name": "Cyberpunk: Edgerunners",
+    "type": "series",
+    "imdb_id": "tt12590266"
+  },
+  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
@@ -25,14 +30,14 @@
     "imdb_id": "tt4574334"
   },
   {
-    "name": "The Diplomat",
-    "type": "series",
-    "imdb_id": "tt17491088"
-  },
-  {
     "name": "JoJo's Bizarre Adventure",
     "type": "series",
     "imdb_id": "tt2359704"
+  },
+  {
+    "name": "The Diplomat",
+    "type": "series",
+    "imdb_id": "tt17491088"
   },
   {
     "name": "Lucifer",
@@ -40,14 +45,14 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Squid Game",
+    "type": "series",
+    "imdb_id": "tt10919420"
   },
   {
     "name": "Black Mirror",
@@ -60,19 +65,9 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Below",
-    "type": "series",
-    "imdb_id": "tt35934755"
-  },
-  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Bridgerton",
-    "type": "series",
-    "imdb_id": "tt8740790"
   },
   {
     "name": "Orange Is the New Black",
@@ -85,18 +80,23 @@
     "imdb_id": "tt3398228"
   },
   {
+    "name": "Below",
+    "type": "series",
+    "imdb_id": "tt35934755"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
+  },
+  {
+    "name": "Bridgerton",
+    "type": "series",
+    "imdb_id": "tt8740790"
+  },
+  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
-  },
-  {
-    "name": "Wednesday",
-    "type": "series",
-    "imdb_id": "tt13443470"
-  },
-  {
-    "name": "Take Charge of My Heart",
-    "type": "series",
-    "imdb_id": "tt37737331"
   }
 ]

@@ -5,9 +5,14 @@
     "imdb_id": "tt14976292"
   },
   {
-    "name": "Phony",
+    "name": "Crystal Lake",
     "type": "series",
-    "imdb_id": "tt21952924"
+    "imdb_id": "tt23148340"
+  },
+  {
+    "name": "The Apothecary Diaries",
+    "type": "series",
+    "imdb_id": "tt26743760"
   },
   {
     "name": "VisionQuest",
@@ -15,14 +20,9 @@
     "imdb_id": "tt23112594"
   },
   {
-    "name": "Crystal Lake",
+    "name": "Cyberpunk: Edgerunners",
     "type": "series",
-    "imdb_id": "tt23148340"
-  },
-  {
-    "name": "Where the Mask Ends",
-    "type": "series",
-    "imdb_id": "tt42576855"
+    "imdb_id": "tt12590266"
   },
   {
     "name": "Tulsa King",
@@ -30,14 +30,14 @@
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Bleach",
+    "name": "MobLand",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt31510819"
   },
   {
-    "name": "Cyberpunk: Edgerunners",
+    "name": "Small Town Remedy",
     "type": "series",
-    "imdb_id": "tt12590266"
+    "imdb_id": "tt38715296"
   },
   {
     "name": "Carrie",
@@ -45,19 +45,9 @@
     "imdb_id": "tt11540908"
   },
   {
-    "name": "Lanterns",
+    "name": "Re:ZERO -Starting Life in Another World-",
     "type": "series",
-    "imdb_id": "tt26545992"
-  },
-  {
-    "name": "Love in Disguise",
-    "type": "series",
-    "imdb_id": "tt45246384"
-  },
-  {
-    "name": "Below",
-    "type": "series",
-    "imdb_id": "tt35934755"
+    "imdb_id": "tt5607616"
   },
   {
     "name": "Dragon Ball Super: Beerus",
@@ -65,9 +55,24 @@
     "imdb_id": "tt39395275"
   },
   {
-    "name": "Black Clover",
+    "name": "Love in Disguise",
     "type": "series",
-    "imdb_id": "tt7441658"
+    "imdb_id": "tt45246384"
+  },
+  {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
+  },
+  {
+    "name": "Below",
+    "type": "series",
+    "imdb_id": "tt35934755"
+  },
+  {
+    "name": "Where the Mask Ends",
+    "type": "series",
+    "imdb_id": "tt42576855"
   },
   {
     "name": "The Diplomat",
@@ -75,28 +80,23 @@
     "imdb_id": "tt17491088"
   },
   {
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "type": "series",
-    "imdb_id": "tt13293588"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
-  },
-  {
-    "name": "Between Steps",
-    "type": "series",
-    "imdb_id": "tt39087958"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
   },
   {
-    "name": "MobLand",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt31510819"
+    "imdb_id": "tt0434665"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Lanterns",
+    "type": "series",
+    "imdb_id": "tt26545992"
   }
 ]
