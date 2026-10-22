@@ -1,13 +1,18 @@
 [
   {
+    "name": "Insidious: Out of the Further",
+    "type": "movie",
+    "imdb_id": "tt32393988"
+  },
+  {
     "name": "Other Mommy",
     "type": "movie",
     "imdb_id": "tt36586020"
   },
   {
-    "name": "Insidious: Out of the Further",
+    "name": "Clayface",
     "type": "movie",
-    "imdb_id": "tt32393988"
+    "imdb_id": "tt34890576"
   },
   {
     "name": "Resident Evil",
@@ -15,14 +20,14 @@
     "imdb_id": "tt35538033"
   },
   {
-    "name": "Resident Dead",
-    "type": "movie",
-    "imdb_id": "tt43640339"
-  },
-  {
     "name": "Buddy",
     "type": "movie",
     "imdb_id": "tt37281055"
+  },
+  {
+    "name": "Resident Dead",
+    "type": "movie",
+    "imdb_id": "tt43640339"
   },
   {
     "name": "Don't Move",
@@ -35,9 +40,9 @@
     "imdb_id": "tt30887701"
   },
   {
-    "name": "Clayface",
+    "name": "Obsession",
     "type": "movie",
-    "imdb_id": "tt34890576"
+    "imdb_id": "tt37287335"
   },
   {
     "name": "Don't Leave the Kids Alone",
@@ -45,24 +50,9 @@
     "imdb_id": "tt27871792"
   },
   {
-    "name": "Obsession",
-    "type": "movie",
-    "imdb_id": "tt37287335"
-  },
-  {
     "name": "Resident Evil: Welcome to Raccoon City",
     "type": "movie",
     "imdb_id": "tt6920084"
-  },
-  {
-    "name": "Godzilla Minus Zero",
-    "type": "movie",
-    "imdb_id": "tt34384661"
-  },
-  {
-    "name": "Onslaught",
-    "type": "movie",
-    "imdb_id": "tt32268691"
   },
   {
     "name": "Backrooms",
@@ -75,9 +65,9 @@
     "imdb_id": "tt34385135"
   },
   {
-    "name": "V/H/S/MIXTAPE",
+    "name": "Onslaught",
     "type": "movie",
-    "imdb_id": "tt43739386"
+    "imdb_id": "tt32268691"
   },
   {
     "name": "Coraline",
@@ -85,18 +75,28 @@
     "imdb_id": "tt0327597"
   },
   {
+    "name": "Godzilla Minus Zero",
+    "type": "movie",
+    "imdb_id": "tt34384661"
+  },
+  {
     "name": "The Whistler",
     "type": "movie",
     "imdb_id": "tt1776340"
   },
   {
-    "name": "Shell",
+    "name": "Sinners",
     "type": "movie",
-    "imdb_id": "tt12706836"
+    "imdb_id": "tt31193180"
   },
   {
-    "name": "Virtual Assistant",
+    "name": "V/H/S/MIXTAPE",
     "type": "movie",
-    "imdb_id": "tt37542920"
+    "imdb_id": "tt43739386"
+  },
+  {
+    "name": "A Mind in Chaos",
+    "type": "movie",
+    "imdb_id": "tt37519390"
   }
 ]

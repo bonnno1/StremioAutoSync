@@ -1,10 +1,5 @@
 [
   {
-    "name": "Breaking Bad",
-    "type": "series",
-    "imdb_id": "tt0903747"
-  },
-  {
     "name": "Death in Paradise",
     "type": "series",
     "imdb_id": "tt1888075"
@@ -13,6 +8,11 @@
     "name": "What We Do in the Shadows",
     "type": "series",
     "imdb_id": "tt7908628"
+  },
+  {
+    "name": "Breaking Bad",
+    "type": "series",
+    "imdb_id": "tt0903747"
   },
   {
     "name": "South Park",
@@ -35,9 +35,9 @@
     "imdb_id": "tt0380100"
   },
   {
-    "name": "Ally McBeal",
+    "name": "Come Home Love: Lo and Behold",
     "type": "series",
-    "imdb_id": "tt0118254"
+    "imdb_id": "tt22007716"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -45,24 +45,9 @@
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Come Home Love: Lo and Behold",
+    "name": "Ally McBeal",
     "type": "series",
-    "imdb_id": "tt22007716"
-  },
-  {
-    "name": "Nurse Jackie",
-    "type": "series",
-    "imdb_id": "tt1190689"
-  },
-  {
-    "name": "Torchwood",
-    "type": "series",
-    "imdb_id": "tt0485301"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt0118254"
   },
   {
     "name": "The Tonight Show Starring Johnny Carson",
@@ -70,9 +55,9 @@
     "imdb_id": "tt0055708"
   },
   {
-    "name": "The Tonight Show Starring Jimmy Fallon",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt3444938"
+    "imdb_id": "tt0203259"
   },
   {
     "name": "Running Man",
@@ -80,19 +65,34 @@
     "imdb_id": "tt2185037"
   },
   {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
+  },
+  {
+    "name": "Tagesschau",
+    "type": "series",
+    "imdb_id": "tt0246393"
+  },
+  {
     "name": "VisionQuest",
     "type": "series",
     "imdb_id": "tt23112594"
   },
   {
-    "name": "Girlfriends",
-    "type": "series",
-    "imdb_id": "tt0247102"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
   },
   {
     "name": "The Late Show with Stephen Colbert",

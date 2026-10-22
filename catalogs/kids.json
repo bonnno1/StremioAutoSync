@@ -25,11 +25,6 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Jake and the Never Land Pirates",
-    "type": "series",
-    "imdb_id": "tt1833403"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
@@ -40,24 +35,19 @@
     "imdb_id": "tt1871731"
   },
   {
+    "name": "Jake and the Never Land Pirates",
+    "type": "series",
+    "imdb_id": "tt1833403"
+  },
+  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Rugrats",
+    "name": "Maddie + Triggs",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt38270077"
   },
   {
     "name": "The Loud House",
@@ -65,14 +55,14 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt0069576"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0294196"
+    "imdb_id": "tt0101188"
   },
   {
     "name": "The Fairly OddParents",
@@ -80,14 +70,24 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Curious George",
+    "name": "Sítio do Picapau Amarelo",
     "type": "series",
-    "imdb_id": "tt0449545"
+    "imdb_id": "tt0294196"
   },
   {
-    "name": "We Bare Bears",
+    "name": "New Looney Tunes",
     "type": "series",
-    "imdb_id": "tt4839610"
+    "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -95,8 +95,8 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Duel Masters",
+    "name": "Curious George",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0449545"
   }
 ]
