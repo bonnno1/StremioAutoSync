@@ -45,14 +45,14 @@
     "imdb_id": "tt31378509"
   },
   {
-    "name": "Narnia: The Magician's Nephew",
-    "type": "movie",
-    "imdb_id": "tt9077514"
-  },
-  {
     "name": "Moana",
     "type": "movie",
     "imdb_id": "tt27419466"
+  },
+  {
+    "name": "Narnia: The Magician's Nephew",
+    "type": "movie",
+    "imdb_id": "tt9077514"
   },
   {
     "name": "Coyote vs. Acme",
@@ -80,11 +80,6 @@
     "imdb_id": "tt32890033"
   },
   {
-    "name": "The Weight",
-    "type": "movie",
-    "imdb_id": "tt10794054"
-  },
-  {
     "name": "Avatar: Fire and Ash",
     "type": "movie",
     "imdb_id": "tt1757678"
@@ -98,5 +93,10 @@
     "name": "Coco",
     "type": "movie",
     "imdb_id": "tt2380307"
+  },
+  {
+    "name": "Zootopia 2",
+    "type": "movie",
+    "imdb_id": "tt26443597"
   }
 ]
