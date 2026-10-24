@@ -30,11 +30,6 @@
     "imdb_id": "tt37180305"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -55,6 +50,11 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "Hazbin Hotel",
+    "type": "series",
+    "imdb_id": "tt7216636"
+  },
+  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
@@ -70,9 +70,19 @@
     "imdb_id": "tt12637874"
   },
   {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
+  },
+  {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
   },
   {
     "name": "The Summer I Turned Pretty",
@@ -80,18 +90,8 @@
     "imdb_id": "tt14016500"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "Off Campus",
     "type": "series",
     "imdb_id": "tt33546863"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
   }
 ]

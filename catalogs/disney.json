@@ -25,14 +25,14 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "Daredevil: Born Again",
-    "type": "series",
-    "imdb_id": "tt18923754"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "type": "series",
+    "imdb_id": "tt18923754"
   },
   {
     "name": "Andor",
@@ -45,29 +45,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Voices Rising: The Music of Wakanda Forever",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt26345409"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
+    "imdb_id": "tt10160804"
   },
   {
     "name": "Takopi's Original Sin",
@@ -75,14 +60,24 @@
     "imdb_id": "tt36988358"
   },
   {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
   },
   {
     "name": "Your Friendly Neighborhood Spider-Man",
@@ -90,8 +85,13 @@
     "imdb_id": "tt16027074"
   },
   {
-    "name": "Moving",
+    "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt20674124"
+  },
+  {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
   }
 ]
