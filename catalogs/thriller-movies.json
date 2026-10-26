@@ -1,13 +1,13 @@
 [
   {
-    "name": "Clayface",
-    "type": "movie",
-    "imdb_id": "tt34890576"
-  },
-  {
     "name": "Fall 2: Deadpoint",
     "type": "movie",
     "imdb_id": "tt31192372"
+  },
+  {
+    "name": "Clayface",
+    "type": "movie",
+    "imdb_id": "tt34890576"
   },
   {
     "name": "Insidious: Out of the Further",
@@ -55,14 +55,14 @@
     "imdb_id": "tt37287335"
   },
   {
+    "name": "Mutiny",
+    "type": "movie",
+    "imdb_id": "tt32338669"
+  },
+  {
     "name": "Don't Move",
     "type": "movie",
     "imdb_id": "tt29630464"
-  },
-  {
-    "name": "War of the Worlds",
-    "type": "movie",
-    "imdb_id": "tt13186306"
   },
   {
     "name": "The End of Oak Street",
@@ -75,14 +75,19 @@
     "imdb_id": "tt33214716"
   },
   {
-    "name": "Don't Leave the Kids Alone",
+    "name": "Gajab Raat",
     "type": "movie",
-    "imdb_id": "tt27871792"
+    "imdb_id": "tt39631280"
   },
   {
-    "name": "Mutiny",
+    "name": "War of the Worlds",
     "type": "movie",
-    "imdb_id": "tt32338669"
+    "imdb_id": "tt13186306"
+  },
+  {
+    "name": "The Awakening",
+    "type": "movie",
+    "imdb_id": "tt39120306"
   },
   {
     "name": "Heart of the Beast",
@@ -90,13 +95,8 @@
     "imdb_id": "tt7526136"
   },
   {
-    "name": "Onslaught",
+    "name": "Don't Leave the Kids Alone",
     "type": "movie",
-    "imdb_id": "tt32268691"
-  },
-  {
-    "name": "The Weight",
-    "type": "movie",
-    "imdb_id": "tt10794054"
+    "imdb_id": "tt27871792"
   }
 ]

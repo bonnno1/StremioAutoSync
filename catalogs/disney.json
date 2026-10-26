@@ -25,11 +25,6 @@
     "imdb_id": "tt8111088"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
@@ -40,9 +35,9 @@
     "imdb_id": "tt9253284"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "What If...?",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt10168312"
   },
   {
     "name": "WandaVision",
@@ -50,14 +45,9 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt13622982"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -65,9 +55,14 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Takopi's Original Sin",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt36988358"
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
   },
   {
     "name": "Moving",
@@ -80,9 +75,14 @@
     "imdb_id": "tt16026746"
   },
   {
-    "name": "Moon Knight",
+    "name": "Dorohedoro",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt11147852"
+  },
+  {
+    "name": "Takopi's Original Sin",
+    "type": "series",
+    "imdb_id": "tt36988358"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -90,8 +90,8 @@
     "imdb_id": "tt20674124"
   },
   {
-    "name": "Dorohedoro",
+    "name": "Moon Knight",
     "type": "series",
-    "imdb_id": "tt11147852"
+    "imdb_id": "tt10234724"
   }
 ]

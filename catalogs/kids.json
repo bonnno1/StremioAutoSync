@@ -5,14 +5,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Sesame Street",
@@ -25,6 +25,11 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -35,9 +40,14 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "Transformers: Prime",
+    "type": "series",
+    "imdb_id": "tt1659175"
   },
   {
     "name": "The Loud House",
@@ -45,24 +55,14 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Rugrats",
+    "type": "series",
+    "imdb_id": "tt0101188"
   },
   {
     "name": "Yellow Woodpecker Ranch",
@@ -70,9 +70,9 @@
     "imdb_id": "tt0294196"
   },
   {
-    "name": "Jake and the Never Land Pirates",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1833403"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Pokémon Horizons",
@@ -80,23 +80,23 @@
     "imdb_id": "tt26692417"
   },
   {
-    "name": "The Tom and Jerry Show",
+    "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
-  },
-  {
-    "name": "Chiikawa",
-    "type": "series",
-    "imdb_id": "tt26997679"
+    "imdb_id": "tt1877889"
   },
   {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
+  },
+  {
+    "name": "The Tom and Jerry Show",
+    "type": "series",
+    "imdb_id": "tt3559124"
+  },
+  {
+    "name": "Beyblade Burst",
+    "type": "series",
+    "imdb_id": "tt6348126"
   }
 ]

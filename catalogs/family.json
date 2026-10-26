@@ -15,24 +15,29 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Inkigayo",
-    "type": "series",
-    "imdb_id": "tt6050846"
-  },
-  {
-    "name": "Avatar: Seven Havens",
-    "type": "series",
-    "imdb_id": "tt35854736"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
   },
   {
+    "name": "Inkigayo",
+    "type": "series",
+    "imdb_id": "tt6050846"
+  },
+  {
     "name": "Jeopardy!",
     "type": "series",
     "imdb_id": "tt0159881"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
   },
   {
     "name": "Phineas and Ferb",
@@ -45,19 +50,14 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
-  },
-  {
-    "name": "Young Sheldon",
-    "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
+  },
+  {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
   },
   {
     "name": "King of the Hill",
@@ -65,24 +65,14 @@
     "imdb_id": "tt0118375"
   },
   {
-    "name": "Mangal Lakshmi",
-    "type": "series",
-    "imdb_id": "tt30978053"
-  },
-  {
     "name": "Among Friends",
     "type": "series",
     "imdb_id": "tt0175383"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Sazae-san",
     "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "Moesha",
-    "type": "series",
-    "imdb_id": "tt0115275"
+    "imdb_id": "tt0236924"
   },
   {
     "name": "The Chosen",
@@ -90,13 +80,23 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Diagnosis: Murder",
+    "name": "Jason and the Argonauts",
     "type": "series",
-    "imdb_id": "tt0105986"
+    "imdb_id": "tt0217579"
   },
   {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
+  },
+  {
+    "name": "Dallas",
+    "type": "series",
+    "imdb_id": "tt0077000"
+  },
+  {
+    "name": "Lassie",
+    "type": "series",
+    "imdb_id": "tt0046617"
   }
 ]
