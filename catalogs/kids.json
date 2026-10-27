@@ -1,18 +1,23 @@
 [
   {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Sesame Street",
@@ -30,14 +35,14 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Ninja Boy Rantaro",
-    "type": "series",
-    "imdb_id": "tt0306365"
-  },
-  {
     "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
     "imdb_id": "tt1751105"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   },
   {
     "name": "The Fairly OddParents",
@@ -45,19 +50,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Transformers: Prime",
-    "type": "series",
-    "imdb_id": "tt1659175"
-  },
-  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
   },
   {
     "name": "Rugrats",
@@ -70,14 +65,19 @@
     "imdb_id": "tt0294196"
   },
   {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "Bluey",
     "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt7678620"
   },
   {
     "name": "Teenage Mutant Ninja Turtles",
@@ -85,9 +85,9 @@
     "imdb_id": "tt1877889"
   },
   {
-    "name": "Bluey",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt26692417"
   },
   {
     "name": "The Tom and Jerry Show",

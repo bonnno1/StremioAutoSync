@@ -1,48 +1,13 @@
 [
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "What We Do in the Shadows",
     "type": "series",
     "imdb_id": "tt7908628"
-  },
-  {
-    "name": "Death in Paradise",
-    "type": "series",
-    "imdb_id": "tt1888075"
-  },
-  {
-    "name": "Ally McBeal",
-    "type": "series",
-    "imdb_id": "tt0118254"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
-  },
-  {
-    "name": "The Bear",
-    "type": "series",
-    "imdb_id": "tt14452776"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
-  },
-  {
-    "name": "Come Home Love: Lo and Behold",
-    "type": "series",
-    "imdb_id": "tt22007716"
-  },
-  {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
-  },
-  {
-    "name": "The Tonight Show Starring Jimmy Fallon",
-    "type": "series",
-    "imdb_id": "tt3444938"
   },
   {
     "name": "The Simpsons",
@@ -50,34 +15,79 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Doraemon",
+    "name": "Wakfu",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt1807824"
   },
   {
-    "name": "Lush Life",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0115256"
+    "imdb_id": "tt0108778"
   },
   {
-    "name": "Family Guy",
+    "name": "Malcolm in the Middle",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0212671"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "Strong Girl Bong-soon",
     "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt6263222"
   },
   {
-    "name": "The Daily Show",
+    "name": "Cococinel",
     "type": "series",
-    "imdb_id": "tt0115147"
+    "imdb_id": "tt0891373"
   },
   {
-    "name": "Tulsa King",
+    "name": "Moesha",
     "type": "series",
-    "imdb_id": "tt16358384"
+    "imdb_id": "tt0115275"
+  },
+  {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
+  },
+  {
+    "name": "Ally McBeal",
+    "type": "series",
+    "imdb_id": "tt0118254"
+  },
+  {
+    "name": "Lovely Horribly",
+    "type": "series",
+    "imdb_id": "tt8628658"
+  },
+  {
+    "name": "Death in Paradise",
+    "type": "series",
+    "imdb_id": "tt1888075"
+  },
+  {
+    "name": "Come Home Love: Lo and Behold",
+    "type": "series",
+    "imdb_id": "tt22007716"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "The Late Show with Stephen Colbert",
@@ -85,18 +95,8 @@
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Young Hearts",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0144724"
-  },
-  {
-    "name": "American Dad!",
-    "type": "series",
-    "imdb_id": "tt0397306"
-  },
-  {
-    "name": "Late Show with David Letterman",
-    "type": "series",
-    "imdb_id": "tt0106053"
+    "imdb_id": "tt4083422"
   }
 ]
