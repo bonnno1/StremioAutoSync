@@ -1,23 +1,8 @@
 [
   {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "What We Do in the Shadows",
-    "type": "series",
-    "imdb_id": "tt7908628"
-  },
-  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
   },
   {
     "name": "Friends",
@@ -25,9 +10,34 @@
     "imdb_id": "tt0108778"
   },
   {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
+  },
+  {
     "name": "Malcolm in the Middle",
     "type": "series",
     "imdb_id": "tt0212671"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Moesha",
+    "type": "series",
+    "imdb_id": "tt0115275"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "type": "series",
+    "imdb_id": "tt7908628"
   },
   {
     "name": "Strong Girl Bong-soon",
@@ -40,14 +50,9 @@
     "imdb_id": "tt0891373"
   },
   {
-    "name": "Moesha",
+    "name": "Lovely Horribly",
     "type": "series",
-    "imdb_id": "tt0115275"
-  },
-  {
-    "name": "Girlfriends",
-    "type": "series",
-    "imdb_id": "tt0247102"
+    "imdb_id": "tt8628658"
   },
   {
     "name": "Ally McBeal",
@@ -55,19 +60,9 @@
     "imdb_id": "tt0118254"
   },
   {
-    "name": "Lovely Horribly",
-    "type": "series",
-    "imdb_id": "tt8628658"
-  },
-  {
     "name": "Death in Paradise",
     "type": "series",
     "imdb_id": "tt1888075"
-  },
-  {
-    "name": "Come Home Love: Lo and Behold",
-    "type": "series",
-    "imdb_id": "tt22007716"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -80,9 +75,9 @@
     "imdb_id": "tt2185037"
   },
   {
-    "name": "South Park",
+    "name": "Come Home Love: Lo and Behold",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt22007716"
   },
   {
     "name": "The Tonight Show Starring Jimmy Fallon",
@@ -90,13 +85,18 @@
     "imdb_id": "tt3444938"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "The Late Show with Stephen Colbert",
     "type": "series",
     "imdb_id": "tt3697842"
   },
   {
-    "name": "Doraemon",
+    "name": "Lush Life",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt0115256"
   }
 ]

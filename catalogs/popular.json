@@ -5,29 +5,9 @@
     "imdb_id": "tt0413573"
   },
   {
-    "name": "Person of Interest",
-    "type": "series",
-    "imdb_id": "tt1839578"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "What We Do in the Shadows",
-    "type": "series",
-    "imdb_id": "tt7908628"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
   },
   {
     "name": "Criminal Minds",
@@ -35,9 +15,9 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "The Crown",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt0460681"
   },
   {
     "name": "The Simpsons",
@@ -45,19 +25,14 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Magnum P.I.",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt7942796"
+    "imdb_id": "tt4786824"
   },
   {
-    "name": "Wakfu",
+    "name": "Person of Interest",
     "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Friends",
@@ -70,14 +45,29 @@
     "imdb_id": "tt0412175"
   },
   {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Magnum P.I.",
+    "type": "series",
+    "imdb_id": "tt7942796"
+  },
+  {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
+  },
+  {
     "name": "Malcolm in the Middle",
     "type": "series",
     "imdb_id": "tt0212671"
-  },
-  {
-    "name": "Strong Girl Bong-soon",
-    "type": "series",
-    "imdb_id": "tt6263222"
   },
   {
     "name": "Baywatch",
@@ -85,18 +75,28 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Luther",
-    "type": "series",
-    "imdb_id": "tt1474684"
-  },
-  {
     "name": "MINDHUNTER",
     "type": "series",
     "imdb_id": "tt5290382"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Love Between Lines",
     "type": "series",
     "imdb_id": "tt35890969"
+  },
+  {
+    "name": "Moesha",
+    "type": "series",
+    "imdb_id": "tt0115275"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "type": "series",
+    "imdb_id": "tt7908628"
   }
 ]

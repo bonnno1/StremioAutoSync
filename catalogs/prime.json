@@ -30,14 +30,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Friends Sex and Games",
@@ -45,9 +45,9 @@
     "imdb_id": "tt37180305"
   },
   {
-    "name": "The Expanse",
+    "name": "Helluva Boss",
     "type": "series",
-    "imdb_id": "tt3230854"
+    "imdb_id": "tt10691770"
   },
   {
     "name": "INVINCIBLE",
@@ -55,19 +55,29 @@
     "imdb_id": "tt6741278"
   },
   {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
     "name": "Hazbin Hotel",
     "type": "series",
     "imdb_id": "tt7216636"
   },
   {
-    "name": "Helluva Boss",
-    "type": "series",
-    "imdb_id": "tt10691770"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "Gen V",
+    "type": "series",
+    "imdb_id": "tt13159924"
   },
   {
     "name": "The Legend of Vox Machina",
@@ -83,15 +93,5 @@
     "name": "Fallout",
     "type": "series",
     "imdb_id": "tt12637874"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
   }
 ]
