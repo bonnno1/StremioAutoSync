@@ -30,14 +30,14 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "WandaVision",
@@ -50,9 +50,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Hawkeye",
@@ -60,14 +60,9 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Moving",
-    "type": "series",
-    "imdb_id": "tt24640580"
+    "imdb_id": "tt13622982"
   },
   {
     "name": "X-Men '97",
@@ -75,9 +70,19 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "Moving",
+    "type": "series",
+    "imdb_id": "tt24640580"
+  },
+  {
     "name": "Dorohedoro",
     "type": "series",
     "imdb_id": "tt11147852"
+  },
+  {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
   },
   {
     "name": "Moon Knight",
@@ -88,10 +93,5 @@
     "name": "Star Wars: Young Jedi Adventures",
     "type": "series",
     "imdb_id": "tt20674124"
-  },
-  {
-    "name": "Takopi's Original Sin",
-    "type": "series",
-    "imdb_id": "tt36988358"
   }
 ]

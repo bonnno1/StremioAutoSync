@@ -5,6 +5,11 @@
     "imdb_id": "tt1839578"
   },
   {
+    "name": "Baywatch",
+    "type": "series",
+    "imdb_id": "tt0096542"
+  },
+  {
     "name": "Magnum P.I.",
     "type": "series",
     "imdb_id": "tt7942796"
@@ -15,19 +20,14 @@
     "imdb_id": "tt1807824"
   },
   {
-    "name": "Baywatch",
+    "name": "Cococinel",
     "type": "series",
-    "imdb_id": "tt0096542"
+    "imdb_id": "tt0891373"
   },
   {
     "name": "Strong Girl Bong-soon",
     "type": "series",
     "imdb_id": "tt6263222"
-  },
-  {
-    "name": "Cococinel",
-    "type": "series",
-    "imdb_id": "tt0891373"
   },
   {
     "name": "NCIS",
@@ -40,14 +40,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "Kamen Rider",
@@ -75,6 +75,11 @@
     "imdb_id": "tt0434665"
   },
   {
+    "name": "FBI",
+    "type": "series",
+    "imdb_id": "tt7491982"
+  },
+  {
     "name": "Pokémon",
     "type": "series",
     "imdb_id": "tt0168366"
@@ -85,18 +90,13 @@
     "imdb_id": "tt1600194"
   },
   {
+    "name": "Dragon Ball Super: Beerus",
+    "type": "series",
+    "imdb_id": "tt39395275"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
   }
 ]

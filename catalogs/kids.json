@@ -20,19 +20,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Peppa Pig",
@@ -40,9 +30,19 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -50,24 +50,14 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   },
   {
     "name": "Doraemon",
@@ -80,6 +70,26 @@
     "imdb_id": "tt0101188"
   },
   {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Henry Danger",
+    "type": "series",
+    "imdb_id": "tt3596174"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
+  },
+  {
     "name": "Bluey",
     "type": "series",
     "imdb_id": "tt7678620"
@@ -88,15 +98,5 @@
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
-  },
-  {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
-    "name": "Fantastic Four",
-    "type": "series",
-    "imdb_id": "tt0187635"
   }
 ]

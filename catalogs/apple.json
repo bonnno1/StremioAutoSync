@@ -35,21 +35,6 @@
     "imdb_id": "tt0804484"
   },
   {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "The Last Thing He Told Me",
-    "type": "series",
-    "imdb_id": "tt13745850"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
     "name": "Shrinking",
     "type": "series",
     "imdb_id": "tt15677150"
@@ -70,6 +55,21 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
+  },
+  {
     "name": "Invasion",
     "type": "series",
     "imdb_id": "tt9737326"
@@ -80,14 +80,9 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Masters of the Air",
+    "name": "The Last Thing He Told Me",
     "type": "series",
-    "imdb_id": "tt2640044"
-  },
-  {
-    "name": "The Studio",
-    "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt13745850"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -95,8 +90,13 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Hijack",
+    "name": "The Studio",
     "type": "series",
-    "imdb_id": "tt19854762"
+    "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Brothers",
+    "type": "series",
+    "imdb_id": "tt6773088"
   }
 ]

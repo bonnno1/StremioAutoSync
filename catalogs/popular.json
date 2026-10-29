@@ -10,14 +10,14 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Criminal Minds",
     "type": "series",
     "imdb_id": "tt0452046"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
   },
   {
     "name": "The Simpsons",
@@ -25,9 +25,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "The Crown",
+    "name": "Supernatural",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt0460681"
   },
   {
     "name": "Person of Interest",
@@ -40,14 +40,29 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "Medium",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt0412175"
+    "imdb_id": "tt4786824"
   },
   {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
+  },
+  {
+    "name": "Medium",
+    "type": "series",
+    "imdb_id": "tt0412175"
+  },
+  {
+    "name": "Malcolm in the Middle",
+    "type": "series",
+    "imdb_id": "tt0212671"
+  },
+  {
+    "name": "Baywatch",
+    "type": "series",
+    "imdb_id": "tt0096542"
   },
   {
     "name": "Magnum P.I.",
@@ -65,24 +80,14 @@
     "imdb_id": "tt0247102"
   },
   {
-    "name": "Malcolm in the Middle",
-    "type": "series",
-    "imdb_id": "tt0212671"
-  },
-  {
-    "name": "Baywatch",
-    "type": "series",
-    "imdb_id": "tt0096542"
-  },
-  {
     "name": "MINDHUNTER",
     "type": "series",
     "imdb_id": "tt5290382"
   },
   {
-    "name": "Family Guy",
+    "name": "What We Do in the Shadows",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt7908628"
   },
   {
     "name": "Love Between Lines",
@@ -93,10 +98,5 @@
     "name": "Moesha",
     "type": "series",
     "imdb_id": "tt0115275"
-  },
-  {
-    "name": "What We Do in the Shadows",
-    "type": "series",
-    "imdb_id": "tt7908628"
   }
 ]
