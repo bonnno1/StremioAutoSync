@@ -1,10 +1,5 @@
 [
   {
-    "name": "Grey's Anatomy",
-    "type": "series",
-    "imdb_id": "tt0413573"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
@@ -30,9 +25,9 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "Person of Interest",
+    "name": "Grey's Anatomy",
     "type": "series",
-    "imdb_id": "tt1839578"
+    "imdb_id": "tt0413573"
   },
   {
     "name": "Friends",
@@ -40,24 +35,9 @@
     "imdb_id": "tt0108778"
   },
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "Medium",
-    "type": "series",
-    "imdb_id": "tt0412175"
-  },
-  {
-    "name": "Malcolm in the Middle",
-    "type": "series",
-    "imdb_id": "tt0212671"
   },
   {
     "name": "Baywatch",
@@ -65,14 +45,14 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Magnum P.I.",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt7942796"
+    "imdb_id": "tt0386676"
   },
   {
-    "name": "Wakfu",
+    "name": "Malcolm in the Middle",
     "type": "series",
-    "imdb_id": "tt1807824"
+    "imdb_id": "tt0212671"
   },
   {
     "name": "Girlfriends",
@@ -80,23 +60,43 @@
     "imdb_id": "tt0247102"
   },
   {
-    "name": "MINDHUNTER",
+    "name": "The Vampire Diaries",
     "type": "series",
-    "imdb_id": "tt5290382"
+    "imdb_id": "tt1405406"
   },
   {
-    "name": "What We Do in the Shadows",
+    "name": "The Flash",
     "type": "series",
-    "imdb_id": "tt7908628"
+    "imdb_id": "tt3107288"
   },
   {
-    "name": "Love Between Lines",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt35890969"
+    "imdb_id": "tt1196946"
   },
   {
-    "name": "Moesha",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt0115275"
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "Medium",
+    "type": "series",
+    "imdb_id": "tt0412175"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
   }
 ]

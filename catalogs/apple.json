@@ -20,19 +20,24 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "For All Mankind",
-    "type": "series",
-    "imdb_id": "tt7772588"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
+    "name": "For All Mankind",
+    "type": "series",
+    "imdb_id": "tt7772588"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Shrinking",
@@ -45,9 +50,9 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "Widow's Bay",
+    "name": "Masters of the Air",
     "type": "series",
-    "imdb_id": "tt33332385"
+    "imdb_id": "tt2640044"
   },
   {
     "name": "The Morning Show",
@@ -65,14 +70,9 @@
     "imdb_id": "tt34675596"
   },
   {
-    "name": "Masters of the Air",
+    "name": "Pachinko",
     "type": "series",
-    "imdb_id": "tt2640044"
-  },
-  {
-    "name": "Invasion",
-    "type": "series",
-    "imdb_id": "tt9737326"
+    "imdb_id": "tt8888462"
   },
   {
     "name": "Monarch: Legacy of Monsters",
@@ -80,14 +80,9 @@
     "imdb_id": "tt17220216"
   },
   {
-    "name": "The Last Thing He Told Me",
+    "name": "Invasion",
     "type": "series",
-    "imdb_id": "tt13745850"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
+    "imdb_id": "tt9737326"
   },
   {
     "name": "The Studio",
@@ -95,8 +90,13 @@
     "imdb_id": "tt23649128"
   },
   {
-    "name": "Brothers",
+    "name": "The Last Thing He Told Me",
     "type": "series",
-    "imdb_id": "tt6773088"
+    "imdb_id": "tt13745850"
+  },
+  {
+    "name": "Sugar",
+    "type": "series",
+    "imdb_id": "tt16418808"
   }
 ]

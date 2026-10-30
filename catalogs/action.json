@@ -1,18 +1,23 @@
 [
   {
-    "name": "Person of Interest",
-    "type": "series",
-    "imdb_id": "tt1839578"
-  },
-  {
     "name": "Baywatch",
     "type": "series",
     "imdb_id": "tt0096542"
   },
   {
-    "name": "Magnum P.I.",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt7942796"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "The 100",
+    "type": "series",
+    "imdb_id": "tt2661044"
+  },
+  {
+    "name": "The Legend of Korra",
+    "type": "series",
+    "imdb_id": "tt1695360"
   },
   {
     "name": "Wakfu",
@@ -20,14 +25,59 @@
     "imdb_id": "tt1807824"
   },
   {
-    "name": "Cococinel",
+    "name": "Star vs. the Forces of Evil",
     "type": "series",
-    "imdb_id": "tt0891373"
+    "imdb_id": "tt2758770"
+  },
+  {
+    "name": "Person of Interest",
+    "type": "series",
+    "imdb_id": "tt1839578"
+  },
+  {
+    "name": "Magnum P.I.",
+    "type": "series",
+    "imdb_id": "tt7942796"
+  },
+  {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Kuruluş Osman",
+    "type": "series",
+    "imdb_id": "tt11093718"
+  },
+  {
+    "name": "Mob Psycho 100",
+    "type": "series",
+    "imdb_id": "tt5897304"
+  },
+  {
+    "name": "The Librarians",
+    "type": "series",
+    "imdb_id": "tt3663490"
+  },
+  {
+    "name": "Airwolf",
+    "type": "series",
+    "imdb_id": "tt0086662"
   },
   {
     "name": "Strong Girl Bong-soon",
     "type": "series",
     "imdb_id": "tt6263222"
+  },
+  {
+    "name": "Lucha Underground",
+    "type": "series",
+    "imdb_id": "tt4171176"
   },
   {
     "name": "NCIS",
@@ -48,55 +98,5 @@
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Kamen Rider",
-    "type": "series",
-    "imdb_id": "tt0156214"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
-  },
-  {
-    "name": "Smallville",
-    "type": "series",
-    "imdb_id": "tt0279600"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "FBI",
-    "type": "series",
-    "imdb_id": "tt7491982"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
-  },
-  {
-    "name": "Hawaii Five-0",
-    "type": "series",
-    "imdb_id": "tt1600194"
-  },
-  {
-    "name": "Dragon Ball Super: Beerus",
-    "type": "series",
-    "imdb_id": "tt39395275"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
   }
 ]

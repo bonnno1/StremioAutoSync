@@ -5,6 +5,11 @@
     "imdb_id": "tt34890576"
   },
   {
+    "name": "The Awakening",
+    "type": "movie",
+    "imdb_id": "tt39120306"
+  },
+  {
     "name": "Buddy",
     "type": "movie",
     "imdb_id": "tt37281055"
@@ -13,11 +18,6 @@
     "name": "Insidious: Out of the Further",
     "type": "movie",
     "imdb_id": "tt32393988"
-  },
-  {
-    "name": "The Awakening",
-    "type": "movie",
-    "imdb_id": "tt39120306"
   },
   {
     "name": "Pinocchio: Unstrung",
@@ -55,11 +55,6 @@
     "imdb_id": "tt36586020"
   },
   {
-    "name": "Onslaught",
-    "type": "movie",
-    "imdb_id": "tt32268691"
-  },
-  {
     "name": "Colony",
     "type": "movie",
     "imdb_id": "tt34385135"
@@ -68,6 +63,11 @@
     "name": "Coraline",
     "type": "movie",
     "imdb_id": "tt0327597"
+  },
+  {
+    "name": "Sinners",
+    "type": "movie",
+    "imdb_id": "tt31193180"
   },
   {
     "name": "Backrooms",
@@ -80,14 +80,9 @@
     "imdb_id": "tt36822354"
   },
   {
-    "name": "Sinners",
+    "name": "Kraken",
     "type": "movie",
-    "imdb_id": "tt31193180"
-  },
-  {
-    "name": "A Mind in Chaos",
-    "type": "movie",
-    "imdb_id": "tt37519390"
+    "imdb_id": "tt19838566"
   },
   {
     "name": "Resident Evil: Welcome to Raccoon City",
@@ -95,8 +90,13 @@
     "imdb_id": "tt6920084"
   },
   {
-    "name": "Don't Leave the Kids Alone",
+    "name": "Log 15",
     "type": "movie",
-    "imdb_id": "tt27871792"
+    "imdb_id": "tt39298798"
+  },
+  {
+    "name": "A Mind in Chaos",
+    "type": "movie",
+    "imdb_id": "tt37519390"
   }
 ]

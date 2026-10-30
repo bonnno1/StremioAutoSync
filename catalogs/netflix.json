@@ -5,14 +5,24 @@
     "imdb_id": "tt4786824"
   },
   {
+    "name": "You",
+    "type": "series",
+    "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
     "name": "MINDHUNTER",
     "type": "series",
     "imdb_id": "tt5290382"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Raw",
@@ -20,9 +30,9 @@
     "imdb_id": "tt0185103"
   },
   {
-    "name": "Lupin",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt2531336"
+    "imdb_id": "tt0401916"
   },
   {
     "name": "Good Mythical Morning",
@@ -30,14 +40,9 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "Cyberpunk: Edgerunners",
+    "name": "Lupin",
     "type": "series",
-    "imdb_id": "tt12590266"
-  },
-  {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt2531336"
   },
   {
     "name": "Stranger Things",
@@ -50,14 +55,29 @@
     "imdb_id": "tt2359704"
   },
   {
+    "name": "Cyberpunk: Edgerunners",
+    "type": "series",
+    "imdb_id": "tt12590266"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Loud House",
@@ -75,28 +95,8 @@
     "imdb_id": "tt17491088"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
-  },
-  {
     "name": "The Gentlemen",
     "type": "series",
     "imdb_id": "tt13210838"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
-    "name": "Arcane",
-    "type": "series",
-    "imdb_id": "tt11126994"
   }
 ]
