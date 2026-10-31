@@ -1,10 +1,5 @@
 [
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
@@ -18,6 +13,11 @@
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   },
   {
     "name": "MINDHUNTER",
@@ -35,19 +35,19 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
-  },
-  {
     "name": "Lupin",
     "type": "series",
     "imdb_id": "tt2531336"
   },
   {
-    "name": "Stranger Things",
+    "name": "Good Mythical Morning",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt4087032"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -55,9 +55,9 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Cyberpunk: Edgerunners",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt12590266"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Sesame Street",
@@ -65,9 +65,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "Cyberpunk: Edgerunners",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt12590266"
+  },
+  {
+    "name": "Dead-End Job",
+    "type": "series",
+    "imdb_id": "tt36458668"
   },
   {
     "name": "Lucifer",
@@ -85,18 +90,13 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
     "name": "The Diplomat",
     "type": "series",
     "imdb_id": "tt17491088"
   },
   {
-    "name": "The Gentlemen",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt13210838"
+    "imdb_id": "tt10919420"
   }
 ]

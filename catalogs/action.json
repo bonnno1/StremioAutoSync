@@ -1,10 +1,5 @@
 [
   {
-    "name": "Baywatch",
-    "type": "series",
-    "imdb_id": "tt0096542"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -20,29 +15,14 @@
     "imdb_id": "tt1695360"
   },
   {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
   },
   {
-    "name": "Person of Interest",
+    "name": "Baywatch",
     "type": "series",
-    "imdb_id": "tt1839578"
-  },
-  {
-    "name": "Magnum P.I.",
-    "type": "series",
-    "imdb_id": "tt7942796"
-  },
-  {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt0096542"
   },
   {
     "name": "The Last Kingdom",
@@ -65,19 +45,39 @@
     "imdb_id": "tt3663490"
   },
   {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
+  },
+  {
     "name": "Airwolf",
     "type": "series",
     "imdb_id": "tt0086662"
   },
   {
-    "name": "Strong Girl Bong-soon",
+    "name": "Wakfu",
     "type": "series",
-    "imdb_id": "tt6263222"
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Magnum P.I.",
+    "type": "series",
+    "imdb_id": "tt7942796"
+  },
+  {
+    "name": "Person of Interest",
+    "type": "series",
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Lucha Underground",
     "type": "series",
     "imdb_id": "tt4171176"
+  },
+  {
+    "name": "Strong Girl Bong-soon",
+    "type": "series",
+    "imdb_id": "tt6263222"
   },
   {
     "name": "NCIS",

@@ -15,11 +15,6 @@
     "imdb_id": "tt31192372"
   },
   {
-    "name": "Clayface",
-    "type": "movie",
-    "imdb_id": "tt34890576"
-  },
-  {
     "name": "Verity",
     "type": "movie",
     "imdb_id": "tt32261958"
@@ -28,6 +23,11 @@
     "name": "The Awakening",
     "type": "movie",
     "imdb_id": "tt39120306"
+  },
+  {
+    "name": "Clayface",
+    "type": "movie",
+    "imdb_id": "tt34890576"
   },
   {
     "name": "The Dog Stars",
@@ -45,6 +45,11 @@
     "imdb_id": "tt13611778"
   },
   {
+    "name": "Apocalypse Z: New World",
+    "type": "movie",
+    "imdb_id": "tt37522541"
+  },
+  {
     "name": "The Fix",
     "type": "movie",
     "imdb_id": "tt9601292"
@@ -60,16 +65,6 @@
     "imdb_id": "tt32329539"
   },
   {
-    "name": "Animals",
-    "type": "movie",
-    "imdb_id": "tt31049299"
-  },
-  {
-    "name": "Obsession",
-    "type": "movie",
-    "imdb_id": "tt37287335"
-  },
-  {
     "name": "Gajab Raat",
     "type": "movie",
     "imdb_id": "tt39631280"
@@ -78,6 +73,16 @@
     "name": "War of the Worlds",
     "type": "movie",
     "imdb_id": "tt13186306"
+  },
+  {
+    "name": "Obsession",
+    "type": "movie",
+    "imdb_id": "tt37287335"
+  },
+  {
+    "name": "Animals",
+    "type": "movie",
+    "imdb_id": "tt31049299"
   },
   {
     "name": "The Cycle",
@@ -93,10 +98,5 @@
     "name": "Disclosure Day",
     "type": "movie",
     "imdb_id": "tt15047880"
-  },
-  {
-    "name": "Onslaught",
-    "type": "movie",
-    "imdb_id": "tt32268691"
   }
 ]

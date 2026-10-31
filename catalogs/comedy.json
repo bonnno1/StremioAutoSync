@@ -10,24 +10,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Malcolm in the Middle",
-    "type": "series",
-    "imdb_id": "tt0212671"
-  },
-  {
-    "name": "Girlfriends",
-    "type": "series",
-    "imdb_id": "tt0247102"
   },
   {
     "name": "How I Met Your Mother",
@@ -55,14 +40,19 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
+    "name": "Malcolm in the Middle",
+    "type": "series",
+    "imdb_id": "tt0212671"
   },
   {
     "name": "Mob Psycho 100",
@@ -80,9 +70,19 @@
     "imdb_id": "tt0075529"
   },
   {
-    "name": "Lovely Horribly",
+    "name": "Girlfriends",
     "type": "series",
-    "imdb_id": "tt8628658"
+    "imdb_id": "tt0247102"
+  },
+  {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Arthur",
+    "type": "series",
+    "imdb_id": "tt0169414"
   },
   {
     "name": "Moesha",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0115275"
   },
   {
-    "name": "What We Do in the Shadows",
-    "type": "series",
-    "imdb_id": "tt7908628"
-  },
-  {
     "name": "Strong Girl Bong-soon",
     "type": "series",
     "imdb_id": "tt6263222"
+  },
+  {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
   }
 ]

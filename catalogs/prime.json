@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Summer I Turned Pretty",
-    "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
+  },
+  {
+    "name": "The Summer I Turned Pretty",
+    "type": "series",
+    "imdb_id": "tt14016500"
   },
   {
     "name": "Reacher",
@@ -40,44 +40,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "Helluva Boss",
     "type": "series",
     "imdb_id": "tt10691770"
   },
   {
-    "name": "Friends Sex and Games",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt37180305"
-  },
-  {
-    "name": "INVINCIBLE",
-    "type": "series",
-    "imdb_id": "tt6741278"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
-  },
-  {
-    "name": "The Expanse",
-    "type": "series",
-    "imdb_id": "tt3230854"
-  },
-  {
-    "name": "Bosch",
-    "type": "series",
-    "imdb_id": "tt3502248"
-  },
-  {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
+    "imdb_id": "tt7216636"
   },
   {
     "name": "Off Campus",
@@ -85,13 +55,43 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "Gen V",
+    "name": "INVINCIBLE",
     "type": "series",
-    "imdb_id": "tt13159924"
+    "imdb_id": "tt6741278"
+  },
+  {
+    "name": "The Expanse",
+    "type": "series",
+    "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Friends Sex and Games",
+    "type": "series",
+    "imdb_id": "tt37180305"
+  },
+  {
+    "name": "Bosch",
+    "type": "series",
+    "imdb_id": "tt3502248"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
+  },
+  {
+    "name": "The Legend of Vox Machina",
+    "type": "series",
+    "imdb_id": "tt11247158"
   },
   {
     "name": "The Terminal List: Dark Wolf",
     "type": "series",
     "imdb_id": "tt26576161"
+  },
+  {
+    "name": "Tom Clancy's Jack Ryan",
+    "type": "series",
+    "imdb_id": "tt5057054"
   }
 ]

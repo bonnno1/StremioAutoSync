@@ -1,13 +1,13 @@
 [
   {
-    "name": "Cococinel",
-    "type": "series",
-    "imdb_id": "tt0891373"
-  },
-  {
     "name": "Arthur",
     "type": "series",
     "imdb_id": "tt0169414"
+  },
+  {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
   },
   {
     "name": "Doraemon",
@@ -65,11 +65,6 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
-  },
-  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
@@ -85,18 +80,23 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
+  },
+  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Bluey",
-    "type": "series",
-    "imdb_id": "tt7678620"
-  },
-  {
     "name": "The Tom and Jerry Show",
     "type": "series",
     "imdb_id": "tt3559124"
+  },
+  {
+    "name": "Bluey",
+    "type": "series",
+    "imdb_id": "tt7678620"
   }
 ]
