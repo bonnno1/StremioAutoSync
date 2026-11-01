@@ -30,6 +30,11 @@
     "imdb_id": "tt0098904"
   },
   {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
     "name": "Monk",
     "type": "series",
     "imdb_id": "tt0312172"
@@ -45,19 +50,9 @@
     "imdb_id": "tt2758770"
   },
   {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
     "name": "Malcolm in the Middle",
     "type": "series",
     "imdb_id": "tt0212671"
-  },
-  {
-    "name": "Mob Psycho 100",
-    "type": "series",
-    "imdb_id": "tt5897304"
   },
   {
     "name": "The Librarians",
@@ -65,14 +60,19 @@
     "imdb_id": "tt3663490"
   },
   {
-    "name": "The Love Boat",
+    "name": "Mob Psycho 100",
     "type": "series",
-    "imdb_id": "tt0075529"
+    "imdb_id": "tt5897304"
   },
   {
     "name": "Girlfriends",
     "type": "series",
     "imdb_id": "tt0247102"
+  },
+  {
+    "name": "The Love Boat",
+    "type": "series",
+    "imdb_id": "tt0075529"
   },
   {
     "name": "Wakfu",
@@ -95,8 +95,8 @@
     "imdb_id": "tt6263222"
   },
   {
-    "name": "Cococinel",
+    "name": "Lovely Horribly",
     "type": "series",
-    "imdb_id": "tt0891373"
+    "imdb_id": "tt8628658"
   }
 ]

@@ -30,16 +30,6 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -50,14 +40,19 @@
     "imdb_id": "tt0294196"
   },
   {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
   },
   {
     "name": "Rugrats",
@@ -65,14 +60,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Loud House",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Pokémon Horizons",
-    "type": "series",
-    "imdb_id": "tt26692417"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "The Fairly OddParents",
@@ -80,9 +70,19 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
+  },
+  {
     "name": "Teenage Mutant Ninja Turtles",
     "type": "series",
     "imdb_id": "tt1877889"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "New Looney Tunes",
@@ -95,8 +95,8 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Bluey",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt7678620"
+    "imdb_id": "tt0404597"
   }
 ]

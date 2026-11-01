@@ -10,14 +10,14 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
   },
   {
     "name": "MINDHUNTER",
@@ -35,14 +35,24 @@
     "imdb_id": "tt0401916"
   },
   {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
     "name": "Lupin",
     "type": "series",
     "imdb_id": "tt2531336"
   },
   {
-    "name": "Good Mythical Morning",
+    "name": "Dead-End Job",
     "type": "series",
-    "imdb_id": "tt4087032"
+    "imdb_id": "tt36458668"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
   },
   {
     "name": "BoJack Horseman",
@@ -55,11 +65,6 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
@@ -68,11 +73,6 @@
     "name": "Cyberpunk: Edgerunners",
     "type": "series",
     "imdb_id": "tt12590266"
-  },
-  {
-    "name": "Dead-End Job",
-    "type": "series",
-    "imdb_id": "tt36458668"
   },
   {
     "name": "Lucifer",
@@ -85,14 +85,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
     "name": "The Diplomat",
     "type": "series",
     "imdb_id": "tt17491088"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
   },
   {
     "name": "Squid Game",

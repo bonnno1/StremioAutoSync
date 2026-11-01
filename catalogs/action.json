@@ -5,19 +5,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The 100",
-    "type": "series",
-    "imdb_id": "tt2661044"
-  },
-  {
     "name": "The Legend of Korra",
     "type": "series",
     "imdb_id": "tt1695360"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "The 100",
     "type": "series",
-    "imdb_id": "tt2758770"
+    "imdb_id": "tt2661044"
   },
   {
     "name": "Baywatch",
@@ -25,9 +20,14 @@
     "imdb_id": "tt0096542"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "Star vs. the Forces of Evil",
     "type": "series",
-    "imdb_id": "tt4179452"
+    "imdb_id": "tt2758770"
+  },
+  {
+    "name": "The Librarians",
+    "type": "series",
+    "imdb_id": "tt3663490"
   },
   {
     "name": "Kuruluş Osman",
@@ -40,14 +40,9 @@
     "imdb_id": "tt5897304"
   },
   {
-    "name": "The Librarians",
+    "name": "The Last Kingdom",
     "type": "series",
-    "imdb_id": "tt3663490"
-  },
-  {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt4179452"
   },
   {
     "name": "Airwolf",
@@ -65,14 +60,19 @@
     "imdb_id": "tt7942796"
   },
   {
-    "name": "Person of Interest",
+    "name": "WWE NXT",
     "type": "series",
-    "imdb_id": "tt1839578"
+    "imdb_id": "tt1601141"
   },
   {
     "name": "Lucha Underground",
     "type": "series",
     "imdb_id": "tt4171176"
+  },
+  {
+    "name": "Person of Interest",
+    "type": "series",
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Strong Girl Bong-soon",
@@ -85,14 +85,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "C.I.D.",
     "type": "series",
     "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Reacher",

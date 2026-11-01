@@ -1,18 +1,53 @@
 [
   {
-    "name": "Detective Conan",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt0096697"
   },
   {
-    "name": "Saturday Night Live",
+    "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
-    "imdb_id": "tt0072562"
+    "imdb_id": "tt2057880"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Running Man",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Kamen Rider",
+    "type": "series",
+    "imdb_id": "tt0156214"
+  },
+  {
+    "name": "Chibi Maruko-chan",
+    "type": "series",
+    "imdb_id": "tt0220204"
+  },
+  {
+    "name": "Inkigayo",
+    "type": "series",
+    "imdb_id": "tt6050846"
+  },
+  {
+    "name": "My Little Old Boy",
+    "type": "series",
+    "imdb_id": "tt33336849"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Dragon Ball Super: Beerus",
+    "type": "series",
+    "imdb_id": "tt39395275"
+  },
+  {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
   },
   {
     "name": "Match of the Day",
@@ -20,9 +55,24 @@
     "imdb_id": "tt0135733"
   },
   {
+    "name": "TV Animal Farm",
+    "type": "series",
+    "imdb_id": "tt25605188"
+  },
+  {
     "name": "Hello Saturday",
     "type": "series",
     "imdb_id": "tt30985733"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "CBS News Sunday Morning",
+    "type": "series",
+    "imdb_id": "tt0165001"
   },
   {
     "name": "Where the Mask Ends",
@@ -30,73 +80,23 @@
     "imdb_id": "tt42576855"
   },
   {
-    "name": "How Do You Play?",
+    "name": "Tracker",
     "type": "series",
-    "imdb_id": "tt15334046"
+    "imdb_id": "tt13875494"
+  },
+  {
+    "name": "Last Week Tonight with John Oliver",
+    "type": "series",
+    "imdb_id": "tt3530232"
+  },
+  {
+    "name": "Ace of the Diamond",
+    "type": "series",
+    "imdb_id": "tt3105422"
   },
   {
     "name": "Pinoy Big Brother",
     "type": "series",
     "imdb_id": "tt0479336"
-  },
-  {
-    "name": "Doctor X: Mafia in White",
-    "type": "series",
-    "imdb_id": "tt39328047"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Tokyo Revengers",
-    "type": "series",
-    "imdb_id": "tt13196080"
-  },
-  {
-    "name": "Fights Break Sphere",
-    "type": "series",
-    "imdb_id": "tt12409194"
-  },
-  {
-    "name": "The Lament of Autumn",
-    "type": "series",
-    "imdb_id": "tt37109705"
-  },
-  {
-    "name": "Anupamaa",
-    "type": "series",
-    "imdb_id": "tt11867666"
-  },
-  {
-    "name": "The Manager",
-    "type": "series",
-    "imdb_id": "tt15340934"
-  },
-  {
-    "name": "Strictly Come Dancing",
-    "type": "series",
-    "imdb_id": "tt0411027"
-  },
-  {
-    "name": "Jornal Nacional",
-    "type": "series",
-    "imdb_id": "tt0466513"
-  },
-  {
-    "name": "Black Clover",
-    "type": "series",
-    "imdb_id": "tt7441658"
-  },
-  {
-    "name": "A Fazenda",
-    "type": "series",
-    "imdb_id": "tt1842561"
-  },
-  {
-    "name": "Natural High",
-    "type": "series",
-    "imdb_id": "tt30461072"
   }
 ]
