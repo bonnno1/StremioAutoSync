@@ -1,13 +1,8 @@
 [
   {
-    "name": "Family Guy",
+    "name": "How I Met Your Mother",
     "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt0460649"
   },
   {
     "name": "The Office",
@@ -15,9 +10,9 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "How I Met Your Mother",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0460649"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Modern Family",
@@ -25,14 +20,14 @@
     "imdb_id": "tt1442437"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
   },
   {
     "name": "Monk",
@@ -40,19 +35,14 @@
     "imdb_id": "tt0312172"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
   },
   {
-    "name": "Malcolm in the Middle",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt0212671"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "The Librarians",
@@ -65,14 +55,24 @@
     "imdb_id": "tt5897304"
   },
   {
-    "name": "Girlfriends",
+    "name": "Friends",
     "type": "series",
-    "imdb_id": "tt0247102"
+    "imdb_id": "tt0108778"
   },
   {
     "name": "The Love Boat",
     "type": "series",
     "imdb_id": "tt0075529"
+  },
+  {
+    "name": "Malcolm in the Middle",
+    "type": "series",
+    "imdb_id": "tt0212671"
+  },
+  {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
   },
   {
     "name": "Wakfu",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0115275"
   },
   {
-    "name": "Strong Girl Bong-soon",
-    "type": "series",
-    "imdb_id": "tt6263222"
-  },
-  {
     "name": "Lovely Horribly",
     "type": "series",
     "imdb_id": "tt8628658"
+  },
+  {
+    "name": "Strong Girl Bong-soon",
+    "type": "series",
+    "imdb_id": "tt6263222"
   }
 ]

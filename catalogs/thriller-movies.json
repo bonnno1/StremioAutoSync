@@ -10,14 +10,14 @@
     "imdb_id": "tt37180686"
   },
   {
-    "name": "Fall 2: Deadpoint",
-    "type": "movie",
-    "imdb_id": "tt31192372"
-  },
-  {
     "name": "Apocalypse Z: New World",
     "type": "movie",
     "imdb_id": "tt37522541"
+  },
+  {
+    "name": "Fall 2: Deadpoint",
+    "type": "movie",
+    "imdb_id": "tt31192372"
   },
   {
     "name": "The Awakening",
@@ -35,11 +35,6 @@
     "imdb_id": "tt21285562"
   },
   {
-    "name": "Clayface",
-    "type": "movie",
-    "imdb_id": "tt34890576"
-  },
-  {
     "name": "Insidious: Out of the Further",
     "type": "movie",
     "imdb_id": "tt32393988"
@@ -50,9 +45,14 @@
     "imdb_id": "tt13611778"
   },
   {
-    "name": "War of the Worlds",
+    "name": "Clayface",
     "type": "movie",
-    "imdb_id": "tt13186306"
+    "imdb_id": "tt34890576"
+  },
+  {
+    "name": "Collision Course",
+    "type": "movie",
+    "imdb_id": "tt38793125"
   },
   {
     "name": "The Fix",
@@ -65,9 +65,9 @@
     "imdb_id": "tt32329539"
   },
   {
-    "name": "Gajab Raat",
+    "name": "War of the Worlds",
     "type": "movie",
-    "imdb_id": "tt39631280"
+    "imdb_id": "tt13186306"
   },
   {
     "name": "Obsession",
@@ -75,9 +75,19 @@
     "imdb_id": "tt37287335"
   },
   {
+    "name": "Gajab Raat",
+    "type": "movie",
+    "imdb_id": "tt39631280"
+  },
+  {
     "name": "Masterplan",
     "type": "movie",
     "imdb_id": "tt38672588"
+  },
+  {
+    "name": "Mutiny",
+    "type": "movie",
+    "imdb_id": "tt32338669"
   },
   {
     "name": "Animals",
@@ -88,15 +98,5 @@
     "name": "The Cycle",
     "type": "movie",
     "imdb_id": "tt32358390"
-  },
-  {
-    "name": "Mutiny",
-    "type": "movie",
-    "imdb_id": "tt32338669"
-  },
-  {
-    "name": "Disclosure Day",
-    "type": "movie",
-    "imdb_id": "tt15047880"
   }
 ]

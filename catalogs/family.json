@@ -15,11 +15,6 @@
     "imdb_id": "tt0115275"
   },
   {
-    "name": "Black Kite",
-    "type": "series",
-    "imdb_id": "tt2538812"
-  },
-  {
     "name": "Come Home Love: Lo and Behold",
     "type": "series",
     "imdb_id": "tt22007716"
@@ -30,14 +25,24 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Inkigayo",
+    "name": "Black Kite",
     "type": "series",
-    "imdb_id": "tt6050846"
+    "imdb_id": "tt2538812"
+  },
+  {
+    "name": "The Amazing World of Gumball",
+    "type": "series",
+    "imdb_id": "tt1942683"
   },
   {
     "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
     "type": "series",
     "imdb_id": "tt0278212"
+  },
+  {
+    "name": "Inkigayo",
+    "type": "series",
+    "imdb_id": "tt6050846"
   },
   {
     "name": "Avatar: Seven Havens",
@@ -65,9 +70,9 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Ninjago: Masters of Spinjitzu",
+    "name": "Sítio do Picapau Amarelo",
     "type": "series",
-    "imdb_id": "tt1871731"
+    "imdb_id": "tt0294196"
   },
   {
     "name": "Sazae-san",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
-    "imdb_id": "tt6226232"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Sítio do Picapau Amarelo",
-    "type": "series",
-    "imdb_id": "tt0294196"
+    "imdb_id": "tt1871731"
   },
   {
     "name": "TV Animal Farm",
     "type": "series",
     "imdb_id": "tt25605188"
+  },
+  {
+    "name": "Jason and the Argonauts",
+    "type": "series",
+    "imdb_id": "tt0217579"
   }
 ]

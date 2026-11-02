@@ -1,23 +1,23 @@
 [
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
     "name": "Orange Is the New Black",
     "type": "series",
     "imdb_id": "tt2372162"
   },
   {
-    "name": "The Crown",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   },
   {
     "name": "MINDHUNTER",
@@ -50,9 +50,9 @@
     "imdb_id": "tt36458668"
   },
   {
-    "name": "Stranger Things",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "BoJack Horseman",
@@ -60,9 +60,9 @@
     "imdb_id": "tt3398228"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt2359704"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Sesame Street",
@@ -85,9 +85,9 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "The Diplomat",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt17491088"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "The Loud House",
@@ -95,8 +95,8 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Squid Game",
+    "name": "Akka",
     "type": "series",
-    "imdb_id": "tt10919420"
+    "imdb_id": "tt29625288"
   }
 ]

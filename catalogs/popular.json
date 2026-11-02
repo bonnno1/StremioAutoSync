@@ -5,39 +5,9 @@
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "How I Met Your Mother",
     "type": "series",
     "imdb_id": "tt0460649"
-  },
-  {
-    "name": "The Vampire Diaries",
-    "type": "series",
-    "imdb_id": "tt1405406"
   },
   {
     "name": "The Flash",
@@ -45,14 +15,29 @@
     "imdb_id": "tt3107288"
   },
   {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "type": "series",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
+  },
+  {
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
   },
   {
-    "name": "Grey's Anatomy",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0413573"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Modern Family",
@@ -60,14 +45,19 @@
     "imdb_id": "tt1442437"
   },
   {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
   },
   {
     "name": "Seinfeld",
@@ -75,9 +65,24 @@
     "imdb_id": "tt0098904"
   },
   {
-    "name": "Friends",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "The 100",
+    "type": "series",
+    "imdb_id": "tt2661044"
+  },
+  {
+    "name": "Monk",
+    "type": "series",
+    "imdb_id": "tt0312172"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
   },
   {
     "name": "The Legend of Korra",
@@ -85,18 +90,13 @@
     "imdb_id": "tt1695360"
   },
   {
-    "name": "True Detective",
+    "name": "Columbo",
     "type": "series",
-    "imdb_id": "tt2356777"
+    "imdb_id": "tt1466074"
   },
   {
-    "name": "The Summer I Turned Pretty",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The 100",
-    "type": "series",
-    "imdb_id": "tt2661044"
+    "imdb_id": "tt2372162"
   }
 ]
