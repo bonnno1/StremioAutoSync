@@ -1,18 +1,13 @@
 [
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The 100",
     "type": "series",
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt2758770"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Legend of Korra",
@@ -25,6 +20,11 @@
     "imdb_id": "tt4179452"
   },
   {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
+  },
+  {
     "name": "Kuruluş Osman",
     "type": "series",
     "imdb_id": "tt11093718"
@@ -35,19 +35,14 @@
     "imdb_id": "tt3663490"
   },
   {
-    "name": "Mob Psycho 100",
-    "type": "series",
-    "imdb_id": "tt5897304"
-  },
-  {
     "name": "Airwolf",
     "type": "series",
     "imdb_id": "tt0086662"
   },
   {
-    "name": "Baywatch",
+    "name": "Mob Psycho 100",
     "type": "series",
-    "imdb_id": "tt0096542"
+    "imdb_id": "tt5897304"
   },
   {
     "name": "WWE NXT",
@@ -55,9 +50,24 @@
     "imdb_id": "tt1601141"
   },
   {
+    "name": "Baywatch",
+    "type": "series",
+    "imdb_id": "tt0096542"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "Lucha Underground",
     "type": "series",
     "imdb_id": "tt4171176"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
   },
   {
     "name": "Wakfu",
@@ -70,33 +80,23 @@
     "imdb_id": "tt7942796"
   },
   {
+    "name": "Garth Marenghi's Darkplace",
+    "type": "series",
+    "imdb_id": "tt0397150"
+  },
+  {
     "name": "Person of Interest",
     "type": "series",
     "imdb_id": "tt1839578"
   },
   {
-    "name": "Strong Girl Bong-soon",
+    "name": "Supertrain",
     "type": "series",
-    "imdb_id": "tt6263222"
+    "imdb_id": "tt0078697"
   },
   {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
   }
 ]

@@ -5,9 +5,9 @@
     "imdb_id": "tt0169414"
   },
   {
-    "name": "Cococinel",
+    "name": "Elena of Avalor",
     "type": "series",
-    "imdb_id": "tt0891373"
+    "imdb_id": "tt4549142"
   },
   {
     "name": "Doraemon",
@@ -15,9 +15,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Cococinel",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt0891373"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -25,19 +25,24 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -50,14 +55,14 @@
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Batwheels",
-    "type": "series",
-    "imdb_id": "tt13292830"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -70,9 +75,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Loud House",
+    "name": "The Tom and Jerry Show",
     "type": "series",
-    "imdb_id": "tt4859164"
+    "imdb_id": "tt3559124"
   },
   {
     "name": "The Fairly OddParents",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "The Tom and Jerry Show",
-    "type": "series",
-    "imdb_id": "tt3559124"
-  },
-  {
-    "name": "Teenage Mutant Ninja Turtles",
-    "type": "series",
-    "imdb_id": "tt1877889"
+    "imdb_id": "tt4859164"
   },
   {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "series",
+    "imdb_id": "tt1877889"
   }
 ]

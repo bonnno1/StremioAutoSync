@@ -1,18 +1,13 @@
 [
   {
-    "name": "Lupin",
-    "type": "series",
-    "imdb_id": "tt2531336"
-  },
-  {
     "name": "Dead-End Job",
     "type": "series",
     "imdb_id": "tt36458668"
   },
   {
-    "name": "Nocturne",
+    "name": "Lupin",
     "type": "series",
-    "imdb_id": "tt26598805"
+    "imdb_id": "tt2531336"
   },
   {
     "name": "VisionQuest",
@@ -25,19 +20,24 @@
     "imdb_id": "tt33043892"
   },
   {
+    "name": "Nocturne",
+    "type": "series",
+    "imdb_id": "tt26598805"
+  },
+  {
     "name": "MobLand",
     "type": "series",
     "imdb_id": "tt31510819"
   },
   {
-    "name": "Bleach",
+    "name": "The Remarried Empress",
     "type": "series",
-    "imdb_id": "tt0434665"
+    "imdb_id": "tt39325975"
   },
   {
-    "name": "The Gilded Age",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt4406178"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Dark Matter",
@@ -45,9 +45,9 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Cyberpunk: Edgerunners",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt12590266"
+    "imdb_id": "tt0434665"
   },
   {
     "name": "The Terminal List",
@@ -55,19 +55,19 @@
     "imdb_id": "tt11743610"
   },
   {
+    "name": "Bass X Machina",
+    "type": "series",
+    "imdb_id": "tt39957390"
+  },
+  {
+    "name": "The Gilded Age",
+    "type": "series",
+    "imdb_id": "tt4406178"
+  },
+  {
     "name": "Carrie",
     "type": "series",
     "imdb_id": "tt11540908"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Crystal Lake",
-    "type": "series",
-    "imdb_id": "tt23148340"
   },
   {
     "name": "Ghosts",
@@ -75,28 +75,28 @@
     "imdb_id": "tt11379026"
   },
   {
-    "name": "South Park",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt0096697"
   },
   {
-    "name": "Black Clover",
+    "name": "Where the Mask Ends",
     "type": "series",
-    "imdb_id": "tt7441658"
-  },
-  {
-    "name": "American Horror Story",
-    "type": "series",
-    "imdb_id": "tt1844624"
-  },
-  {
-    "name": "Small Town Remedy",
-    "type": "series",
-    "imdb_id": "tt38715296"
+    "imdb_id": "tt42576855"
   },
   {
     "name": "IT: Welcome to Derry",
     "type": "series",
     "imdb_id": "tt19244304"
+  },
+  {
+    "name": "Cyberpunk: Edgerunners",
+    "type": "series",
+    "imdb_id": "tt12590266"
+  },
+  {
+    "name": "The Perfect Lie",
+    "type": "series",
+    "imdb_id": "tt47657141"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt1196946"
   },
   {
     "name": "How I Met Your Mother",
@@ -10,14 +10,14 @@
     "imdb_id": "tt0460649"
   },
   {
-    "name": "The Flash",
-    "type": "series",
-    "imdb_id": "tt3107288"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
   },
   {
     "name": "The Vampire Diaries",
@@ -25,34 +25,14 @@
     "imdb_id": "tt1405406"
   },
   {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Family Guy",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
+    "imdb_id": "tt0203259"
   },
   {
     "name": "House",
@@ -65,14 +45,19 @@
     "imdb_id": "tt0098904"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The 100",
     "type": "series",
     "imdb_id": "tt2661044"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Monk",
@@ -80,14 +65,9 @@
     "imdb_id": "tt0312172"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "Vikings",
     "type": "series",
-    "imdb_id": "tt2758770"
-  },
-  {
-    "name": "The Legend of Korra",
-    "type": "series",
-    "imdb_id": "tt1695360"
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Columbo",
@@ -98,5 +78,25 @@
     "name": "Orange Is the New Black",
     "type": "series",
     "imdb_id": "tt2372162"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "The Legend of Korra",
+    "type": "series",
+    "imdb_id": "tt1695360"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
   }
 ]
