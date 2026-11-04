@@ -1,5 +1,10 @@
 [
   {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
+  },
+  {
     "name": "Deep Waters",
     "type": "series",
     "imdb_id": "tt22491458"
@@ -8,6 +13,11 @@
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Tonight Show Starring Jimmy Fallon",
+    "type": "series",
+    "imdb_id": "tt3444938"
   },
   {
     "name": "The Daily Show",
@@ -25,19 +35,9 @@
     "imdb_id": "tt1527854"
   },
   {
-    "name": "VisionQuest",
-    "type": "series",
-    "imdb_id": "tt23112594"
-  },
-  {
     "name": "Tomorrow Is Ours",
     "type": "series",
     "imdb_id": "tt7124904"
-  },
-  {
-    "name": "Ici tout commence",
-    "type": "series",
-    "imdb_id": "tt13392064"
   },
   {
     "name": "Coronation Street",
@@ -45,14 +45,14 @@
     "imdb_id": "tt0053494"
   },
   {
+    "name": "Ici tout commence",
+    "type": "series",
+    "imdb_id": "tt13392064"
+  },
+  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
-  },
-  {
-    "name": "Chronicles of the Sun",
-    "type": "series",
-    "imdb_id": "tt8883922"
   },
   {
     "name": "EastEnders",
@@ -60,9 +60,29 @@
     "imdb_id": "tt0088512"
   },
   {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Chicago P.D.",
+    "type": "series",
+    "imdb_id": "tt2805096"
+  },
+  {
     "name": "The View",
     "type": "series",
     "imdb_id": "tt0123366"
+  },
+  {
+    "name": "Radio Star",
+    "type": "series",
+    "imdb_id": "tt6283624"
   },
   {
     "name": "Jeopardy!",
@@ -70,33 +90,13 @@
     "imdb_id": "tt0159881"
   },
   {
+    "name": "Survivor",
+    "type": "series",
+    "imdb_id": "tt0239195"
+  },
+  {
     "name": "LIVE with Kelly and Mark",
     "type": "series",
     "imdb_id": "tt0096636"
-  },
-  {
-    "name": "Jimmy Kimmel Live!",
-    "type": "series",
-    "imdb_id": "tt0320037"
-  },
-  {
-    "name": "The God of War Dominates",
-    "type": "series",
-    "imdb_id": "tt20769560"
-  },
-  {
-    "name": "Quotidien",
-    "type": "series",
-    "imdb_id": "tt6052530"
-  },
-  {
-    "name": "Where the Mask Ends",
-    "type": "series",
-    "imdb_id": "tt42576855"
-  },
-  {
-    "name": "Home and Away",
-    "type": "series",
-    "imdb_id": "tt0094481"
   }
 ]

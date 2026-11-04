@@ -1,13 +1,13 @@
 [
   {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
   },
   {
     "name": "Modern Family",
@@ -20,11 +20,6 @@
     "imdb_id": "tt0098904"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Monk",
     "type": "series",
     "imdb_id": "tt0312172"
@@ -35,14 +30,19 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "Family Guy",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "The Librarians",
@@ -60,19 +60,9 @@
     "imdb_id": "tt0075529"
   },
   {
-    "name": "Friends",
+    "name": "You're the Worst",
     "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Malcolm in the Middle",
-    "type": "series",
-    "imdb_id": "tt0212671"
-  },
-  {
-    "name": "Girlfriends",
-    "type": "series",
-    "imdb_id": "tt0247102"
+    "imdb_id": "tt3228420"
   },
   {
     "name": "The IT Crowd",
@@ -80,23 +70,33 @@
     "imdb_id": "tt0487831"
   },
   {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
     "name": "Arthur",
     "type": "series",
     "imdb_id": "tt0169414"
   },
   {
-    "name": "You're the Worst",
+    "name": "Malcolm in the Middle",
     "type": "series",
-    "imdb_id": "tt3228420"
-  },
-  {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
+    "imdb_id": "tt0212671"
   },
   {
     "name": "Garth Marenghi's Darkplace",
     "type": "series",
     "imdb_id": "tt0397150"
+  },
+  {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
   }
 ]

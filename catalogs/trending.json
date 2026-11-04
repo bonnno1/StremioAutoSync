@@ -1,8 +1,18 @@
 [
   {
+    "name": "VisionQuest",
+    "type": "series",
+    "imdb_id": "tt23112594"
+  },
+  {
     "name": "Dead-End Job",
     "type": "series",
     "imdb_id": "tt36458668"
+  },
+  {
+    "name": "The Greatest",
+    "type": "series",
+    "imdb_id": "tt15715850"
   },
   {
     "name": "Lupin",
@@ -10,9 +20,9 @@
     "imdb_id": "tt2531336"
   },
   {
-    "name": "VisionQuest",
+    "name": "The Remarried Empress",
     "type": "series",
-    "imdb_id": "tt23112594"
+    "imdb_id": "tt39325975"
   },
   {
     "name": "Dexter: Resurrection",
@@ -30,14 +40,9 @@
     "imdb_id": "tt31510819"
   },
   {
-    "name": "The Remarried Empress",
+    "name": "Stick",
     "type": "series",
-    "imdb_id": "tt39325975"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt31710249"
   },
   {
     "name": "Dark Matter",
@@ -45,39 +50,24 @@
     "imdb_id": "tt19231492"
   },
   {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
-    "name": "The Terminal List",
-    "type": "series",
-    "imdb_id": "tt11743610"
-  },
-  {
     "name": "Bass X Machina",
     "type": "series",
     "imdb_id": "tt39957390"
   },
   {
-    "name": "The Gilded Age",
+    "name": "South Park",
     "type": "series",
-    "imdb_id": "tt4406178"
+    "imdb_id": "tt0121955"
   },
   {
-    "name": "Carrie",
+    "name": "Bleach",
     "type": "series",
-    "imdb_id": "tt11540908"
+    "imdb_id": "tt0434665"
   },
   {
-    "name": "Ghosts",
+    "name": "American Horror Story",
     "type": "series",
-    "imdb_id": "tt11379026"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
+    "imdb_id": "tt1844624"
   },
   {
     "name": "Where the Mask Ends",
@@ -85,14 +75,24 @@
     "imdb_id": "tt42576855"
   },
   {
-    "name": "IT: Welcome to Derry",
-    "type": "series",
-    "imdb_id": "tt19244304"
-  },
-  {
     "name": "Cyberpunk: Edgerunners",
     "type": "series",
     "imdb_id": "tt12590266"
+  },
+  {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
+  },
+  {
+    "name": "The Terminal List",
+    "type": "series",
+    "imdb_id": "tt11743610"
+  },
+  {
+    "name": "IT: Welcome to Derry",
+    "type": "series",
+    "imdb_id": "tt19244304"
   },
   {
     "name": "The Perfect Lie",

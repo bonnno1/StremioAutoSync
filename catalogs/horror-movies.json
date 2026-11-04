@@ -5,6 +5,11 @@
     "imdb_id": "tt37522541"
   },
   {
+    "name": "Resident Evil",
+    "type": "movie",
+    "imdb_id": "tt35538033"
+  },
+  {
     "name": "The Awakening",
     "type": "movie",
     "imdb_id": "tt39120306"
@@ -15,19 +20,14 @@
     "imdb_id": "tt37281055"
   },
   {
-    "name": "Resident Evil",
+    "name": "A Story of Derry",
     "type": "movie",
-    "imdb_id": "tt35538033"
+    "imdb_id": "tt50389959"
   },
   {
     "name": "Pinocchio: Unstrung",
     "type": "movie",
     "imdb_id": "tt30887701"
-  },
-  {
-    "name": "A Story of Derry",
-    "type": "movie",
-    "imdb_id": "tt50389959"
   },
   {
     "name": "Insidious: Out of the Further",
@@ -70,14 +70,14 @@
     "imdb_id": "tt36586020"
   },
   {
+    "name": "Beware Boiúna",
+    "type": "movie",
+    "imdb_id": "tt10377864"
+  },
+  {
     "name": "The Cycle",
     "type": "movie",
     "imdb_id": "tt32358390"
-  },
-  {
-    "name": "Onslaught",
-    "type": "movie",
-    "imdb_id": "tt32268691"
   },
   {
     "name": "Coraline",
@@ -85,9 +85,9 @@
     "imdb_id": "tt0327597"
   },
   {
-    "name": "Colony",
+    "name": "Onslaught",
     "type": "movie",
-    "imdb_id": "tt34385135"
+    "imdb_id": "tt32268691"
   },
   {
     "name": "Mickey's Slayhouse",

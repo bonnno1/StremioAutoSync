@@ -35,14 +35,14 @@
     "imdb_id": "tt3663490"
   },
   {
-    "name": "Airwolf",
-    "type": "series",
-    "imdb_id": "tt0086662"
-  },
-  {
     "name": "Mob Psycho 100",
     "type": "series",
     "imdb_id": "tt5897304"
+  },
+  {
+    "name": "Airwolf",
+    "type": "series",
+    "imdb_id": "tt0086662"
   },
   {
     "name": "WWE NXT",
@@ -50,9 +50,9 @@
     "imdb_id": "tt1601141"
   },
   {
-    "name": "Baywatch",
+    "name": "Lucha Underground",
     "type": "series",
-    "imdb_id": "tt0096542"
+    "imdb_id": "tt4171176"
   },
   {
     "name": "Doctor Who",
@@ -60,9 +60,9 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Lucha Underground",
+    "name": "Baywatch",
     "type": "series",
-    "imdb_id": "tt4171176"
+    "imdb_id": "tt0096542"
   },
   {
     "name": "Elena of Avalor",
@@ -70,24 +70,9 @@
     "imdb_id": "tt4549142"
   },
   {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
-    "name": "Magnum P.I.",
-    "type": "series",
-    "imdb_id": "tt7942796"
-  },
-  {
     "name": "Garth Marenghi's Darkplace",
     "type": "series",
     "imdb_id": "tt0397150"
-  },
-  {
-    "name": "Person of Interest",
-    "type": "series",
-    "imdb_id": "tt1839578"
   },
   {
     "name": "Supertrain",
@@ -98,5 +83,20 @@
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   }
 ]
