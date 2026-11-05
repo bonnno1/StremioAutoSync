@@ -5,14 +5,14 @@
     "imdb_id": "tt2380307"
   },
   {
-    "name": "The Nightmare Before Christmas",
-    "type": "movie",
-    "imdb_id": "tt0107688"
-  },
-  {
     "name": "Coyote vs. Acme",
     "type": "movie",
     "imdb_id": "tt1756855"
+  },
+  {
+    "name": "The Nightmare Before Christmas",
+    "type": "movie",
+    "imdb_id": "tt0107688"
   },
   {
     "name": "Forgotten Island",
@@ -25,11 +25,6 @@
     "imdb_id": "tt29355505"
   },
   {
-    "name": "Moana",
-    "type": "movie",
-    "imdb_id": "tt27419466"
-  },
-  {
     "name": "Coraline",
     "type": "movie",
     "imdb_id": "tt0327597"
@@ -38,6 +33,11 @@
     "name": "Tad and The Magic Lamp",
     "type": "movie",
     "imdb_id": "tt36164852"
+  },
+  {
+    "name": "Moana",
+    "type": "movie",
+    "imdb_id": "tt27419466"
   },
   {
     "name": "The Legend of the Black Charro",
@@ -63,6 +63,11 @@
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
+  },
+  {
+    "name": "The Cat in the Hat",
+    "type": "movie",
+    "imdb_id": "tt2321555"
   },
   {
     "name": "The Wild Robot",
@@ -93,10 +98,5 @@
     "name": "Shrek",
     "type": "movie",
     "imdb_id": "tt0126029"
-  },
-  {
-    "name": "Inside Out 2",
-    "type": "movie",
-    "imdb_id": "tt22022452"
   }
 ]

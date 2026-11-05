@@ -5,11 +5,6 @@
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "The Legend of Korra",
     "type": "series",
     "imdb_id": "tt1695360"
@@ -18,6 +13,11 @@
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Star vs. the Forces of Evil",
@@ -50,24 +50,24 @@
     "imdb_id": "tt1601141"
   },
   {
-    "name": "Lucha Underground",
-    "type": "series",
-    "imdb_id": "tt4171176"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Baywatch",
-    "type": "series",
-    "imdb_id": "tt0096542"
-  },
-  {
     "name": "Elena of Avalor",
     "type": "series",
     "imdb_id": "tt4549142"
+  },
+  {
+    "name": "Lucha Underground",
+    "type": "series",
+    "imdb_id": "tt4171176"
+  },
+  {
+    "name": "Baywatch",
+    "type": "series",
+    "imdb_id": "tt0096542"
   },
   {
     "name": "Garth Marenghi's Darkplace",

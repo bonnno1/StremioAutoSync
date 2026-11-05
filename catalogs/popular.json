@@ -5,14 +5,14 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "How I Met Your Mother",
     "type": "series",
     "imdb_id": "tt0460649"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "The Flash",
@@ -45,19 +45,14 @@
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "Monk",
     "type": "series",
     "imdb_id": "tt0312172"
   },
   {
-    "name": "Vikings",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "Columbo",
@@ -70,24 +65,29 @@
     "imdb_id": "tt1695360"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "Sherlock",
+    "type": "series",
+    "imdb_id": "tt1475582"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
   },
   {
     "name": "You",
@@ -95,8 +95,8 @@
     "imdb_id": "tt7335184"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt2758770"
+    "imdb_id": "tt0096697"
   }
 ]

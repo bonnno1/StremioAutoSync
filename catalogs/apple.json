@@ -30,6 +30,11 @@
     "imdb_id": "tt7772588"
   },
   {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
+  },
+  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
@@ -55,24 +60,14 @@
     "imdb_id": "tt7949218"
   },
   {
-    "name": "The Morning Show",
-    "type": "series",
-    "imdb_id": "tt7203552"
-  },
-  {
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
   },
   {
-    "name": "Murderbot",
+    "name": "The Morning Show",
     "type": "series",
-    "imdb_id": "tt30444310"
-  },
-  {
-    "name": "Masters of the Air",
-    "type": "series",
-    "imdb_id": "tt2640044"
+    "imdb_id": "tt7203552"
   },
   {
     "name": "Invasion",
@@ -80,9 +75,19 @@
     "imdb_id": "tt9737326"
   },
   {
+    "name": "Brothers",
+    "type": "series",
+    "imdb_id": "tt6773088"
+  },
+  {
     "name": "The Studio",
     "type": "series",
     "imdb_id": "tt23649128"
+  },
+  {
+    "name": "Masters of the Air",
+    "type": "series",
+    "imdb_id": "tt2640044"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -90,13 +95,8 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Pluribus",
+    "name": "Murderbot",
     "type": "series",
-    "imdb_id": "tt22202452"
-  },
-  {
-    "name": "Loot",
-    "type": "series",
-    "imdb_id": "tt14271498"
+    "imdb_id": "tt30444310"
   }
 ]

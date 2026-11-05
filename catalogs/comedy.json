@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
     "name": "How I Met Your Mother",
     "type": "series",
     "imdb_id": "tt0460649"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
   },
   {
     "name": "Modern Family",
@@ -30,14 +30,14 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Family Guy",
@@ -55,9 +55,9 @@
     "imdb_id": "tt5897304"
   },
   {
-    "name": "The Love Boat",
+    "name": "The IT Crowd",
     "type": "series",
-    "imdb_id": "tt0075529"
+    "imdb_id": "tt0487831"
   },
   {
     "name": "You're the Worst",
@@ -65,9 +65,9 @@
     "imdb_id": "tt3228420"
   },
   {
-    "name": "The IT Crowd",
+    "name": "The Love Boat",
     "type": "series",
-    "imdb_id": "tt0487831"
+    "imdb_id": "tt0075529"
   },
   {
     "name": "Friends",
@@ -80,23 +80,23 @@
     "imdb_id": "tt0169414"
   },
   {
-    "name": "Malcolm in the Middle",
-    "type": "series",
-    "imdb_id": "tt0212671"
-  },
-  {
     "name": "Garth Marenghi's Darkplace",
     "type": "series",
     "imdb_id": "tt0397150"
   },
   {
-    "name": "Girlfriends",
+    "name": "Malcolm in the Middle",
     "type": "series",
-    "imdb_id": "tt0247102"
+    "imdb_id": "tt0212671"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
   }
 ]
