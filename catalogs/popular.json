@@ -10,59 +10,9 @@
     "imdb_id": "tt0460649"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "The Flash",
-    "type": "series",
-    "imdb_id": "tt3107288"
-  },
-  {
-    "name": "The Vampire Diaries",
-    "type": "series",
-    "imdb_id": "tt1405406"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
-  },
-  {
-    "name": "The 100",
-    "type": "series",
-    "imdb_id": "tt2661044"
-  },
-  {
     "name": "Monk",
     "type": "series",
     "imdb_id": "tt0312172"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
-    "name": "Columbo",
-    "type": "series",
-    "imdb_id": "tt1466074"
-  },
-  {
-    "name": "The Legend of Korra",
-    "type": "series",
-    "imdb_id": "tt1695360"
   },
   {
     "name": "The Last Kingdom",
@@ -70,14 +20,29 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "Vikings",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt2306299"
+    "imdb_id": "tt1442437"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
+    "name": "Seinfeld",
     "type": "series",
-    "imdb_id": "tt0203259"
+    "imdb_id": "tt0098904"
+  },
+  {
+    "name": "Columbo",
+    "type": "series",
+    "imdb_id": "tt1466074"
+  },
+  {
+    "name": "The 100",
+    "type": "series",
+    "imdb_id": "tt2661044"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
   },
   {
     "name": "Sherlock",
@@ -85,18 +50,53 @@
     "imdb_id": "tt1475582"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt2758770"
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "type": "series",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "name": "The IT Crowd",
+    "type": "series",
+    "imdb_id": "tt0487831"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
+  },
+  {
+    "name": "The Legend of Korra",
+    "type": "series",
+    "imdb_id": "tt1695360"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
   },
   {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   }
 ]

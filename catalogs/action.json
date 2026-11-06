@@ -1,18 +1,23 @@
 [
   {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
     "name": "The 100",
     "type": "series",
     "imdb_id": "tt2661044"
   },
   {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
+  },
+  {
     "name": "The Legend of Korra",
     "type": "series",
     "imdb_id": "tt1695360"
-  },
-  {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
   },
   {
     "name": "Vikings",
@@ -25,6 +30,11 @@
     "imdb_id": "tt2758770"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "Kuruluş Osman",
     "type": "series",
     "imdb_id": "tt11093718"
@@ -35,9 +45,9 @@
     "imdb_id": "tt3663490"
   },
   {
-    "name": "Mob Psycho 100",
+    "name": "WWE NXT",
     "type": "series",
-    "imdb_id": "tt5897304"
+    "imdb_id": "tt1601141"
   },
   {
     "name": "Airwolf",
@@ -45,19 +55,9 @@
     "imdb_id": "tt0086662"
   },
   {
-    "name": "WWE NXT",
+    "name": "Mob Psycho 100",
     "type": "series",
-    "imdb_id": "tt1601141"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
+    "imdb_id": "tt5897304"
   },
   {
     "name": "Lucha Underground",
@@ -65,19 +65,19 @@
     "imdb_id": "tt4171176"
   },
   {
-    "name": "Baywatch",
-    "type": "series",
-    "imdb_id": "tt0096542"
-  },
-  {
     "name": "Garth Marenghi's Darkplace",
     "type": "series",
     "imdb_id": "tt0397150"
   },
   {
-    "name": "Supertrain",
+    "name": "Magnum P.I.",
     "type": "series",
-    "imdb_id": "tt0078697"
+    "imdb_id": "tt7942796"
+  },
+  {
+    "name": "Person of Interest",
+    "type": "series",
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Doraemon",
@@ -85,18 +85,18 @@
     "imdb_id": "tt4083422"
   },
   {
+    "name": "Supertrain",
+    "type": "series",
+    "imdb_id": "tt0078697"
+  },
+  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "C.I.D.",
+    "name": "Baywatch",
     "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Reacher",
-    "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt0096542"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
@@ -10,9 +15,9 @@
     "imdb_id": "tt0169414"
   },
   {
-    "name": "The Dangerous Book for Boys",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt1082583"
+    "imdb_id": "tt4083422"
   },
   {
     "name": "Come Home Love: Lo and Behold",
@@ -20,19 +25,14 @@
     "imdb_id": "tt22007716"
   },
   {
-    "name": "Doraemon",
+    "name": "The Dangerous Book for Boys",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt1082583"
   },
   {
     "name": "The Amazing World of Gumball",
     "type": "series",
     "imdb_id": "tt1942683"
-  },
-  {
-    "name": "Black Kite",
-    "type": "series",
-    "imdb_id": "tt2538812"
   },
   {
     "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
@@ -60,9 +60,9 @@
     "imdb_id": "tt0175383"
   },
   {
-    "name": "Avatar: Seven Havens",
+    "name": "Sítio do Picapau Amarelo",
     "type": "series",
-    "imdb_id": "tt35854736"
+    "imdb_id": "tt0294196"
   },
   {
     "name": "Teen Titans Go!",
@@ -70,14 +70,9 @@
     "imdb_id": "tt2771780"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "TV Animal Farm",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Sítio do Picapau Amarelo",
-    "type": "series",
-    "imdb_id": "tt0294196"
+    "imdb_id": "tt25605188"
   },
   {
     "name": "Frasier",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0106004"
   },
   {
+    "name": "Avatar: Seven Havens",
+    "type": "series",
+    "imdb_id": "tt35854736"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Sazae-san",
-    "type": "series",
-    "imdb_id": "tt0236924"
-  },
-  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   }
 ]

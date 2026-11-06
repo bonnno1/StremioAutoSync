@@ -15,14 +15,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -40,14 +40,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
-  },
-  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
   },
   {
     "name": "Doraemon",
@@ -65,6 +65,11 @@
     "imdb_id": "tt3559124"
   },
   {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
@@ -75,28 +80,23 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "New Looney Tunes",
-    "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Pokémon Horizons",
+    "name": "New Looney Tunes",
     "type": "series",
-    "imdb_id": "tt26692417"
-  },
-  {
-    "name": "Floribella",
-    "type": "series",
-    "imdb_id": "tt0786786"
+    "imdb_id": "tt4558858"
   },
   {
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0149528"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   }
 ]

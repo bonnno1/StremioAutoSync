@@ -35,19 +35,14 @@
     "imdb_id": "tt32393988"
   },
   {
+    "name": "Godzilla Minus Zero",
+    "type": "movie",
+    "imdb_id": "tt34384661"
+  },
+  {
     "name": "Clayface",
     "type": "movie",
     "imdb_id": "tt34890576"
-  },
-  {
-    "name": "Crawlers",
-    "type": "movie",
-    "imdb_id": "tt32329539"
-  },
-  {
-    "name": "Obsession",
-    "type": "movie",
-    "imdb_id": "tt37287335"
   },
   {
     "name": "Feed",
@@ -55,19 +50,19 @@
     "imdb_id": "tt30505578"
   },
   {
+    "name": "Obsession",
+    "type": "movie",
+    "imdb_id": "tt37287335"
+  },
+  {
+    "name": "Crawlers",
+    "type": "movie",
+    "imdb_id": "tt32329539"
+  },
+  {
     "name": "Never After Dark",
     "type": "movie",
     "imdb_id": "tt38589433"
-  },
-  {
-    "name": "Godzilla Minus Zero",
-    "type": "movie",
-    "imdb_id": "tt34384661"
-  },
-  {
-    "name": "Other Mommy",
-    "type": "movie",
-    "imdb_id": "tt36586020"
   },
   {
     "name": "Beware Boiúna",
@@ -75,14 +70,24 @@
     "imdb_id": "tt10377864"
   },
   {
-    "name": "Resident Dead",
+    "name": "Evil Dress",
     "type": "movie",
-    "imdb_id": "tt43640339"
+    "imdb_id": "tt36822366"
+  },
+  {
+    "name": "Other Mommy",
+    "type": "movie",
+    "imdb_id": "tt36586020"
   },
   {
     "name": "Mickey's Slayhouse",
     "type": "movie",
     "imdb_id": "tt34614972"
+  },
+  {
+    "name": "Resident Dead",
+    "type": "movie",
+    "imdb_id": "tt43640339"
   },
   {
     "name": "Coraline",
@@ -93,10 +98,5 @@
     "name": "Onslaught",
     "type": "movie",
     "imdb_id": "tt32268691"
-  },
-  {
-    "name": "The Cycle",
-    "type": "movie",
-    "imdb_id": "tt32358390"
   }
 ]
