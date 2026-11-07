@@ -1,18 +1,13 @@
 [
   {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "The Mentalist",
     "type": "series",
     "imdb_id": "tt1196946"
-  },
-  {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
-    "name": "Monk",
-    "type": "series",
-    "imdb_id": "tt0312172"
   },
   {
     "name": "The Last Kingdom",
@@ -20,14 +15,24 @@
     "imdb_id": "tt4179452"
   },
   {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
+  },
+  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Seinfeld",
+    "name": "Monk",
     "type": "series",
-    "imdb_id": "tt0098904"
+    "imdb_id": "tt0312172"
+  },
+  {
+    "name": "The 100",
+    "type": "series",
+    "imdb_id": "tt2661044"
   },
   {
     "name": "Columbo",
@@ -35,9 +40,14 @@
     "imdb_id": "tt1466074"
   },
   {
-    "name": "The 100",
+    "name": "Doctor Who",
     "type": "series",
-    "imdb_id": "tt2661044"
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Seinfeld",
+    "type": "series",
+    "imdb_id": "tt0098904"
   },
   {
     "name": "The Flash",
@@ -50,14 +60,14 @@
     "imdb_id": "tt1475582"
   },
   {
-    "name": "Orange Is the New Black",
+    "name": "The Girlfriend",
     "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt32267726"
   },
   {
-    "name": "The Office",
+    "name": "The Kelly Clarkson Show",
     "type": "series",
-    "imdb_id": "tt0386676"
+    "imdb_id": "tt9022950"
   },
   {
     "name": "The Vampire Diaries",
@@ -65,38 +75,28 @@
     "imdb_id": "tt1405406"
   },
   {
-    "name": "The IT Crowd",
-    "type": "series",
-    "imdb_id": "tt0487831"
-  },
-  {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
-    "name": "The Legend of Korra",
-    "type": "series",
-    "imdb_id": "tt1695360"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
   },
   {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
   }
 ]
