@@ -15,11 +15,6 @@
     "imdb_id": "tt1442437"
   },
   {
-    "name": "Monk",
-    "type": "series",
-    "imdb_id": "tt0312172"
-  },
-  {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
@@ -30,14 +25,14 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "Monk",
+    "type": "series",
+    "imdb_id": "tt0312172"
+  },
+  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
   },
   {
     "name": "The IT Crowd",
@@ -50,6 +45,16 @@
     "imdb_id": "tt0063869"
   },
   {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
+  },
+  {
     "name": "You're the Worst",
     "type": "series",
     "imdb_id": "tt3228420"
@@ -60,34 +65,9 @@
     "imdb_id": "tt0182576"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "The Librarians",
-    "type": "series",
-    "imdb_id": "tt3663490"
-  },
-  {
     "name": "Friends",
     "type": "series",
     "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Arthur",
-    "type": "series",
-    "imdb_id": "tt0169414"
-  },
-  {
-    "name": "The Love Boat",
-    "type": "series",
-    "imdb_id": "tt0075529"
-  },
-  {
-    "name": "Watch What Happens Live with Andy Cohen",
-    "type": "series",
-    "imdb_id": "tt2057880"
   },
   {
     "name": "Girlfriends",
@@ -95,8 +75,28 @@
     "imdb_id": "tt0247102"
   },
   {
-    "name": "Mob Psycho 100",
+    "name": "Arthur",
     "type": "series",
-    "imdb_id": "tt5897304"
+    "imdb_id": "tt0169414"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Watch What Happens Live with Andy Cohen",
+    "type": "series",
+    "imdb_id": "tt2057880"
+  },
+  {
+    "name": "The Librarians",
+    "type": "series",
+    "imdb_id": "tt3663490"
+  },
+  {
+    "name": "Garth Marenghi's Darkplace",
+    "type": "series",
+    "imdb_id": "tt0397150"
   }
 ]

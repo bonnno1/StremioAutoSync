@@ -1,5 +1,10 @@
 [
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
@@ -10,19 +15,14 @@
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Doctor Who",
+    "name": "Star vs. the Forces of Evil",
     "type": "series",
-    "imdb_id": "tt0436992"
+    "imdb_id": "tt2758770"
   },
   {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "Star vs. the Forces of Evil",
-    "type": "series",
-    "imdb_id": "tt2758770"
   },
   {
     "name": "Elena of Avalor",
@@ -35,24 +35,9 @@
     "imdb_id": "tt1695360"
   },
   {
-    "name": "The Librarians",
-    "type": "series",
-    "imdb_id": "tt3663490"
-  },
-  {
-    "name": "Kuruluş Osman",
-    "type": "series",
-    "imdb_id": "tt11093718"
-  },
-  {
     "name": "WWE NXT",
     "type": "series",
     "imdb_id": "tt1601141"
-  },
-  {
-    "name": "Airwolf",
-    "type": "series",
-    "imdb_id": "tt0086662"
   },
   {
     "name": "Person of Interest",
@@ -60,14 +45,14 @@
     "imdb_id": "tt1839578"
   },
   {
-    "name": "Mob Psycho 100",
+    "name": "Kuruluş Osman",
     "type": "series",
-    "imdb_id": "tt5897304"
+    "imdb_id": "tt11093718"
   },
   {
-    "name": "Lucha Underground",
+    "name": "The Librarians",
     "type": "series",
-    "imdb_id": "tt4171176"
+    "imdb_id": "tt3663490"
   },
   {
     "name": "Garth Marenghi's Darkplace",
@@ -75,14 +60,29 @@
     "imdb_id": "tt0397150"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "Airwolf",
+    "type": "series",
+    "imdb_id": "tt0086662"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Magnum P.I.",
     "type": "series",
     "imdb_id": "tt7942796"
   },
   {
-    "name": "Doraemon",
+    "name": "Lucha Underground",
     "type": "series",
-    "imdb_id": "tt4083422"
+    "imdb_id": "tt4171176"
   },
   {
     "name": "NCIS",
@@ -90,13 +90,13 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Supertrain",
+    "name": "Mob Psycho 100",
     "type": "series",
-    "imdb_id": "tt0078697"
+    "imdb_id": "tt5897304"
   },
   {
-    "name": "One Piece",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt0401916"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt10986410"
   },
   {
-    "name": "Nocturne",
-    "type": "series",
-    "imdb_id": "tt26598805"
-  },
-  {
     "name": "Silo",
     "type": "series",
     "imdb_id": "tt14688458"
+  },
+  {
+    "name": "Nocturne",
+    "type": "series",
+    "imdb_id": "tt26598805"
   },
   {
     "name": "Dark Matter",
@@ -30,11 +30,6 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Foundation",
-    "type": "series",
-    "imdb_id": "tt0804484"
-  },
-  {
     "name": "Stick",
     "type": "series",
     "imdb_id": "tt31710249"
@@ -43,6 +38,11 @@
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
+  },
+  {
+    "name": "Foundation",
+    "type": "series",
+    "imdb_id": "tt0804484"
   },
   {
     "name": "Widow's Bay",
@@ -75,14 +75,14 @@
     "imdb_id": "tt7203552"
   },
   {
-    "name": "Brothers",
-    "type": "series",
-    "imdb_id": "tt6773088"
-  },
-  {
     "name": "Masters of the Air",
     "type": "series",
     "imdb_id": "tt2640044"
+  },
+  {
+    "name": "Brothers",
+    "type": "series",
+    "imdb_id": "tt6773088"
   },
   {
     "name": "Your Friends & Neighbors",
@@ -90,13 +90,13 @@
     "imdb_id": "tt30459041"
   },
   {
-    "name": "Murderbot",
+    "name": "Pluribus",
     "type": "series",
-    "imdb_id": "tt30444310"
+    "imdb_id": "tt22202452"
   },
   {
-    "name": "The Studio",
+    "name": "Cape Fear",
     "type": "series",
-    "imdb_id": "tt23649128"
+    "imdb_id": "tt34675596"
   }
 ]

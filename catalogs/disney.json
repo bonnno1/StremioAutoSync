@@ -55,9 +55,19 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "WandaVision",
     "type": "series",
     "imdb_id": "tt9140560"
+  },
+  {
+    "name": "Land of Tanabata",
+    "type": "series",
+    "imdb_id": "tt31014116"
   },
   {
     "name": "Vitória",
@@ -65,19 +75,9 @@
     "imdb_id": "tt36272837"
   },
   {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
-  },
-  {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
   },
   {
     "name": "Star Wars: Young Jedi Adventures",
@@ -85,13 +85,13 @@
     "imdb_id": "tt20674124"
   },
   {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
+  },
+  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
-  },
-  {
-    "name": "The Falcon and the Winter Soldier",
-    "type": "series",
-    "imdb_id": "tt9208876"
   }
 ]

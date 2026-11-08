@@ -30,6 +30,11 @@
     "imdb_id": "tt0185103"
   },
   {
+    "name": "Good Mythical Morning",
+    "type": "series",
+    "imdb_id": "tt4087032"
+  },
+  {
     "name": "MINDHUNTER",
     "type": "series",
     "imdb_id": "tt5290382"
@@ -38,11 +43,6 @@
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Good Mythical Morning",
-    "type": "series",
-    "imdb_id": "tt4087032"
   },
   {
     "name": "Dead-End Job",
@@ -60,19 +60,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
   },
   {
-    "name": "BoJack Horseman",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt3398228"
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Black Doves",
@@ -80,9 +75,9 @@
     "imdb_id": "tt27995113"
   },
   {
-    "name": "Lucifer",
+    "name": "BoJack Horseman",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt3398228"
   },
   {
     "name": "Cyberpunk: Edgerunners",
@@ -90,13 +85,18 @@
     "imdb_id": "tt12590266"
   },
   {
-    "name": "Akka",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt29625288"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Sex Education",
+    "type": "series",
+    "imdb_id": "tt7767422"
   }
 ]
