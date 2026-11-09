@@ -40,14 +40,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "What If...?",
-    "type": "series",
-    "imdb_id": "tt10168312"
-  },
-  {
     "name": "Andor",
     "type": "series",
     "imdb_id": "tt9253284"
+  },
+  {
+    "name": "What If...?",
+    "type": "series",
+    "imdb_id": "tt10168312"
   },
   {
     "name": "X-Men '97",
@@ -70,19 +70,14 @@
     "imdb_id": "tt31014116"
   },
   {
-    "name": "Vitória",
-    "type": "series",
-    "imdb_id": "tt36272837"
-  },
-  {
     "name": "Hawkeye",
     "type": "series",
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "Vitória",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt36272837"
   },
   {
     "name": "Agatha All Along",
@@ -90,8 +85,13 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "Star Wars: Visions",
+    "name": "Rivals",
     "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt21906238"
+  },
+  {
+    "name": "Star Wars: Young Jedi Adventures",
+    "type": "series",
+    "imdb_id": "tt20674124"
   }
 ]

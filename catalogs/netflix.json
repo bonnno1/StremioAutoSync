@@ -5,14 +5,14 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
     "name": "You",
     "type": "series",
     "imdb_id": "tt7335184"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "type": "series",
+    "imdb_id": "tt2372162"
   },
   {
     "name": "The Order",
@@ -35,14 +35,14 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "MINDHUNTER",
-    "type": "series",
-    "imdb_id": "tt5290382"
-  },
-  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
+  },
+  {
+    "name": "MINDHUNTER",
+    "type": "series",
+    "imdb_id": "tt5290382"
   },
   {
     "name": "Dead-End Job",
@@ -55,14 +55,19 @@
     "imdb_id": "tt2531336"
   },
   {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Stranger Things",
+    "name": "Black Doves",
     "type": "series",
-    "imdb_id": "tt4574334"
+    "imdb_id": "tt27995113"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -70,9 +75,9 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Black Doves",
+    "name": "Lucifer",
     "type": "series",
-    "imdb_id": "tt27995113"
+    "imdb_id": "tt4052886"
   },
   {
     "name": "BoJack Horseman",
@@ -85,18 +90,13 @@
     "imdb_id": "tt12590266"
   },
   {
-    "name": "Lucifer",
+    "name": "Sex Education",
     "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt7767422"
   },
   {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
-  },
-  {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
   }
 ]

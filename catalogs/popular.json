@@ -5,19 +5,29 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "How I Met Your Mother",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt0460649"
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "The Kelly Clarkson Show",
+    "type": "series",
+    "imdb_id": "tt9022950"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
   },
   {
     "name": "Modern Family",
@@ -25,24 +35,39 @@
     "imdb_id": "tt1442437"
   },
   {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
   },
   {
-    "name": "The Flash",
+    "name": "How I Met Your Mother",
     "type": "series",
-    "imdb_id": "tt3107288"
+    "imdb_id": "tt0460649"
+  },
+  {
+    "name": "The Simpsons",
+    "type": "series",
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Monk",
+    "type": "series",
+    "imdb_id": "tt0312172"
   },
   {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
-  },
-  {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
   },
   {
     "name": "The 100",
@@ -55,39 +80,9 @@
     "imdb_id": "tt1405406"
   },
   {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "The Kelly Clarkson Show",
-    "type": "series",
-    "imdb_id": "tt9022950"
-  },
-  {
     "name": "Columbo",
     "type": "series",
     "imdb_id": "tt1466074"
-  },
-  {
-    "name": "Monk",
-    "type": "series",
-    "imdb_id": "tt0312172"
-  },
-  {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Star vs. the Forces of Evil",
-    "type": "series",
-    "imdb_id": "tt2758770"
   },
   {
     "name": "The IT Crowd",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0487831"
   },
   {
-    "name": "Sherlock",
+    "name": "Elena of Avalor",
     "type": "series",
-    "imdb_id": "tt1475582"
+    "imdb_id": "tt4549142"
+  },
+  {
+    "name": "Broadchurch",
+    "type": "series",
+    "imdb_id": "tt2249364"
   }
 ]

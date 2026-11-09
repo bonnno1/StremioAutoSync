@@ -10,14 +10,14 @@
     "imdb_id": "tt2306299"
   },
   {
-    "name": "The Dangerous Book for Boys",
-    "type": "series",
-    "imdb_id": "tt1082583"
-  },
-  {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "The Dangerous Book for Boys",
+    "type": "series",
+    "imdb_id": "tt1082583"
   },
   {
     "name": "Campus Drivers",
@@ -45,14 +45,14 @@
     "imdb_id": "tt5622316"
   },
   {
-    "name": "Carrie",
-    "type": "series",
-    "imdb_id": "tt11540908"
-  },
-  {
     "name": "The Expanse",
     "type": "series",
     "imdb_id": "tt3230854"
+  },
+  {
+    "name": "Carrie",
+    "type": "series",
+    "imdb_id": "tt11540908"
   },
   {
     "name": "INVINCIBLE",
@@ -65,24 +65,19 @@
     "imdb_id": "tt3502248"
   },
   {
-    "name": "Hazbin Hotel",
-    "type": "series",
-    "imdb_id": "tt7216636"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Helluva Boss",
-    "type": "series",
-    "imdb_id": "tt10691770"
-  },
-  {
     "name": "The Greatest",
     "type": "series",
     "imdb_id": "tt15715850"
+  },
+  {
+    "name": "Helluva Boss",
+    "type": "series",
+    "imdb_id": "tt10691770"
   },
   {
     "name": "Off Campus",
@@ -95,8 +90,13 @@
     "imdb_id": "tt5057054"
   },
   {
-    "name": "Friends Sex and Games",
+    "name": "Hazbin Hotel",
     "type": "series",
-    "imdb_id": "tt37180305"
+    "imdb_id": "tt7216636"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
   }
 ]
