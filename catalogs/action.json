@@ -20,14 +20,14 @@
     "imdb_id": "tt4549142"
   },
   {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
-  },
-  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "The Legend of Korra",
@@ -35,14 +35,14 @@
     "imdb_id": "tt1695360"
   },
   {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
-  },
-  {
     "name": "Person of Interest",
     "type": "series",
     "imdb_id": "tt1839578"
+  },
+  {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
   },
   {
     "name": "Doraemon",
@@ -50,19 +50,9 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "One Piece",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Garth Marenghi's Darkplace",
-    "type": "series",
-    "imdb_id": "tt0397150"
-  },
-  {
-    "name": "Magnum P.I.",
-    "type": "series",
-    "imdb_id": "tt7942796"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "NCIS",
@@ -70,9 +60,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "C.I.D.",
+    "name": "Magnum P.I.",
     "type": "series",
-    "imdb_id": "tt0401916"
+    "imdb_id": "tt7942796"
+  },
+  {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Reacher",
@@ -80,14 +75,14 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "Kuruluş Osman",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt11093718"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "The Librarians",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt3663490"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Kamen Rider",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Supertrain",
+    "name": "Game of Thrones",
     "type": "series",
-    "imdb_id": "tt0078697"
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "Garth Marenghi's Darkplace",
+    "type": "series",
+    "imdb_id": "tt0397150"
   }
 ]

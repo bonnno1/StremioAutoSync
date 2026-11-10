@@ -5,19 +5,14 @@
     "imdb_id": "tt4549142"
   },
   {
-    "name": "Arthur",
-    "type": "series",
-    "imdb_id": "tt0169414"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Arthur",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt0169414"
   },
   {
     "name": "GG Bond",
@@ -25,14 +20,14 @@
     "imdb_id": "tt24191416"
   },
   {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -40,14 +35,24 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Peppa Pig",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0426769"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
+  },
+  {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -60,9 +65,14 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "Doraemon",
+    "name": "Rugrats",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0101188"
+  },
+  {
+    "name": "The Garfield Show",
+    "type": "series",
+    "imdb_id": "tt1470837"
   },
   {
     "name": "The Tom and Jerry Show",
@@ -70,19 +80,9 @@
     "imdb_id": "tt3559124"
   },
   {
-    "name": "Rugrats",
+    "name": "New Looney Tunes",
     "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt4558858"
   },
   {
     "name": "The Loud House",
@@ -90,13 +90,13 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "The Fairly OddParents",
     "type": "series",
-    "imdb_id": "tt4558858"
+    "imdb_id": "tt0235918"
   },
   {
-    "name": "Super Wings",
+    "name": "Sítio do Picapau Amarelo",
     "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt0149528"
   }
 ]

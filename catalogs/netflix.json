@@ -20,24 +20,19 @@
     "imdb_id": "tt8295472"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
   },
   {
     "name": "MINDHUNTER",
@@ -50,6 +45,16 @@
     "imdb_id": "tt36458668"
   },
   {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "Lupin",
     "type": "series",
     "imdb_id": "tt2531336"
@@ -58,11 +63,6 @@
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Black Doves",
@@ -80,23 +80,23 @@
     "imdb_id": "tt4052886"
   },
   {
-    "name": "BoJack Horseman",
-    "type": "series",
-    "imdb_id": "tt3398228"
-  },
-  {
     "name": "Cyberpunk: Edgerunners",
     "type": "series",
     "imdb_id": "tt12590266"
   },
   {
-    "name": "Sex Education",
-    "type": "series",
-    "imdb_id": "tt7767422"
-  },
-  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "The Loud House",
+    "type": "series",
+    "imdb_id": "tt4859164"
+  },
+  {
+    "name": "BoJack Horseman",
+    "type": "series",
+    "imdb_id": "tt3398228"
   }
 ]
