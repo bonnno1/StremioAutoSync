@@ -30,24 +30,19 @@
     "imdb_id": "tt7772588"
   },
   {
-    "name": "Stick",
-    "type": "series",
-    "imdb_id": "tt31710249"
-  },
-  {
     "name": "Severance",
     "type": "series",
     "imdb_id": "tt11280740"
   },
   {
+    "name": "Stick",
+    "type": "series",
+    "imdb_id": "tt31710249"
+  },
+  {
     "name": "Foundation",
     "type": "series",
     "imdb_id": "tt0804484"
-  },
-  {
-    "name": "Widow's Bay",
-    "type": "series",
-    "imdb_id": "tt33332385"
   },
   {
     "name": "Invasion",
@@ -58,6 +53,11 @@
     "name": "Monarch: Legacy of Monsters",
     "type": "series",
     "imdb_id": "tt17220216"
+  },
+  {
+    "name": "Widow's Bay",
+    "type": "series",
+    "imdb_id": "tt33332385"
   },
   {
     "name": "Shrinking",
@@ -75,6 +75,21 @@
     "imdb_id": "tt7203552"
   },
   {
+    "name": "Cape Fear",
+    "type": "series",
+    "imdb_id": "tt34675596"
+  },
+  {
+    "name": "Pluribus",
+    "type": "series",
+    "imdb_id": "tt22202452"
+  },
+  {
+    "name": "Your Friends & Neighbors",
+    "type": "series",
+    "imdb_id": "tt30459041"
+  },
+  {
     "name": "Brothers",
     "type": "series",
     "imdb_id": "tt6773088"
@@ -83,20 +98,5 @@
     "name": "Masters of the Air",
     "type": "series",
     "imdb_id": "tt2640044"
-  },
-  {
-    "name": "Cape Fear",
-    "type": "series",
-    "imdb_id": "tt34675596"
-  },
-  {
-    "name": "Your Friends & Neighbors",
-    "type": "series",
-    "imdb_id": "tt30459041"
-  },
-  {
-    "name": "Pluribus",
-    "type": "series",
-    "imdb_id": "tt22202452"
   }
 ]

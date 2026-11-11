@@ -15,24 +15,19 @@
     "imdb_id": "tt9288030"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "Campus Drivers",
     "type": "series",
     "imdb_id": "tt39943756"
   },
   {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
     "name": "The Terminal List",
     "type": "series",
     "imdb_id": "tt11743610"
-  },
-  {
-    "name": "The Dangerous Book for Boys",
-    "type": "series",
-    "imdb_id": "tt1082583"
   },
   {
     "name": "The Boys",
@@ -65,6 +60,11 @@
     "imdb_id": "tt3502248"
   },
   {
+    "name": "Off Campus",
+    "type": "series",
+    "imdb_id": "tt33546863"
+  },
+  {
     "name": "The Greatest",
     "type": "series",
     "imdb_id": "tt15715850"
@@ -75,19 +75,9 @@
     "imdb_id": "tt10691770"
   },
   {
-    "name": "Off Campus",
-    "type": "series",
-    "imdb_id": "tt33546863"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
-  },
-  {
-    "name": "The Wheel of Time",
-    "type": "series",
-    "imdb_id": "tt7462410"
   },
   {
     "name": "Hazbin Hotel",
@@ -98,5 +88,15 @@
     "name": "Tom Clancy's Jack Ryan",
     "type": "series",
     "imdb_id": "tt5057054"
+  },
+  {
+    "name": "Fallout",
+    "type": "series",
+    "imdb_id": "tt12637874"
+  },
+  {
+    "name": "The Wheel of Time",
+    "type": "series",
+    "imdb_id": "tt7462410"
   }
 ]

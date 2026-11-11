@@ -5,19 +5,14 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
   },
   {
-    "name": "The Girlfriend",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt32267726"
+    "imdb_id": "tt0203259"
   },
   {
     "name": "The Mentalist",
@@ -30,16 +25,6 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
-    "name": "The Kelly Clarkson Show",
-    "type": "series",
-    "imdb_id": "tt9022950"
-  },
-  {
     "name": "Modern Family",
     "type": "series",
     "imdb_id": "tt1442437"
@@ -50,14 +35,9 @@
     "imdb_id": "tt0460649"
   },
   {
-    "name": "Broadchurch",
+    "name": "The Girlfriend",
     "type": "series",
-    "imdb_id": "tt2249364"
-  },
-  {
-    "name": "Monk",
-    "type": "series",
-    "imdb_id": "tt0312172"
+    "imdb_id": "tt32267726"
   },
   {
     "name": "Seinfeld",
@@ -65,14 +45,34 @@
     "imdb_id": "tt0098904"
   },
   {
-    "name": "The Benny Hill Show",
+    "name": "The Office",
     "type": "series",
-    "imdb_id": "tt0063869"
+    "imdb_id": "tt0386676"
   },
   {
-    "name": "Columbo",
+    "name": "House",
     "type": "series",
-    "imdb_id": "tt1466074"
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "type": "series",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "name": "Broadchurch",
+    "type": "series",
+    "imdb_id": "tt2249364"
   },
   {
     "name": "The 100",
@@ -80,23 +80,23 @@
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Elena of Avalor",
+    "name": "The Kelly Clarkson Show",
     "type": "series",
-    "imdb_id": "tt4549142"
+    "imdb_id": "tt9022950"
   },
   {
-    "name": "The Office",
+    "name": "Columbo",
     "type": "series",
-    "imdb_id": "tt0386676"
+    "imdb_id": "tt1466074"
   },
   {
-    "name": "The IT Crowd",
+    "name": "The Benny Hill Show",
     "type": "series",
-    "imdb_id": "tt0487831"
+    "imdb_id": "tt0063869"
   },
   {
-    "name": "House",
+    "name": "Monk",
     "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt0312172"
   }
 ]

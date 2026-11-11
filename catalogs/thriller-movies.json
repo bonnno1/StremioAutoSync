@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Dark Knight",
-    "type": "movie",
-    "imdb_id": "tt0468569"
-  },
-  {
     "name": "Heart of the Beast",
     "type": "movie",
     "imdb_id": "tt7526136"
+  },
+  {
+    "name": "The Dark Knight",
+    "type": "movie",
+    "imdb_id": "tt0468569"
   },
   {
     "name": "Apocalypse Z: New World",
@@ -30,14 +30,14 @@
     "imdb_id": "tt10377864"
   },
   {
-    "name": "The Awakening",
-    "type": "movie",
-    "imdb_id": "tt39120306"
-  },
-  {
     "name": "Drive - The Pretenders",
     "type": "movie",
     "imdb_id": "tt37180686"
+  },
+  {
+    "name": "The Awakening",
+    "type": "movie",
+    "imdb_id": "tt39120306"
   },
   {
     "name": "Fall 2: Deadpoint",
@@ -60,9 +60,9 @@
     "imdb_id": "tt34206385"
   },
   {
-    "name": "Insidious: Out of the Further",
+    "name": "War of the Worlds",
     "type": "movie",
-    "imdb_id": "tt32393988"
+    "imdb_id": "tt13186306"
   },
   {
     "name": "Clayface",
@@ -70,14 +70,24 @@
     "imdb_id": "tt34890576"
   },
   {
+    "name": "Insidious: Out of the Further",
+    "type": "movie",
+    "imdb_id": "tt32393988"
+  },
+  {
     "name": "Obsession",
     "type": "movie",
     "imdb_id": "tt37287335"
   },
   {
-    "name": "War of the Worlds",
+    "name": "Savage Prey",
     "type": "movie",
-    "imdb_id": "tt13186306"
+    "imdb_id": "tt38072958"
+  },
+  {
+    "name": "Ghost Soldier",
+    "type": "movie",
+    "imdb_id": "tt38686316"
   },
   {
     "name": "Mutiny",
@@ -88,15 +98,5 @@
     "name": "Wild Horse Nine",
     "type": "movie",
     "imdb_id": "tt15799564"
-  },
-  {
-    "name": "Savage Prey",
-    "type": "movie",
-    "imdb_id": "tt38072958"
-  },
-  {
-    "name": "The Dog Stars",
-    "type": "movie",
-    "imdb_id": "tt21285562"
   }
 ]

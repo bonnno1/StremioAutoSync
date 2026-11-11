@@ -15,24 +15,19 @@
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
   },
   {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
+  },
+  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
-  },
-  {
-    "name": "The Legend of Korra",
-    "type": "series",
-    "imdb_id": "tt1695360"
   },
   {
     "name": "Person of Interest",
@@ -45,14 +40,14 @@
     "imdb_id": "tt1601141"
   },
   {
+    "name": "The Legend of Korra",
+    "type": "series",
+    "imdb_id": "tt1695360"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
   },
   {
     "name": "NCIS",
@@ -60,14 +55,14 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Magnum P.I.",
-    "type": "series",
-    "imdb_id": "tt7942796"
-  },
-  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
+  },
+  {
+    "name": "Magnum P.I.",
+    "type": "series",
+    "imdb_id": "tt7942796"
   },
   {
     "name": "Reacher",
@@ -80,9 +75,9 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Kamen Rider",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Garth Marenghi's Darkplace",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt0397150"
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Smallville",
+    "type": "series",
+    "imdb_id": "tt0279600"
   }
 ]
