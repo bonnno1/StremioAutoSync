@@ -15,11 +15,6 @@
     "imdb_id": "tt2372162"
   },
   {
-    "name": "The Order",
-    "type": "series",
-    "imdb_id": "tt8295472"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
@@ -35,24 +30,14 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "MINDHUNTER",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt5290382"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
   },
   {
     "name": "Dead-End Job",
@@ -65,9 +50,24 @@
     "imdb_id": "tt2531336"
   },
   {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
     "name": "Black Doves",
     "type": "series",
     "imdb_id": "tt27995113"
+  },
+  {
+    "name": "MINDHUNTER",
+    "type": "series",
+    "imdb_id": "tt5290382"
+  },
+  {
+    "name": "The Order",
+    "type": "series",
+    "imdb_id": "tt8295472"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -75,9 +75,19 @@
     "imdb_id": "tt2359704"
   },
   {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Cyberpunk: Edgerunners",
+    "type": "series",
+    "imdb_id": "tt12590266"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -88,15 +98,5 @@
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
-  },
-  {
-    "name": "Cyberpunk: Edgerunners",
-    "type": "series",
-    "imdb_id": "tt12590266"
-  },
-  {
-    "name": "Black Mirror",
-    "type": "series",
-    "imdb_id": "tt2085059"
   }
 ]

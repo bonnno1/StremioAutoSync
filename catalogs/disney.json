@@ -15,6 +15,11 @@
     "imdb_id": "tt0463398"
   },
   {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
+  },
+  {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
@@ -25,14 +30,19 @@
     "imdb_id": "tt9140554"
   },
   {
+    "name": "The Mandalorian",
+    "type": "series",
+    "imdb_id": "tt8111088"
+  },
+  {
     "name": "Daredevil: Born Again",
     "type": "series",
     "imdb_id": "tt18923754"
   },
   {
-    "name": "The Mandalorian",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt8111088"
+    "imdb_id": "tt9253284"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -40,9 +50,9 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "Andor",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt9253284"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "What If...?",
@@ -55,24 +65,9 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
-    "name": "Rivals",
-    "type": "series",
-    "imdb_id": "tt21906238"
-  },
-  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
   },
   {
     "name": "Agatha All Along",
@@ -80,9 +75,14 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "The Enchanted Cave",
+    "name": "Hawkeye",
     "type": "series",
-    "imdb_id": "tt33056946"
+    "imdb_id": "tt10160804"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Vitória",
@@ -90,8 +90,8 @@
     "imdb_id": "tt36272837"
   },
   {
-    "name": "Star Wars: Young Jedi Adventures",
+    "name": "The Enchanted Cave",
     "type": "series",
-    "imdb_id": "tt20674124"
+    "imdb_id": "tt33056946"
   }
 ]

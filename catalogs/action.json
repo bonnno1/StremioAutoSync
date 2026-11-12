@@ -20,11 +20,6 @@
     "imdb_id": "tt2758770"
   },
   {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
     "name": "Vikings",
     "type": "series",
     "imdb_id": "tt2306299"
@@ -40,19 +35,9 @@
     "imdb_id": "tt1601141"
   },
   {
-    "name": "The Legend of Korra",
+    "name": "Elena of Avalor",
     "type": "series",
-    "imdb_id": "tt1695360"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
+    "imdb_id": "tt4549142"
   },
   {
     "name": "One Piece",
@@ -60,19 +45,29 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Magnum P.I.",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt7942796"
+    "imdb_id": "tt4083422"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "NCIS",
+    "type": "series",
+    "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Legend of Korra",
+    "type": "series",
+    "imdb_id": "tt1695360"
   },
   {
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
   },
   {
     "name": "Pokémon",
@@ -85,14 +80,19 @@
     "imdb_id": "tt0156214"
   },
   {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
+  },
+  {
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Magnum P.I.",
     "type": "series",
-    "imdb_id": "tt7631058"
+    "imdb_id": "tt7942796"
   },
   {
     "name": "Smallville",
