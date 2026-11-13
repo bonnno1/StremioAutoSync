@@ -1,23 +1,8 @@
 [
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
   },
   {
     "name": "The Office",
@@ -25,64 +10,9 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "House",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
-    "name": "The Vampire Diaries",
-    "type": "series",
-    "imdb_id": "tt1405406"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
-  },
-  {
-    "name": "The Flash",
-    "type": "series",
-    "imdb_id": "tt3107288"
-  },
-  {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
-    "name": "The Benny Hill Show",
-    "type": "series",
-    "imdb_id": "tt0063869"
-  },
-  {
-    "name": "Broadchurch",
-    "type": "series",
-    "imdb_id": "tt2249364"
-  },
-  {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
-    "name": "The Kelly Clarkson Show",
-    "type": "series",
-    "imdb_id": "tt9022950"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Criminal Minds",
@@ -90,13 +20,83 @@
     "imdb_id": "tt0452046"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "type": "series",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
+  },
+  {
+    "name": "Seinfeld",
+    "type": "series",
+    "imdb_id": "tt0098904"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
+  },
+  {
+    "name": "American Horror Story",
+    "type": "series",
+    "imdb_id": "tt1844624"
+  },
+  {
     "name": "The 100",
     "type": "series",
     "imdb_id": "tt2661044"
   },
   {
-    "name": "Columbo",
+    "name": "The Last Kingdom",
     "type": "series",
-    "imdb_id": "tt1466074"
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
+  },
+  {
+    "name": "Beverly Hills, 90210",
+    "type": "series",
+    "imdb_id": "tt0098749"
   }
 ]

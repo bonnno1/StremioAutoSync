@@ -1,10 +1,5 @@
 [
   {
-    "name": "Jimmy Kimmel Live!",
-    "type": "series",
-    "imdb_id": "tt0320037"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -15,14 +10,34 @@
     "imdb_id": "tt23112594"
   },
   {
+    "name": "12 12 12",
+    "type": "series",
+    "imdb_id": "tt32375763"
+  },
+  {
     "name": "MobLand",
     "type": "series",
     "imdb_id": "tt31510819"
   },
   {
-    "name": "Black Doves",
+    "name": "Jimmy Kimmel Live!",
     "type": "series",
-    "imdb_id": "tt27995113"
+    "imdb_id": "tt0320037"
+  },
+  {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
+    "name": "The Good Daughter",
+    "type": "series",
+    "imdb_id": "tt31842126"
+  },
+  {
+    "name": "The Body",
+    "type": "series",
+    "imdb_id": "tt8014982"
   },
   {
     "name": "The Remarried Empress",
@@ -30,9 +45,14 @@
     "imdb_id": "tt39325975"
   },
   {
-    "name": "The Body",
+    "name": "Nocturne",
     "type": "series",
-    "imdb_id": "tt8014982"
+    "imdb_id": "tt26598805"
+  },
+  {
+    "name": "Black Doves",
+    "type": "series",
+    "imdb_id": "tt27995113"
   },
   {
     "name": "Campus Drivers",
@@ -45,9 +65,9 @@
     "imdb_id": "tt13720112"
   },
   {
-    "name": "Dexter: Resurrection",
+    "name": "Lupin",
     "type": "series",
-    "imdb_id": "tt33043892"
+    "imdb_id": "tt2531336"
   },
   {
     "name": "South Park",
@@ -55,39 +75,19 @@
     "imdb_id": "tt0121955"
   },
   {
-    "name": "The Good Daughter",
-    "type": "series",
-    "imdb_id": "tt31842126"
-  },
-  {
-    "name": "Lupin",
-    "type": "series",
-    "imdb_id": "tt2531336"
-  },
-  {
-    "name": "Bleach",
-    "type": "series",
-    "imdb_id": "tt0434665"
-  },
-  {
     "name": "Tulsa King",
     "type": "series",
     "imdb_id": "tt16358384"
   },
   {
-    "name": "Sunshine Through the Rain",
+    "name": "JoJo's Bizarre Adventure",
     "type": "series",
-    "imdb_id": "tt36982492"
+    "imdb_id": "tt2359704"
   },
   {
-    "name": "Dead-End Job",
+    "name": "The Apothecary Diaries",
     "type": "series",
-    "imdb_id": "tt36458668"
-  },
-  {
-    "name": "Re:ZERO -Starting Life in Another World-",
-    "type": "series",
-    "imdb_id": "tt5607616"
+    "imdb_id": "tt26743760"
   },
   {
     "name": "One Piece",
@@ -95,8 +95,8 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "The Institute",
+    "name": "Cyberpunk: Edgerunners",
     "type": "series",
-    "imdb_id": "tt10946316"
+    "imdb_id": "tt12590266"
   }
 ]

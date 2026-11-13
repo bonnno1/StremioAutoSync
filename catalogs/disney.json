@@ -50,24 +50,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "WandaVision",
-    "type": "series",
-    "imdb_id": "tt9140560"
-  },
-  {
     "name": "What If...?",
     "type": "series",
     "imdb_id": "tt10168312"
   },
   {
-    "name": "Star Wars: The Bad Batch",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "X-Men '97",
-    "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "Agatha All Along",
@@ -75,9 +65,9 @@
     "imdb_id": "tt15571732"
   },
   {
-    "name": "Hawkeye",
+    "name": "Star Wars: The Bad Batch",
     "type": "series",
-    "imdb_id": "tt10160804"
+    "imdb_id": "tt12708542"
   },
   {
     "name": "Moon Knight",
@@ -85,13 +75,23 @@
     "imdb_id": "tt10234724"
   },
   {
-    "name": "Vitória",
+    "name": "X-Men '97",
     "type": "series",
-    "imdb_id": "tt36272837"
+    "imdb_id": "tt16026746"
+  },
+  {
+    "name": "Hawkeye",
+    "type": "series",
+    "imdb_id": "tt10160804"
   },
   {
     "name": "The Enchanted Cave",
     "type": "series",
     "imdb_id": "tt33056946"
+  },
+  {
+    "name": "Vitória",
+    "type": "series",
+    "imdb_id": "tt36272837"
   }
 ]

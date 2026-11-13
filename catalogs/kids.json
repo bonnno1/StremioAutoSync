@@ -1,10 +1,5 @@
 [
   {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -20,6 +15,11 @@
     "imdb_id": "tt2580046"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
@@ -30,24 +30,24 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "PAW Patrol",
-    "type": "series",
-    "imdb_id": "tt3121722"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   },
   {
     "name": "Doraemon",
@@ -65,19 +65,14 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
   },
   {
-    "name": "The Garfield Show",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt1470837"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "The Loud House",
@@ -85,14 +80,19 @@
     "imdb_id": "tt4859164"
   },
   {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
+  },
+  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
+    "name": "Pokémon Horizons",
     "type": "series",
-    "imdb_id": "tt0149528"
+    "imdb_id": "tt26692417"
   },
   {
     "name": "Super Wings",

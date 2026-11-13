@@ -5,11 +5,6 @@
     "imdb_id": "tt7526136"
   },
   {
-    "name": "The Dark Knight",
-    "type": "movie",
-    "imdb_id": "tt0468569"
-  },
-  {
     "name": "Apocalypse Z: New World",
     "type": "movie",
     "imdb_id": "tt37522541"
@@ -30,9 +25,19 @@
     "imdb_id": "tt32261958"
   },
   {
+    "name": "The Dark Knight",
+    "type": "movie",
+    "imdb_id": "tt0468569"
+  },
+  {
     "name": "Drive - The Pretenders",
     "type": "movie",
     "imdb_id": "tt37180686"
+  },
+  {
+    "name": "Ghost Soldier",
+    "type": "movie",
+    "imdb_id": "tt38686316"
   },
   {
     "name": "Fall 2: Deadpoint",
@@ -50,19 +55,19 @@
     "imdb_id": "tt9601292"
   },
   {
-    "name": "Ghost Soldier",
+    "name": "War of the Worlds",
     "type": "movie",
-    "imdb_id": "tt38686316"
+    "imdb_id": "tt13186306"
+  },
+  {
+    "name": "Never Surrender",
+    "type": "movie",
+    "imdb_id": "tt39370926"
   },
   {
     "name": "Collision Course",
     "type": "movie",
     "imdb_id": "tt38793125"
-  },
-  {
-    "name": "War of the Worlds",
-    "type": "movie",
-    "imdb_id": "tt13186306"
   },
   {
     "name": "Clayface",
@@ -83,11 +88,6 @@
     "name": "Obsession",
     "type": "movie",
     "imdb_id": "tt37287335"
-  },
-  {
-    "name": "Primetime",
-    "type": "movie",
-    "imdb_id": "tt34206385"
   },
   {
     "name": "Mutiny",
