@@ -35,19 +35,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "WWE NXT",
-    "type": "series",
-    "imdb_id": "tt1601141"
-  },
-  {
     "name": "Person of Interest",
     "type": "series",
     "imdb_id": "tt1839578"
-  },
-  {
-    "name": "Vikings",
-    "type": "series",
-    "imdb_id": "tt2306299"
   },
   {
     "name": "Doraemon",
@@ -58,6 +48,26 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "WWE NXT",
+    "type": "series",
+    "imdb_id": "tt1601141"
+  },
+  {
+    "name": "Strike Back",
+    "type": "series",
+    "imdb_id": "tt1492179"
+  },
+  {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Vikings",
+    "type": "series",
+    "imdb_id": "tt2306299"
   },
   {
     "name": "Reacher",
@@ -75,28 +85,18 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
-  },
-  {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Smallville",
+    "name": "C.I.D.",
     "type": "series",
-    "imdb_id": "tt0279600"
+    "imdb_id": "tt0401916"
   },
   {
-    "name": "The Walking Dead",
+    "name": "Lucha Underground",
     "type": "series",
-    "imdb_id": "tt1520211"
+    "imdb_id": "tt4171176"
   }
 ]

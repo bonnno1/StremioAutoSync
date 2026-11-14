@@ -5,6 +5,11 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -15,24 +20,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Criminal Minds",
-    "type": "series",
-    "imdb_id": "tt0452046"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "House",
     "type": "series",
     "imdb_id": "tt0412142"
-  },
-  {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
   },
   {
     "name": "Modern Family",
@@ -50,14 +40,24 @@
     "imdb_id": "tt0460649"
   },
   {
-    "name": "The Flash",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt3107288"
+    "imdb_id": "tt1196946"
   },
   {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
   },
   {
     "name": "Phineas and Ferb",
@@ -70,9 +70,19 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Beverly Hills, 90210",
+    "type": "series",
+    "imdb_id": "tt0098749"
+  },
+  {
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
+  },
+  {
+    "name": "The Girlfriend",
+    "type": "series",
+    "imdb_id": "tt32267726"
   },
   {
     "name": "American Horror Story",
@@ -85,18 +95,8 @@
     "imdb_id": "tt2661044"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "The Kelly Clarkson Show",
     "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
-    "name": "The Girlfriend",
-    "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
-    "name": "Beverly Hills, 90210",
-    "type": "series",
-    "imdb_id": "tt0098749"
+    "imdb_id": "tt9022950"
   }
 ]

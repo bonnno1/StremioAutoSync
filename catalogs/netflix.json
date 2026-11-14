@@ -5,11 +5,6 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "You",
-    "type": "series",
-    "imdb_id": "tt7335184"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
@@ -25,29 +20,9 @@
     "imdb_id": "tt4087032"
   },
   {
-    "name": "The Crown",
+    "name": "You",
     "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "Orange Is the New Black",
-    "type": "series",
-    "imdb_id": "tt2372162"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
-  },
-  {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Lucifer",
-    "type": "series",
-    "imdb_id": "tt4052886"
+    "imdb_id": "tt7335184"
   },
   {
     "name": "The Body",
@@ -55,9 +30,24 @@
     "imdb_id": "tt8014982"
   },
   {
-    "name": "Dead-End Job",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt36458668"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Stranger Things",
+    "type": "series",
+    "imdb_id": "tt4574334"
+  },
+  {
+    "name": "Lucifer",
+    "type": "series",
+    "imdb_id": "tt4052886"
+  },
+  {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
   },
   {
     "name": "Lupin",
@@ -65,9 +55,14 @@
     "imdb_id": "tt2531336"
   },
   {
-    "name": "MINDHUNTER",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt5290382"
+    "imdb_id": "tt2372162"
+  },
+  {
+    "name": "Dead-End Job",
+    "type": "series",
+    "imdb_id": "tt36458668"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -80,14 +75,14 @@
     "imdb_id": "tt27995113"
   },
   {
-    "name": "Star Wars: The Clone Wars",
-    "type": "series",
-    "imdb_id": "tt0458290"
-  },
-  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "type": "series",
+    "imdb_id": "tt0458290"
   },
   {
     "name": "The Loud House",
@@ -95,8 +90,13 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Cyberpunk: Edgerunners",
+    "name": "MINDHUNTER",
     "type": "series",
-    "imdb_id": "tt12590266"
+    "imdb_id": "tt5290382"
+  },
+  {
+    "name": "Black Mirror",
+    "type": "series",
+    "imdb_id": "tt2085059"
   }
 ]
