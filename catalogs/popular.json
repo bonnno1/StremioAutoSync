@@ -20,24 +20,19 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "House",
-    "type": "series",
-    "imdb_id": "tt0412142"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "The Vampire Diaries",
-    "type": "series",
-    "imdb_id": "tt1405406"
-  },
-  {
     "name": "How I Met Your Mother",
     "type": "series",
     "imdb_id": "tt0460649"
+  },
+  {
+    "name": "American Horror Story",
+    "type": "series",
+    "imdb_id": "tt1844624"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
   },
   {
     "name": "The Mentalist",
@@ -45,9 +40,9 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "Seinfeld",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt0098904"
+    "imdb_id": "tt1442437"
   },
   {
     "name": "The Flash",
@@ -55,9 +50,24 @@
     "imdb_id": "tt3107288"
   },
   {
+    "name": "The Vampire Diaries",
+    "type": "series",
+    "imdb_id": "tt1405406"
+  },
+  {
+    "name": "Seinfeld",
+    "type": "series",
+    "imdb_id": "tt0098904"
+  },
+  {
     "name": "Criminal Minds",
     "type": "series",
     "imdb_id": "tt0452046"
+  },
+  {
+    "name": "Beverly Hills, 90210",
+    "type": "series",
+    "imdb_id": "tt0098749"
   },
   {
     "name": "Phineas and Ferb",
@@ -70,9 +80,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Beverly Hills, 90210",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt0098749"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Star vs. the Forces of Evil",
@@ -80,23 +90,13 @@
     "imdb_id": "tt2758770"
   },
   {
-    "name": "The Girlfriend",
+    "name": "The Voice",
     "type": "series",
-    "imdb_id": "tt32267726"
-  },
-  {
-    "name": "American Horror Story",
-    "type": "series",
-    "imdb_id": "tt1844624"
+    "imdb_id": "tt1839337"
   },
   {
     "name": "The 100",
     "type": "series",
     "imdb_id": "tt2661044"
-  },
-  {
-    "name": "The Kelly Clarkson Show",
-    "type": "series",
-    "imdb_id": "tt9022950"
   }
 ]

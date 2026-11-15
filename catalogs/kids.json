@@ -30,19 +30,14 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
   },
   {
-    "name": "Arthur",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0169414"
+    "imdb_id": "tt0069576"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -60,9 +55,9 @@
     "imdb_id": "tt24191416"
   },
   {
-    "name": "Elena of Avalor",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt4549142"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "The Garfield Show",
@@ -70,14 +65,24 @@
     "imdb_id": "tt1470837"
   },
   {
+    "name": "Arthur",
+    "type": "series",
+    "imdb_id": "tt0169414"
+  },
+  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "Elena of Avalor",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt4549142"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
   },
   {
     "name": "The Loud House",
@@ -93,10 +98,5 @@
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
-  },
-  {
-    "name": "The Fairly OddParents",
-    "type": "series",
-    "imdb_id": "tt0235918"
   }
 ]
