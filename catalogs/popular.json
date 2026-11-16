@@ -5,6 +5,21 @@
     "imdb_id": "tt0203259"
   },
   {
+    "name": "American Horror Story",
+    "type": "series",
+    "imdb_id": "tt1844624"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
+  },
+  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
@@ -15,19 +30,9 @@
     "imdb_id": "tt0386676"
   },
   {
-    "name": "The Simpsons",
+    "name": "The Mentalist",
     "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
-    "name": "American Horror Story",
-    "type": "series",
-    "imdb_id": "tt1844624"
+    "imdb_id": "tt1196946"
   },
   {
     "name": "House",
@@ -35,9 +40,9 @@
     "imdb_id": "tt0412142"
   },
   {
-    "name": "The Mentalist",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt0096697"
   },
   {
     "name": "Modern Family",
@@ -50,14 +55,14 @@
     "imdb_id": "tt3107288"
   },
   {
-    "name": "The Vampire Diaries",
-    "type": "series",
-    "imdb_id": "tt1405406"
-  },
-  {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "type": "series",
+    "imdb_id": "tt1405406"
   },
   {
     "name": "Criminal Minds",
@@ -65,9 +70,14 @@
     "imdb_id": "tt0452046"
   },
   {
-    "name": "Beverly Hills, 90210",
+    "name": "The Voice",
     "type": "series",
-    "imdb_id": "tt0098749"
+    "imdb_id": "tt1839337"
+  },
+  {
+    "name": "Eureka",
+    "type": "series",
+    "imdb_id": "tt0796264"
   },
   {
     "name": "Phineas and Ferb",
@@ -75,14 +85,9 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "Beverly Hills, 90210",
     "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "name": "Pokémon",
-    "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt0098749"
   },
   {
     "name": "Star vs. the Forces of Evil",
@@ -90,13 +95,8 @@
     "imdb_id": "tt2758770"
   },
   {
-    "name": "The Voice",
+    "name": "Strike Back",
     "type": "series",
-    "imdb_id": "tt1839337"
-  },
-  {
-    "name": "The 100",
-    "type": "series",
-    "imdb_id": "tt2661044"
+    "imdb_id": "tt1492179"
   }
 ]

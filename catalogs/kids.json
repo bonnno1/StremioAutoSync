@@ -10,9 +10,9 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Sítio do Picapau Amarelo",
@@ -20,24 +20,29 @@
     "imdb_id": "tt0294196"
   },
   {
+    "name": "PAW Patrol",
+    "type": "series",
+    "imdb_id": "tt3121722"
+  },
+  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Sesame Street",
+    "name": "Doraemon",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt0069576"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
   },
   {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -55,34 +60,14 @@
     "imdb_id": "tt24191416"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
-    "name": "The Garfield Show",
-    "type": "series",
-    "imdb_id": "tt1470837"
-  },
-  {
-    "name": "Arthur",
-    "type": "series",
-    "imdb_id": "tt0169414"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Elena of Avalor",
+    "name": "You and Idol Precure",
     "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt34852961"
   },
   {
     "name": "The Loud House",
@@ -90,13 +75,28 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
+    "name": "Super Wings",
     "type": "series",
-    "imdb_id": "tt0149528"
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "The Fairly OddParents",
+    "type": "series",
+    "imdb_id": "tt0235918"
   },
   {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Thomas & Friends",
+    "type": "series",
+    "imdb_id": "tt0086815"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -8,11 +13,6 @@
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
   },
   {
     "name": "Modern Family",
@@ -25,6 +25,11 @@
     "imdb_id": "tt0098904"
   },
   {
+    "name": "Eureka",
+    "type": "series",
+    "imdb_id": "tt0796264"
+  },
+  {
     "name": "Phineas and Ferb",
     "type": "series",
     "imdb_id": "tt0852863"
@@ -33,6 +38,16 @@
     "name": "Star vs. the Forces of Evil",
     "type": "series",
     "imdb_id": "tt2758770"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "type": "series",
+    "imdb_id": "tt7908628"
+  },
+  {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -55,14 +70,24 @@
     "imdb_id": "tt3444938"
   },
   {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Young Hearts",
+    "name": "The Benny Hill Show",
     "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt0063869"
+  },
+  {
+    "name": "Monk",
+    "type": "series",
+    "imdb_id": "tt0312172"
   },
   {
     "name": "The Daily Show",
@@ -70,33 +95,8 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Family Guy",
+    "name": "Young Hearts",
     "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Tulsa King",
-    "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "Eureka",
-    "type": "series",
-    "imdb_id": "tt0796264"
-  },
-  {
-    "name": "Late Show with David Letterman",
-    "type": "series",
-    "imdb_id": "tt0106053"
-  },
-  {
-    "name": "Friends",
-    "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "Late Night with Seth Meyers",
-    "type": "series",
-    "imdb_id": "tt3513388"
+    "imdb_id": "tt0144724"
   }
 ]
