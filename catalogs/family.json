@@ -10,6 +10,16 @@
     "imdb_id": "tt2758770"
   },
   {
+    "name": "Moesha",
+    "type": "series",
+    "imdb_id": "tt0115275"
+  },
+  {
+    "name": "Arthur",
+    "type": "series",
+    "imdb_id": "tt0169414"
+  },
+  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt4083422"
@@ -45,14 +55,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Moesha",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt0115275"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
+    "imdb_id": "tt5622316"
   },
   {
     "name": "Teen Titans Go!",
@@ -65,14 +70,14 @@
     "imdb_id": "tt0278212"
   },
   {
+    "name": "Frasier",
+    "type": "series",
+    "imdb_id": "tt0106004"
+  },
+  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
   },
   {
     "name": "Young Sheldon",
@@ -93,10 +98,5 @@
     "name": "King of the Hill",
     "type": "series",
     "imdb_id": "tt0118375"
-  },
-  {
-    "name": "Ulice",
-    "type": "series",
-    "imdb_id": "tt0484918"
   }
 ]

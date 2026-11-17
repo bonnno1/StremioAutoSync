@@ -5,6 +5,11 @@
     "imdb_id": "tt0460649"
   },
   {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
@@ -15,19 +20,9 @@
     "imdb_id": "tt0096697"
   },
   {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
     "name": "Seinfeld",
     "type": "series",
     "imdb_id": "tt0098904"
-  },
-  {
-    "name": "Eureka",
-    "type": "series",
-    "imdb_id": "tt0796264"
   },
   {
     "name": "Phineas and Ferb",
@@ -35,19 +30,44 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Star vs. the Forces of Evil",
-    "type": "series",
-    "imdb_id": "tt2758770"
-  },
-  {
     "name": "What We Do in the Shadows",
     "type": "series",
     "imdb_id": "tt7908628"
   },
   {
+    "name": "Eureka",
+    "type": "series",
+    "imdb_id": "tt0796264"
+  },
+  {
     "name": "Wakfu",
     "type": "series",
     "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
+  },
+  {
+    "name": "Girlfriends",
+    "type": "series",
+    "imdb_id": "tt0247102"
+  },
+  {
+    "name": "Succession",
+    "type": "series",
+    "imdb_id": "tt7660850"
+  },
+  {
+    "name": "Community",
+    "type": "series",
+    "imdb_id": "tt1439629"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -70,33 +90,13 @@
     "imdb_id": "tt3444938"
   },
   {
-    "name": "Friends",
+    "name": "Moesha",
     "type": "series",
-    "imdb_id": "tt0108778"
+    "imdb_id": "tt0115275"
   },
   {
-    "name": "Doraemon",
+    "name": "Arthur",
     "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
-    "name": "The Benny Hill Show",
-    "type": "series",
-    "imdb_id": "tt0063869"
-  },
-  {
-    "name": "Monk",
-    "type": "series",
-    "imdb_id": "tt0312172"
-  },
-  {
-    "name": "The Daily Show",
-    "type": "series",
-    "imdb_id": "tt0115147"
-  },
-  {
-    "name": "Young Hearts",
-    "type": "series",
-    "imdb_id": "tt0144724"
+    "imdb_id": "tt0169414"
   }
 ]

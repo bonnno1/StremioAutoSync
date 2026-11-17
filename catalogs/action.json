@@ -10,9 +10,9 @@
     "imdb_id": "tt0436992"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "Pokémon",
     "type": "series",
-    "imdb_id": "tt2758770"
+    "imdb_id": "tt0168366"
   },
   {
     "name": "Strike Back",
@@ -20,9 +20,24 @@
     "imdb_id": "tt1492179"
   },
   {
-    "name": "Pokémon",
+    "name": "Wakfu",
     "type": "series",
-    "imdb_id": "tt0168366"
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Lucha Underground",
+    "type": "series",
+    "imdb_id": "tt4171176"
+  },
+  {
+    "name": "Airwolf",
+    "type": "series",
+    "imdb_id": "tt0086662"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
   },
   {
     "name": "The 100",
@@ -35,24 +50,9 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
     "name": "Person of Interest",
     "type": "series",
     "imdb_id": "tt1839578"
-  },
-  {
-    "name": "Lucha Underground",
-    "type": "series",
-    "imdb_id": "tt4171176"
-  },
-  {
-    "name": "Airwolf",
-    "type": "series",
-    "imdb_id": "tt0086662"
   },
   {
     "name": "One Piece",
@@ -70,14 +70,19 @@
     "imdb_id": "tt0364845"
   },
   {
+    "name": "Agent Hamilton",
+    "type": "series",
+    "imdb_id": "tt5534588"
+  },
+  {
+    "name": "Magnum P.I.",
+    "type": "series",
+    "imdb_id": "tt7942796"
+  },
+  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
-  },
-  {
-    "name": "The Legend of Korra",
-    "type": "series",
-    "imdb_id": "tt1695360"
   },
   {
     "name": "Reacher",
@@ -90,13 +95,8 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Elena of Avalor",
     "type": "series",
-    "imdb_id": "tt2580046"
-  },
-  {
-    "name": "Batang Quiapo",
-    "type": "series",
-    "imdb_id": "tt24059730"
+    "imdb_id": "tt4549142"
   }
 ]
