@@ -5,19 +5,14 @@
     "imdb_id": "tt4179452"
   },
   {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
   },
   {
-    "name": "MINDHUNTER",
+    "name": "Orange Is the New Black",
     "type": "series",
-    "imdb_id": "tt5290382"
+    "imdb_id": "tt2372162"
   },
   {
     "name": "The Body",
@@ -25,9 +20,14 @@
     "imdb_id": "tt8014982"
   },
   {
-    "name": "Orange Is the New Black",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt2372162"
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "MINDHUNTER",
+    "type": "series",
+    "imdb_id": "tt5290382"
   },
   {
     "name": "C.I.D.",
@@ -55,14 +55,14 @@
     "imdb_id": "tt2531336"
   },
   {
-    "name": "JoJo's Bizarre Adventure",
-    "type": "series",
-    "imdb_id": "tt2359704"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "type": "series",
+    "imdb_id": "tt2359704"
   },
   {
     "name": "Dead-End Job",
@@ -75,9 +75,9 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Black Doves",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt27995113"
+    "imdb_id": "tt27502465"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -85,18 +85,18 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "You",
+    "name": "BEASTARS",
     "type": "series",
-    "imdb_id": "tt7335184"
+    "imdb_id": "tt11043632"
+  },
+  {
+    "name": "Black Doves",
+    "type": "series",
+    "imdb_id": "tt27995113"
   },
   {
     "name": "Black Mirror",
     "type": "series",
     "imdb_id": "tt2085059"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
   }
 ]

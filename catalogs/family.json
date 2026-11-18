@@ -5,19 +5,14 @@
     "imdb_id": "tt0852863"
   },
   {
-    "name": "Star vs. the Forces of Evil",
-    "type": "series",
-    "imdb_id": "tt2758770"
-  },
-  {
-    "name": "Moesha",
-    "type": "series",
-    "imdb_id": "tt0115275"
-  },
-  {
     "name": "Arthur",
     "type": "series",
     "imdb_id": "tt0169414"
+  },
+  {
+    "name": "Star vs. the Forces of Evil",
+    "type": "series",
+    "imdb_id": "tt2758770"
   },
   {
     "name": "Doraemon",
@@ -28,6 +23,11 @@
     "name": "SpongeBob SquarePants",
     "type": "series",
     "imdb_id": "tt0206512"
+  },
+  {
+    "name": "Moesha",
+    "type": "series",
+    "imdb_id": "tt0115275"
   },
   {
     "name": "Jeopardy!",
@@ -50,9 +50,9 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Doraemon",
+    "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
     "type": "series",
-    "imdb_id": "tt0069576"
+    "imdb_id": "tt0278212"
   },
   {
     "name": "The Chosen",
@@ -60,19 +60,14 @@
     "imdb_id": "tt5622316"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
-  },
-  {
-    "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
-    "type": "series",
-    "imdb_id": "tt0278212"
-  },
-  {
-    "name": "Frasier",
-    "type": "series",
-    "imdb_id": "tt0106004"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -80,14 +75,19 @@
     "imdb_id": "tt1871731"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Frasier",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0106004"
   },
   {
     "name": "Inkigayo",
     "type": "series",
     "imdb_id": "tt6050846"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   },
   {
     "name": "Dancing with the Stars",

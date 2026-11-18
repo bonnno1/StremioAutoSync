@@ -10,14 +10,14 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Cococinel",
-    "type": "series",
-    "imdb_id": "tt0891373"
-  },
-  {
     "name": "Elena of Avalor",
     "type": "series",
     "imdb_id": "tt4549142"
+  },
+  {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
   },
   {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -65,11 +65,6 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "GG Bond",
-    "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
     "name": "The Loud House",
     "type": "series",
     "imdb_id": "tt4859164"
@@ -80,14 +75,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "New Looney Tunes",
+    "name": "GG Bond",
     "type": "series",
-    "imdb_id": "tt4558858"
-  },
-  {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
+    "imdb_id": "tt24191416"
   },
   {
     "name": "The Fairly OddParents",
@@ -95,8 +85,18 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
+    "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
-    "imdb_id": "tt0149528"
+    "imdb_id": "tt27502465"
+  },
+  {
+    "name": "Super Wings",
+    "type": "series",
+    "imdb_id": "tt3600266"
+  },
+  {
+    "name": "New Looney Tunes",
+    "type": "series",
+    "imdb_id": "tt4558858"
   }
 ]

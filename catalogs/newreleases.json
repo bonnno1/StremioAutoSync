@@ -1,13 +1,18 @@
 [
   {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
   },
   {
-    "name": "Goede Tijden, Slechte Tijden",
+    "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
-    "imdb_id": "tt0096597"
+    "imdb_id": "tt3444938"
   },
   {
     "name": "Binnelanders",
@@ -20,54 +25,9 @@
     "imdb_id": "tt0115147"
   },
   {
-    "name": "Late Night with Seth Meyers",
+    "name": "Goede Tijden, Slechte Tijden",
     "type": "series",
-    "imdb_id": "tt3513388"
-  },
-  {
-    "name": "NCIS",
-    "type": "series",
-    "imdb_id": "tt0364845"
-  },
-  {
-    "name": "Coronation Street",
-    "type": "series",
-    "imdb_id": "tt0053494"
-  },
-  {
-    "name": "Tomorrow Is Ours",
-    "type": "series",
-    "imdb_id": "tt7124904"
-  },
-  {
-    "name": "Chronicles of the Sun",
-    "type": "series",
-    "imdb_id": "tt8883922"
-  },
-  {
-    "name": "EastEnders",
-    "type": "series",
-    "imdb_id": "tt0088512"
-  },
-  {
-    "name": "Ici tout commence",
-    "type": "series",
-    "imdb_id": "tt13392064"
-  },
-  {
-    "name": "Love in Disguise",
-    "type": "series",
-    "imdb_id": "tt45246384"
-  },
-  {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
-    "name": "The View",
-    "type": "series",
-    "imdb_id": "tt0123366"
+    "imdb_id": "tt0096597"
   },
   {
     "name": "Diepe Waters",
@@ -75,28 +35,68 @@
     "imdb_id": "tt22491458"
   },
   {
-    "name": "WWE NXT",
+    "name": "Late Night with Seth Meyers",
     "type": "series",
-    "imdb_id": "tt1601141"
+    "imdb_id": "tt3513388"
   },
   {
-    "name": "LIVE with Kelly and Mark",
+    "name": "Coronation Street",
     "type": "series",
-    "imdb_id": "tt0096636"
+    "imdb_id": "tt0053494"
   },
   {
-    "name": "El hormiguero",
+    "name": "The Remarried Empress",
     "type": "series",
-    "imdb_id": "tt0870872"
+    "imdb_id": "tt39325975"
   },
   {
-    "name": "Jimmy Kimmel Live!",
+    "name": "Tomorrow Is Ours",
     "type": "series",
-    "imdb_id": "tt0320037"
+    "imdb_id": "tt7124904"
   },
   {
-    "name": "Home and Away",
+    "name": "EastEnders",
     "type": "series",
-    "imdb_id": "tt0094481"
+    "imdb_id": "tt0088512"
+  },
+  {
+    "name": "Chronicles of the Sun",
+    "type": "series",
+    "imdb_id": "tt8883922"
+  },
+  {
+    "name": "Chicago Fire",
+    "type": "series",
+    "imdb_id": "tt2261391"
+  },
+  {
+    "name": "Ici tout commence",
+    "type": "series",
+    "imdb_id": "tt13392064"
+  },
+  {
+    "name": "Radio Star",
+    "type": "series",
+    "imdb_id": "tt6283624"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
+  },
+  {
+    "name": "The Rules",
+    "type": "series",
+    "imdb_id": "tt50252733"
+  },
+  {
+    "name": "The View",
+    "type": "series",
+    "imdb_id": "tt0123366"
+  },
+  {
+    "name": "Chicago P.D.",
+    "type": "series",
+    "imdb_id": "tt2805096"
   }
 ]
