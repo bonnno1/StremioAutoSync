@@ -5,16 +5,6 @@
     "imdb_id": "tt1196946"
   },
   {
-    "name": "The Flash",
-    "type": "series",
-    "imdb_id": "tt3107288"
-  },
-  {
-    "name": "Law & Order: Special Victims Unit",
-    "type": "series",
-    "imdb_id": "tt0203259"
-  },
-  {
     "name": "American Horror Story",
     "type": "series",
     "imdb_id": "tt1844624"
@@ -25,29 +15,9 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "The Office",
-    "type": "series",
-    "imdb_id": "tt0386676"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
   },
   {
     "name": "Supernatural",
@@ -55,9 +25,24 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "House",
+    "name": "Succession",
     "type": "series",
-    "imdb_id": "tt0412142"
+    "imdb_id": "tt7660850"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "type": "series",
+    "imdb_id": "tt0203259"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
   },
   {
     "name": "Seinfeld",
@@ -65,14 +50,19 @@
     "imdb_id": "tt0098904"
   },
   {
-    "name": "The Vampire Diaries",
+    "name": "Modern Family",
     "type": "series",
-    "imdb_id": "tt1405406"
+    "imdb_id": "tt1442437"
   },
   {
-    "name": "Criminal Minds",
+    "name": "Community",
     "type": "series",
-    "imdb_id": "tt0452046"
+    "imdb_id": "tt1439629"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "The Voice",
@@ -80,23 +70,33 @@
     "imdb_id": "tt1839337"
   },
   {
-    "name": "The Simpsons",
-    "type": "series",
-    "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
     "name": "Strike Back",
     "type": "series",
     "imdb_id": "tt1492179"
   },
   {
-    "name": "Boundless Love",
+    "name": "The Vampire Diaries",
     "type": "series",
-    "imdb_id": "tt29258720"
+    "imdb_id": "tt1405406"
+  },
+  {
+    "name": "The Office",
+    "type": "series",
+    "imdb_id": "tt0386676"
+  },
+  {
+    "name": "House",
+    "type": "series",
+    "imdb_id": "tt0412142"
+  },
+  {
+    "name": "Criminal Minds",
+    "type": "series",
+    "imdb_id": "tt0452046"
+  },
+  {
+    "name": "Eureka",
+    "type": "series",
+    "imdb_id": "tt0796264"
   }
 ]

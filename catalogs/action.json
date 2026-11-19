@@ -20,14 +20,19 @@
     "imdb_id": "tt0168366"
   },
   {
+    "name": "Agent Hamilton",
+    "type": "series",
+    "imdb_id": "tt5534588"
+  },
+  {
     "name": "Wakfu",
     "type": "series",
     "imdb_id": "tt1807824"
   },
   {
-    "name": "Agent Hamilton",
+    "name": "Magnum P.I.",
     "type": "series",
-    "imdb_id": "tt5534588"
+    "imdb_id": "tt7942796"
   },
   {
     "name": "Star vs. the Forces of Evil",
@@ -45,24 +50,19 @@
     "imdb_id": "tt2661044"
   },
   {
+    "name": "One Piece",
+    "type": "series",
+    "imdb_id": "tt0388629"
+  },
+  {
     "name": "Airwolf",
     "type": "series",
     "imdb_id": "tt0086662"
   },
   {
-    "name": "Magnum P.I.",
-    "type": "series",
-    "imdb_id": "tt7942796"
-  },
-  {
     "name": "The Last Kingdom",
     "type": "series",
     "imdb_id": "tt4179452"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
   },
   {
     "name": "Person of Interest",
@@ -80,16 +80,6 @@
     "imdb_id": "tt0364845"
   },
   {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
-    "name": "Monkey",
-    "type": "series",
-    "imdb_id": "tt0078659"
-  },
-  {
     "name": "Kamen Rider",
     "type": "series",
     "imdb_id": "tt0156214"
@@ -98,5 +88,15 @@
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
+  },
+  {
+    "name": "Game of Thrones",
+    "type": "series",
+    "imdb_id": "tt0944947"
+  },
+  {
+    "name": "C.I.D.",
+    "type": "series",
+    "imdb_id": "tt0401916"
   }
 ]

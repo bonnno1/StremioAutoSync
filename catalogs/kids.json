@@ -15,14 +15,14 @@
     "imdb_id": "tt4549142"
   },
   {
-    "name": "Cococinel",
-    "type": "series",
-    "imdb_id": "tt0891373"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
+  },
+  {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
   },
   {
     "name": "Sesame Street",
@@ -30,9 +30,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "PAW Patrol",
+    "name": "Ninja Boy Rantaro",
     "type": "series",
-    "imdb_id": "tt3121722"
+    "imdb_id": "tt0306365"
   },
   {
     "name": "Sítio do Picapau Amarelo",
@@ -40,9 +40,9 @@
     "imdb_id": "tt0294196"
   },
   {
-    "name": "Ninja Boy Rantaro",
+    "name": "PAW Patrol",
     "type": "series",
-    "imdb_id": "tt0306365"
+    "imdb_id": "tt3121722"
   },
   {
     "name": "Peppa Pig",
@@ -65,19 +65,14 @@
     "imdb_id": "tt1751105"
   },
   {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
   },
   {
-    "name": "GG Bond",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt24191416"
+    "imdb_id": "tt4859164"
   },
   {
     "name": "The Fairly OddParents",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0235918"
   },
   {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
+  },
+  {
     "name": "LEGO Ninjago: Dragons Rising",
     "type": "series",
     "imdb_id": "tt27502465"
   },
   {
-    "name": "Super Wings",
-    "type": "series",
-    "imdb_id": "tt3600266"
-  },
-  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
+  },
+  {
+    "name": "Sítio do Picapau Amarelo",
+    "type": "series",
+    "imdb_id": "tt0149528"
   }
 ]
