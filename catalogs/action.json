@@ -5,14 +5,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Doctor Who",
-    "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
     "name": "Strike Back",
     "type": "series",
     "imdb_id": "tt1492179"
+  },
+  {
+    "name": "Doctor Who",
+    "type": "series",
+    "imdb_id": "tt0436992"
   },
   {
     "name": "Pokémon",
@@ -20,14 +20,19 @@
     "imdb_id": "tt0168366"
   },
   {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
+  },
+  {
     "name": "Agent Hamilton",
     "type": "series",
     "imdb_id": "tt5534588"
   },
   {
-    "name": "Wakfu",
+    "name": "Person of Interest",
     "type": "series",
-    "imdb_id": "tt1807824"
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Magnum P.I.",
@@ -35,9 +40,9 @@
     "imdb_id": "tt7942796"
   },
   {
-    "name": "Star vs. the Forces of Evil",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt2758770"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "Lucha Underground",
@@ -45,14 +50,9 @@
     "imdb_id": "tt4171176"
   },
   {
-    "name": "The 100",
+    "name": "Star vs. the Forces of Evil",
     "type": "series",
-    "imdb_id": "tt2661044"
-  },
-  {
-    "name": "One Piece",
-    "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt2758770"
   },
   {
     "name": "Airwolf",
@@ -60,14 +60,9 @@
     "imdb_id": "tt0086662"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "The 100",
     "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
-    "name": "Person of Interest",
-    "type": "series",
-    "imdb_id": "tt1839578"
+    "imdb_id": "tt2661044"
   },
   {
     "name": "Doraemon",
@@ -78,6 +73,16 @@
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
+    "name": "UFO",
+    "type": "series",
+    "imdb_id": "tt0063962"
   },
   {
     "name": "Kamen Rider",
@@ -93,10 +98,5 @@
     "name": "Game of Thrones",
     "type": "series",
     "imdb_id": "tt0944947"
-  },
-  {
-    "name": "C.I.D.",
-    "type": "series",
-    "imdb_id": "tt0401916"
   }
 ]

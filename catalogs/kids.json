@@ -10,24 +10,19 @@
     "imdb_id": "tt4083422"
   },
   {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
     "type": "series",
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Cococinel",
-    "type": "series",
-    "imdb_id": "tt0891373"
-  },
-  {
     "name": "Sesame Street",
     "type": "series",
     "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
   },
   {
     "name": "Ninja Boy Rantaro",
@@ -40,14 +35,14 @@
     "imdb_id": "tt0294196"
   },
   {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
+  },
+  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
-  },
-  {
-    "name": "Peppa Pig",
-    "type": "series",
-    "imdb_id": "tt0426769"
   },
   {
     "name": "Doraemon",
@@ -55,19 +50,24 @@
     "imdb_id": "tt0069576"
   },
   {
+    "name": "Peppa Pig",
+    "type": "series",
+    "imdb_id": "tt0426769"
+  },
+  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
   },
   {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
-  },
-  {
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "My Little Pony: Friendship Is Magic",
+    "type": "series",
+    "imdb_id": "tt1751105"
   },
   {
     "name": "The Loud House",
@@ -80,14 +80,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "GG Bond",
+    "name": "Sítio do Picapau Amarelo",
     "type": "series",
-    "imdb_id": "tt24191416"
-  },
-  {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt0149528"
   },
   {
     "name": "New Looney Tunes",
@@ -95,8 +90,13 @@
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt0149528"
+    "imdb_id": "tt0404597"
+  },
+  {
+    "name": "GG Bond",
+    "type": "series",
+    "imdb_id": "tt24191416"
   }
 ]

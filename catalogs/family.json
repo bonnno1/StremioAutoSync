@@ -45,14 +45,19 @@
     "imdb_id": "tt0306365"
   },
   {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
     "name": "Sítio do Picapau Amarelo",
     "type": "series",
     "imdb_id": "tt0294196"
   },
   {
-    "name": "The Chosen",
+    "name": "Teen Titans Go!",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt2771780"
   },
   {
     "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
@@ -65,24 +70,9 @@
     "imdb_id": "tt0069576"
   },
   {
-    "name": "Teen Titans Go!",
-    "type": "series",
-    "imdb_id": "tt2771780"
-  },
-  {
     "name": "Frasier",
     "type": "series",
     "imdb_id": "tt0106004"
-  },
-  {
-    "name": "Ninjago: Masters of Spinjitzu",
-    "type": "series",
-    "imdb_id": "tt1871731"
-  },
-  {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
   },
   {
     "name": "Inkigayo",
@@ -90,13 +80,23 @@
     "imdb_id": "tt6050846"
   },
   {
-    "name": "Young Sheldon",
+    "name": "Dancing with the Stars",
     "type": "series",
-    "imdb_id": "tt6226232"
+    "imdb_id": "tt0463398"
+  },
+  {
+    "name": "Ninjago: Masters of Spinjitzu",
+    "type": "series",
+    "imdb_id": "tt1871731"
   },
   {
     "name": "Scènes de ménages",
     "type": "series",
     "imdb_id": "tt1533783"
+  },
+  {
+    "name": "Young Sheldon",
+    "type": "series",
+    "imdb_id": "tt6226232"
   }
 ]

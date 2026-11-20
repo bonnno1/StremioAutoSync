@@ -1,13 +1,13 @@
 [
   {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
-  },
-  {
     "name": "The Cat in the Hat",
     "type": "movie",
     "imdb_id": "tt2321555"
+  },
+  {
+    "name": "Coco",
+    "type": "movie",
+    "imdb_id": "tt2380307"
   },
   {
     "name": "Toy Story 5",
@@ -20,29 +20,9 @@
     "imdb_id": "tt36583977"
   },
   {
-    "name": "Coyote vs. Acme",
-    "type": "movie",
-    "imdb_id": "tt1756855"
-  },
-  {
     "name": "Moana",
     "type": "movie",
     "imdb_id": "tt27419466"
-  },
-  {
-    "name": "Spirited Away",
-    "type": "movie",
-    "imdb_id": "tt0245429"
-  },
-  {
-    "name": "Minions & Monsters",
-    "type": "movie",
-    "imdb_id": "tt32890033"
-  },
-  {
-    "name": "The Angry Birds Movie",
-    "type": "movie",
-    "imdb_id": "tt1985949"
   },
   {
     "name": "Hexed",
@@ -50,14 +30,34 @@
     "imdb_id": "tt38077943"
   },
   {
+    "name": "Coyote vs. Acme",
+    "type": "movie",
+    "imdb_id": "tt1756855"
+  },
+  {
+    "name": "The Angry Birds Movie",
+    "type": "movie",
+    "imdb_id": "tt1985949"
+  },
+  {
+    "name": "Minions & Monsters",
+    "type": "movie",
+    "imdb_id": "tt32890033"
+  },
+  {
+    "name": "Spirited Away",
+    "type": "movie",
+    "imdb_id": "tt0245429"
+  },
+  {
+    "name": "Daffy Season",
+    "type": "movie",
+    "imdb_id": "tt41371151"
+  },
+  {
     "name": "Tad and The Magic Lamp",
     "type": "movie",
     "imdb_id": "tt36164852"
-  },
-  {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
   },
   {
     "name": "Sight & Sound Presents: JOSHUA—Live!",
@@ -65,9 +65,9 @@
     "imdb_id": "tt43622757"
   },
   {
-    "name": "Daffy Season",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt41371151"
+    "imdb_id": "tt0327597"
   },
   {
     "name": "The Super Mario Galaxy Movie",
@@ -80,14 +80,14 @@
     "imdb_id": "tt47791876"
   },
   {
-    "name": "The Gospel of Christmas",
-    "type": "movie",
-    "imdb_id": "tt38420997"
-  },
-  {
     "name": "Zootopia 2",
     "type": "movie",
     "imdb_id": "tt26443597"
+  },
+  {
+    "name": "How the Grinch Stole Christmas",
+    "type": "movie",
+    "imdb_id": "tt0170016"
   },
   {
     "name": "Home Alone 2: Lost in New York",
