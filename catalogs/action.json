@@ -1,13 +1,13 @@
 [
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "Strike Back",
     "type": "series",
     "imdb_id": "tt1492179"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Doctor Who",
@@ -20,9 +20,9 @@
     "imdb_id": "tt0168366"
   },
   {
-    "name": "Wakfu",
+    "name": "Person of Interest",
     "type": "series",
-    "imdb_id": "tt1807824"
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Agent Hamilton",
@@ -30,9 +30,24 @@
     "imdb_id": "tt5534588"
   },
   {
-    "name": "Person of Interest",
+    "name": "Baywatch",
     "type": "series",
-    "imdb_id": "tt1839578"
+    "imdb_id": "tt0096542"
+  },
+  {
+    "name": "UFO",
+    "type": "series",
+    "imdb_id": "tt0063962"
+  },
+  {
+    "name": "Wakfu",
+    "type": "series",
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Manimal",
+    "type": "series",
+    "imdb_id": "tt0085051"
   },
   {
     "name": "Magnum P.I.",
@@ -45,14 +60,14 @@
     "imdb_id": "tt0388629"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt4083422"
+  },
+  {
     "name": "Lucha Underground",
     "type": "series",
     "imdb_id": "tt4171176"
-  },
-  {
-    "name": "Star vs. the Forces of Evil",
-    "type": "series",
-    "imdb_id": "tt2758770"
   },
   {
     "name": "Airwolf",
@@ -60,29 +75,19 @@
     "imdb_id": "tt0086662"
   },
   {
-    "name": "The 100",
-    "type": "series",
-    "imdb_id": "tt2661044"
-  },
-  {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt4083422"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
   },
   {
-    "name": "The Last Kingdom",
+    "name": "Star vs. the Forces of Evil",
     "type": "series",
-    "imdb_id": "tt4179452"
+    "imdb_id": "tt2758770"
   },
   {
-    "name": "UFO",
+    "name": "The 100",
     "type": "series",
-    "imdb_id": "tt0063962"
+    "imdb_id": "tt2661044"
   },
   {
     "name": "Kamen Rider",
@@ -93,10 +98,5 @@
     "name": "Reacher",
     "type": "series",
     "imdb_id": "tt9288030"
-  },
-  {
-    "name": "Game of Thrones",
-    "type": "series",
-    "imdb_id": "tt0944947"
   }
 ]

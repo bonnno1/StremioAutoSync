@@ -5,14 +5,14 @@
     "imdb_id": "tt0182576"
   },
   {
+    "name": "Eureka",
+    "type": "series",
+    "imdb_id": "tt0796264"
+  },
+  {
     "name": "Succession",
     "type": "series",
     "imdb_id": "tt7660850"
-  },
-  {
-    "name": "Community",
-    "type": "series",
-    "imdb_id": "tt1439629"
   },
   {
     "name": "How I Met Your Mother",
@@ -20,24 +20,9 @@
     "imdb_id": "tt0460649"
   },
   {
-    "name": "Eureka",
+    "name": "Community",
     "type": "series",
-    "imdb_id": "tt0796264"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
-  },
-  {
-    "name": "What We Do in the Shadows",
-    "type": "series",
-    "imdb_id": "tt7908628"
+    "imdb_id": "tt1439629"
   },
   {
     "name": "Phineas and Ferb",
@@ -45,14 +30,44 @@
     "imdb_id": "tt0852863"
   },
   {
+    "name": "Seinfeld",
+    "type": "series",
+    "imdb_id": "tt0098904"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "type": "series",
+    "imdb_id": "tt7908628"
+  },
+  {
+    "name": "Modern Family",
+    "type": "series",
+    "imdb_id": "tt1442437"
+  },
+  {
     "name": "The Office",
     "type": "series",
     "imdb_id": "tt0386676"
   },
   {
+    "name": "New Girl",
+    "type": "series",
+    "imdb_id": "tt1826940"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Tacoma FD",
+    "type": "series",
+    "imdb_id": "tt8026448"
   },
   {
     "name": "Wakfu",
@@ -65,21 +80,6 @@
     "imdb_id": "tt0247102"
   },
   {
-    "name": "Two and a Half Men",
-    "type": "series",
-    "imdb_id": "tt0369179"
-  },
-  {
-    "name": "Arthur",
-    "type": "series",
-    "imdb_id": "tt0169414"
-  },
-  {
-    "name": "New Girl",
-    "type": "series",
-    "imdb_id": "tt1826940"
-  },
-  {
     "name": "Watch What Happens Live with Andy Cohen",
     "type": "series",
     "imdb_id": "tt2057880"
@@ -90,13 +90,13 @@
     "imdb_id": "tt3444938"
   },
   {
+    "name": "Arthur",
+    "type": "series",
+    "imdb_id": "tt0169414"
+  },
+  {
     "name": "One Piece",
     "type": "series",
     "imdb_id": "tt0388629"
-  },
-  {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
   }
 ]

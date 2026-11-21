@@ -15,16 +15,6 @@
     "imdb_id": "tt2580046"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
-  },
-  {
     "name": "Ninja Boy Rantaro",
     "type": "series",
     "imdb_id": "tt0306365"
@@ -35,9 +25,14 @@
     "imdb_id": "tt0294196"
   },
   {
-    "name": "Cococinel",
+    "name": "Sesame Street",
     "type": "series",
-    "imdb_id": "tt0891373"
+    "imdb_id": "tt0063951"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
   },
   {
     "name": "PAW Patrol",
@@ -55,6 +50,11 @@
     "imdb_id": "tt0426769"
   },
   {
+    "name": "Cococinel",
+    "type": "series",
+    "imdb_id": "tt0891373"
+  },
+  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
@@ -63,6 +63,11 @@
     "name": "Rugrats",
     "type": "series",
     "imdb_id": "tt0101188"
+  },
+  {
+    "name": "Duel Masters",
+    "type": "series",
+    "imdb_id": "tt0404597"
   },
   {
     "name": "My Little Pony: Friendship Is Magic",
@@ -80,23 +85,18 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
-    "type": "series",
-    "imdb_id": "tt0149528"
-  },
-  {
     "name": "New Looney Tunes",
     "type": "series",
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Duel Masters",
+    "name": "Sítio do Picapau Amarelo",
     "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt0149528"
   },
   {
-    "name": "GG Bond",
+    "name": "Thomas & Friends",
     "type": "series",
-    "imdb_id": "tt24191416"
+    "imdb_id": "tt0086815"
   }
 ]

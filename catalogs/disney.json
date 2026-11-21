@@ -15,14 +15,19 @@
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Rivals",
+    "name": "Percy Jackson and the Olympians",
     "type": "series",
-    "imdb_id": "tt21906238"
+    "imdb_id": "tt12324366"
   },
   {
     "name": "Star Wars: The Clone Wars",
     "type": "series",
     "imdb_id": "tt0458290"
+  },
+  {
+    "name": "Rivals",
+    "type": "series",
+    "imdb_id": "tt21906238"
   },
   {
     "name": "Loki",
@@ -33,11 +38,6 @@
     "name": "The Mandalorian",
     "type": "series",
     "imdb_id": "tt8111088"
-  },
-  {
-    "name": "Percy Jackson and the Olympians",
-    "type": "series",
-    "imdb_id": "tt12324366"
   },
   {
     "name": "Daredevil: Born Again",
@@ -65,6 +65,11 @@
     "imdb_id": "tt15571732"
   },
   {
+    "name": "Star Wars: The Bad Batch",
+    "type": "series",
+    "imdb_id": "tt12708542"
+  },
+  {
     "name": "X-Men '97",
     "type": "series",
     "imdb_id": "tt16026746"
@@ -75,23 +80,18 @@
     "imdb_id": "tt33056946"
   },
   {
-    "name": "Vienna Game",
-    "type": "series",
-    "imdb_id": "tt31844371"
-  },
-  {
-    "name": "Star Wars: The Bad Batch",
-    "type": "series",
-    "imdb_id": "tt12708542"
-  },
-  {
-    "name": "Hawkeye",
-    "type": "series",
-    "imdb_id": "tt10160804"
-  },
-  {
     "name": "Moon Knight",
     "type": "series",
     "imdb_id": "tt10234724"
+  },
+  {
+    "name": "Star Wars: Visions",
+    "type": "series",
+    "imdb_id": "tt13622982"
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "type": "series",
+    "imdb_id": "tt9208876"
   }
 ]
