@@ -1,10 +1,5 @@
 [
   {
-    "name": "American Horror Story",
-    "type": "series",
-    "imdb_id": "tt1844624"
-  },
-  {
     "name": "Family Guy",
     "type": "series",
     "imdb_id": "tt0182576"
@@ -15,69 +10,14 @@
     "imdb_id": "tt0460681"
   },
   {
-    "name": "The Mentalist",
-    "type": "series",
-    "imdb_id": "tt1196946"
-  },
-  {
     "name": "Strike Back",
     "type": "series",
     "imdb_id": "tt1492179"
   },
   {
-    "name": "The Lord of the Rings: The Rings of Power",
+    "name": "American Horror Story",
     "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
-    "name": "Eureka",
-    "type": "series",
-    "imdb_id": "tt0796264"
-  },
-  {
-    "name": "The Flash",
-    "type": "series",
-    "imdb_id": "tt3107288"
-  },
-  {
-    "name": "Succession",
-    "type": "series",
-    "imdb_id": "tt7660850"
-  },
-  {
-    "name": "The Voice",
-    "type": "series",
-    "imdb_id": "tt1839337"
-  },
-  {
-    "name": "How I Met Your Mother",
-    "type": "series",
-    "imdb_id": "tt0460649"
-  },
-  {
-    "name": "Community",
-    "type": "series",
-    "imdb_id": "tt1439629"
-  },
-  {
-    "name": "Phineas and Ferb",
-    "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "Seinfeld",
-    "type": "series",
-    "imdb_id": "tt0098904"
-  },
-  {
-    "name": "What We Do in the Shadows",
-    "type": "series",
-    "imdb_id": "tt7908628"
-  },
-  {
-    "name": "Modern Family",
-    "type": "series",
-    "imdb_id": "tt1442437"
+    "imdb_id": "tt1844624"
   },
   {
     "name": "Black Mirror",
@@ -85,18 +25,78 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "Eureka",
+    "type": "series",
+    "imdb_id": "tt0796264"
+  },
+  {
+    "name": "Succession",
+    "type": "series",
+    "imdb_id": "tt7660850"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "type": "series",
+    "imdb_id": "tt7631058"
+  },
+  {
+    "name": "Community",
+    "type": "series",
+    "imdb_id": "tt1439629"
+  },
+  {
+    "name": "Shetland",
+    "type": "series",
+    "imdb_id": "tt2396135"
+  },
+  {
+    "name": "Banshee",
+    "type": "series",
+    "imdb_id": "tt2017109"
+  },
+  {
+    "name": "The Flash",
+    "type": "series",
+    "imdb_id": "tt3107288"
+  },
+  {
+    "name": "The Voice",
+    "type": "series",
+    "imdb_id": "tt1839337"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "type": "series",
+    "imdb_id": "tt7908628"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "type": "series",
+    "imdb_id": "tt0460649"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
+    "name": "Boundless Love",
+    "type": "series",
+    "imdb_id": "tt29258720"
+  },
+  {
     "name": "Law & Order: Special Victims Unit",
     "type": "series",
     "imdb_id": "tt0203259"
   },
   {
-    "name": "Doctor Who",
+    "name": "Seinfeld",
     "type": "series",
-    "imdb_id": "tt0436992"
-  },
-  {
-    "name": "Slow Horses",
-    "type": "series",
-    "imdb_id": "tt5875444"
+    "imdb_id": "tt0098904"
   }
 ]

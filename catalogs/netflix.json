@@ -20,19 +20,9 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
   },
   {
     "name": "Orange Is the New Black",
@@ -45,9 +35,9 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "MINDHUNTER",
+    "name": "The Crown",
     "type": "series",
-    "imdb_id": "tt5290382"
+    "imdb_id": "tt4786824"
   },
   {
     "name": "JoJo's Bizarre Adventure",
@@ -55,14 +45,19 @@
     "imdb_id": "tt2359704"
   },
   {
+    "name": "MINDHUNTER",
+    "type": "series",
+    "imdb_id": "tt5290382"
+  },
+  {
+    "name": "The Last Kingdom",
+    "type": "series",
+    "imdb_id": "tt4179452"
+  },
+  {
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Innocent",
-    "type": "series",
-    "imdb_id": "tt10147644"
   },
   {
     "name": "The Loud House",
@@ -70,14 +65,14 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "Lupin",
-    "type": "series",
-    "imdb_id": "tt2531336"
-  },
-  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
+  },
+  {
+    "name": "Lupin",
+    "type": "series",
+    "imdb_id": "tt2531336"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -85,18 +80,23 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
+    "name": "The Blue Road",
     "type": "series",
-    "imdb_id": "tt27502465"
+    "imdb_id": "tt38336631"
   },
   {
-    "name": "Dead-End Job",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt36458668"
+    "imdb_id": "tt10919420"
   },
   {
     "name": "La promesa",
     "type": "series",
     "imdb_id": "tt22325164"
+  },
+  {
+    "name": "Dead-End Job",
+    "type": "series",
+    "imdb_id": "tt36458668"
   }
 ]

@@ -10,14 +10,14 @@
     "imdb_id": "tt23112594"
   },
   {
-    "name": "Dancing with the Stars",
-    "type": "series",
-    "imdb_id": "tt0463398"
-  },
-  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
+  },
+  {
+    "name": "Dancing with the Stars",
+    "type": "series",
+    "imdb_id": "tt0463398"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -60,11 +60,6 @@
     "imdb_id": "tt9140560"
   },
   {
-    "name": "Agatha All Along",
-    "type": "series",
-    "imdb_id": "tt15571732"
-  },
-  {
     "name": "Star Wars: The Bad Batch",
     "type": "series",
     "imdb_id": "tt12708542"
@@ -75,19 +70,24 @@
     "imdb_id": "tt16026746"
   },
   {
+    "name": "Agatha All Along",
+    "type": "series",
+    "imdb_id": "tt15571732"
+  },
+  {
     "name": "The Enchanted Cave",
     "type": "series",
     "imdb_id": "tt33056946"
   },
   {
-    "name": "Moon Knight",
-    "type": "series",
-    "imdb_id": "tt10234724"
-  },
-  {
     "name": "Star Wars: Visions",
     "type": "series",
     "imdb_id": "tt13622982"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "The Falcon and the Winter Soldier",

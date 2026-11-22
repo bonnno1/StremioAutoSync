@@ -1,13 +1,13 @@
 [
   {
+    "name": "Steps",
+    "type": "movie",
+    "imdb_id": "tt14413964"
+  },
+  {
     "name": "Toy Story 5",
     "type": "movie",
     "imdb_id": "tt29355505"
-  },
-  {
-    "name": "Coco",
-    "type": "movie",
-    "imdb_id": "tt2380307"
   },
   {
     "name": "Forgotten Island",
@@ -15,9 +15,9 @@
     "imdb_id": "tt36583977"
   },
   {
-    "name": "The Cat in the Hat",
+    "name": "Coco",
     "type": "movie",
-    "imdb_id": "tt2321555"
+    "imdb_id": "tt2380307"
   },
   {
     "name": "Coyote vs. Acme",
@@ -30,9 +30,14 @@
     "imdb_id": "tt27419466"
   },
   {
-    "name": "Steps",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt14413964"
+    "imdb_id": "tt0327597"
+  },
+  {
+    "name": "The Cat in the Hat",
+    "type": "movie",
+    "imdb_id": "tt2321555"
   },
   {
     "name": "Minions & Monsters",
@@ -50,19 +55,9 @@
     "imdb_id": "tt38077943"
   },
   {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
     "name": "Tad and The Magic Lamp",
     "type": "movie",
     "imdb_id": "tt36164852"
-  },
-  {
-    "name": "The Angry Birds Movie",
-    "type": "movie",
-    "imdb_id": "tt1985949"
   },
   {
     "name": "The Super Mario Galaxy Movie",
@@ -70,14 +65,14 @@
     "imdb_id": "tt28650488"
   },
   {
-    "name": "Snoopy Presents: 12 Days of Snoopy",
-    "type": "movie",
-    "imdb_id": "tt47791876"
-  },
-  {
     "name": "Home Alone 2: Lost in New York",
     "type": "movie",
     "imdb_id": "tt0104431"
+  },
+  {
+    "name": "Snoopy Presents: 12 Days of Snoopy",
+    "type": "movie",
+    "imdb_id": "tt47791876"
   },
   {
     "name": "Zootopia 2",
@@ -90,9 +85,14 @@
     "imdb_id": "tt0170016"
   },
   {
-    "name": "Daffy Season",
+    "name": "The Angry Birds Movie",
     "type": "movie",
-    "imdb_id": "tt41371151"
+    "imdb_id": "tt1985949"
+  },
+  {
+    "name": "Hoppers",
+    "type": "movie",
+    "imdb_id": "tt26443616"
   },
   {
     "name": "Oscar: Return of the Mammoth",

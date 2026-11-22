@@ -1,8 +1,23 @@
 [
   {
-    "name": "Detective Conan",
+    "name": "The Simpsons",
     "type": "series",
-    "imdb_id": "tt0131179"
+    "imdb_id": "tt0096697"
+  },
+  {
+    "name": "Running Man",
+    "type": "series",
+    "imdb_id": "tt2185037"
+  },
+  {
+    "name": "Chibi Maruko-chan",
+    "type": "series",
+    "imdb_id": "tt0220204"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "type": "series",
+    "imdb_id": "tt2580046"
   },
   {
     "name": "Match of the Day",
@@ -10,9 +25,19 @@
     "imdb_id": "tt0135733"
   },
   {
-    "name": "Men on a Mission",
+    "name": "Scene of the Crime",
     "type": "series",
-    "imdb_id": "tt5247622"
+    "imdb_id": "tt0806910"
+  },
+  {
+    "name": "The Chosen",
+    "type": "series",
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "My Little Old Boy",
+    "type": "series",
+    "imdb_id": "tt33336849"
   },
   {
     "name": "Hello Saturday",
@@ -20,19 +45,39 @@
     "imdb_id": "tt30985733"
   },
   {
-    "name": "Show! Music Core",
+    "name": "2 Days and 1 Night",
     "type": "series",
-    "imdb_id": "tt2375022"
+    "imdb_id": "tt3247300"
   },
   {
-    "name": "Jornal Nacional",
+    "name": "Dexter: Resurrection",
     "type": "series",
-    "imdb_id": "tt0466513"
+    "imdb_id": "tt33043892"
   },
   {
-    "name": "How Do You Play?",
+    "name": "CBS News Sunday Morning",
     "type": "series",
-    "imdb_id": "tt15334046"
+    "imdb_id": "tt0165001"
+  },
+  {
+    "name": "60 Minutes",
+    "type": "series",
+    "imdb_id": "tt0123338"
+  },
+  {
+    "name": "Dragon Ball Super: Beerus",
+    "type": "series",
+    "imdb_id": "tt39395275"
+  },
+  {
+    "name": "Marshals",
+    "type": "series",
+    "imdb_id": "tt36849871"
+  },
+  {
+    "name": "Tracker",
+    "type": "series",
+    "imdb_id": "tt13875494"
   },
   {
     "name": "Pinoy Big Brother",
@@ -40,63 +85,18 @@
     "imdb_id": "tt0479336"
   },
   {
-    "name": "World Wonder Ring Stardom",
+    "name": "Meet the Press",
     "type": "series",
-    "imdb_id": "tt7993852"
+    "imdb_id": "tt0149490"
   },
   {
-    "name": "The Manager",
+    "name": "The God of War Dominates",
     "type": "series",
-    "imdb_id": "tt15340934"
+    "imdb_id": "tt20769560"
   },
   {
-    "name": "Tokyo Revengers",
+    "name": "TV Animal Farm",
     "type": "series",
-    "imdb_id": "tt13196080"
-  },
-  {
-    "name": "Strictly Come Dancing",
-    "type": "series",
-    "imdb_id": "tt0411027"
-  },
-  {
-    "name": "Pushpa Impossible",
-    "type": "series",
-    "imdb_id": "tt20872936"
-  },
-  {
-    "name": "A Record of a Mortal's Journey to Immortality",
-    "type": "series",
-    "imdb_id": "tt12879782"
-  },
-  {
-    "name": "Black Clover",
-    "type": "series",
-    "imdb_id": "tt7441658"
-  },
-  {
-    "name": "Anupamaa",
-    "type": "series",
-    "imdb_id": "tt11867666"
-  },
-  {
-    "name": "Sinterklaasjournaal",
-    "type": "series",
-    "imdb_id": "tt0445070"
-  },
-  {
-    "name": "Natural High",
-    "type": "series",
-    "imdb_id": "tt30461072"
-  },
-  {
-    "name": "TMZ",
-    "type": "series",
-    "imdb_id": "tt1095213"
-  },
-  {
-    "name": "A Fazenda",
-    "type": "series",
-    "imdb_id": "tt1842561"
+    "imdb_id": "tt25605188"
   }
 ]
