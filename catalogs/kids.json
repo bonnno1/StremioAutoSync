@@ -30,24 +30,19 @@
     "imdb_id": "tt0063951"
   },
   {
-    "name": "Doraemon",
-    "type": "series",
-    "imdb_id": "tt0069576"
-  },
-  {
     "name": "PAW Patrol",
     "type": "series",
     "imdb_id": "tt3121722"
   },
   {
+    "name": "Doraemon",
+    "type": "series",
+    "imdb_id": "tt0069576"
+  },
+  {
     "name": "Peppa Pig",
     "type": "series",
     "imdb_id": "tt0426769"
-  },
-  {
-    "name": "Elena of Avalor",
-    "type": "series",
-    "imdb_id": "tt4549142"
   },
   {
     "name": "Ninjago: Masters of Spinjitzu",
@@ -60,14 +55,9 @@
     "imdb_id": "tt0101188"
   },
   {
-    "name": "Cococinel",
+    "name": "My Little Pony: Friendship Is Magic",
     "type": "series",
-    "imdb_id": "tt0891373"
-  },
-  {
-    "name": "Duel Masters",
-    "type": "series",
-    "imdb_id": "tt0404597"
+    "imdb_id": "tt1751105"
   },
   {
     "name": "The Fairly OddParents",
@@ -75,14 +65,9 @@
     "imdb_id": "tt0235918"
   },
   {
-    "name": "The Loud House",
+    "name": "Duel Masters",
     "type": "series",
-    "imdb_id": "tt4859164"
-  },
-  {
-    "name": "My Little Pony: Friendship Is Magic",
-    "type": "series",
-    "imdb_id": "tt1751105"
+    "imdb_id": "tt0404597"
   },
   {
     "name": "New Looney Tunes",
@@ -90,8 +75,23 @@
     "imdb_id": "tt4558858"
   },
   {
-    "name": "Sítio do Picapau Amarelo",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt0149528"
+    "imdb_id": "tt4859164"
+  },
+  {
+    "name": "Elena of Avalor",
+    "type": "series",
+    "imdb_id": "tt4549142"
+  },
+  {
+    "name": "Xou da Xuxa",
+    "type": "series",
+    "imdb_id": "tt0294228"
+  },
+  {
+    "name": "Pokémon Horizons",
+    "type": "series",
+    "imdb_id": "tt26692417"
   }
 ]

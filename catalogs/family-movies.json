@@ -15,9 +15,9 @@
     "imdb_id": "tt36583977"
   },
   {
-    "name": "Coco",
+    "name": "Coraline",
     "type": "movie",
-    "imdb_id": "tt2380307"
+    "imdb_id": "tt0327597"
   },
   {
     "name": "Coyote vs. Acme",
@@ -30,9 +30,9 @@
     "imdb_id": "tt27419466"
   },
   {
-    "name": "Coraline",
+    "name": "Coco",
     "type": "movie",
-    "imdb_id": "tt0327597"
+    "imdb_id": "tt2380307"
   },
   {
     "name": "The Cat in the Hat",
@@ -55,11 +55,6 @@
     "imdb_id": "tt38077943"
   },
   {
-    "name": "Tad and The Magic Lamp",
-    "type": "movie",
-    "imdb_id": "tt36164852"
-  },
-  {
     "name": "The Super Mario Galaxy Movie",
     "type": "movie",
     "imdb_id": "tt28650488"
@@ -70,14 +65,9 @@
     "imdb_id": "tt0104431"
   },
   {
-    "name": "Snoopy Presents: 12 Days of Snoopy",
+    "name": "Tad and The Magic Lamp",
     "type": "movie",
-    "imdb_id": "tt47791876"
-  },
-  {
-    "name": "Zootopia 2",
-    "type": "movie",
-    "imdb_id": "tt26443597"
+    "imdb_id": "tt36164852"
   },
   {
     "name": "How the Grinch Stole Christmas",
@@ -85,18 +75,28 @@
     "imdb_id": "tt0170016"
   },
   {
-    "name": "The Angry Birds Movie",
+    "name": "Zootopia 2",
     "type": "movie",
-    "imdb_id": "tt1985949"
+    "imdb_id": "tt26443597"
   },
   {
-    "name": "Hoppers",
+    "name": "Snoopy Presents: 12 Days of Snoopy",
     "type": "movie",
-    "imdb_id": "tt26443616"
+    "imdb_id": "tt47791876"
+  },
+  {
+    "name": "Home Alone",
+    "type": "movie",
+    "imdb_id": "tt0099785"
   },
   {
     "name": "Oscar: Return of the Mammoth",
     "type": "movie",
     "imdb_id": "tt34740835"
+  },
+  {
+    "name": "Hoppers",
+    "type": "movie",
+    "imdb_id": "tt26443616"
   }
 ]
