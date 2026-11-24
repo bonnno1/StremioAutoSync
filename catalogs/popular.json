@@ -10,26 +10,6 @@
     "imdb_id": "tt2396135"
   },
   {
-    "name": "Banshee",
-    "type": "series",
-    "imdb_id": "tt2017109"
-  },
-  {
-    "name": "Family Guy",
-    "type": "series",
-    "imdb_id": "tt0182576"
-  },
-  {
-    "name": "Strike Back",
-    "type": "series",
-    "imdb_id": "tt1492179"
-  },
-  {
-    "name": "Supernatural",
-    "type": "series",
-    "imdb_id": "tt0460681"
-  },
-  {
     "name": "Slow Horses",
     "type": "series",
     "imdb_id": "tt5875444"
@@ -40,24 +20,29 @@
     "imdb_id": "tt1826940"
   },
   {
-    "name": "Eureka",
-    "type": "series",
-    "imdb_id": "tt0796264"
-  },
-  {
     "name": "The Wire",
     "type": "series",
     "imdb_id": "tt0306414"
   },
   {
-    "name": "American Horror Story",
+    "name": "Strike Back",
     "type": "series",
-    "imdb_id": "tt1844624"
+    "imdb_id": "tt1492179"
   },
   {
-    "name": "The Mentalist",
+    "name": "Eureka",
     "type": "series",
-    "imdb_id": "tt1196946"
+    "imdb_id": "tt0796264"
+  },
+  {
+    "name": "Supernatural",
+    "type": "series",
+    "imdb_id": "tt0460681"
+  },
+  {
+    "name": "Family Guy",
+    "type": "series",
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Succession",
@@ -65,9 +50,29 @@
     "imdb_id": "tt7660850"
   },
   {
+    "name": "Banshee",
+    "type": "series",
+    "imdb_id": "tt2017109"
+  },
+  {
+    "name": "The Mentalist",
+    "type": "series",
+    "imdb_id": "tt1196946"
+  },
+  {
+    "name": "American Horror Story",
+    "type": "series",
+    "imdb_id": "tt1844624"
+  },
+  {
     "name": "Community",
     "type": "series",
     "imdb_id": "tt1439629"
+  },
+  {
+    "name": "Two and a Half Men",
+    "type": "series",
+    "imdb_id": "tt0369179"
   },
   {
     "name": "The Lord of the Rings: The Rings of Power",
@@ -75,14 +80,14 @@
     "imdb_id": "tt7631058"
   },
   {
+    "name": "Phineas and Ferb",
+    "type": "series",
+    "imdb_id": "tt0852863"
+  },
+  {
     "name": "The Flash",
     "type": "series",
     "imdb_id": "tt3107288"
-  },
-  {
-    "name": "Tacoma FD",
-    "type": "series",
-    "imdb_id": "tt8026448"
   },
   {
     "name": "What We Do in the Shadows",
@@ -90,13 +95,8 @@
     "imdb_id": "tt7908628"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "Law & Order: Special Victims Unit",
     "type": "series",
-    "imdb_id": "tt0852863"
-  },
-  {
-    "name": "The Voice",
-    "type": "series",
-    "imdb_id": "tt1839337"
+    "imdb_id": "tt0203259"
   }
 ]

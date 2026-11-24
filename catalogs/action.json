@@ -10,14 +10,14 @@
     "imdb_id": "tt7631058"
   },
   {
-    "name": "Person of Interest",
-    "type": "series",
-    "imdb_id": "tt1839578"
-  },
-  {
     "name": "Doctor Who",
     "type": "series",
     "imdb_id": "tt0436992"
+  },
+  {
+    "name": "Person of Interest",
+    "type": "series",
+    "imdb_id": "tt1839578"
   },
   {
     "name": "Baywatch",
@@ -55,16 +55,6 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "Wakfu",
-    "type": "series",
-    "imdb_id": "tt1807824"
-  },
-  {
-    "name": "Magnum P.I.",
-    "type": "series",
-    "imdb_id": "tt7942796"
-  },
-  {
     "name": "NCIS",
     "type": "series",
     "imdb_id": "tt0364845"
@@ -75,9 +65,14 @@
     "imdb_id": "tt0156214"
   },
   {
-    "name": "Reacher",
+    "name": "The Legend of Korra",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt1695360"
+  },
+  {
+    "name": "Magnum P.I.",
+    "type": "series",
+    "imdb_id": "tt7942796"
   },
   {
     "name": "Game of Thrones",
@@ -85,9 +80,9 @@
     "imdb_id": "tt0944947"
   },
   {
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "name": "Reacher",
     "type": "series",
-    "imdb_id": "tt2580046"
+    "imdb_id": "tt9288030"
   },
   {
     "name": "C.I.D.",
@@ -95,8 +90,13 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "Teen Titans Go!",
+    "name": "Wakfu",
     "type": "series",
-    "imdb_id": "tt2771780"
+    "imdb_id": "tt1807824"
+  },
+  {
+    "name": "Ninja Boy Rantaro",
+    "type": "series",
+    "imdb_id": "tt0306365"
   }
 ]

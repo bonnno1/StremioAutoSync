@@ -1,10 +1,5 @@
 [
   {
-    "name": "Dexter: Resurrection",
-    "type": "series",
-    "imdb_id": "tt33043892"
-  },
-  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -15,19 +10,14 @@
     "imdb_id": "tt31510819"
   },
   {
-    "name": "The Blue Road",
-    "type": "series",
-    "imdb_id": "tt38336631"
-  },
-  {
     "name": "The Body",
     "type": "series",
     "imdb_id": "tt8014982"
   },
   {
-    "name": "VisionQuest",
+    "name": "The Blue Road",
     "type": "series",
-    "imdb_id": "tt23112594"
+    "imdb_id": "tt38336631"
   },
   {
     "name": "Percy Jackson and the Olympians",
@@ -35,29 +25,29 @@
     "imdb_id": "tt12324366"
   },
   {
+    "name": "VisionQuest",
+    "type": "series",
+    "imdb_id": "tt23112594"
+  },
+  {
+    "name": "DIG",
+    "type": "series",
+    "imdb_id": "tt36843594"
+  },
+  {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
     "name": "Yellowjackets",
     "type": "series",
     "imdb_id": "tt11041332"
   },
   {
-    "name": "The Altruists",
+    "name": "Love in Disguise",
     "type": "series",
-    "imdb_id": "tt36786185"
-  },
-  {
-    "name": "The Law of Beasts",
-    "type": "series",
-    "imdb_id": "tt44079238"
-  },
-  {
-    "name": "Natural High",
-    "type": "series",
-    "imdb_id": "tt30461072"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt45246384"
   },
   {
     "name": "The Remarried Empress",
@@ -65,19 +55,14 @@
     "imdb_id": "tt39325975"
   },
   {
-    "name": "The Chosen",
+    "name": "The Altruists",
     "type": "series",
-    "imdb_id": "tt5622316"
+    "imdb_id": "tt36786185"
   },
   {
-    "name": "100 Days of Deception",
+    "name": "One Piece",
     "type": "series",
-    "imdb_id": "tt39201866"
-  },
-  {
-    "name": "Lupin",
-    "type": "series",
-    "imdb_id": "tt2531336"
+    "imdb_id": "tt0388629"
   },
   {
     "name": "12 12 12",
@@ -85,18 +70,33 @@
     "imdb_id": "tt32375763"
   },
   {
-    "name": "Nocturne",
+    "name": "Blade Runner 2099",
     "type": "series",
-    "imdb_id": "tt26598805"
+    "imdb_id": "tt18224594"
   },
   {
-    "name": "Ted Lasso",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt10986410"
+    "imdb_id": "tt5622316"
   },
   {
-    "name": "One Piece",
+    "name": "The Law of Beasts",
     "type": "series",
-    "imdb_id": "tt0388629"
+    "imdb_id": "tt44079238"
+  },
+  {
+    "name": "Lupin",
+    "type": "series",
+    "imdb_id": "tt2531336"
+  },
+  {
+    "name": "Tulsa King",
+    "type": "series",
+    "imdb_id": "tt16358384"
+  },
+  {
+    "name": "South Park",
+    "type": "series",
+    "imdb_id": "tt0121955"
   }
 ]

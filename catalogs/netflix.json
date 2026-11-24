@@ -5,14 +5,19 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "The Crown",
+    "type": "series",
+    "imdb_id": "tt4786824"
+  },
+  {
+    "name": "Ozark",
+    "type": "series",
+    "imdb_id": "tt5071412"
+  },
+  {
     "name": "Raw",
     "type": "series",
     "imdb_id": "tt0185103"
-  },
-  {
-    "name": "The Body",
-    "type": "series",
-    "imdb_id": "tt8014982"
   },
   {
     "name": "C.I.D.",
@@ -20,9 +25,19 @@
     "imdb_id": "tt0401916"
   },
   {
+    "name": "MINDHUNTER",
+    "type": "series",
+    "imdb_id": "tt5290382"
+  },
+  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
+  },
+  {
+    "name": "The Body",
+    "type": "series",
+    "imdb_id": "tt8014982"
   },
   {
     "name": "Sesame Street",
@@ -45,19 +60,14 @@
     "imdb_id": "tt4574334"
   },
   {
+    "name": "The Order",
+    "type": "series",
+    "imdb_id": "tt8295472"
+  },
+  {
     "name": "Lucifer",
     "type": "series",
     "imdb_id": "tt4052886"
-  },
-  {
-    "name": "The Crown",
-    "type": "series",
-    "imdb_id": "tt4786824"
-  },
-  {
-    "name": "The Loud House",
-    "type": "series",
-    "imdb_id": "tt4859164"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -65,9 +75,14 @@
     "imdb_id": "tt0458290"
   },
   {
-    "name": "MINDHUNTER",
+    "name": "The Loud House",
     "type": "series",
-    "imdb_id": "tt5290382"
+    "imdb_id": "tt4859164"
+  },
+  {
+    "name": "LEGO Ninjago: Dragons Rising",
+    "type": "series",
+    "imdb_id": "tt27502465"
   },
   {
     "name": "Lupin",
@@ -80,23 +95,8 @@
     "imdb_id": "tt38336631"
   },
   {
-    "name": "The Last Kingdom",
-    "type": "series",
-    "imdb_id": "tt4179452"
-  },
-  {
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
-  },
-  {
-    "name": "Squid Game",
-    "type": "series",
-    "imdb_id": "tt10919420"
-  },
-  {
-    "name": "Dead-End Job",
-    "type": "series",
-    "imdb_id": "tt36458668"
   }
 ]
