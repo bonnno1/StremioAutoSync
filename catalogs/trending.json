@@ -1,5 +1,10 @@
 [
   {
+    "name": "Blade Runner 2099",
+    "type": "series",
+    "imdb_id": "tt18224594"
+  },
+  {
     "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
     "imdb_id": "tt7631058"
@@ -8,6 +13,11 @@
     "name": "MobLand",
     "type": "series",
     "imdb_id": "tt31510819"
+  },
+  {
+    "name": "The Remarried Empress",
+    "type": "series",
+    "imdb_id": "tt39325975"
   },
   {
     "name": "The Body",
@@ -20,6 +30,11 @@
     "imdb_id": "tt38336631"
   },
   {
+    "name": "Dexter: Resurrection",
+    "type": "series",
+    "imdb_id": "tt33043892"
+  },
+  {
     "name": "Percy Jackson and the Olympians",
     "type": "series",
     "imdb_id": "tt12324366"
@@ -30,14 +45,19 @@
     "imdb_id": "tt23112594"
   },
   {
+    "name": "12 12 12",
+    "type": "series",
+    "imdb_id": "tt32375763"
+  },
+  {
     "name": "DIG",
     "type": "series",
     "imdb_id": "tt36843594"
   },
   {
-    "name": "Dexter: Resurrection",
+    "name": "Nocturne",
     "type": "series",
-    "imdb_id": "tt33043892"
+    "imdb_id": "tt26598805"
   },
   {
     "name": "Yellowjackets",
@@ -50,14 +70,9 @@
     "imdb_id": "tt45246384"
   },
   {
-    "name": "The Remarried Empress",
+    "name": "Tulsa King",
     "type": "series",
-    "imdb_id": "tt39325975"
-  },
-  {
-    "name": "The Altruists",
-    "type": "series",
-    "imdb_id": "tt36786185"
+    "imdb_id": "tt16358384"
   },
   {
     "name": "One Piece",
@@ -65,24 +80,9 @@
     "imdb_id": "tt0388629"
   },
   {
-    "name": "12 12 12",
+    "name": "The Altruists",
     "type": "series",
-    "imdb_id": "tt32375763"
-  },
-  {
-    "name": "Blade Runner 2099",
-    "type": "series",
-    "imdb_id": "tt18224594"
-  },
-  {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
-    "name": "The Law of Beasts",
-    "type": "series",
-    "imdb_id": "tt44079238"
+    "imdb_id": "tt36786185"
   },
   {
     "name": "Lupin",
@@ -90,13 +90,8 @@
     "imdb_id": "tt2531336"
   },
   {
-    "name": "Tulsa King",
+    "name": "Tracker",
     "type": "series",
-    "imdb_id": "tt16358384"
-  },
-  {
-    "name": "South Park",
-    "type": "series",
-    "imdb_id": "tt0121955"
+    "imdb_id": "tt13875494"
   }
 ]

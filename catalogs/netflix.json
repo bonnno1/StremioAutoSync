@@ -5,14 +5,24 @@
     "imdb_id": "tt2085059"
   },
   {
+    "name": "Ozark",
+    "type": "series",
+    "imdb_id": "tt5071412"
+  },
+  {
     "name": "The Crown",
     "type": "series",
     "imdb_id": "tt4786824"
   },
   {
-    "name": "Ozark",
+    "name": "The Order",
     "type": "series",
-    "imdb_id": "tt5071412"
+    "imdb_id": "tt8295472"
+  },
+  {
+    "name": "MINDHUNTER",
+    "type": "series",
+    "imdb_id": "tt5290382"
   },
   {
     "name": "Raw",
@@ -25,11 +35,6 @@
     "imdb_id": "tt0401916"
   },
   {
-    "name": "MINDHUNTER",
-    "type": "series",
-    "imdb_id": "tt5290382"
-  },
-  {
     "name": "Good Mythical Morning",
     "type": "series",
     "imdb_id": "tt4087032"
@@ -40,14 +45,14 @@
     "imdb_id": "tt8014982"
   },
   {
-    "name": "Sesame Street",
-    "type": "series",
-    "imdb_id": "tt0063951"
-  },
-  {
     "name": "JoJo's Bizarre Adventure",
     "type": "series",
     "imdb_id": "tt2359704"
+  },
+  {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
   },
   {
     "name": "Orange Is the New Black",
@@ -58,11 +63,6 @@
     "name": "Stranger Things",
     "type": "series",
     "imdb_id": "tt4574334"
-  },
-  {
-    "name": "The Order",
-    "type": "series",
-    "imdb_id": "tt8295472"
   },
   {
     "name": "Lucifer",
@@ -80,23 +80,23 @@
     "imdb_id": "tt4859164"
   },
   {
-    "name": "LEGO Ninjago: Dragons Rising",
-    "type": "series",
-    "imdb_id": "tt27502465"
-  },
-  {
     "name": "Lupin",
     "type": "series",
     "imdb_id": "tt2531336"
   },
   {
-    "name": "The Blue Road",
-    "type": "series",
-    "imdb_id": "tt38336631"
-  },
-  {
     "name": "BoJack Horseman",
     "type": "series",
     "imdb_id": "tt3398228"
+  },
+  {
+    "name": "Arcane",
+    "type": "series",
+    "imdb_id": "tt11126994"
+  },
+  {
+    "name": "Arrested Development",
+    "type": "series",
+    "imdb_id": "tt0367279"
   }
 ]
