@@ -10,24 +10,29 @@
     "imdb_id": "tt0099785"
   },
   {
-    "name": "Toy Story 5",
-    "type": "movie",
-    "imdb_id": "tt29355505"
-  },
-  {
-    "name": "Coraline",
-    "type": "movie",
-    "imdb_id": "tt0327597"
-  },
-  {
     "name": "Hexed",
     "type": "movie",
     "imdb_id": "tt38077943"
   },
   {
+    "name": "Toy Story 5",
+    "type": "movie",
+    "imdb_id": "tt29355505"
+  },
+  {
+    "name": "La venganza del Charro Negro",
+    "type": "movie",
+    "imdb_id": "tt37959568"
+  },
+  {
     "name": "Forgotten Island",
     "type": "movie",
     "imdb_id": "tt36583977"
+  },
+  {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
   },
   {
     "name": "Coyote vs. Acme",
@@ -38,11 +43,6 @@
     "name": "Moana",
     "type": "movie",
     "imdb_id": "tt27419466"
-  },
-  {
-    "name": "La venganza del Charro Negro",
-    "type": "movie",
-    "imdb_id": "tt37959568"
   },
   {
     "name": "Minions & Monsters",
@@ -60,19 +60,9 @@
     "imdb_id": "tt2380307"
   },
   {
-    "name": "The Cat in the Hat",
-    "type": "movie",
-    "imdb_id": "tt2321555"
-  },
-  {
     "name": "Home Alone 2: Lost in New York",
     "type": "movie",
     "imdb_id": "tt0104431"
-  },
-  {
-    "name": "The Super Mario Galaxy Movie",
-    "type": "movie",
-    "imdb_id": "tt28650488"
   },
   {
     "name": "How the Grinch Stole Christmas",
@@ -80,23 +70,33 @@
     "imdb_id": "tt0170016"
   },
   {
+    "name": "The Super Mario Galaxy Movie",
+    "type": "movie",
+    "imdb_id": "tt28650488"
+  },
+  {
+    "name": "The Cat in the Hat",
+    "type": "movie",
+    "imdb_id": "tt2321555"
+  },
+  {
     "name": "Zootopia 2",
     "type": "movie",
     "imdb_id": "tt26443597"
   },
   {
-    "name": "Snoopy Presents: 12 Days of Snoopy",
-    "type": "movie",
-    "imdb_id": "tt47791876"
-  },
-  {
-    "name": "Tad and The Magic Lamp",
-    "type": "movie",
-    "imdb_id": "tt36164852"
-  },
-  {
     "name": "Toy Story",
     "type": "movie",
     "imdb_id": "tt0114709"
+  },
+  {
+    "name": "The Lion King",
+    "type": "movie",
+    "imdb_id": "tt0110357"
+  },
+  {
+    "name": "Snoopy Presents: 12 Days of Snoopy",
+    "type": "movie",
+    "imdb_id": "tt47791876"
   }
 ]

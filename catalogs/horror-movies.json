@@ -15,14 +15,14 @@
     "imdb_id": "tt37522541"
   },
   {
-    "name": "Beware Boiúna",
-    "type": "movie",
-    "imdb_id": "tt10377864"
-  },
-  {
     "name": "Hansel & Gretel's Halloween",
     "type": "movie",
     "imdb_id": "tt41927454"
+  },
+  {
+    "name": "Beware Boiúna",
+    "type": "movie",
+    "imdb_id": "tt10377864"
   },
   {
     "name": "A Story of Derry",
@@ -45,6 +45,11 @@
     "imdb_id": "tt34384661"
   },
   {
+    "name": "Obsession",
+    "type": "movie",
+    "imdb_id": "tt37287335"
+  },
+  {
     "name": "Buddy",
     "type": "movie",
     "imdb_id": "tt37281055"
@@ -53,11 +58,6 @@
     "name": "Great White Waters",
     "type": "movie",
     "imdb_id": "tt37025253"
-  },
-  {
-    "name": "Obsession",
-    "type": "movie",
-    "imdb_id": "tt37287335"
   },
   {
     "name": "Colony",
@@ -70,9 +70,9 @@
     "imdb_id": "tt32393988"
   },
   {
-    "name": "Coraline",
+    "name": "La venganza del Charro Negro",
     "type": "movie",
-    "imdb_id": "tt0327597"
+    "imdb_id": "tt37959568"
   },
   {
     "name": "Godzilla Minus One",
@@ -80,23 +80,23 @@
     "imdb_id": "tt23289160"
   },
   {
+    "name": "Coraline",
+    "type": "movie",
+    "imdb_id": "tt0327597"
+  },
+  {
+    "name": "Conjuring: The Beyond",
+    "type": "movie",
+    "imdb_id": "tt20204164"
+  },
+  {
     "name": "The Baby in the Basket",
     "type": "movie",
     "imdb_id": "tt26594761"
   },
   {
-    "name": "The Anacondas",
+    "name": "Backrooms",
     "type": "movie",
-    "imdb_id": "tt38043316"
-  },
-  {
-    "name": "Clayface",
-    "type": "movie",
-    "imdb_id": "tt34890576"
-  },
-  {
-    "name": "La venganza del Charro Negro",
-    "type": "movie",
-    "imdb_id": "tt37959568"
+    "imdb_id": "tt26657236"
   }
 ]

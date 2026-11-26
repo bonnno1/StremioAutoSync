@@ -40,6 +40,11 @@
     "imdb_id": "tt4087032"
   },
   {
+    "name": "Sesame Street",
+    "type": "series",
+    "imdb_id": "tt0063951"
+  },
+  {
     "name": "The Body",
     "type": "series",
     "imdb_id": "tt8014982"
@@ -50,19 +55,14 @@
     "imdb_id": "tt2359704"
   },
   {
-    "name": "Sesame Street",
+    "name": "Stranger Things",
     "type": "series",
-    "imdb_id": "tt0063951"
+    "imdb_id": "tt4574334"
   },
   {
     "name": "Orange Is the New Black",
     "type": "series",
     "imdb_id": "tt2372162"
-  },
-  {
-    "name": "Stranger Things",
-    "type": "series",
-    "imdb_id": "tt4574334"
   },
   {
     "name": "Lucifer",
@@ -80,6 +80,11 @@
     "imdb_id": "tt4859164"
   },
   {
+    "name": "Arrested Development",
+    "type": "series",
+    "imdb_id": "tt0367279"
+  },
+  {
     "name": "Lupin",
     "type": "series",
     "imdb_id": "tt2531336"
@@ -90,13 +95,8 @@
     "imdb_id": "tt3398228"
   },
   {
-    "name": "Arcane",
+    "name": "Squid Game",
     "type": "series",
-    "imdb_id": "tt11126994"
-  },
-  {
-    "name": "Arrested Development",
-    "type": "series",
-    "imdb_id": "tt0367279"
+    "imdb_id": "tt10919420"
   }
 ]

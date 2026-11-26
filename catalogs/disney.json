@@ -10,14 +10,14 @@
     "imdb_id": "tt12324366"
   },
   {
-    "name": "VisionQuest",
-    "type": "series",
-    "imdb_id": "tt23112594"
-  },
-  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
+  },
+  {
+    "name": "VisionQuest",
+    "type": "series",
+    "imdb_id": "tt23112594"
   },
   {
     "name": "Star Wars: The Clone Wars",
@@ -45,14 +45,9 @@
     "imdb_id": "tt18923754"
   },
   {
-    "name": "Andor",
+    "name": "WandaVision",
     "type": "series",
-    "imdb_id": "tt9253284"
-  },
-  {
-    "name": "Star Wars: Visions",
-    "type": "series",
-    "imdb_id": "tt13622982"
+    "imdb_id": "tt9140560"
   },
   {
     "name": "What If...?",
@@ -60,14 +55,19 @@
     "imdb_id": "tt10168312"
   },
   {
-    "name": "WandaVision",
+    "name": "Star Wars: Visions",
     "type": "series",
-    "imdb_id": "tt9140560"
+    "imdb_id": "tt13622982"
   },
   {
-    "name": "X-Men '97",
+    "name": "Andor",
     "type": "series",
-    "imdb_id": "tt16026746"
+    "imdb_id": "tt9253284"
+  },
+  {
+    "name": "Moon Knight",
+    "type": "series",
+    "imdb_id": "tt10234724"
   },
   {
     "name": "Star Wars: The Bad Batch",
@@ -75,9 +75,9 @@
     "imdb_id": "tt12708542"
   },
   {
-    "name": "Moon Knight",
+    "name": "X-Men '97",
     "type": "series",
-    "imdb_id": "tt10234724"
+    "imdb_id": "tt16026746"
   },
   {
     "name": "The Falcon and the Winter Soldier",
@@ -90,8 +90,8 @@
     "imdb_id": "tt10160804"
   },
   {
-    "name": "Agatha All Along",
+    "name": "Monsters at Work",
     "type": "series",
-    "imdb_id": "tt15571732"
+    "imdb_id": "tt8610082"
   }
 ]
