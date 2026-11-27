@@ -20,14 +20,14 @@
     "imdb_id": "tt0306365"
   },
   {
-    "name": "Jeopardy!",
-    "type": "series",
-    "imdb_id": "tt0159881"
-  },
-  {
     "name": "Teen Titans Go!",
     "type": "series",
     "imdb_id": "tt2771780"
+  },
+  {
+    "name": "Jeopardy!",
+    "type": "series",
+    "imdb_id": "tt0159881"
   },
   {
     "name": "Sítio do Picapau Amarelo",
@@ -40,19 +40,9 @@
     "imdb_id": "tt22007716"
   },
   {
-    "name": "The Chosen",
-    "type": "series",
-    "imdb_id": "tt5622316"
-  },
-  {
     "name": "Doraemon",
     "type": "series",
     "imdb_id": "tt0069576"
-  },
-  {
-    "name": "Among Friends",
-    "type": "series",
-    "imdb_id": "tt0175383"
   },
   {
     "name": "Scènes de ménages",
@@ -60,9 +50,14 @@
     "imdb_id": "tt1533783"
   },
   {
-    "name": "Percy Jackson and the Olympians",
+    "name": "The Chosen",
     "type": "series",
-    "imdb_id": "tt12324366"
+    "imdb_id": "tt5622316"
+  },
+  {
+    "name": "Among Friends",
+    "type": "series",
+    "imdb_id": "tt0175383"
   },
   {
     "name": "Frasier",
@@ -75,18 +70,23 @@
     "imdb_id": "tt0042168"
   },
   {
+    "name": "Percy Jackson and the Olympians",
+    "type": "series",
+    "imdb_id": "tt12324366"
+  },
+  {
     "name": "Dancing with the Stars",
     "type": "series",
     "imdb_id": "tt0463398"
   },
   {
-    "name": "Rugrats",
-    "type": "series",
-    "imdb_id": "tt0101188"
-  },
-  {
     "name": "Ninjago: Masters of Spinjitzu",
     "type": "series",
     "imdb_id": "tt1871731"
+  },
+  {
+    "name": "TV Animal Farm",
+    "type": "series",
+    "imdb_id": "tt25605188"
   }
 ]

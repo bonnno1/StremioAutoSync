@@ -1,23 +1,23 @@
 [
   {
-    "name": "The Lord of the Rings: The Rings of Power",
-    "type": "series",
-    "imdb_id": "tt7631058"
-  },
-  {
     "name": "The Summer I Turned Pretty",
     "type": "series",
     "imdb_id": "tt14016500"
   },
   {
-    "name": "Reacher",
+    "name": "The Lord of the Rings: The Rings of Power",
     "type": "series",
-    "imdb_id": "tt9288030"
+    "imdb_id": "tt7631058"
   },
   {
     "name": "Blade Runner 2099",
     "type": "series",
     "imdb_id": "tt18224594"
+  },
+  {
+    "name": "Reacher",
+    "type": "series",
+    "imdb_id": "tt9288030"
   },
   {
     "name": "The Chosen",
@@ -45,14 +45,14 @@
     "imdb_id": "tt6741278"
   },
   {
-    "name": "Campus Drivers",
-    "type": "series",
-    "imdb_id": "tt39943756"
-  },
-  {
     "name": "Bosch",
     "type": "series",
     "imdb_id": "tt3502248"
+  },
+  {
+    "name": "Campus Drivers",
+    "type": "series",
+    "imdb_id": "tt39943756"
   },
   {
     "name": "The Expanse",
@@ -70,9 +70,9 @@
     "imdb_id": "tt12637874"
   },
   {
-    "name": "Hazbin Hotel",
+    "name": "The Legend of Vox Machina",
     "type": "series",
-    "imdb_id": "tt7216636"
+    "imdb_id": "tt11247158"
   },
   {
     "name": "Off Campus",
@@ -80,13 +80,13 @@
     "imdb_id": "tt33546863"
   },
   {
-    "name": "The Legend of Vox Machina",
-    "type": "series",
-    "imdb_id": "tt11247158"
-  },
-  {
     "name": "The Man in the High Castle",
     "type": "series",
     "imdb_id": "tt1740299"
+  },
+  {
+    "name": "The Marvelous Mrs. Maisel",
+    "type": "series",
+    "imdb_id": "tt5788792"
   }
 ]

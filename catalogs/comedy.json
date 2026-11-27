@@ -1,18 +1,13 @@
 [
   {
-    "name": "Eureka",
-    "type": "series",
-    "imdb_id": "tt0796264"
-  },
-  {
     "name": "New Girl",
     "type": "series",
     "imdb_id": "tt1826940"
   },
   {
-    "name": "Succession",
+    "name": "Eureka",
     "type": "series",
-    "imdb_id": "tt7660850"
+    "imdb_id": "tt0796264"
   },
   {
     "name": "Two and a Half Men",
@@ -20,14 +15,19 @@
     "imdb_id": "tt0369179"
   },
   {
-    "name": "Family Guy",
+    "name": "Succession",
     "type": "series",
-    "imdb_id": "tt0182576"
+    "imdb_id": "tt7660850"
   },
   {
-    "name": "Phineas and Ferb",
+    "name": "The Rookie",
     "type": "series",
-    "imdb_id": "tt0852863"
+    "imdb_id": "tt7587890"
+  },
+  {
+    "name": "Friends",
+    "type": "series",
+    "imdb_id": "tt0108778"
   },
   {
     "name": "Community",
@@ -35,9 +35,9 @@
     "imdb_id": "tt1439629"
   },
   {
-    "name": "What We Do in the Shadows",
+    "name": "Phineas and Ferb",
     "type": "series",
-    "imdb_id": "tt7908628"
+    "imdb_id": "tt0852863"
   },
   {
     "name": "How I Met Your Mother",
@@ -50,14 +50,9 @@
     "imdb_id": "tt0098904"
   },
   {
-    "name": "Friends",
+    "name": "Family Guy",
     "type": "series",
-    "imdb_id": "tt0108778"
-  },
-  {
-    "name": "The Rookie",
-    "type": "series",
-    "imdb_id": "tt7587890"
+    "imdb_id": "tt0182576"
   },
   {
     "name": "Modern Family",
@@ -70,19 +65,14 @@
     "imdb_id": "tt0386676"
   },
   {
+    "name": "What We Do in the Shadows",
+    "type": "series",
+    "imdb_id": "tt7908628"
+  },
+  {
     "name": "The Simpsons",
     "type": "series",
     "imdb_id": "tt0096697"
-  },
-  {
-    "name": "Tacoma FD",
-    "type": "series",
-    "imdb_id": "tt8026448"
-  },
-  {
-    "name": "The IT Crowd",
-    "type": "series",
-    "imdb_id": "tt0487831"
   },
   {
     "name": "Watch What Happens Live with Andy Cohen",
@@ -90,13 +80,23 @@
     "imdb_id": "tt2057880"
   },
   {
+    "name": "The IT Crowd",
+    "type": "series",
+    "imdb_id": "tt0487831"
+  },
+  {
+    "name": "The Bear",
+    "type": "series",
+    "imdb_id": "tt14452776"
+  },
+  {
+    "name": "Tacoma FD",
+    "type": "series",
+    "imdb_id": "tt8026448"
+  },
+  {
     "name": "The Tonight Show Starring Jimmy Fallon",
     "type": "series",
     "imdb_id": "tt3444938"
-  },
-  {
-    "name": "Running Man",
-    "type": "series",
-    "imdb_id": "tt2185037"
   }
 ]
